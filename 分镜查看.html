@@ -116,8 +116,15 @@
   }
   .card .thumb {
     width: 100%;
-    aspect-ratio: 1 / 1;
-    background: #f3f4f6 center/cover no-repeat;
+    background: #f3f4f6;
+    display: block;
+    overflow: hidden;
+  }
+  .card .thumb img {
+    display: block;
+    width: 100%;
+    height: auto;
+    object-fit: contain;
   }
   .card .meta {
     padding: 8px 10px;
@@ -249,8 +256,20 @@
   }
   .ref-item .ri-thumb {
     width: 100%;
-    aspect-ratio: 1 / 1;
-    background: #f3f4f6 center/cover no-repeat;
+    height: 130px;
+    background: #f3f4f6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+  .ref-item .ri-thumb img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    display: block;
   }
   .ref-item .ri-meta { padding: 5px 7px; font-size: 11px; }
   .ref-item .ri-name {
@@ -453,8 +472,11 @@
         if (flatList[i].kind === kind && flatList[i].item === it) { flatIndex = i; break; }
       }
       var name = kind === "storyboard" ? ("分镜 " + it.id) : (it.name || it.id);
+      var imgTag = it.image_url
+        ? '<img src="' + escapeHtml(it.image_url) + '" alt="" loading="lazy" />'
+        : '';
       cards += '<div class="card" data-flat-index="' + flatIndex + '">' +
-        '<div class="thumb" style="background-image:url(\'' + escapeHtml(it.image_url || "") + '\')"></div>' +
+        '<div class="thumb">' + imgTag + '</div>' +
         '<div class="meta">' +
         '<div class="title">' + escapeHtml(name) + '</div>' +
         '<div class="id">' + escapeHtml(it.id) + '</div>' +
@@ -553,14 +575,14 @@
         '</div>';
     }
     return '<div class="ref-item" data-ref-kind="' + kind + '" data-ref-id="' + escapeHtml(id) + '" title="点击查看详情">' +
-      '<div class="ri-thumb" style="background-image:url(\'' + escapeHtml(obj.image_url || "") + '\')"></div>' +
+      '<div class="ri-thumb">' + (obj.image_url ? '<img src="' + escapeHtml(obj.image_url) + '" alt="" loading="lazy" />' : '') + '</div>' +
       '<div class="ri-meta"><div class="ri-name">' + escapeHtml(obj.name || "") + '</div><div class="ri-id">' + escapeHtml(obj.id) + '</div></div>' +
       '</div>';
   }
 
   function renderRefImage(url, i) {
     return '<div class="ref-item" data-ref-kind="image" data-lb-src="' + escapeHtml(url) + '" data-lb-info="图片引用 #' + (i + 1) + '" title="点击放大">' +
-      '<div class="ri-thumb" style="background-image:url(\'' + escapeHtml(url) + '\')"></div>' +
+      '<div class="ri-thumb"><img src="' + escapeHtml(url) + '" alt="" loading="lazy" /></div>' +
       '<div class="ri-meta"><div class="ri-name">图片 #' + (i + 1) + '</div><div class="ri-id">点击放大</div></div>' +
       '</div>';
   }
