@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>分镜资产查看器</title>
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; height: 100%; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+      "Microsoft YaHei", sans-serif;
+    background: #f4f6fa;
+    color: #1f2937;
+  }
+
+  header {
+    padding: 16px 24px;
+    background: #fff;
+    border-bottom: 1px solid #e5e7eb;
+    position: sticky;
+    top: 0;
+    z-index: 50;
+  }
+  header h1 {
+    margin: 0 0 12px 0;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .input-row {
+    display: flex;
+    gap: 8px;
+    align-items: stretch;
+  }
+  textarea {
+    flex: 1;
+    min-height: 80px;
+    max-height: 220px;
+    resize: vertical;
+    padding: 8px 10px;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 12px;
+    background: #fafafa;
+  }
+  .btn-group { display: flex; flex-direction: column; gap: 6px; }
+  button {
+    cursor: pointer;
+    padding: 8px 16px;
+    border-radius: 6px;
+    border: 1px solid #d1d5db;
+    background: #fff;
+    font-size: 13px;
+    transition: all 0.15s;
+    white-space: nowrap;
+  }
+  button:hover { background: #f3f4f6; }
+  button.primary {
+    background: #2563eb;
+    color: #fff;
+    border-color: #2563eb;
+  }
+  button.primary:hover { background: #1d4ed8; }
+
+  main { padding: 24px; }
+  .empty {
+    text-align: center;
+    color: #9ca3af;
+    padding: 80px 0;
+    font-size: 14px;
+  }
+
+  section { margin-bottom: 32px; }
+  section h2 {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 0 12px 0;
+    padding-left: 10px;
+    border-left: 3px solid #2563eb;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  section h2 .count {
+    font-size: 12px;
+    font-weight: 400;
+    color: #6b7280;
+    padding: 2px 8px;
+    background: #eef2ff;
+    border-radius: 10px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 18px;
+  }
+  .card {
+    background: #fff;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    overflow: hidden;
+    cursor: pointer;
+    transition: all 0.18s;
+    position: relative;
+  }
+  .card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(37, 99, 235, 0.15);
+    border-color: #2563eb;
+  }
+  .card.active {
+    border-color: #2563eb;
+    box-shadow: 0 0 0 2px rgba(37, 99, 235, 0.3);
+  }
+  .card .thumb {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    background: #f3f4f6 center/cover no-repeat;
+  }
+  .card .meta {
+    padding: 8px 10px;
+  }
+  .card .title {
+    font-size: 13px;
+    font-weight: 600;
+    color: #111827;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .card .id {
+    font-size: 11px;
+    color: #6b7280;
+    margin-top: 2px;
+    font-family: ui-monospace, monospace;
+  }
+
+  .drawer-mask {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.35);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s;
+    z-index: 100;
+  }
+  .drawer-mask.open { opacity: 1; pointer-events: auto; }
+  .drawer {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 720px;
+    max-width: 92vw;
+    background: #fff;
+    box-shadow: -8px 0 32px rgba(0, 0, 0, 0.12);
+    transform: translateX(100%);
+    transition: transform 0.25s ease;
+    z-index: 101;
+    display: flex;
+    flex-direction: column;
+  }
+  .drawer.open { transform: translateX(0); }
+  .drawer-header {
+    padding: 16px 20px;
+    border-bottom: 1px solid #e5e7eb;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .drawer-header .nav { display: flex; gap: 4px; }
+  .drawer-header .nav button { padding: 4px 10px; font-size: 14px; }
+  .drawer-header .title-area { flex: 1; min-width: 0; }
+  .drawer-header .title-area .t {
+    font-size: 15px;
+    font-weight: 600;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .drawer-header .title-area .s {
+    font-size: 12px;
+    color: #6b7280;
+    margin-top: 2px;
+  }
+  .drawer-header .close-btn {
+    border: none;
+    font-size: 22px;
+    line-height: 1;
+    padding: 4px 10px;
+    background: transparent;
+  }
+  .drawer-body {
+    flex: 1;
+    overflow-y: auto;
+    padding: 16px 20px 32px 20px;
+  }
+  .field { margin-bottom: 18px; }
+  .field-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #6b7280;
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
+  .field-value {
+    font-size: 13px;
+    line-height: 1.65;
+    color: #1f2937;
+    word-break: break-word;
+  }
+  .field-value.mono { font-family: ui-monospace, monospace; font-size: 12px; }
+  .field-value.prompt {
+    background: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 6px;
+    padding: 10px 12px;
+    white-space: pre-wrap;
+    max-height: 280px;
+    overflow-y: auto;
+  }
+  .main-image {
+    width: 100%;
+    border-radius: 8px;
+    border: 1px solid #e5e7eb;
+    cursor: zoom-in;
+    background: #f3f4f6;
+    display: block;
+  }
+  .ref-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 10px;
+  }
+  .ref-item {
+    cursor: pointer;
+    background: #fff;
+    border: 1px solid #e5e7eb;
+    border-radius: 6px;
+    overflow: hidden;
+    transition: all 0.15s;
+  }
+  .ref-item:hover {
+    border-color: #2563eb;
+    transform: translateY(-1px);
+  }
+  .ref-item .ri-thumb {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    background: #f3f4f6 center/cover no-repeat;
+  }
+  .ref-item .ri-meta { padding: 5px 7px; font-size: 11px; }
+  .ref-item .ri-name {
+    font-weight: 600;
+    color: #111827;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .ref-item .ri-id {
+    color: #6b7280;
+    font-family: ui-monospace, monospace;
+    font-size: 10px;
+  }
+  .ref-item.broken .ri-thumb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ef4444;
+    font-size: 10px;
+  }
+
+  .lightbox {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.85);
+    z-index: 200;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+  }
+  .lightbox.open { display: flex; }
+  .lightbox img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
+  }
+  .lightbox .lb-close {
+    position: absolute;
+    top: 16px;
+    right: 20px;
+    color: #fff;
+    background: rgba(255, 255, 255, 0.1);
+    border: none;
+    font-size: 24px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  .lightbox .lb-close:hover { background: rgba(255, 255, 255, 0.2); }
+  .lightbox .lb-info {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #fff;
+    font-size: 13px;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 6px 14px;
+    border-radius: 14px;
+  }
+
+  .hint { font-size: 11px; color: #9ca3af; margin-top: 6px; }
+
+  ::-webkit-scrollbar { width: 8px; height: 8px; }
+  ::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 4px; }
+  ::-webkit-scrollbar-thumb:hover { background: #9ca3af; }
+</style>
+</head>
+<body>
+
+<!-- EMBEDDED_DATA: 另存为 HTML 时，当前 JSON 会被写入这里，便于分享后保留数据 -->
+<script id="embedded-data" type="application/json">null</script>
+
+<header>
+  <h1>分镜资产查看器</h1>
+  <div class="input-row">
+    <textarea id="json-input" placeholder="将 result.json 内容粘贴在此处..."></textarea>
+    <div class="btn-group">
+      <button class="primary" id="btn-generate">生成</button>
+      <button id="btn-save">另存为 HTML</button>
+      <button id="btn-load-sample">加载 result.json</button>
+      <button id="btn-clear">清空</button>
+    </div>
+  </div>
+  <div class="hint">提示：抽屉打开时按 ← / → 切换上一张 / 下一张（角色 → 场景 → 分镜 顺序遍历），Esc 关闭。点击图片可放大。另存的 HTML 会把当前 JSON 嵌入其中，打开后无需再粘贴。</div>
+</header>
+
+<main id="main">
+  <div class="empty">点击右上角【加载 result.json】或粘贴 JSON 后点击【生成】</div>
+</main>
+
+<div class="drawer-mask" id="drawer-mask"></div>
+<aside class="drawer" id="drawer">
+  <div class="drawer-header">
+    <div class="nav">
+      <button id="prev-btn" title="上一张 (←)">&lsaquo;</button>
+      <button id="next-btn" title="下一张 (→)">&rsaquo;</button>
+    </div>
+    <div class="title-area">
+      <div class="t" id="drawer-title">—</div>
+      <div class="s" id="drawer-subtitle">—</div>
+    </div>
+    <button class="close-btn" id="drawer-close" title="关闭 (Esc)">&times;</button>
+  </div>
+  <div class="drawer-body" id="drawer-body"></div>
+</aside>
+
+<div class="lightbox" id="lightbox">
+  <button class="lb-close" id="lb-close">&times;</button>
+  <img id="lb-img" alt="" />
+  <div class="lb-info" id="lb-info"></div>
+</div>
+
+<script>
+(function () {
+  var data = null;
+  var flatList = [];
+  var charMap = {};
+  var sceneMap = {};
+  var currentIndex = -1;
+  var lightboxOpen = false;
+
+  function $(id) { return document.getElementById(id); }
+  var main = $("main");
+  var jsonInput = $("json-input");
+  var drawer = $("drawer");
+  var drawerMask = $("drawer-mask");
+  var drawerBody = $("drawer-body");
+  var drawerTitle = $("drawer-title");
+  var drawerSubtitle = $("drawer-subtitle");
+  var lightbox = $("lightbox");
+  var lbImg = $("lb-img");
+  var lbInfo = $("lb-info");
+
+  function escapeHtml(s) {
+    if (s == null) return "";
+    return String(s)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#39;");
+  }
+
+  function buildIndex() {
+    charMap = {};
+    sceneMap = {};
+    flatList = [];
+    if (!data) return;
+    (data.character_assets || []).forEach(function (c) {
+      charMap[c.id] = c;
+      flatList.push({ kind: "character", item: c });
+    });
+    (data.scene_assets || []).forEach(function (s) {
+      sceneMap[s.id] = s;
+      flatList.push({ kind: "scene", item: s });
+    });
+    (data.storyboard_assets || []).forEach(function (b) {
+      flatList.push({ kind: "storyboard", item: b });
+    });
+  }
+
+  function kindLabel(kind) {
+    return ({ character: "角色", scene: "场景", storyboard: "分镜" })[kind] || kind;
+  }
+
+  function render() {
+    if (!data) {
+      main.innerHTML = '<div class="empty">点击右上角【加载 result.json】或粘贴 JSON 后点击【生成】</div>';
+      return;
+    }
+    var chars = data.character_assets || [];
+    var scenes = data.scene_assets || [];
+    var boards = data.storyboard_assets || [];
+
+    var html = "";
+    html += renderSection("角色 Characters", chars, "character");
+    html += renderSection("场景 Scenes", scenes, "scene");
+    html += renderSection("分镜 Storyboards", boards, "storyboard");
+    main.innerHTML = html;
+
+    main.querySelectorAll(".card").forEach(function (el) {
+      el.addEventListener("click", function () {
+        var idx = parseInt(el.dataset.flatIndex, 10);
+        openDrawer(idx);
+      });
+    });
+  }
+
+  function renderSection(title, list, kind) {
+    if (!list || list.length === 0) return "";
+    var cards = "";
+    list.forEach(function (it) {
+      var flatIndex = -1;
+      for (var i = 0; i < flatList.length; i++) {
+        if (flatList[i].kind === kind && flatList[i].item === it) { flatIndex = i; break; }
+      }
+      var name = kind === "storyboard" ? ("分镜 " + it.id) : (it.name || it.id);
+      cards += '<div class="card" data-flat-index="' + flatIndex + '">' +
+        '<div class="thumb" style="background-image:url(\'' + escapeHtml(it.image_url || "") + '\')"></div>' +
+        '<div class="meta">' +
+        '<div class="title">' + escapeHtml(name) + '</div>' +
+        '<div class="id">' + escapeHtml(it.id) + '</div>' +
+        '</div></div>';
+    });
+    return '<section><h2>' + title + ' <span class="count">' + list.length + '</span></h2>' +
+      '<div class="grid">' + cards + '</div></section>';
+  }
+
+  function openDrawer(index) {
+    if (index < 0 || index >= flatList.length) return;
+    currentIndex = index;
+    var node = flatList[index];
+    var it = node.item;
+    var kind = node.kind;
+
+    if (kind === "storyboard") {
+      drawerTitle.textContent = "分镜 " + it.id;
+    } else {
+      drawerTitle.textContent = it.name || it.id;
+    }
+    drawerSubtitle.textContent = kindLabel(kind) + " · " + it.id + " · " + (index + 1) + " / " + flatList.length;
+
+    var html = "";
+    if (it.image_url) {
+      html += '<div class="field">' +
+        '<div class="field-label">生成图 / Image</div>' +
+        '<img class="main-image" src="' + escapeHtml(it.image_url) + '" data-lb-src="' + escapeHtml(it.image_url) + '" data-lb-info="' + escapeHtml((it.name || it.id) + " - 主图") + '" alt="" />' +
+        '</div>';
+    }
+    html += '<div class="field"><div class="field-label">ID</div><div class="field-value mono">' + escapeHtml(it.id) + '</div></div>';
+    if (it.name) {
+      html += '<div class="field"><div class="field-label">名称 / Name</div><div class="field-value">' + escapeHtml(it.name) + '</div></div>';
+    }
+    if (it.prompt) {
+      html += '<div class="field"><div class="field-label">Prompt</div><div class="field-value prompt">' + escapeHtml(it.prompt) + '</div></div>';
+    }
+    if (it.content) {
+      html += '<div class="field"><div class="field-label">Content / 内容</div><div class="field-value prompt">' + escapeHtml(it.content) + '</div></div>';
+    }
+    if (Array.isArray(it.character_refs) && it.character_refs.length) {
+      html += '<div class="field"><div class="field-label">角色引用 / Character Refs (' + it.character_refs.length + ')</div>' +
+        '<div class="ref-grid">' + it.character_refs.map(function (cid) { return renderRefCharOrScene(cid, "character"); }).join("") + '</div></div>';
+    }
+    if (Array.isArray(it.scene_refs) && it.scene_refs.length) {
+      html += '<div class="field"><div class="field-label">场景引用 / Scene Refs (' + it.scene_refs.length + ')</div>' +
+        '<div class="ref-grid">' + it.scene_refs.map(function (sid) { return renderRefCharOrScene(sid, "scene"); }).join("") + '</div></div>';
+    }
+    if (Array.isArray(it.image_refs) && it.image_refs.length) {
+      html += '<div class="field"><div class="field-label">图片引用 / Image Refs (' + it.image_refs.length + ')</div>' +
+        '<div class="ref-grid">' + it.image_refs.map(function (url, i) { return renderRefImage(url, i); }).join("") + '</div></div>';
+    }
+
+    drawerBody.innerHTML = html;
+    drawerBody.scrollTop = 0;
+
+    drawerBody.querySelectorAll(".main-image").forEach(function (img) {
+      img.addEventListener("click", function () {
+        openLightbox(img.dataset.lbSrc, img.dataset.lbInfo);
+      });
+    });
+    drawerBody.querySelectorAll(".ref-item").forEach(function (el) {
+      el.addEventListener("click", function () {
+        var refKind = el.dataset.refKind;
+        if (refKind === "character" || refKind === "scene") {
+          var id = el.dataset.refId;
+          var idx = -1;
+          for (var i = 0; i < flatList.length; i++) {
+            if (flatList[i].kind === refKind && flatList[i].item.id === id) { idx = i; break; }
+          }
+          if (idx >= 0) openDrawer(idx);
+        } else if (refKind === "image") {
+          openLightbox(el.dataset.lbSrc, el.dataset.lbInfo);
+        }
+      });
+    });
+
+    main.querySelectorAll(".card").forEach(function (el) {
+      el.classList.toggle(
+        "active",
+        parseInt(el.dataset.flatIndex, 10) === currentIndex
+      );
+    });
+
+    drawer.classList.add("open");
+    drawerMask.classList.add("open");
+  }
+
+  function renderRefCharOrScene(id, kind) {
+    var map = kind === "character" ? charMap : sceneMap;
+    var obj = map[id];
+    if (!obj) {
+      return '<div class="ref-item broken" data-ref-kind="' + kind + '" data-ref-id="' + escapeHtml(id) + '">' +
+        '<div class="ri-thumb">未找到</div>' +
+        '<div class="ri-meta"><div class="ri-name">缺失</div><div class="ri-id">' + escapeHtml(id) + '</div></div>' +
+        '</div>';
+    }
+    return '<div class="ref-item" data-ref-kind="' + kind + '" data-ref-id="' + escapeHtml(id) + '" title="点击查看详情">' +
+      '<div class="ri-thumb" style="background-image:url(\'' + escapeHtml(obj.image_url || "") + '\')"></div>' +
+      '<div class="ri-meta"><div class="ri-name">' + escapeHtml(obj.name || "") + '</div><div class="ri-id">' + escapeHtml(obj.id) + '</div></div>' +
+      '</div>';
+  }
+
+  function renderRefImage(url, i) {
+    return '<div class="ref-item" data-ref-kind="image" data-lb-src="' + escapeHtml(url) + '" data-lb-info="图片引用 #' + (i + 1) + '" title="点击放大">' +
+      '<div class="ri-thumb" style="background-image:url(\'' + escapeHtml(url) + '\')"></div>' +
+      '<div class="ri-meta"><div class="ri-name">图片 #' + (i + 1) + '</div><div class="ri-id">点击放大</div></div>' +
+      '</div>';
+  }
+
+  function closeDrawer() {
+    drawer.classList.remove("open");
+    drawerMask.classList.remove("open");
+    currentIndex = -1;
+    main.querySelectorAll(".card.active").forEach(function (el) {
+      el.classList.remove("active");
+    });
+  }
+
+  function navigate(delta) {
+    if (currentIndex < 0 || flatList.length === 0) return;
+    var next = currentIndex + delta;
+    if (next < 0) next = flatList.length - 1;
+    if (next >= flatList.length) next = 0;
+    openDrawer(next);
+    var card = main.querySelector('.card[data-flat-index="' + next + '"]');
+    if (card) card.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  }
+
+  function openLightbox(src, info) {
+    lbImg.src = src;
+    lbInfo.textContent = info || "";
+    lightbox.classList.add("open");
+    lightboxOpen = true;
+  }
+  function closeLightbox() {
+    lightbox.classList.remove("open");
+    lbImg.src = "";
+    lightboxOpen = false;
+  }
+
+  // ============ 另存为 HTML ============
+  function saveAsHtml() {
+    if (!data) {
+      alert("当前没有可保存的 JSON 数据，请先点【生成】或【加载 result.json】。");
+      return;
+    }
+    // 把当前 JSON 写入嵌入容器
+    var jsonText = JSON.stringify(data, null, 2);
+    var embedEl = document.getElementById("embedded-data");
+    var oldEmbed = embedEl.textContent;
+    // 转义可能出现的闭合标签序列，避免在另存的 HTML 里把外层 script 提前关掉
+    // 注意：用 RegExp 构造而不是字面量，防止本源码中直接出现该字面量被 HTML 解析器截断
+    var closeScriptRe = new RegExp("<" + "/script", "gi");
+    embedEl.textContent = jsonText.replace(closeScriptRe, "<\\/script");
+
+    try {
+      var html = "<!DOCTYPE html>\n" + document.documentElement.outerHTML;
+      var blob = new Blob([html], { type: "text/html;charset=utf-8" });
+      var url = URL.createObjectURL(blob);
+      var a = document.createElement("a");
+      var ts = new Date().toISOString().replace(/[-:T]/g, "").slice(0, 14);
+      a.href = url;
+      a.download = "分镜查看_" + ts + ".html";
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      setTimeout(function () { URL.revokeObjectURL(url); }, 0);
+    } finally {
+      // 还原 DOM 中嵌入容器，避免影响当前页面后续保存
+      embedEl.textContent = oldEmbed;
+    }
+  }
+
+  $("btn-generate").addEventListener("click", function () {
+    var txt = jsonInput.value.trim();
+    if (!txt) { alert("请先粘贴 JSON 内容"); return; }
+    try {
+      data = JSON.parse(txt);
+      buildIndex();
+      render();
+    } catch (e) {
+      alert("JSON 解析失败: " + e.message);
+    }
+  });
+
+  $("btn-load-sample").addEventListener("click", function () {
+    fetch("result.json").then(function (r) {
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return r.text();
+    }).then(function (txt) {
+      jsonInput.value = txt;
+      data = JSON.parse(txt);
+      buildIndex();
+      render();
+    }).catch(function (e) {
+      alert("加载 result.json 失败: " + e.message + "\n直接打开 file:// 时浏览器会拦截 fetch，可改用粘贴方式，或用本地服务器打开。");
+    });
+  });
+
+  $("btn-clear").addEventListener("click", function () {
+    jsonInput.value = "";
+    data = null;
+    flatList = [];
+    closeDrawer();
+    render();
+  });
+
+  $("btn-save").addEventListener("click", saveAsHtml);
+
+  $("drawer-close").addEventListener("click", closeDrawer);
+  drawerMask.addEventListener("click", closeDrawer);
+  $("prev-btn").addEventListener("click", function () { navigate(-1); });
+  $("next-btn").addEventListener("click", function () { navigate(1); });
+
+  $("lb-close").addEventListener("click", closeLightbox);
+  lightbox.addEventListener("click", function (e) {
+    if (e.target === lightbox) closeLightbox();
+  });
+
+  document.addEventListener("keydown", function (e) {
+    var tag = (e.target && e.target.tagName) || "";
+    if (tag === "TEXTAREA" || tag === "INPUT") return;
+
+    if (lightboxOpen) {
+      if (e.key === "Escape") { closeLightbox(); e.preventDefault(); }
+      return;
+    }
+    if (drawer.classList.contains("open")) {
+      if (e.key === "ArrowLeft") { navigate(-1); e.preventDefault(); }
+      else if (e.key === "ArrowRight") { navigate(1); e.preventDefault(); }
+      else if (e.key === "Escape") { closeDrawer(); e.preventDefault(); }
+    }
+  });
+
+  // 启动加载顺序：
+  // 1) 优先读取嵌入容器（"另存为 HTML" 后的版本会带数据）
+  // 2) 否则尝试同目录下的 result.json（在 file:// 下可能失败，忽略即可）
+  (function bootstrap() {
+    try {
+      var embedEl = document.getElementById("embedded-data");
+      var raw = embedEl ? embedEl.textContent.trim() : "";
+      if (raw && raw !== "null") {
+        var parsed = JSON.parse(raw);
+        if (parsed && typeof parsed === "object") {
+          jsonInput.value = JSON.stringify(parsed, null, 2);
+          data = parsed;
+          buildIndex();
+          render();
+          return;
+        }
+      }
+    } catch (e) {
+      console.warn("嵌入数据解析失败：", e);
+    }
+
+    fetch("result.json").then(function (r) {
+      if (!r.ok) return null;
+      return r.text();
+    }).then(function (txt) {
+      if (!txt) return;
+      jsonInput.value = txt;
+      data = JSON.parse(txt);
+      buildIndex();
+      render();
+    }).catch(function () {});
+  })();
+})();
+</script>
+</body>
+</html>

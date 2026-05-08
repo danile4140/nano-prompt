@@ -1,0 +1,18 @@
+# 统一文本文件换行符为 LF，避免 Windows 上 CRLF 引起的二次损坏
+* text=auto eol=lf
+
+# Markdown / 文本 / JSON 强制 UTF-8 + LF
+*.md       text eol=lf working-tree-encoding=UTF-8
+*.txt      text eol=lf working-tree-encoding=UTF-8
+*.json     text eol=lf working-tree-encoding=UTF-8
+*.yml      text eol=lf working-tree-encoding=UTF-8
+*.yaml     text eol=lf working-tree-encoding=UTF-8
+
+# 二进制文件不做行尾转换
+*.png      binary
+*.jpg      binary
+*.jpeg     binary
+*.gif      binary
+*.webp     binary
+*.pdf      binary
+*.zip      binary
