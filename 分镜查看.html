@@ -91,6 +91,54 @@
     border-radius: 10px;
   }
 
+  .style-banner {
+    margin-bottom: 28px;
+    padding: 14px 18px;
+    background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+    border: 1px solid #fcd34d;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(252, 211, 77, 0.2);
+  }
+  .style-banner .sb-label {
+    font-size: 11px;
+    font-weight: 700;
+    color: #92400e;
+    letter-spacing: 0.6px;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  .style-banner .sb-value {
+    font-size: 14px;
+    line-height: 1.7;
+    color: #78350f;
+    font-weight: 500;
+    word-break: break-word;
+  }
+
+  .chapter-block { margin-bottom: 24px; }
+  .chapter-block:last-child { margin-bottom: 0; }
+  .chapter-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: #374151;
+    margin: 0 0 10px 0;
+    padding: 6px 12px;
+    background: #eef2ff;
+    border-left: 3px solid #6366f1;
+    border-radius: 0 6px 6px 0;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .chapter-title .chapter-count {
+    font-size: 11px;
+    font-weight: 400;
+    color: #6b7280;
+    padding: 1px 7px;
+    background: #fff;
+    border-radius: 8px;
+  }
+
   .grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -354,7 +402,6 @@
     <div class="btn-group">
       <button class="primary" id="btn-generate">生成</button>
       <button id="btn-save">另存为 HTML</button>
-      <button id="btn-load-sample">加载 result.json</button>
       <button id="btn-clear">清空</button>
     </div>
   </div>
@@ -362,7 +409,7 @@
 </header>
 
 <main id="main">
-  <div class="empty">点击右上角【加载 result.json】或粘贴 JSON 后点击【生成】</div>
+  <div class="empty">粘贴 JSON 后点击【生成】</div>
 </main>
 
 <div class="drawer-mask" id="drawer-mask"></div>
@@ -431,7 +478,29 @@
       sceneMap[s.id] = s;
       flatList.push({ kind: "scene", item: s });
     });
-    (data.storyboard_assets || []).forEach(function (b) {
+
+    // 分镜：若存在多章则按 章号升序、章内序号升序 排列；否则按 JSON 原始顺序
+    var boards = (data.storyboard_assets || []).slice();
+    var chapterSet = {};
+    var hasChapter = false;
+    boards.forEach(function (b) {
+      var p = parseChapter(b.id);
+      if (p.chapter != null) { chapterSet[p.chapter] = true; hasChapter = true; }
+    });
+    var multiChapter = hasChapter && Object.keys(chapterSet).length >= 2;
+
+    if (multiChapter) {
+      // 排序：先按 chapter（无章节的排在最后），再按子序号
+      boards.sort(function (a, b) {
+        var pa = parseChapter(a.id), pb = parseChapter(b.id);
+        var ca = pa.chapter == null ? Infinity : pa.chapter;
+        var cb = pb.chapter == null ? Infinity : pb.chapter;
+        if (ca !== cb) return ca - cb;
+        return (pa.index || 0) - (pb.index || 0);
+      });
+    }
+
+    boards.forEach(function (b) {
       flatList.push({ kind: "storyboard", item: b });
     });
   }
@@ -442,7 +511,7 @@
 
   function render() {
     if (!data) {
-      main.innerHTML = '<div class="empty">点击右上角【加载 result.json】或粘贴 JSON 后点击【生成】</div>';
+      main.innerHTML = '<div class="empty">粘贴 JSON 后点击【生成】</div>';
       return;
     }
     var chars = data.character_assets || [];
@@ -450,6 +519,12 @@
     var boards = data.storyboard_assets || [];
 
     var html = "";
+    if (data.style_setting) {
+      html += '<div class="style-banner">' +
+        '<div class="sb-label">Style Setting / 整体风格设定</div>' +
+        '<div class="sb-value">' + escapeHtml(data.style_setting) + '</div>' +
+        '</div>';
+    }
     html += renderSection("角色 Characters", chars, "character");
     html += renderSection("场景 Scenes", scenes, "scene");
     html += renderSection("分镜 Storyboards", boards, "storyboard");
@@ -463,25 +538,95 @@
     });
   }
 
+  // 解析分镜 ID 的章节号与子序号
+  // 形如 "B1-3" → { chapter: 1, index: 3 }
+  // 形如 "B1"   → { chapter: null, index: 1 }（老格式，不参与分章）
+  // 形如 其他   → { chapter: null, index: 0 }
+  function parseChapter(id) {
+    if (typeof id !== "string") return { chapter: null, index: 0 };
+    var m = id.match(/^B(\d+)-(\d+)$/i);
+    if (m) return { chapter: parseInt(m[1], 10), index: parseInt(m[2], 10) };
+    var m2 = id.match(/^B(\d+)$/i);
+    if (m2) return { chapter: null, index: parseInt(m2[1], 10) };
+    return { chapter: null, index: 0 };
+  }
+
+  function renderCard(it, kind) {
+    var flatIndex = -1;
+    for (var i = 0; i < flatList.length; i++) {
+      if (flatList[i].kind === kind && flatList[i].item === it) { flatIndex = i; break; }
+    }
+    var name = kind === "storyboard" ? ("分镜 " + it.id) : (it.name || it.id);
+    var imgTag = it.image_url
+      ? '<img src="' + escapeHtml(it.image_url) + '" alt="" loading="lazy" />'
+      : '';
+    return '<div class="card" data-flat-index="' + flatIndex + '">' +
+      '<div class="thumb">' + imgTag + '</div>' +
+      '<div class="meta">' +
+      '<div class="title">' + escapeHtml(name) + '</div>' +
+      '<div class="id">' + escapeHtml(it.id) + '</div>' +
+      '</div></div>';
+  }
+
   function renderSection(title, list, kind) {
     if (!list || list.length === 0) return "";
-    var cards = "";
-    list.forEach(function (it) {
-      var flatIndex = -1;
-      for (var i = 0; i < flatList.length; i++) {
-        if (flatList[i].kind === kind && flatList[i].item === it) { flatIndex = i; break; }
+
+    // 分镜：按章节分组（多于 1 个章节才分组）
+    if (kind === "storyboard") {
+      // 收集 chapter 集合
+      var chapterSet = {};
+      var hasChapter = false;
+      list.forEach(function (it) {
+        var p = parseChapter(it.id);
+        if (p.chapter != null) {
+          chapterSet[p.chapter] = true;
+          hasChapter = true;
+        }
+      });
+      var chapterKeys = Object.keys(chapterSet).map(Number).sort(function (a, b) { return a - b; });
+
+      if (hasChapter && chapterKeys.length >= 2) {
+        // 分组渲染
+        var groups = {};
+        var noChapter = []; // 不带章节号（如老格式 B1）的分镜放最末
+        list.forEach(function (it) {
+          var p = parseChapter(it.id);
+          if (p.chapter == null) {
+            noChapter.push(it);
+          } else {
+            (groups[p.chapter] = groups[p.chapter] || []).push(it);
+          }
+        });
+        // 每组按 index 升序
+        chapterKeys.forEach(function (ch) {
+          groups[ch].sort(function (a, b) {
+            return parseChapter(a.id).index - parseChapter(b.id).index;
+          });
+        });
+
+        var html = '<section><h2>' + title + ' <span class="count">' + list.length + '</span></h2>';
+        chapterKeys.forEach(function (ch) {
+          var arr = groups[ch];
+          var cards = arr.map(function (it) { return renderCard(it, kind); }).join("");
+          html += '<div class="chapter-block">' +
+            '<div class="chapter-title">第 ' + ch + ' 章 <span class="chapter-count">' + arr.length + ' 张</span></div>' +
+            '<div class="grid">' + cards + '</div>' +
+            '</div>';
+        });
+        if (noChapter.length) {
+          var ncCards = noChapter.map(function (it) { return renderCard(it, kind); }).join("");
+          html += '<div class="chapter-block">' +
+            '<div class="chapter-title">未分章 <span class="chapter-count">' + noChapter.length + ' 张</span></div>' +
+            '<div class="grid">' + ncCards + '</div>' +
+            '</div>';
+        }
+        html += '</section>';
+        return html;
       }
-      var name = kind === "storyboard" ? ("分镜 " + it.id) : (it.name || it.id);
-      var imgTag = it.image_url
-        ? '<img src="' + escapeHtml(it.image_url) + '" alt="" loading="lazy" />'
-        : '';
-      cards += '<div class="card" data-flat-index="' + flatIndex + '">' +
-        '<div class="thumb">' + imgTag + '</div>' +
-        '<div class="meta">' +
-        '<div class="title">' + escapeHtml(name) + '</div>' +
-        '<div class="id">' + escapeHtml(it.id) + '</div>' +
-        '</div></div>';
-    });
+    }
+
+    // 默认（角色 / 场景 / 单章分镜）
+    var cards = list.map(function (it) { return renderCard(it, kind); }).join("");
     return '<section><h2>' + title + ' <span class="count">' + list.length + '</span></h2>' +
       '<div class="grid">' + cards + '</div></section>';
   }
@@ -513,6 +658,9 @@
     }
     if (it.prompt) {
       html += '<div class="field"><div class="field-label">Prompt</div><div class="field-value prompt">' + escapeHtml(it.prompt) + '</div></div>';
+    }
+    if (it.mini_icon_prompt) {
+      html += '<div class="field"><div class="field-label">Mini Icon Prompt / 小图标提示词</div><div class="field-value prompt">' + escapeHtml(it.mini_icon_prompt) + '</div></div>';
     }
     if (it.content) {
       html += '<div class="field"><div class="field-label">Content / 内容</div><div class="field-value prompt">' + escapeHtml(it.content) + '</div></div>';
@@ -663,7 +811,12 @@
     }
   });
 
-  $("btn-load-sample").addEventListener("click", function () {
+  function on(id, event, handler) {
+    var el = $(id);
+    if (el) el.addEventListener(event, handler);
+  }
+
+  on("btn-load-sample", "click", function () {
     fetch("result.json").then(function (r) {
       if (!r.ok) throw new Error("HTTP " + r.status);
       return r.text();
@@ -677,7 +830,7 @@
     });
   });
 
-  $("btn-clear").addEventListener("click", function () {
+  on("btn-clear", "click", function () {
     jsonInput.value = "";
     data = null;
     flatList = [];
@@ -685,7 +838,7 @@
     render();
   });
 
-  $("btn-save").addEventListener("click", saveAsHtml);
+  on("btn-save", "click", saveAsHtml);
 
   $("drawer-close").addEventListener("click", closeDrawer);
   drawerMask.addEventListener("click", closeDrawer);
