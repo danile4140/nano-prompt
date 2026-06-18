@@ -8,7 +8,7 @@
 
 # 工作流架构上下文
 
-`coze_storyboard_workflow.optimized.md` 描述的是 Coze 平台上的多节点工作流，**每个节点独立运行，互相隔离**：
+工作流文件已拆分至 `workflow/` 目录，核心节点文件为 `workflow/5.3a_storyboard_planning.md` 和 `workflow/5.3b_prompt_generation.md`。描述的是 Coze 平台上的多节点工作流，**每个节点独立运行，互相隔离**：
 
 - **5.3a（分镜规划节点）** 和 **5.3b（prompt 生成节点）** 是两个独立的 Coze 节点，各自有独立的系统提示词和用户提示词。
 - 5.3a **不知道** 5.3b 的存在，5.3b **不知道** 5.3a 的存在。
@@ -21,11 +21,11 @@
 
 ---
 
-# 修改 coze_storyboard_workflow.optimized.md 的强制流程（硬性）
+# 修改 workflow/ 节点文件的强制流程（硬性）
 
 ## 触发条件
 
-只要本次任务涉及对 `coze_storyboard_workflow.optimized.md` 的**任何 Edit / Write 调用**（无论改一个字还是改一整节），强制流程立即生效。
+只要本次任务涉及对 `workflow/` 目录下任意文件的**任何 Edit / Write 调用**（包括 `5.3a_storyboard_planning.md`、`5.3b_prompt_generation.md`、`principles.md`、`5.1_characters.md`、`5.2_scenes.md` 等），强制流程立即生效。
 
 ## 反向触发：禁止直接动手
 
