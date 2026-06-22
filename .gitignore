@@ -76,4 +76,4 @@ secrets/
 
 draft/
 *.json
-input.txt
+*.txt
