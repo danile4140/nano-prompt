@@ -1,0 +1,37 @@
+B8-5 | character_refs: ["C16", "C2"] | scene_refs: ["S3"] | 预估格数: ?
+- It was Tuesday and in St Petersburg everyone was worried.
+  译：那是星期二，圣彼得堡的每个人都非常担心。
+- Where were Tom and Becky?
+  译：汤姆和贝基在哪里？
+- Many people from the village went to the cave and looked for them.
+  译：村里许多人去了山洞寻找他们。
+- But they could not find them.
+  译：但他们找不到。
+- Mrs Thatcher became very ill and Aunt Polly's hair became white.
+  译：萨切尔太太病倒了，波莉姨妈的头发变白了。
+
+B8-6 | character_refs: [] | scene_refs: ["S3"] | 预估格数: ?
+- Then on Tuesday night there was a lot of noise in the streets of St Petersburg.
+  译：那天星期二夜里，圣彼得堡的街道上传来一片喧嚣。
+- "They're here! Becky and Tom are here!" cried the people happily.
+  译："他们回来了！贝基和汤姆回来了！"人们高兴地叫喊着。
+
+B8-7 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- No one went to sleep that night.
+  译：那天夜里没有人入睡。
+- Everyone listened to Tom's story about his adventure in the cave.
+  译：每个人都在听汤姆讲他在山洞里的冒险故事。
+
+B8-8 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- "We were lost for a long time.
+  译："我们迷路了很久。
+- We were hungry and scared.
+  译：我们又饿又怕。
+- Then I remembered the string in my pocket.
+  译：后来我想起口袋里有一根绳子。
+- I used the long string to help me.
+  译：我用那根长绳子帮助自己。
+- I went down many tunnels.
+  译：我走过了许多条隧道。
+- And I always returned to Becky because I followed the string.
+  译：而且每次我都能顺着绳子回到贝基身边。

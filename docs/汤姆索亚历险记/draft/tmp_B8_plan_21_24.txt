@@ -1,0 +1,29 @@
+B8-21 | character_refs: ["C1", "C6"] | scene_refs: ["S9"] | 预估格数: ?
+- They took a small boat and went down the Mississippi River to McDougal's Cave.
+  译：他们弄来一条小船，沿着密西西比河划向麦克杜格尔山洞。
+
+B8-22 | character_refs: ["C1", "C6"] | scene_refs: ["S14"] | 预估格数: ?
+- "Look, Huck, here's the other entrance," said Tom.
+  译："看，哈克，这就是另一个入口，"汤姆说。
+- "It's very small," said Huck.
+  译："真的很小，"哈克说。
+
+B8-23 | character_refs: ["C1", "C6"] | scene_refs: ["S15"] | 预估格数: ?
+- Tom and Huck went into the cave.
+  译：汤姆和哈克进入了山洞。
+- They were careful and used the long string to help them.
+  译：他们很小心，用那根长绳子引路。
+
+B8-24 | character_refs: ["C1", "C6"] | scene_refs: ["S15"] | 预估格数: ?
+- Tom suddenly stopped and said, "I saw Injun Joe here."
+  译：汤姆突然停下来说："我就是在这里看见印第安乔的。"
+- "His ghost is probably here too," said Huck, "Let's go now!"
+  译："他的鬼魂可能也在这里，"哈克说，"我们快走吧！"
+- "His ghost isn't here.
+  译："他的鬼魂不在这里。
+- It's probably at the other entrance."
+  译：可能在另一个入口那边。"
+- "Well, alright.
+  译："好吧，行。
+- But let's hurry," said Huck.
+  译：但我们快点，"哈克说。

@@ -1,0 +1,27 @@
+B8-29 | character_refs: ["C1", "C6"] | scene_refs: ["S15"] | 预估格数: ?
+- They followed the long string and were soon out of the cave.
+  译：他们顺着长绳子，很快就出了山洞。
+
+B8-30 | character_refs: ["C1", "C6"] | scene_refs: ["S3"] | 预估格数: ?
+- The two boys took their treasure to Aunt Polly's house.
+  译：两个男孩带着宝藏去了波莉姨妈家。
+- A lot of people in St Petersburg saw the boys and the treasure.
+  译：圣彼得堡许多人看见了这两个男孩和宝藏。
+- They followed them to Aunt Polly's house.
+  译：他们跟着男孩们来到了波莉姨妈家。
+
+B8-31 | character_refs: ["C1", "C2"] | scene_refs: ["S18"] | 预估格数: ?
+- Aunt Polly was surprised to see the boys and all the people.
+  译：波莉姨妈看见男孩们和这么多人，大吃一惊。
+- "Tom, what's in that old box?" she asked.
+  译："汤姆，那个旧箱子里装的是什么？"她问道。
+
+B8-32 | character_refs: ["C1", "C6", "C2"] | scene_refs: ["S18"] | 预估格数: ?
+- Tom opened the treasure box.
+  译：汤姆打开了宝箱。
+- Everyone was amazed.
+  译：所有人都惊呆了。
+- They looked at all the silver and gold coins.
+  译：他们看着那些金币和银币。
+- There was $12,000!
+  译：足足有一万两千美元！

@@ -1,0 +1,27 @@
+B8-13 | character_refs: ["C15"] | scene_refs: ["S17"] | 预估格数: ?
+- "Well, nobody is going into the cave again.
+  译："哦，没有人可以再进山洞了。
+- There are big doors in front of the entrance now.
+  译：入口前现在装了大铁门。
+- And I have the keys," said Mr Thatcher.
+  译：钥匙在我手里，"萨切尔先生说。
+
+B8-14 | character_refs: ["C1", "C15"] | scene_refs: ["S17"] | 预估格数: ?
+- "What!" Tom's face became white.
+  译："什么！"汤姆的脸变白了。
+- "Is something wrong, Tom?" asked Mr Thatcher.
+  译："汤姆，出什么事了？"萨切尔先生问。
+- "Injun Joe's in the cave!" cried Tom.
+  译："印第安乔在山洞里！"汤姆叫喊道。
+
+B8-15 | character_refs: ["C10"] | scene_refs: ["S14"] | 预估格数: ?
+- Many men from St Petersburg went to the cave and opened the big doors.
+  译：圣彼得堡许多人赶去山洞，打开了大铁门。
+- They found Injun Joe on the ground.
+  译：他们发现印第安乔倒在地上。
+- He was dead.
+  译：他死了。
+
+B8-16 | character_refs: ["C1", "C6"] | scene_refs: ["S3"] | 预估格数: ?
+- After Injun Joe's funeral Tom went to see Huck.
+  译：印第安乔的葬礼结束后，汤姆去找了哈克。

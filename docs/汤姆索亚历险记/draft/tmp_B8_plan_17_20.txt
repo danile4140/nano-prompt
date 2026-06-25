@@ -1,0 +1,33 @@
+B8-17 | character_refs: ["C1", "C6"] | scene_refs: ["S3"] | 预估格数: ?
+- "Now that Injun Joe's dead, we'll never find the money," said Huck sadly.
+  译："现在印第安乔死了，我们再也找不到那些钱了，"哈克悲伤地说。
+- "Listen, Huck," said Tom, "I know where the money is!"
+  译："听我说，哈克，"汤姆说，"我知道钱在哪里！"
+
+B8-18 | character_refs: ["C1", "C6"] | scene_refs: ["S3"] | 预估格数: ?
+- "Really?" asked Huck with big eyes.
+  译："真的？"哈克瞪大了眼睛问道。
+- "The money is in the cave!
+  译："钱在山洞里！
+- I saw Injun Joe in the cave.
+  译：我在山洞里看见了印第安乔。
+- Why was he in the cave?
+  译：他为什么在山洞里？
+- Because he took the money there," said Tom.
+  译：因为他把钱藏到那里去了，"汤姆说。
+
+B8-19 | character_refs: ["C1", "C6"] | scene_refs: ["S3"] | 预估格数: ?
+- "Say it again, Tom," said Huck.
+  译："再说一遍，汤姆，"哈克说。
+- "The money's in the cave and we can take it."
+  译："钱在山洞里，我们可以去取。"
+- "But we'll get lost in the cave," said Huck.
+  译："但我们会在山洞里迷路的，"哈克说。
+
+B8-20 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- "No, we won't.
+  译："不会的。
+- I've got candles and a long string.
+  译：我有蜡烛和一根长绳子。
+- Let's go and get a boat!" said Tom.
+  译：走，我们去弄条船！"汤姆说。
