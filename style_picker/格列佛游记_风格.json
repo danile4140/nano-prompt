@@ -1,0 +1,30 @@
+{
+  "project": "格列佛游记",
+  "test_scene_base": "一个正常身材的男人躺在热带沙滩上，身体被无数细绳牢牢绑住，数百个只有拇指大小的小人在他的身上和周围忙碌穿行，背景是明亮的海滩与蓝天",
+  "styles": [
+    {
+      "id": "A",
+      "name": "吉卜力手绘动画风",
+      "description": "吉卜力工作室手绘动画的细腻质感，背景如油画般写实精美，角色造型亲切温柔；色彩饱满自然，海风与沙滩光影都有灵动气息。大小人物的尺寸反差在这种风格下既奇异又充满童话温度，仿佛《天空之城》里会出现的异想世界。",
+      "test_scene_prompt": "A normal-sized man lies on a tropical beach tied down by hundreds of tiny ropes, while hundreds of thumb-sized people busily walk and climb all over him, bright beach and blue sky background — Studio Ghibli-style hand-drawn animation quality, lush painterly background with natural soft light, warm gentle character design, rich saturated nature colors, graceful fluid linework, magical yet grounded atmosphere, detailed hand-crafted scene texture, Miyazaki aesthetic wonder and warmth"
+    },
+    {
+      "id": "B",
+      "name": "英式幽默速写插画风（Quentin Blake风格）",
+      "description": "Quentin Blake（《查理和巧克力工厂》插画师）式的英国幽默速写风格，线条随意颤动充满活力，角色造型夸张搞笑；用色大胆简洁，寥寥数笔就让整个场景充满喜剧感。最适合呈现格列佛故事的荒诞幽默内核，连小人们慌张逃跑的滑稽姿态都跃然纸上。",
+      "test_scene_prompt": "A normal-sized man lies on a tropical beach tied down by hundreds of tiny ropes, while hundreds of thumb-sized people busily walk and climb all over him, bright beach and blue sky background — Quentin Blake-style British humorous sketch illustration, loose wiggly expressive pen lines, bold simple splashes of watercolor, exaggerated comedic character poses and facial expressions, energetic scribble-like vitality, witty and playful visual storytelling, cheerful chaotic scene energy"
+    },
+    {
+      "id": "C",
+      "name": "Aardman粘土定格动画风",
+      "description": "Aardman工作室（《小鸡快跑》《超级无敌掌门狗》）的手工粘土定格动画质感，角色有明显的指捏痕迹与粘土表面纹理；表情通过大嘴巴和夸张眼睛传达幽默感。这种风格赋予故事强烈的手工温度，大格列佛和小人们的粘土质感对比视觉效果极为有趣。",
+      "test_scene_prompt": "A normal-sized man lies on a tropical beach tied down by hundreds of tiny ropes, while hundreds of thumb-sized people busily walk and climb all over him, bright beach and blue sky background — Aardman Animations claymation stop-motion aesthetic, visible clay texture and finger-sculpted surface detail, exaggerated toothy grin expressions, chunky tactile character forms, warm handcrafted material quality, cheerful physical comedy energy, Plasticine color palette, Wallace and Gromit visual humor"
+    },
+    {
+      "id": "D",
+      "name": "1930s复古橡皮管卡通风",
+      "description": "1930年代弗莱舍兄弟（Betty Boop/大力水手）的复古橡皮管卡通风格，角色四肢柔软弯曲如橡皮管，眼睛是大圆饼干型，动作充满弹力感；黑白为底加上有限几色的明亮点缀，带复古爵士乐时代的轻快节奏，荒诞故事配上这种风格有独特的喜剧魅力。",
+      "test_scene_prompt": "A normal-sized man lies on a tropical beach tied down by hundreds of tiny ropes, while hundreds of thumb-sized people busily walk and climb all over him, bright beach and blue sky background — 1930s Fleischer Brothers rubber hose cartoon style, elastic bendy limbs, large pie-cut eyes, bouncy squash-and-stretch animation energy, cream and black line art with bright limited color accents, vintage jazz-age cartoon aesthetic, whimsical slapstick comedy mood, retro animated short film quality"
+    }
+  ]
+}

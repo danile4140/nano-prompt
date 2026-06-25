@@ -1,0 +1,51 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B6-7",
+      "character_refs": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "scene_refs": [
+        "S14",
+        "S1"
+      ],
+      "covered_sentences": [
+        "'But the school's closed now!' Dana commented.",
+        "'No, not today. Mrs. Ching is at school all evening, because she's preparing some math tests. I know because I heard her talking to Miss Smith.'",
+        "'OK. Well, I'll see you tomorrow then. I have to go home and start my homework,' Paul said. 'Me too,' Dana added. We left the 'Rainbow' and I went towards Jefferson High."
+      ],
+      "layout": "构图与镜头：横排三格序列；左格：达娜（C2）提醒学校关门（担忧格）；中格：珍妮（C1）解释程老师在学校（宣告格）；右格：三人各自离开+珍妮独自走向学校（行动分开格）。左格镜头：珍妮右肩后，过肩视角，看向达娜担忧说话的近中景；中格镜头：达娜右肩后，过肩视角，看向珍妮解释的近中景；右格镜头：冰淇淋店门口，斜侧45°平视，看向三人分开+珍妮独自走向夜晚街道的路径动线中景。比例锚点：左中格：坐于圆桌，头部约占格子高度1/3；右格：珍妮（C1）站立走向街道，头顶约至行道树1/4处，夜晚街道路灯照明。动作与关系：左格：达娜（C2）表情担忧，头旁对白气泡（Closed!+叉号，D1：学校图标，D2：closed，D3：叉号）；中格：珍妮（C1）确信地说，头旁对白气泡（Mrs. Ching!+感叹号，D1：程老师mini_icon——黑色整齐短发亚裔女教师，方框眼镜，深色衣领，D2：evening，D3：感叹号）；右格：保罗（C5）和达娜（C2）向右走（回家方向），珍妮（C1）向左走（学校方向），三人挥手告别；珍妮独走的路径动线感，夜晚街道路灯可见。场景：左中格冰淇淋店Rainbow（S14）内；右格店门口+夜晚住宅区街道（S1）；夜晚，路灯照明，冷蓝夜色。【环境状态】右格物理场景：住宅区街道（S1），当前环境：夜晚，视觉覆盖：路灯橙黄光，夜色蓝黑，整体偏暗，原因：it was already dark。光影与色彩：左中格店内暖白；右格夜晚街道冷蓝+路灯橙黄斑块。主体与角色：逐格角色预算：左格1人（达娜C2），中格1人（珍妮C1），右格3人（珍妮C1+保罗C5+达娜C2）；三人在右格告别，珍妮独走。"
+    },
+    {
+      "id": "B6-8",
+      "character_refs": [
+        "C1"
+      ],
+      "scene_refs": [
+        "S10"
+      ],
+      "covered_sentences": [
+        "The back door was open. I went in. Our gym is on the ground floor, but I didn't go there directly.",
+        "Something stopped me. I felt a strange sensation. I didn't know what it was. Something wanted me to climb the stairs and go up to the classrooms."
+      ],
+      "layout": "构图与镜头：左右二分构图，1:1等比（左格从后门进入暗学校，右格珍妮被神秘感驱使走向楼梯）；左格镜头位于后门外侧，斜侧45°低机位，看向珍妮推开后门走入黑暗走廊的中景，后门门框前景；右格镜头位于走廊底部，斜侧30°仰角，看向珍妮在暗走廊中向楼梯方向走去的动线中景，楼梯口在画面深处。比例锚点：左格：珍妮（C1）走入后门，头顶低于门框约20厘米，走廊黑暗；右格：珍妮（C1）走向楼梯，头顶约至走廊荧光灯管高度1/2，走廊深处楼梯扶手可见。动作与关系：左格：珍妮（C1）推开后门，侧脸谨慎，走廊黑暗，手推门板（肢体交互：手推门板木质面），头旁B级符号：浅蓝色水滴（不安感）；左格无气泡（动作为主）；右格：珍妮（C1）在黑暗走廊中，被某种神秘力量牵引走向楼梯，姿态略有迟疑但前行；头顶思维气泡（云状外框，内画楼梯轮廓+问号，承载被驱使去楼梯的奇异感）；路径动线：走廊延伸至楼梯口。场景：学校走廊（S10），夜晚；走廊长而暗，荧光灯管不亮（从窗户月光/路灯间接照明），储物柜一侧隐约可见，楼梯在走廊尽头。【环境状态】物理场景：学校走廊（S10），当前环境：夜晚，视觉覆盖：走廊黑暗，仅月光或路灯从窗户斜射照亮，冷蓝灰调，无荧光灯，原因：school was dark and silent。光影与色彩：夜晚冷蓝灰调，极暗；走廊仅有细长月光从窗格斜射；整体悬疑氛围，色调偏冷蓝。【风格调整】触发原因：夜晚暗学校神秘力量叙事，调整方向：冷蓝灰调，光线极弱，仅窗格月光，氛围词叠加：走廊阴影拉长，静谧恐怖，调整范围：本镜及B6-9~B6-10（探查阶段）。主体与角色：逐格角色预算：各格1人（珍妮C1）；其他无角色。"
+    },
+    {
+      "id": "B6-9",
+      "character_refs": [
+        "C1"
+      ],
+      "scene_refs": [
+        "S10"
+      ],
+      "covered_sentences": [
+        "I felt afraid. The school was dark and silent. I shivered.",
+        "'Where am I going? Why am I climbing these stairs?' I thought.",
+        "My heart beat faster and faster. Something terrible was at the top of the stairs — I sensed it — but what? I desperately wanted to run away and return home, but I couldn't. The mysterious force inside me made me go on."
+      ],
+      "layout": "构图与镜头：单格构图，弱势/危险/被困类镜头策略；镜头位于楼梯上方，俯角30°，看向珍妮（C1）孤身在黑暗楼梯间缓步上行的全身中景，楼梯混凝土踏步+金属扶手可见，走廊黑暗延伸至后方；珍妮占画面约1/2，楼梯空间感强调孤独感；前景可见楼梯踏步边缘。比例锚点：珍妮（C1）站于楼梯，身高约为楼梯踏步高度的8-10倍（每级约15厘米，12级高约180厘米），扶手约至珍妮腰部；楼梯转弯平台在画面深处。动作与关系：珍妮（C1）一手扶金属扶手，身体略前倾上行，表情从害怕到挣扎前行，回头角度和视线的犹豫感；头顶思维气泡（云状大气泡，内含两行：①楼梯图标+问号（为什么上楼？）②恐惧图标/红色感叹号（某种可怕的东西在上面），承载内心矛盾的思维流）；全格头旁B级符号：浅蓝色水滴（持续恐惧）+抖动线（shivered颤抖）。场景：学校走廊楼梯间（S10），夜晚；混凝土踏步、金属扶手、转弯平台；走廊黑暗，月光从转弯处窗格斜射在楼梯踏步上。光影与色彩：延续夜晚冷蓝灰调，楼梯间比走廊更暗；仅月光斑点照亮踏步；珍妮轮廓在极弱光中隐约可辨。主体与角色：逐格角色预算：单格可辨识1人（珍妮C1）；珍妮孤身一人，无其他角色。【情绪标记】强度：强，类型：恐惧，推荐视觉手段：俯角孤立压迫+浅蓝色水滴+抖动线+楼梯阴影拉长+极暗冷蓝调。"
+    }
+  ]
+}

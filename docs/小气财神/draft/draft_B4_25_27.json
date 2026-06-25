@@ -1,0 +1,48 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B4-25",
+      "character_refs": [
+        "C1",
+        "C8"
+      ],
+      "scene_refs": [],
+      "covered_sentences": [
+        "Very short. It ends tonight at midnight. It is eleven forty-five. I have not got much time. Look — look down here!",
+        "The Spirit opened its coat and Scrooge saw two children on the ground, a boy and a girl."
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例1:2（左格辅格：幽灵宣告快结束；右格主格：幽灵展开外袍，揭示地上两个孩子）。左格：镜头位于圣诞现在之灵正前方，中近景，平视，看向圣诞现在之灵面部，面露郑重宣告；右格：镜头位于低机位，仰角，看向圣诞现在之灵展开外袍向下，揭示地上两个孩子（衣物破旧）。条件B（触发-转折）：幽灵宣告快结束（触发）→命令往下看+揭示孩子（转折），两格必拆合法。比例锚点：左格圣诞现在之灵面部约占画面高度65%，头发灰白；右格圣诞现在之灵下半身在画面上方，外袍展开，地上两个孩子（男孩女孩）约在成人膝盖高度，颤抖瘦弱，圣诞现在之灵头顶超出画面顶部（低机位仰角）。\n\n动作与关系：左格：圣诞现在之灵（引用C8）面露郑重，头发灰白，头顶对白气泡内容抽取midnight（D级物品图标：时钟指向12点+沙漏，承载快要结束语义）；右格：圣诞现在之灵（引用C8）展开外袍向下，地上两个不可辨识孩子（男孩女孩，破衣烂衫，颤抖，用简笔轮廓）蜷缩；斯克鲁奇（引用C1）在右格边缘向下俯视，面露震惊，附B级符号：橙红色感叹号。\n\n场景：背景消散，旅行途中，夜间，圣诞现在之灵生命将尽时刻。\n\n光影与色彩：左格冷灰调，幽灵老化；右格低机位仰角，深蓝黑背景，孩子用冷光打亮。\n\n主体与角色：逐格角色预算：左格可辨识1人——圣诞现在之灵（引用C8）；右格可辨识1人——圣诞现在之灵（引用C8）下半身，两个孩子为不可辨识简笔轮廓，斯克鲁奇（引用C1）在右侧边缘离画。"
+    },
+    {
+      "id": "B4-26",
+      "character_refs": [
+        "C1",
+        "C8"
+      ],
+      "scene_refs": [],
+      "covered_sentences": [
+        "They were very thin.",
+        "Their clothes were old and poor, and they were trembling with cold.",
+        "They looked very hungry.",
+        "Their eyes were sad.",
+        "They looked older than children and they were ugly, like monsters. Scrooge was shocked."
+      ],
+      "layout": "构图与镜头：单格构图，比例压迫组织（两个可怜孩子的外貌特写，承载极度悲悯）。镜头位于孩子正面，中近景，略仰角，聚焦两个可怜孩子的面部和全身（衣物破旧，极度消瘦，颤抖）；圣诞现在之灵（引用C8）巨大的脚和外袍下摆在画面上方（比例压迫）；斯克鲁奇（引用C1）在画面右侧边缘，震惊神情。比例锚点：两个孩子身高约在成人腰部，衣物破旧极度消瘦；圣诞现在之灵外袍下摆在画面上方约占高度30%，对两个孩子形成比例压迫；斯克鲁奇在右侧边缘约占画面高度40%；近景保留参照：圣诞现在之灵外袍下摆边缘。\n\n动作与关系：两个不可辨识孩子（简笔轮廓，男孩女孩，衣物破旧，骨瘦如柴，颤抖）蜷缩在圣诞现在之灵外袍之下；附B级符号：深灰色小乌云+多个浅蓝色水滴，承载极度悲惨；斯克鲁奇（引用C1）在右侧边缘，面露震惊，附B级符号：橙红色感叹号。已扫描4对相邻句，四维度均无切换（同一视觉焦点：两个可怜孩子），无需豁免声明。\n\n场景：夜间露天，极暗冷蓝黑，孤立的悲惨孩子。\n\n光影与色彩：极暗深蓝黑，冷蓝光打在孩子身上，高对比，极度悲悯。\n\n主体与角色：逐格角色预算：主画面可辨识0人（两个孩子为不可辨识简笔轮廓，不计入character_refs）；圣诞现在之灵（引用C8）外袍下摆在上方；斯克鲁奇（引用C1）在右侧边缘。"
+    },
+    {
+      "id": "B4-27",
+      "character_refs": [
+        "C1",
+        "C8"
+      ],
+      "scene_refs": [],
+      "covered_sentences": [
+        "Are they yours? he asked. No. They are Man. They belong to humanity. Have not they got a house or a family? Are not there a lot of prisons? the Spirit replied. And are not there any workhouses? Oh, no — no! Those are my words! Scrooge cried.",
+        "The church clock struck twelve.",
+        "He looked around for the Ghost but it was not there.",
+        "Then he remembered old Jacob Marley words: The third Spirit will come at twelve midnight."
+      ],
+      "layout": "构图与镜头：横排三格构图，等宽三格承载章节收束序列。左格：斯克鲁奇震惊质问，被幽灵用自己的话还击；中格：教堂钟声敲响，幽灵消失；右格：斯克鲁奇回想马利的话。左格：镜头位于斯克鲁奇正前方，中近景，平视，看向斯克鲁奇震惊面部；中格：镜头位于卧室内，中景，看向幽灵消失后的空旷空间，钟声效果；右格：镜头位于斯克鲁奇正前方，中近景，看向斯克鲁奇面部，思维气泡在右上角。比例锚点：左格斯克鲁奇面部约占画面高度65%；中格空间中幽灵消失痕迹（仅光晕散去），斯克鲁奇约占画面高度40%；右格斯克鲁奇面部约占画面高度60%。\n\n动作与关系：左格：斯克鲁奇（引用C1）面露震惊，头顶对白气泡内容抽取No！No（红色叉号+橙红色感叹号，承载This are my words的惊呼）；圣诞现在之灵（引用C8）在左格边缘可见部分（幽灵还在，指向两个孩子方向，用关系图示：monitoring人+prisons建筑轮廓+workhouses建筑轮廓，承载幽灵用斯克鲁奇自己的话还击）；中格：拟声词大字DONG（教堂钟声），幽灵消失，仅剩金色光晕散去痕迹，斯克鲁奇四处张望，面露惊慌；右格：斯克鲁奇（引用C1）面露预感，思维气泡（原文明确写remembered）内画马利幽灵mini_icon头像（半透明灰蓝幽灵，灰白短发，下颌白色绷带，颈部铁链）+时钟指向12点，承载回想马利预言。\n\n场景：背景消散，章节收束，深夜。\n\n光影与色彩：左格极暗冷蓝；中格幽灵消失后骤暗；右格极暗深蓝黑。\n\n主体与角色：逐格角色预算：左格可辨识1人——斯克鲁奇（引用C1），圣诞现在之灵（引用C8）在边缘离画；中格可辨识1人——斯克鲁奇（引用C1），幽灵已消失；右格可辨识1人——斯克鲁奇（引用C1）。"
+    }
+  ]
+}

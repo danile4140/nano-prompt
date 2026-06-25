@@ -1,0 +1,55 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B4-7",
+      "character_refs": [
+        "C1",
+        "C8"
+      ],
+      "scene_refs": [
+        "S8"
+      ],
+      "covered_sentences": [
+        "Then a lot of poor people came along the street with their Christmas dinners of goose or chicken. They were taking them to the baker's shops to be cooked in the oven.",
+        "The spirit took Scrooge to one of these shops and touched some of the dinners with its torch.",
+        "'What are you doing?' Scrooge asked. 'I am making these dinners extra good so the people will be happier,' it replied, smiling."
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例1:2（左格辅格：穷人端着食物走向面包店；右格主格：圣诞现在之灵用火炬触碰食物+斯克鲁奇询问）。左格：镜头位于街道侧方，中景斜侧30度，看向不可辨识穷人群端着盘子走向面包店；右格：镜头位于面包店内外，中近景，斜侧30度，看向圣诞现在之灵（引用C8）用火炬触碰食物的道具特写，斯克鲁奇（引用C1）在旁。比例锚点：左格穷人群约占画面高度40%，街道建筑为参照；右格圣诞现在之灵高大，头顶接近门框顶部，斯克鲁奇头顶约在圣诞现在之灵腰部，门框约与圣诞现在之灵同高；食物约在斯克鲁奇腰部高度的桌面上。\n\n动作与关系：左格：不可辨识穷人群端着盛有鹅肉/鸡肉的盘子（不可辨识面部），走向面包店方向；附D级物品图标：鹅肉轮廓+烤炉轮廓，承载圣诞晚餐去面包店烤的语义；右格：圣诞现在之灵（引用C8）右手火炬轻触食物（道具特写），食物周围散发金色光晕，附A级氛围：AURA-BEAUTY-2（物体周身柔化金箔碎光点点，暖黄光晕轻笼）；斯克鲁奇（引用C1）询问，头顶对白气泡内容从covered_sentences抽取doing（深蓝色问号+火炬简笔画，承载What are you doing语义）；圣诞现在之灵头顶对白气泡内容从covered_sentences抽取happier（B级符号：粉红色爱心，承载让人们更快乐语义）。\n\n场景：城市街道（引用S8）+面包店门口，圣诞清晨，积雪，欢快。\n\n光影与色彩：冷白清晨阳光，右格食物金色光晕（AURA-BEAUTY-2），温暖对比。\n\n主体与角色：逐格角色预算：左格可辨识0人（穷人群不可辨识）；右格可辨识2人——圣诞现在之灵（引用C8）+斯克鲁奇（引用C1），门框高于斯克鲁奇，圣诞现在之灵头顶约与门框等高。"
+    },
+    {
+      "id": "B4-8",
+      "character_refs": [
+        "C1",
+        "C8"
+      ],
+      "scene_refs": [
+        "S9"
+      ],
+      "covered_sentences": [
+        "After a while Scrooge followed the Ghost to the suburbs of the city.",
+        "They went to the house of Bob Cratchit, his clerk.",
+        "The kind Ghost touched the house with its torch.",
+        "Then they went in."
+      ],
+      "layout": "构图与镜头：左右二分构图，比例1:1（左格：旅途过渡，走向郊区；右格：圣诞现在之灵触碰克拉奇特家）。左格：镜头位于街道侧方，中景，看向斯克鲁奇（引用C1）和圣诞现在之灵（引用C8）沿路走向郊区，S形路径延伸；右格：镜头位于克拉奇特家门口，中景，斜侧30度，看向圣诞现在之灵用火炬轻触房屋，斯克鲁奇在旁，门口即将进入。比例锚点：左格斯克鲁奇全身约占画面高度55%，圣诞现在之灵高大，头顶超过斯克鲁奇约一倍；右格克拉奇特家门口，门框高于斯克鲁奇，圣诞现在之灵用火炬触碰房屋，火炬约与门框等高，斯克鲁奇在一旁观看。\n\n动作与关系：左格：路径/S形动线，斯克鲁奇（引用C1）跟随圣诞现在之灵（引用C8）沿路走向郊区，远处可见排屋建筑；右格：圣诞现在之灵用火炬触碰克拉奇特家外墙，金色光晕轻触（AURA-BEAUTY-2效果），斯克鲁奇在旁注视；后景：克拉奇特家朴素的排屋门廊。\n\n场景：左格：城市街道（引用S8），圣诞清晨；右格：克拉奇特家门口（与引用S9相连的外部），圣诞清晨，朴素排屋。\n\n光影与色彩：整体圣诞清晨冷白光；右格火炬触碰时金色光晕效果。\n\n主体与角色：逐格角色预算：左格可辨识2人——斯克鲁奇（引用C1）+圣诞现在之灵（引用C8）；右格可辨识2人——斯克鲁奇（引用C1）+圣诞现在之灵（引用C8），圣诞现在之灵头顶约接近门框顶部，斯克鲁奇约与门框同高。"
+    },
+    {
+      "id": "B4-9",
+      "character_refs": [
+        "C14",
+        "C16",
+        "C17",
+        "C19"
+      ],
+      "scene_refs": [
+        "S9"
+      ],
+      "covered_sentences": [
+        "Mrs Cratchit and her daughter Belinda were preparing the table for Christmas dinner.",
+        "Young Peter Cratchit was helping them.",
+        "Suddenly two little Cratchits ran in and shouted that the goose was ready at the baker's."
+      ],
+      "layout": "构图与镜头：单格构图，建立空间组织（克拉奇特家厨房场景建立）。镜头位于厨房门口，中景斜45度，看向整个厨房场景：克拉奇特太太（引用C14）和贝琳达（引用C16）在布置餐桌，彼得（引用C17）在帮忙，两个小克拉奇特（引用C19）在跑进来大喊。前景：厨房门口边缘；中景：克拉奇特太太+贝琳达+彼得；后景：餐桌和灶台可见；两个小克拉奇特在画面右侧跑入。比例锚点：克拉奇特太太（引用C14）站立，头顶约与厨房碗柜上缘等高，贝琳达（引用C16）头顶约在克拉奇特太太肩部高度，彼得（引用C17）头顶约到克拉奇特太太肩部；两个小克拉奇特（引用C19）头顶约在克拉奇特太太腰部，餐桌高度约在克拉奇特太太腰部；门框高于所有人物。\n\n动作与关系：克拉奇特太太（引用C14）布置餐桌，两手整理桌布；贝琳达（引用C16）摆放碗盘；彼得（引用C17）从锅炉旁帮忙；两个小克拉奇特（引用C19）跑入，兴奋大喊，头顶对白气泡内容从covered_sentences抽取goose（D级物品图标：鹅肉轮廓+橙红色感叹号+baker's面包店简笔画，承载鹅肉烤好了的语义）；附B级符号：粉红色爱心+橙红色感叹号，承载欢快节日气氛。\n\n场景：克拉奇特家的厨房兼餐厅（引用S9），圣诞日，温暖忙碌，食物香气。\n\n光影与色彩：温暖室内光，炉灶为主要热源，节日气氛温馨。\n\n主体与角色：逐格角色预算：主画面可辨识4人——克拉奇特太太（引用C14）+贝琳达（引用C16）+彼得（引用C17）+两小克拉奇特（引用C19），门框高于所有人物。"
+    }
+  ]
+}

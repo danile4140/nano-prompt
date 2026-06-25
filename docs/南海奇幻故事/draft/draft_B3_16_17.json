@@ -1,0 +1,39 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B3-16",
+      "character_refs": [
+        "C2",
+        "C8"
+      ],
+      "scene_refs": [
+        "S7",
+        "S8"
+      ],
+      "covered_sentences": [
+        "Keola asked the people of the tribe a lot of questions and learned a lot of new things.",
+        "The island where he was living was called the Isle of Voices and it belonged to the tribe.",
+        "However, they lived on another island called the Green Island most of the year.",
+        "It was about three hours away by boat."
+      ],
+      "layout": "①构图与镜头：主画面+地图路线图构图，主格承载科欧拉与酋长对话，地图图示气泡承载「声音之岛→绿岛」地理关系。主格：镜头位于两人侧方，斜侧，中景，看向科欧拉和酋长对坐交谈；茅屋在背景。地图气泡位于右上方，约占画面1/4，内含：声音之岛和绿岛的简化地图，箭头标注「3小时船程」。比例锚点：主格：科欧拉（引用C2）和酋长（引用C8）对坐，两人头顶约与茅屋屋梁齐平；地图气泡为图示，无比例要求。②动作与关系：主格：科欧拉（引用C2）伸手指向，好奇发问姿态；酋长（引用C8）解释手势，神情平静讲述；对话气泡：科欧拉「这座岛叫什么？」，酋长「声音之岛，属于我们部落；大多数时间住在绿岛，三小时船程」。地图气泡：声音之岛（标注岛名语义）和绿岛（标注岛名语义），箭头+3小时图示。③场景：S7部落新茅屋，白天，热带阳光；茅屋内部或屋前对坐。④光影与色彩：白天暖光，整体信息沟通氛围平静。⑤主体与角色：逐格角色预算：主格可辨识2人，地图气泡为图示。科欧拉（引用C2）和酋长（引用C8）均可辨识入镜。"
+    },
+    {
+      "id": "B3-17",
+      "character_refs": [
+        "C2",
+        "C6"
+      ],
+      "scene_refs": [
+        "S8"
+      ],
+      "covered_sentences": [
+        "They had their homes, gardens, chickens and pigs on the Green Island.",
+        "They travelled to the Isle of Voices once a year when the fish around the Green Island became poisonous.",
+        "After Keola escaped from the ship, the captain and the mate sailed to the Green Island. The mate died there because he ate poisonous fish.",
+        "The people of the island told him that the fish was poisonous, but he was stupid and did not listen to them. This was good news for Keola because he was afraid of the mate and did not want to see him again."
+      ],
+      "layout": "①构图与镜头：左右二分1:1构图，左格为绿岛生活场景展示，右格为大副死讯的情绪反应。左格：镜头从S8绿岛村落斜侧，全景，展示村落生活：茅屋、菜园、鸡猪动物；无可辨识人物，用场景图示和不可辨识人影暗示。右格：镜头从科欧拉正面偏侧，中近景，看向科欧拉得知大副死讯后的复杂表情（震惊→松了口气）。比例锚点：左格：S8村落茅屋高约成人身高1.5倍，菜园梯田在后景；右格：科欧拉（引用C2）中近景，头部约占右格2/3高度。②动作与关系：左格：S8绿岛村落鸟瞰感图示——茅屋、菜园、鸡猪，每年鱼有毒时全村来声音之岛，用迁移路线箭头图示；整体图示感，无可辨识角色。右格：科欧拉（引用C2）表情从震惊到松了口气；大副（引用C6）的小型简笔头像+骷髅+鱼图标（「他吃了毒鱼死了」），科欧拉气泡语义为「对我是好消息——我再也不用见到他了」，配如释重负表情图标。③场景：左格S8绿岛村落，右格S7茅屋内（科欧拉听讯的当前场景）。④光影与色彩：左格白天热带暖光，村落生活感；右格室内柔和光，情绪转折感。⑤主体与角色：逐格角色预算：左格无可辨识角色（图示），右格可辨识1人。科欧拉（引用C2）右格可辨识；大副（引用C6）以简笔图示承载，非可辨识入镜。"
+    }
+  ]
+}

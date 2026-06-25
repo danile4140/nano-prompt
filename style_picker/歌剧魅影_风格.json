@@ -1,0 +1,30 @@
+{
+  "project": "歌剧魅影",
+  "test_scene_base": "19世纪巴黎歌剧院的华丽走廊中，一位身穿黑色斗篷持面具的年轻女子和一位身着白色礼服的年轻男子，正回望走廊尽头一个穿血红斗篷、戴骷髅面具的神秘高大人物，周围是豪华烛台和镀金廊柱",
+  "styles": [
+    {
+      "id": "A",
+      "name": "Arthur Rackham暗黑童话插画风",
+      "description": "亚瑟·拉克姆（《格林童话》《仲夏夜之梦》经典插画师）的暗黑童话风格，精细钢笔线描勾勒繁复的建筑装饰与衣褶纹样，深紫与午夜蓝的水彩渲染配合烛光金的局部高光，营造出神秘而美丽的氛围。这种风格本身属于儿童文学插画传统，但比普通绘本更有深度，与歌剧魅影的哥特浪漫气质高度契合。",
+      "test_scene_prompt": "In a grand 19th-century Paris opera house corridor, a young woman in black cape with mask and a young man in white dress suit look back at a tall figure in blood-red cloak with skull mask, surrounded by golden candelabras and gilded pillars — Arthur Rackham dark fairy tale illustration style, intricate detailed pen linework with sinuous expressive figures, deep purple and midnight blue watercolor washes with warm candlelight gold highlights, richly detailed Gothic architectural ornament, atmospheric mysterious mood, scratchy fine textures with vintage illustrated storybook quality"
+    },
+    {
+      "id": "B",
+      "name": "装饰艺术剧院海报风（Art Deco）",
+      "description": "1920-30年代装饰艺术（Art Deco）风格的歌剧院海报插画，强烈几何化构图，金与黑为骨架，血红与宝石深蓝为点缀；线条干净锐利，带那个时代特有的戏剧性视觉张力。与Art Nouveau截然不同——后者柔美流动，Art Deco硬朗有力，极具视觉冲击力，非常适合呈现歌剧魅影的戏剧张力。",
+      "test_scene_prompt": "In a grand 19th-century Paris opera house corridor, a young woman in black cape with mask and a young man in white dress suit look back at a tall figure in blood-red cloak with skull mask, surrounded by golden candelabras and gilded pillars — Art Deco theater poster illustration style, bold geometric composition with strong angular graphic lines, gold and black framework with deep ruby red and sapphire blue accents, streamlined stylized architectural details, theatrical dramatic staging, 1920s-30s French opera poster aesthetic, high-contrast striking visual impact, elegant modernist decorative grandeur"
+    },
+    {
+      "id": "C",
+      "name": "浪漫主义油画插画风",
+      "description": "19世纪浪漫主义绘画（布格罗、德拉克罗瓦）转化为插画的风格，烛光在黑暗中的明暗对比戏剧感极强，衣裙与斗篷有流动感；色彩以深金、暗红与神秘黑为主。这是最真实还原故事所在时代审美的风格，角色宛如走出真实的巴黎歌剧院画像，深沉而美丽。",
+      "test_scene_prompt": "In a grand 19th-century Paris opera house corridor, a young woman in black cape with mask and a young man in white dress suit look back at a tall figure in blood-red cloak with skull mask, surrounded by golden candelabras and gilded pillars — 19th century Romantic oil painting illustration style inspired by Bouguereau and Delacroix, dramatic candlelit chiaroscuro with deep shadow and warm golden light contrast, rich deep crimson and dark amber tones, flowing expressive garments and figures, warm painterly impasto brushwork, period-authentic Belle Epoque atmosphere, operatic grandeur and passion"
+    },
+    {
+      "id": "D",
+      "name": "哥特彩色玻璃窗风",
+      "description": "哥特教堂彩色玻璃窗的插画风格，玫瑰紫、教堂蓝、血红与琥珀金被黑色铅条清晰分割；人物造型带彩色玻璃的庄重程式感，光线仿佛从画面内部透出发光。这种风格视觉上极为独特，在28个风格槽里独一无二，与歌剧魅影的哥特氛围和歌剧院大型玫瑰窗意象完美呼应。",
+      "test_scene_prompt": "In a grand 19th-century Paris opera house corridor, a young woman in black cape with mask and a young man in white dress suit look back at a tall figure in blood-red cloak with skull mask, surrounded by golden candelabras and gilded pillars — Gothic cathedral stained glass window illustration style, deep jewel tones of rose purple and cathedral blue and blood red and amber gold separated by bold black leading lines, figures in stylized solemn stained glass manner, luminous inner-glow translucent light effect, dramatic Gothic rose window composition, richly saturated gemstone color quality"
+    }
+  ]
+}

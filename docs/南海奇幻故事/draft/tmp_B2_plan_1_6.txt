@@ -1,0 +1,63 @@
+**B2-1**（4 句）
+- 分组依据：同一节拍——当晚卡拉马克给科欧拉5美元、叮嘱忘记所见，科欧拉沉默接受但一直思考并变懒。时间跳跃（"That same night"）但属于上章事件的直接延伸，主题为"科欧拉收到封口钱+心理变化"，四句服务于同一节拍
+- 原文：
+  1. "That same night Kalamake put five dollars in Keola's hand."
+     译：就在那天夜里，卡拉马克把五美元放进科欧拉手中。
+  2. "'Keola,' he said, 'if you're a clever man, you'll forget what you saw this afternoon. It was only a dream. Remember, only a dream.'"
+     译："科欧拉，"他说，"如果你是个聪明人，就会忘掉你今天下午看到的。那只是一场梦。记住，只是一场梦。"
+  3. "Keola never said anything about this adventure, but he thought about it all the time and he became lazy."
+     译：科欧拉从未提及这段经历，但他一直在想，并变得越来越懒惰��
+  4. "'Why do I have to work when my father-in-law can make dollars from shells?' he thought."
+     译："我岳父能从贝壳里变出美元，我为什么还要工作？"他心想。
+
+**B2-2**（4 句）
+- 分组依据：同一节拍——科欧拉用5美元买了贵衣服却后悔想要手风琴，连续心理活动，同一情绪基调（后悔/贪心），无空间/时间跳变
+- 原文：
+  1. "He bought expensive clothes with the five dollars, but then he was sorry."
+     译：他用那五美元买了昂贵的衣服，但随后后悔了。
+  2. "'Why didn't I buy a concertina with that money?' he thought. 'I could play it all day long.'"
+     译："我为什么不用那钱买一把手风琴呢？"他心想，"我可以整天弹。"
+  3. "Keola was angry with Kalamake."
+     译：科欧拉对卡拉马克感到愤愤不平。
+  4. "'That man can take dollars from the beach and I don't have any money for a concertina,' he thought."
+     译："那个人能从海滩上拿美元，我却连买手风琴的钱都没有，"他心想。
+
+**B2-3**（4 句）
+- 分组依据：同一节拍——科欧拉向妻子莱华抱怨，莱华警告父亲危险。这是一个完整的"夫妻对话"节拍，共2回合（科欧拉诉说→莱华警告），情绪从抱怨转向警告，但在同一对话场景内，≤2回合可合并
+- 原文：
+  1. "That night he spoke to his wife Lehua and complained about Kalamake."
+     译：那天夜里他与妻子莱华谈话，抱怨起卡拉马克。
+  2. "He told her about their adventure on the beach."
+     译：他告诉了她在海滩上的那段经历。
+  3. "'My father's a dangerous man when he gets angry,' said Lehua. 'You know what happened to his enemies: they all died in a terrible way. You're a baby in my father's hands. Be careful, Keola.'"
+     译："我父亲发怒时是个危险的人，"莱华说，"你知道他的敌人都是什么下场：全都死得很惨。在我父亲手里你不过是个小孩。小心点，科欧拉。"
+  4. "Keola was afraid of Kalamake but his wife's words made him angry."
+     译：科欧拉虽然害怕卡拉马克，但妻子的话让他恼火。
+
+**B2-4**（2 句）
+- 分组依据：必拆充要条件B（触发-转折因果链）——科欧拉怒斥莱华"你错了"→转身去找卡拉马克，这是情绪从"被警告"到"愤而行动"的决定性转折，必须独立为新节拍（情绪反转：莱华警告→科欧拉冲动出走）
+- 原文：
+  1. "'You're wrong, Lehua!' he shouted and went to Kalamake."
+     译："你错了，莱华！"他大喊，然后去找卡拉马克。
+  2. "'Kalamake,' he said, 'I want a concertina.'"
+     译："卡拉马克，"他说，"我要一把手风琴。"
+
+**B2-5**（4 句）
+- 分组依据：同一节拍——卡拉马克回应（"Really?" / "Yes"对话），随后卡拉马克赞美科欧拉并提出让他做助手+许诺手风琴。这是一个≤2回合对话+赞美/许诺节拍，情绪基调为卡拉马克的捧杀策略，连贯一致
+- 原文：
+  1. "'Really?' said Kalamake."
+     译："真的？"卡拉马克说。
+  2. "'Yes,' said Keola. 'You take dollars from the beach, so you certainly have money for a concertina.'"
+     译："是的，"科欧拉说，"你从海滩上拿美元，所以肯定有钱买手风琴。"
+  3. "'You're a brave man, Keola,' said Kalamake. 'I thought you were lazy and useless, but you're not. I'm very happy about this. Perhaps you can be my assistant in this difficult business. You'll have the best concertina in Hawaii.'"
+     译："你是个勇敢的人，科欧拉，"卡拉马克说，"我以为你懒惰无用，看来不是。我很高兴。也许你可以成为我这桩难事的助手。你将得到夏威夷最好的手风琴。"
+  4. "'And tonight you and will go and find money.'"
+     译："今晚我们就去找钱。"
+
+**B2-6**（2 句）
+- 分组依据：必拆充要条件B——科欧拉问"去海滩吗？"→卡拉马克回答"不，这次不同"。这是一个提问-拒绝（期待→意外转折）的因果链，必须独立；同时也是新话题节拍（去向未知）的开端
+- 原文：
+  1. "'Are we going back to the beach?' asked Keola."
+     译："我们要回那片海滩吗？"科欧拉问。
+  2. "'No, no,' said Kalamake. 'You must learn more about my secrets. This time I'll teach you to catch fish. Meet me tonight near Pili's boat, and don't tell anyone about our business.' His voice was warm and friendly, and Keola was happy."
+     译："不，不，"卡拉马克说，"你还要多了解我的秘密。这次我教你捕鱼。今晚在皮利的船边等我，别把我们的事告诉任何人。"他的语气温和友善，科欧拉很高兴。

@@ -1,0 +1,57 @@
+**B2-13**（2 句）
+- 分组依据：三人继续走路（旅行动作）→Dorothy 饿了吃面包（"soon" 时间推进，状态变化），2 句，用多格承载前→后变化。
+- 原文：
+  1. "Dorothy, Toto and the Scarecrow walk along the yellow brick road."
+     译：多萝西、托托和稻草人一起沿着黄砖路走着。
+  2. "Soon Dorothy is hungry, so she and Toto eat some bread from the basket."
+     译：不久多萝西饿了，她和托托从篮子里拿出面包吃了起来。
+
+**B2-14**（3 句）
+- 分组依据：Dorothy 问稻草人要不要面包→稻草人说不饿→稻草人转话题请Dorothy讲家乡，3 句，2 次说话权切换（≤2 回合），s36 是同一回合内稻草人的话题延伸，合并。
+- 原文：
+  1. "\"Do you want some bread, Scarecrow?\" asks Dorothy."
+     译："稻草人，你想要一些面包吗？"多萝西问。
+  2. "\"No, thank you,\" he says, \"I'm never hungry."
+     译："不，谢谢，"他说，"我从不会饿。
+  3. "Please tell me about your home.\""
+     译：请告诉我你家乡的事。"
+
+**B2-15**（4 句）
+- 分组依据：Dorothy 连续独白描述 Kansas（同一说话方，同一话题，同一情绪基调），4 句，四维度扫描无切换，正好在上限。
+- 原文：
+  1. "\"Kansas is a dry, gray place."
+     译："堪萨斯是一个干燥、灰暗的地方。
+  2. "There are no trees and no flowers."
+     译：那里没有树，也没有花。
+  3. "There are cyclones every year."
+     译：每年都有龙卷风。
+  4. "I live in a little house with my Aunt Em and Uncle Henry.\""
+     译：我和艾姆姑姑、亨利叔叔住在一栋小房子里。"
+
+**B2-16**（3 句）
+- 分组依据：稻草人连续独白反问（同一说话方），质疑 Dorothy 为何回 Kansas、夸赞此地美丽、表示不理解，3 句，话题/情绪一致，合并。
+- 原文：
+  1. "\"Why do you want to go back to gray Kansas?\" asks the Scarecrow, \"This country is very beautiful."
+     译："你为什么想回那灰暗的堪萨斯？"稻草人问，"这里的国家非常美丽。
+  2. "There are a lot of trees and flowers."
+     译：这里有很多树和花。
+  3. "I don't understand.\""
+     译：我不理解。"
+
+**B2-17**（2 句）
+- 分组依据：Dorothy 反驳稻草人（同一说话方），说明稻草人不理解的原因+表达对家和亲人的感情，2 句，合并。
+- 原文：
+  1. "\"You don't understand because you don't have a brain,\" says Dorothy, \"Kansas is my home and I love my home."
+     译："你不理解是因为你没有大脑，"多萝西说，"堪萨斯是我的家，我爱我的家。
+  2. "My aunt and uncle live there.\""
+     译：我的姑姑和叔叔住在那里。"
+
+**B2-18**（3 句）
+- 分组依据：稻草人看Dorothy微笑（温馨收尾）→Dorothy和托托吃完面包（动作完成）→Dorothy 宣告出发（话题转向行动），3 句，同一场景尾声，情绪从温馨→轻快，属渐进推进，合并。
+- 原文：
+  1. "The Scarecrow looks at her and smiles."
+     译：稻草人看着她微笑。
+  2. "Dorothy and Toto finish their bread."
+     译：多萝西和托托吃完了面包。
+  3. "\"Well, let's go!\" says Dorothy, \"The Emerald City is far away.\""
+     译："好了，走吧！"多萝西说，"翡翠城还很远呢。"

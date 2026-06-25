@@ -1,0 +1,52 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B4-7",
+      "character_refs": [
+        "C2",
+        "C4"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "Keola began to feel happy with his new life and the things around him.",
+        "He was kind to his wife and she loved him very much.",
+        "But one day he came home and found her on the floor crying.",
+        "'What's the matter, dear?' said Keola softly."
+      ],
+      "layout": "①构图与镜头：左右二分2:1构图，左主格2/3为妻子哭泣+科欧拉发现，右辅格1/3为生活美好的简笔回顾图示。左主格：镜头从茅屋门口，斜侧，中景，看向科欧拉发现妻子伏地哭泣；科欧拉站于门口，妻子在地上。右辅格：图示格，内含生活美好片段：科欧拉+妻子（引用C4）微笑简笔图+「幸福感」图示。比例锚点：左格：科欧拉（引用C2）站于门口，茅屋门框约成人身高；妻子（引用C4）伏于地面，头顶约及科欧拉膝盖高度；右辅格为图示，无比例要求。②动作与关系：左主格：科欧拉（引用C2）站于门口，表情由放松转为担忧；妻子（引用C4）伏于地面哭泣；科欧拉弯腰，气泡语义为「怎么了，亲爱的？」（温柔语气）。右辅格：生活美好图示（夫妻简笔微笑图+心形+茅屋）→对比箭头指向哭泣场景，表达「但好景不长」。③场景：S7部落新茅屋内，白天，室内柔和光；科欧拉站于门口，妻子伏于地席。④光影与色彩：左格白天柔和光，情绪转折感；右辅格图示为明亮简笔色调，与左格形成视觉对比。⑤主体与角色：逐格角色预算：左格可辨识2人，右格为图示。科欧拉（引用C2）和岛上女子（引用C4）左格可辨识。【情绪标记】强度：中，类型：悲伤，推荐视觉手段：妻子伏地哭泣姿态+B级符号图标（暗蓝色泪滴）。"
+    },
+    {
+      "id": "B4-8",
+      "character_refs": [
+        "C2",
+        "C4"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "'Oh, it's nothing, Keola,' she said, crying."
+      ],
+      "layout": "①构图与镜头：单格近景，弱势/危险组织，镜头位于科欧拉侧方低处，仰角，看向妻子侧脸；妻子抬起泪脸，表情强忍秘密，眼含泪光。比例锚点：妻子（引用C4）侧脸近景，头部占画面约2/3高度；眼泪可见，叶裙肩部在画面下方。②动作与关系：岛上女子（引用C4）侧脸，泪眼汪汪，嘴角强扯出一丝笑，话语敷衍；对话气泡语义为「哦，没什么，科欧拉」（但表情显示有话没说）；科欧拉（引用C2）在旁伸手，近景侧影约占画面1/5；「隐瞒秘密」图示：气泡内有一个小小的食人族骷髅图标被她捂住（暗示）。③场景：S7部落新茅屋内，白天，柔和室内光；地席、竹壁在背景。④光影与色彩：柔和室内光，泪眼特写有轻微水光效果；情绪压抑。⑤主体与角色：逐格角色预算：单格可辨识2人（妻子主体+科欧拉侧影）。岛上女子（引用C4）可辨识入镜；科欧拉（引用C2）以侧影局部可辨识。"
+    },
+    {
+      "id": "B4-9",
+      "character_refs": [
+        "C2",
+        "C4"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "The same night she woke him up, and by the low light of the lamp Keola could see her sad face.",
+        "'Keola,' she said softly, 'come very close to me because I must whisper. No one must hear us.'",
+        "Keola moved closer to her and she continued.",
+        "'Two days before we leave the island, go and stay in the woods. We'll choose the place and hide food there. Every night I'll come to the secret place and I'll sing. If you don't hear me singing, it means that we are no longer on the island. Then you can come out of the woods safely.'"
+      ],
+      "layout": "①构图与镜头：单格弱势/危险组织，镜头从茅屋内侧，低机位，看向两人在昏暗灯光下靠近低语；椰壳灯在两人之间，光圈覆盖面部；前景为地席边缘，背景为竹壁深黑。比例锚点：科欧拉（引用C2）和妻子（引用C4）靠近坐于地席，两人头顶约及竹壁中段；椰壳灯直径约妻子手掌宽度；竹壁高约成人身高。②动作与关系：科欧拉（引用C2）俯身靠近妻子，侧耳倾听，表情困惑不安；妻子（引用C4）低声耳语，表情悲伤但坚定，手指外（保密手势）；椰壳灯在二人之间照明。妻子对话气泡（低语气泡）：①「靠近，没人能听见」（手指指向唇部+保密图标），②「离岛前两天去树林躲——我每晚来唱歌——听不到歌声说明我们走了」（路线图示：树林→歌声图标→安全箭头）。③场景：S7部落新茅屋内，深夜，椰壳灯为唯一光源；两人低语，茅屋外静寂。【环境状态】物理场景S7，当前环境：深夜，视觉覆盖：椰壳灯昏暗暖黄，竹壁深黑，静谧低语氛围，原因：The same night。④光影与色彩：极暗夜间，椰壳灯暖黄小光圈覆盖两人面部；周围深黑压迫；「秘密」气氛用低饱和+深阴影强化。【风格调整】触发原因：深夜秘密低语，命运攸关，调整方向：极暗椰壳灯光，深黑压迫，低语保密感，调整范围：本镜。⑤主体与角色：逐格角色预算：单格可辨识2人。科欧拉（引用C2）和岛上女子（引用C4）均可辨识入镜。"
+    }
+  ]
+}

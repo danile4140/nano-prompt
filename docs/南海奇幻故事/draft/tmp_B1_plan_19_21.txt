@@ -1,0 +1,63 @@
+**B1-19**（4 句）
+- 分组依据：卡拉马克布置仪式、交代任务——连续准备动作，同一空间（海滩草席旁），同一节拍（返回仪式准备+任务交代），无情绪反转
+- 原文：
+  1. "Kalamake picked up some stones and made a circle around the mat."
+     译：卡拉马克捡起一些石头，在草席四周摆出一个圆圈。
+  2. "He put some leaves in the middle."
+     译：他在中间放上一些树叶。
+  3. "'Now you must burn these leaves on the fire,' Kalamake said."
+     译："现在你必须把这些叶子烧在火上，"卡拉马克说。
+  4. "'While the leaves are burning, I'll do my magic. Before the leaves become black, the same magic that brought us here will take us back home. Be careful and call me before the fire dies. I don't want to be left on this beach.'"
+     译："树叶燃烧时，我来施法。在叶子变黑之前，同样的魔法会把我们带回家。小心，在火灭之前叫我回来。我不想被留在这片沙滩上。"
+
+**B1-20**（4 句）
+- 分组依据：卡拉马克跳出圆圈奔跑收集贝壳、贝壳发光——新的戏剧性事件节拍（秘密揭晓——贝壳变美元），视觉焦点从草席转向卡拉马克在沙滩上的行动
+- 原文：
+  1. "As soon as the leaves started burning, the wizard jumped out of the circle and began running on the beach and picking up shells."
+     译：树叶一开始燃烧，巫师便跳出圆圈，开始在海滩上奔跑，拾取贝壳。
+  2. "It seemed to Keola that the shells shone as he took them."
+     译：科欧拉看去，仿佛卡拉马克捡起贝壳时它们都在发光。
+  3. "When Keola put the last leaves on the fire he cried, 'Come back, Kalamake. Come back. The leaves are almost burnt.'"
+     译：科欧拉把最后几片叶子放入火中，大喊："回来，卡拉马克，回来！叶子快烧完了！"
+  4. "Kalamake ran back very fast and jumped on the mat."
+     译：卡拉马克飞速跑回，跳上草席。
+
+**B1-21**（4 句）
+- 分组依据：返回客厅+美元出现+看见货船——传送仪式完成，奥秘揭晓（贝壳变美元），同一"仪式结果"节拍，四句均属该节拍
+- 原文：
+  1. "As soon as he jumped on the mat the fire died and the beach disappeared."
+     译：他一跳上草席，火就熄灭了，沙滩消失了。
+  2. "In a moment they were suddenly back in the living room, and there were a lot of shiny dollars on the mat."
+     译：片刻之间他们突然回到了客厅，草席上铺满了闪亮的美元。
+  3. "Keola opened the windows and saw the ship in the bay."
+     译：科欧拉打开窗户，看见货船正停在海湾中。
+
+---
+
+**最终汇总**（重新计数）：
+
+| 分镜ID | 句数 |
+|--------|------|
+| B1-1   | 4    |
+| B1-2   | 2    |
+| B1-3   | 3    |
+| B1-4   | 4    |
+| B1-5   | 4    |
+| B1-6   | 3    |
+| B1-7   | 3    |
+| B1-8   | 3    |
+| B1-9   | 4    |
+| B1-10  | 4    |
+| B1-11  | 4    |
+| B1-12  | 4    |
+| B1-13  | 4    |
+| B1-14  | 4    |
+| B1-15  | 4    |
+| B1-16  | 4    |
+| B1-17  | 3    |
+| B1-18  | 3    |
+| B1-19  | 4    |
+| B1-20  | 4    |
+| B1-21  | 3    |
+
+共 **21** 条分镜（原标题数字有误，以此为准）

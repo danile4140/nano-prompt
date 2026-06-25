@@ -1,0 +1,65 @@
+**B2-7**（3 句）
+- 分组依据：Fogg 纠正拉尔夫（80 天）→ 惊讶质疑 → 另一人提出天气等变数的反驳。3 个说话方切换，话题相同（80 天能否环游）但情绪逐渐升级（好奇→惊讶→质疑），属于多方辩论的升温节拍，与下一组"正式赌注"存在情绪跳变（讨论→赌注升级），必须在此切分。
+- 原文：
+  1. "'Eighty days to be exact,' Phileas Fogg corrected him."
+     译："准确说是八十天，"菲利斯·福格纠正道。
+  2. "'Eighty days?' asked a surprised man at the table."
+     译："八十天？"桌旁一位惊讶的男士问道。
+  3. "'Well, maybe that's true, but only if you don't consider bad weather, storms, shipwrecks, and other things,' said another."
+     译："好吧，也许是真的，但那得排除恶劣天气、风暴、海难等情况，"另一人说道。
+
+---
+
+**B2-8**（1 句）
+- 分组依据：Fogg 坚持"考虑一切可能性、仍然 80 天"，是对上一组质疑的正面回应，也是下一句拉尔夫"那你赌吗"的直接触发条件，与下一句（B2-9）构成触发-转折因果链（条件 B），必须先独立承载本句。
+- 原文：
+  1. "'In eighty days, considering all possible events,' continued Phileas Fogg."
+     译："八十天，考虑一切可能发生的情况，"菲利斯·福格继续说道。
+
+---
+
+**B2-9**（2 句）
+- 分组依据：拉尔夫发出赌注挑战（4000 英镑/这趟旅行不可能）+ Fogg 接受（"这段旅行是可能的"），是触发-转折因果链（必拆条件 B），但两句属于同一对话格局（挑战→应战），情绪紧张，需要在同一分镜中用多格呈现"挑战与应战"。
+- 原文：
+  1. "'Ah! You think so, do you, Mr Fogg?' laughed Sir Ralph, 'Well, I'll bet four thousand pounds that a journey like that is impossible in such a short time.'"
+     译："啊！您真的这么认为，福格先生？"拉尔夫爵士大笑道，"那好，我赌四千英镑，这样的旅行在这么短的时间内根本不可能完成。"
+  2. "'I repeat that it is possible to do the journey in that time,' said Phileas Fogg, his eyes fixed on Sir Ralph's smile."
+     译："我再次声明，在那段时间内完成这趟旅行是可能的，"菲利斯·福格说道，眼神直盯着拉尔夫爵士的笑容。
+
+---
+
+**B2-10**（2 句）
+- 分组依据：情绪激化顶点——"那你自己去做！"/"我会！"，这是故事高潮宣告（必拆条件 B：触发="去做"，结果="我会"），2 回合最短对话，因果链清晰，必须作为独立分镜强调这一决定性时刻。
+- 原文：
+  1. "'Well, if you are so certain, then do it yourself!'"
+     译："好吧，如果您这么肯定，那就自己去做！"
+  2. "'I will,' replied Phileas Fogg."
+     译："我会的，"菲利斯·福格回答道。
+
+---
+
+**B2-11**（4 句）
+- 分组依据："什么时候？" → Fogg 宣布"立刻"并提出两万英镑赌注并征询同意，同一对话节拍，Fogg 连续陈述（句 2-4），话题统一（赌注条款确认），4 句在上限内。
+- 原文：
+  1. "'When?'"
+     译："什么时候？"
+  2. "'Immediately."
+     译："立刻。
+  3. "And I'll bet not four, but twenty thousand pounds that I can go around the world in eighty days; I will return here in 1,920 hours, or, if you prefer, 115,220 minutes."
+     译：而且我赌的不是四千，而是两万英镑——我能在八十天内环游世界；我将在 1920 小时，或者如果你们愿意，115220 分钟后回到这里。
+  4. "Do you agree to the bet?'"
+     译：你们同意这个赌注吗？"
+
+---
+
+**B2-12**（3 句）
+- 分组依据：众人相互对视犹豫，然后集体同意，群体反应节拍，3 句连续（面面相觑→无法判断→同意），同一场景同一情绪基调（集体惊愕→接受），无切换。
+- 原文：
+  1. "They all looked at one another."
+     译：他们面面相觑。
+  2. "They could not decide if he was serious."
+     译：他们无法判断他是否认真。
+  3. "'We agree,' they said."
+     译："我们同意，"他们说道。
+
+---

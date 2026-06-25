@@ -1,0 +1,61 @@
+第 6 章分镜规划（条目 7–13）
+
+**B6-7**（3 句）
+- 分组依据：学校关门了？→程老师还在→分开，珍妮独自前往（行动决定节拍），同一话题，对话来回≤2回合，合并
+- 原文：
+  1. "'But the school's closed now!' Dana commented."
+     译："但学校现在关门了！"达娜说。
+  2. "'No, not today. Mrs. Ching is at school all evening, because she's preparing some math tests. I know because I heard her talking to Miss Smith.'"
+     译："不，今天不是。程老师整个晚上都在学校，因为她在批数学卷子。我知道，因为我听到她跟史密斯小姐说的。"
+  3. "'OK. Well, I'll see you tomorrow then. I have to go home and start my homework,' Paul said. 'Me too,' Dana added. We left the 'Rainbow' and I went towards Jefferson High."
+     译："好吧，那明天见，我得回家做作业了，"保罗说。"我也是，"达娜补充。我们离开"彩虹"，我独自走向杰斐逊高中。
+
+**B6-8**（2 句）
+- 分组依据：从后门进入学校（场景切换，夜晚学校），珍妮感受到神秘力量驱使她上楼（新戏剧性节拍：预感/悬疑），情绪基调切换（宁静→神秘不安）
+- 原文：
+  1. "The back door was open. I went in. Our gym is on the ground floor, but I didn't go there directly."
+     译：后门是开的，我走了进去。我们的体育馆在一楼，但我没有直接去。
+  2. "Something stopped me. I felt a strange sensation. I didn't know what it was. Something wanted me to climb the stairs and go up to the classrooms."
+     译：有什么东西阻止了我，我感到一种奇异的感觉，不知道那是什么，但有什么东西驱使我爬上楼梯，走向教室区。
+
+**B6-9**（3 句）
+- 分组依据：楼梯间恐惧（心理节拍，悬疑升温），同一情绪基调（恐惧/神秘力量），3句连贯心理描述
+- 原文：
+  1. "I felt afraid. The school was dark and silent. I shivered."
+     译：我感到恐惧。学校黑暗而寂静，我打了个寒战。
+  2. "'Where am I going? Why am I climbing these stairs?' I thought."
+     译："我在去哪里？我为什么要爬这些楼梯？"我心想。
+  3. "My heart beat faster and faster. Something terrible was at the top of the stairs — I sensed it — but what? I desperately wanted to run away and return home, but I couldn't. The mysterious force inside me made me go on."
+     译：我的心跳越来越快，楼梯上方有什么可怕的东西——我感觉到了——但是什么？我拼命想逃回家，但我无法停下，内心某种神秘的力量驱使我继续前行。
+
+**B6-10**（3 句）
+- 分组依据：三楼听到呻吟声→走近储藏室→打开门发现被绑架的程老师（高潮节点C类：戏剧性发现），独立高潮加密节拍
+- 原文：
+  1. "On the third floor I heard a noise. Someone was moaning!"
+     译：在三楼，我听到一声声响，有人在呻吟！
+  2. "As I passed by the janitor's closet, the sound became louder. Someone needed help!"
+     译：经过门卫储藏间时，声音越来越响，有人需要帮助！
+  3. "I opened the closet. It was Mrs. Ching! The old teacher was on a chair with her hands and feet tied. She was gagged and her eyes were open in terror."
+     译：我打开储藏间。是程老师！老师坐在椅子上，手脚被绑，嘴里塞着东西，双眼大睁充满恐惧。
+
+**B6-12**（3 句）
+- 分组依据：珍妮独自在漆黑走廊探查（心理/行动节拍），发现计算机室亮着灯（新戏剧性发现），情绪升温
+- 原文：
+  1. "I looked around the second floor. I was terrified. Everything was silent. The long, dark hall was very frightening."
+     译：我环顾二楼，极度恐惧，一切都很安静，漫长黑暗的走廊令人毛骨悚然。
+  2. "Then I noticed something: a light was on in the computer room!"
+     译：然后我注意到一件事——计算机室亮着灯！
+  3. "I crept to the door. Someone inside was working on a computer. I could hear fingers clicking on the keys."
+     译：我蹑手蹑脚地靠近门口，里面有人在操作电脑，我能听到手指敲击键盘的声音。
+
+**B6-13**（4 句）
+- 分组依据：珍妮开门缝偷看→发现亚当斯老师输入密码→插入神秘塑料物件→屏幕黑屏后出现外星人（高潮节点：B类身份揭晓，连续4步计谋/行动链，符合条件C级加密），逐对四维度：均属同一连续观察行动，≤4句合并
+- 原文：
+  1. "Slowly, very slowly, I opened the door. Just a crack. It was Mr. Adams! He was typing a kind of code on the screen. Was it a password?"
+     译：我缓缓地，非常缓缓地开了一道门缝——是亚当斯先生！他正在屏幕上输入某种代码，是密码吗？
+  2. "Then he took a small, plastic object from his pocket. It looked like a key. He inserted it in the diskette slot."
+     译：然后他从口袋里取出一个小型塑料物件，像一把钥匙，插入了软盘插槽。
+  3. "The screen blacked out. It flickered. Then something appeared: it was the face of an alien!!!!"
+     译：屏幕黑了一下，闪了闪，然后某个东西出现了——那是一张外星人的脸！！！！
+  4. "The alien had a green head and big, red eyes. It didn't have hair and it didn't have a nose. Its mouth and ears were very small."
+     译：外星人有绿色的脑袋，大大的红色眼睛，没有头发，没有鼻子，嘴巴和耳朵都极小。

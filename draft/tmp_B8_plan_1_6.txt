@@ -1,0 +1,45 @@
+**B8-1**（4 句）
+- 分组依据：Dorothy 伤心提问+哭泣，同一情绪基调（悲伤），同一场景，同一视觉焦点（Dorothy），无说话方切换（内心独白+叙述）
+- 原文：
+  1. "How can I go home now?"
+     译：我现在怎么回家呢？
+  2. Dorothy asks sadly, "Where is the Land of the Quadlings?
+     译：多萝西难过地问道，"奎德林之地在哪里？
+  3. And who is the Good Witch of the South?"
+     译：南方的善良女巫又是谁？"
+  4. She starts crying.
+     译：她开始哭泣。
+
+**B8-2**（1 句）
+- 分组依据：铁皮樵夫是新的独立主体，对 Dorothy 哭泣做出独立反应（§4 条件 A：多主体独立表态），视觉焦点从 Dorothy 切换至铁皮樵夫，必须独立成镜
+- 原文：
+  1. The Tin Woodman looks at her and starts crying too.
+     译：铁皮樵夫看着她，也跟着哭了起来。
+
+**B8-3**（2 句）
+- 分组依据：稻草人说话，同一说话方连续台词（劝告+建议），无说话方切换
+- 原文：
+  1. "Don't cry!" says the Scarecrow, "Water is bad for your tin body.
+     译："别哭！"稻草人说，"水对你的铁皮身体有害。
+  2. Blow the magic whistle, Dorothy, the Winged Monkeys can help you."
+     译：吹响魔法哨子吧，多萝西，飞猴们能帮助你。"
+
+**B8-4**（2 句）
+- 分组依据：Dorothy 回应稻草人（说话方切换）并立刻行动（吹哨+飞猴到来），含新戏剧性事件（飞猴出现），同一节拍内的连续因果动作
+- 原文：
+  1. "You're a clever Scarecrow," says Dorothy.
+     译："你真是个聪明的稻草人，"多萝西说。
+  2. She blows the magic whistle and the Winged Monkeys arrive.
+     译：她吹响了魔法哨子，飞猴们随即出现了。
+
+**B8-5**（1 句）
+- 分组依据：Dorothy 向飞猴发出请求/命令，是新对话节拍（说话对象由朋友切换为飞猴），触发因果链（发出请求），独立成镜
+- 原文：
+  1. "Please take us to the Land of the Quadlings," she says, "I must find the Good Witch of the South."
+     译："请带我们去奎德林之地，"她说，"我必须找到南方的善良女巫。"
+
+**B8-6**（1 句）
+- 分组依据：飞猴执行，视角切换至群体空中移动，场景跳变（从原地飞向奎德林之地），独立成镜
+- 原文：
+  1. The Winged Monkeys take Dorothy and her friends to the Land of the Quadlings.
+     译：飞猴们带着多萝西和她的朋友们飞往奎德林之地。

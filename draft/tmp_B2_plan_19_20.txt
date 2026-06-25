@@ -1,0 +1,17 @@
+**B2-19**（3 句）
+- 分组依据：时间跳跃（"in the evening"）+场景变化（黄砖路→树后小木屋），触发新节拍。三句连续描述傍晚进屋过程（累了→发现小屋→进入），同一时间段同一新场景，3 句合并。
+- 原文：
+  1. "In the evening Dorothy is tired."
+     译：傍晚，多萝西累了。
+  2. "They see a little house behind some trees."
+     译：他们看到树丛后面有一栋小木屋。
+  3. "No one is in the house so they go in."
+     译：屋里没有人，于是他们走了进去。
+
+**B2-20**（2 句）
+- 分组依据：Dorothy 和托托入睡而稻草人不睡（状态对比）→稻草人笑着说明（对白），2 句，同一时刻同一场景，合并。
+- 原文：
+  1. "Dorothy and Toto sleep, but the Scarecrow doesn't."
+     译：多萝西和托托睡着了，但稻草人没有。
+  2. "He laughs and says, \"Scarecrows don't sleep.\""
+     译：他笑着说："稻草人是不睡觉的。"

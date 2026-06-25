@@ -1,0 +1,59 @@
+**B8-7**（4 句）
+- 分组依据：初到奎德林之地的环境全景描述，同一视觉焦点（场景建立），无时间/空间/情绪切换，连续属性描述合并为场景建立节拍块
+- 原文：
+  1. The Land of the Quadlings is lovely.
+     译：奎德林之地美丽可爱。
+  2. There are flowers and trees everywhere.
+     译：到处都是鲜花和树木。
+  3. All the houses are red.
+     译：所有的房子都是红色的。
+  4. The Quadlings are short and they all wear red clothes and red shoes.
+     译：奎德林人身材矮小，全都穿着红色衣服和红色鞋子。
+
+**B8-8**（3 句）
+- 分组依据：奎德林妇女给食物（接待）+ Dorothy 问路 + 妇女回答，同一场景（村庄街道）、同一话题（问路互动）、同一情绪基调（友善），含 2 回合对话，可合并
+- 原文：
+  1. A kind Quadling woman gives them some cake and milk.
+     译：一位善良的奎德林妇女给了他们一些蛋糕和牛奶。
+  2. "Where is the castle, please?" asks Dorothy.
+     译："请问城堡在哪里？"多萝���问道。
+  3. "Take the road to the South," says the kind woman.
+     译："沿着向南的路走，"善良的妇女说。
+
+**B8-9**（1 句）
+- 分组依据：场景跳变（到达城堡外城门），新地点，看见三名奎德林女孩，独立成镜
+- 原文：
+  1. When the friends arrive at the beautiful castle, they see three Quadling girls outside the castle gate.
+     译：当朋友们到达美丽的城堡时，他们看见城堡大门外有三个奎德林女孩。
+
+**B8-10**（4 句）
+- 分组依据：城门外对话，多次说话方切换（女孩→Dorothy→另一女孩→三女孩），含请求/等待指令与返回带路的触发-结果因果链（§4 条件 B），同一场景，多格承载多回合对话
+- 原文：
+  1. "Why are you here?" asks one girl in a friendly voice.
+     译："你们来这里做什么？"一个女孩用友善的语气问道。
+  2. "I want to see the Good Witch of the South," says Dorothy.
+     译："我想见南方的善良女巫，"多萝西说。
+  3. "Please wait here," says the other girl.
+     译："请在这里等候，"另一个女孩说。
+  4. After a few minutes the three girls return and say, "Follow us, please."
+     译：几分钟后，三个女孩返回，说道："请跟我们来。"
+
+**B8-11**（4 句）
+- 分组依据：场景跳变（进入大厅），进入觐见大厅、看见南方女巫，连接外貌描述（S25-S27 同一焦点无时间推进），用多格承载"进入场景建立+女巫外貌特写"
+- 原文：
+  1. Soon Dorothy and her friends enter a big room and see the Good Witch of the South.
+     译：很快，多萝西和她的朋友们走进一间大厅，看见了南方的善良女巫。
+  2. She is young and beautiful.
+     译：她年轻而美丽。
+  3. She has red hair and blue eyes.
+     译：她有一头红发和一双蓝眼睛。
+  4. She is wearing a long white dress.
+     译：她穿着一件白色长裙。
+
+**B8-12**（2 句）
+- 分组依据：女巫问 Dorothy，Dorothy 回答，2 回合对话，说话方切换，独立节拍
+- 原文：
+  1. "What can I do for you, my child," asks the Good Witch.
+     译："孩子，我能为你做什么？"善良女巫问道。
+  2. "I want to go home to Kansas," says Dorothy, "Can you help me?"
+     译："我想回到堪萨斯的家，"多萝西说，"你能帮帮我吗？"

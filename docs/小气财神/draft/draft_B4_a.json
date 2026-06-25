@@ -1,0 +1,108 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B4-1",
+      "character_refs": [
+        "C1"
+      ],
+      "scene_refs": [
+        "S4"
+      ],
+      "covered_sentences": [
+        "Scrooge woke up, opened his bed-curtain and looked around.",
+        "He was ready to see anything, but when one o'clock struck, nothing happened.",
+        "After a while he saw a strong light in the next room.",
+        "He got out of bed and went slowly to the door."
+      ],
+      "layout": "构图与镜头：横排三格构图，等宽三格承载等待序列。左格：斯克鲁奇坐起打开床帘张望；中格：钟声一点，无事发生，斯克鲁奇等待；右格：隔壁透出强光，斯克鲁奇慢慢走向门口。左格：镜头位于床侧，中近景，平视，看向斯克鲁奇坐起打开床帘的动作；中格：镜头位于卧室内，中景，看向斯克鲁奇坐于床上等待，附时钟图标；右格：镜头位于卧室门前，斜侧30度，中景，看向斯克鲁奇走向透出强光的门口。比例锚点：左格斯克鲁奇坐起，头顶约与床幔等高，床帘边缘在前景；中格斯克鲁奇坐姿头顶约与床幔等高；右格斯克鲁奇全身，头顶约与门框等高，门缝透出强光。\n\n动作与关系：左格：斯克鲁奇（引用C1）坐起，双手拉开床帘，睡衣睡帽，面露警觉；中格：斯克鲁奇坐于床上，面露等待神情，附D级物品图标：小时钟指向1点+橙红色感叹号（无事发生的紧张）；右格：斯克鲁奇从床边走向门口，门缝透出强烈白光，面露惊讶，附B级符号：橙红色感叹号。\n\n场景：斯克鲁奇的卧室兼起居室（引用S4），深夜凌晨，极暗，隔壁透出强光。【环境状态】物理场景：卧室，当前环境：深夜凌晨，视觉覆盖：极暗，仅隔壁门缝透出强光，原因：when one o'clock struck / he saw a strong light in the next room。\n\n光影与色彩：极暗深蓝黑，右格门缝强白光爆发，强对比。\n\n主体与角色：逐格角色预算：左中右各可辨识1人——均为斯克鲁奇（引用C1）。"
+    },
+    {
+      "id": "B4-2",
+      "character_refs": [
+        "C1",
+        "C8"
+      ],
+      "scene_refs": [
+        "S4b"
+      ],
+      "covered_sentences": [
+        "'Scrooge!' said a voice. 'Come in, Ebenezer!'",
+        "The room was his room, but it was different.",
+        "On the walls there was some green holly with red berries, and mistletoe and ivy.",
+        "In the fireplace was a great fire.",
+        "On the floor there was a lot of food: turkey, goose, chicken, rabbit, pork and sausages, as well as mince pies, puddings, fruit, cakes, and hot punch."
+      ],
+      "layout": "构图与镜头：单格构图，建立空间组织（圣诞现在之灵降临变体房间）。镜头位于卧室门口内侧，中远景，斜45度轻俯角，看向整个房间的华丽变身：四面墙挂满冬青和槲寄生，壁炉熊熊大火，地板上堆满各种食物，沙发上方可见巨大身影（引用C8：圣诞现在之灵）高举火炬。前景：门框边缘；中景：整个食物和装饰；后景：圣诞现在之灵在沙发上。比例锚点：圣诞现在之灵（引用C8）坐于沙发，身形巨大，头顶约与天花板距离仅约半个身高（巨人体型约为普通人两倍），食物堆满地面约到成人膝盖高度；斯克鲁奇站于门口，全身约占画面高度40%（被圣诞现在之灵压制比例），门框约与斯克鲁奇同高。\n\n动作与关系：圣诞现在之灵（引用C8）坐于沙发上，右手高举大火炬，面露慈祥笑容，绿色冬青红果花环环绕头部，深绿色长袍宽大；头顶对白气泡内容从covered_sentences抽取Come in（D级物品图标：绿色向内箭头+橙红色感叹号）；斯克鲁奇（引用C1）站于门口，面露震惊，面对华丽变身的房间；地板上各种食物罗列（用D级物品图标列举：火鸡轮廓+鹅肉+肉饼+布丁+水果，编号图示气泡）。【叙事高潮B类：身份揭晓+场景骤变】\n\n场景：斯克鲁奇的卧室兼起居室（圣诞现在幽灵降临变体）（引用S4b），深夜，华丽装饰，熊熊大火，食物遍地，温暖橙黄光。【风格调整】触发原因：圣诞现在之灵降临，华丽场景变身，温暖节日气氛。调整方向：从极暗骤变为橙黄温暖明亮，欢乐节日光效。调整范围：本镜。\n\n光影与色彩：橙黄温暖，大火炬+大壁炉双光源，明亮欢乐，与前镜极暗强对比。\n\n主体与角色：逐格角色预算：主画面可辨识2人——圣诞现在之灵（引用C8）+斯克鲁奇（引用C1），圣诞现在之灵头顶约接近天花板，斯克鲁奇头顶约与门框等高（差距悬殊）；门框明显低于圣诞现在之灵头顶。"
+    },
+    {
+      "id": "B4-3",
+      "character_refs": [
+        "C1",
+        "C8"
+      ],
+      "scene_refs": [
+        "S4b"
+      ],
+      "covered_sentences": [
+        "And On the sofa sat a very large man — a giant — and he was holding up a torch.",
+        "'Come in!' said the Ghost.",
+        "Scrooge went and stood in front of this giant, but he didn't look at it.",
+        "He was too frightened."
+      ],
+      "layout": "构图与镜头：单格构图，比例压迫组织（圣诞现在之灵巨人形象压倒性）。镜头位于卧室低机位，仰角15度，看向圣诞现在之灵高大的身形和高举的火炬；斯克鲁奇站在其面前极小（比例压迫）。前景：地板上食物可见；中景：斯克鲁奇全身（极小）；后景：圣诞现在之灵高大巨人身形。比例锚点：圣诞现在之灵（引用C8）坐于沙发，身形约为斯克鲁奇的2倍，火炬高举至天花板附近；斯克鲁奇（引用C1）站立，头顶约在圣诞现在之灵腰部（坐姿），占画面高度约30%（被压迫感强）；地板上食物从近景到中景堆积，约在斯克鲁奇膝盖高度。\n\n动作与关系：圣诞现在之灵（引用C8）高坐于沙发，右手高举橙红火炬，面露慈祥笑容，深绿色宽大长袍；头顶对白气泡内容从covered_sentences抽取Come in（绿色向内箭头+橙红色感叹号）；斯克鲁奇（引用C1）站于巨人面前，低头不敢直视，面露极度恐惧，双手握住手杖，面朝下，附B级符号：浅蓝色水滴多个。\n\n场景：斯克鲁奇的卧室兼起居室（圣诞现在幽灵降临变体）（引用S4b），温暖橙黄光，食物遍地，火炬火焰。\n\n光影与色彩：橙黄温暖，火炬从上方照下，斯克鲁奇被低机位仰角压制，增强恐惧感。\n\n主体与角色：逐格角色预算：主画面可辨识2人——圣诞现在之灵（引用C8）+斯克鲁奇（引用C1），圣诞现在之灵坐姿约为斯克鲁奇站立的2倍高度。【情绪标记】强度：中，类型：恐惧/惊叹，推荐视觉手段：斯克鲁奇低头，浅蓝色水滴，仰角构图强调比例压迫。"
+    },
+    {
+      "id": "B4-4",
+      "character_refs": [
+        "C1",
+        "C8"
+      ],
+      "scene_refs": [
+        "S4b"
+      ],
+      "covered_sentences": [
+        "'I am the Ghost of Christmas Present,' said the Spirit. 'Look at me!'",
+        "So Scrooge looked. He saw that the Spirit was smiling.",
+        "It had kind, gentle eyes.",
+        "There was holly round its long dark hair.",
+        "Its face was young and happy.",
+        "'You have never seen anybody like me before,' it said. 'Never.'"
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例1:2（左格斯克鲁奇辅格，仰头观看；右格圣诞现在之灵主格，外貌特写）。左格：镜头位于斯克鲁奇正前方，中近景，仰角5度，看向斯克鲁奇仰头注视的面部；右格：镜头位于圣诞现在之灵正前方，中近景，平视，聚焦其面部外貌（种温柔的眼睛、深棕卷发、冬青花环）。比例锚点：左格斯克鲁奇面部约占画面高度65%，睡衣睡帽可见；右格圣诞现在之灵面部约占画面高度70%，冬青红果花环环绕头部，深棕卷发可见，白色毛绒镶边长袍领口处可见。已扫描5对相邻句，四维度均无切换（同一话题：幽灵外貌确认），保留。\n\n动作与关系：左格：斯克鲁奇（引用C1）仰头注视，睡衣睡帽，面露惊叹，面朝右上方（看向圣诞现在之灵方向）；右格：圣诞现在之灵（引用C8）微笑，温柔眼神，面朝斯克鲁奇方向，头顶对白气泡内容从covered_sentences抽取Never（深蓝色问号，承载从未见过的含义）；附A级氛围：AURA-CHARM（身后鎏金流光粒子拖尾，细碎金芒漫散，挺拔轮廓微微发亮）。\n\n场景：斯克鲁奇的卧室兼起居室（圣诞现在幽灵降临变体）（引用S4b），温暖橙黄，过肩视角自然限制背景。\n\n光影与色彩：右格圣诞现在之灵面部温暖橙黄光晕，左格斯克鲁奇被橙黄光照亮。\n\n主体与角色：逐格角色预算：左格可辨识1人——斯克鲁奇（引用C1）；右格可辨识1人——圣诞现在之灵（引用C8），长深棕色卷发垂肩，头上冬青红果花环，面庞年轻开朗，深绿色宽大长袍，白色毛绒镶边。"
+    },
+    {
+      "id": "B4-5",
+      "character_refs": [
+        "C1",
+        "C8"
+      ],
+      "scene_refs": [
+        "S8"
+      ],
+      "covered_sentences": [
+        "'And you have never met any of my brothers?' 'No. How many brothers have you got?' 'More than eighteen hundred. I am the youngest.'",
+        "'Spirit,' Scrooge said, 'take me where you want. I learnt a good lesson last night.'",
+        "'Touch my clothes!'",
+        "When Scrooge did this, the room disappeared and he stood in the city streets on Christmas morning."
+      ],
+      "layout": "构图与镜头：左右二分构图，比例1:2（左格辅格：斯克鲁奇触碰幽灵衣袍；右格主格：传送后站在圣诞清晨街道）。左格：镜头位于两人正面，中景，平视，聚焦斯克鲁奇伸手触碰圣诞现在之灵衣袍的动作；右格：镜头位于城市街道侧方，中景斜侧30度，看向斯克鲁奇和圣诞现在之灵突然出现在圣诞清晨街道。条件B（触发-转折）：触碰衣袍（触发）→传送（转折），两格必拆合法。比例锚点：左格斯克鲁奇全身，头顶约与圣诞现在之灵腰部等高（坐姿对比依旧高大），斯克鲁奇伸手触碰衣袍；右格斯克鲁奇全身，头顶约占画面高度60%，街道建筑在后景，圣诞现在之灵在右格边缘，身形高大，头顶约接近画面顶部。\n\n动作与关系：左格：斯克鲁奇（引用C1）伸右手触碰圣诞现在之灵（引用C8）的深绿色长袍，头顶对白气泡内容从covered_sentences抽取lesson（D级物品图标：书本轮廓，承载昨晚学到的教训语义）；右格：斯克鲁奇（引用C1）和圣诞现在之灵（引用C8）突然出现在圣诞清晨街道，背景骤变为城市街道，斯克鲁奇面露惊讶，附A级氛围：AURA-DREAM（柔白棉絮云边缘，淡金色光斑零星点缀），承载传送的奇幻感。\n\n场景：左格：斯克鲁奇的卧室兼起居室（圣诞现在幽灵降临变体）（引用S4b）；右格：城市街道（引用S8），圣诞清晨，积雪，清冷阳光。【环境状态】物理场景右格：城市街道，当前环境：圣诞清晨，阳光，积雪，视觉覆盖：冷白清晨阳光，雪地反光，原因：Christmas morning。\n\n光影与色彩：左格温暖橙黄；右格圣诞清晨冷白阳光，积雪，欢快节日感。\n\n主体与角色：逐格角色预算：左格可辨识2人——斯克鲁奇（引用C1）+圣诞现在之灵（引用C8），圣诞现在之灵坐姿头顶约高于斯克鲁奇站立约一倍；右格可辨识2人——斯克鲁奇（引用C1）+圣诞现在之灵（引用C8），街道建筑高于所有人物。"
+    },
+    {
+      "id": "B4-6",
+      "character_refs": [
+        "C1",
+        "C8"
+      ],
+      "scene_refs": [
+        "S8"
+      ],
+      "covered_sentences": [
+        "There was a lot of snow.",
+        "Some people were playing and throwing snowballs.",
+        "Others were buying food in the shops.",
+        "It was a busy, cheerful scene, and the bells were ringing."
+      ],
+      "layout": "构图与镜头：单格构图，建立空间组织（圣诞清晨街道全景）。镜头位于街道侧方，中远景斜侧30度，看向整个圣诞清晨街道全景：积雪，不可辨识人群打雪仗、购物，远处教堂尖塔可见。前景：石板路面积雪；中景：不可辨识人群活动；后景：商铺建筑和教堂尖塔；斯克鲁奇（引用C1）和圣诞现在之灵（引用C8）在画面右侧边缘旁观（离画）。比例锚点：不可辨识人群身高约占画面高度40%，街道石板路为参照，商铺建筑约为人物身高的2倍，教堂尖塔在远处更高；街道宽度可供两辆马车并排。\n\n动作与关系：不可辨识人群：部分打雪仗（雪球飞舞动态线），部分走向商铺购物，欢快气氛；附D级物品图标：铃铛轮廓+声波线，承载bells are ringing语义；附B级符号：粉红色爱心+橙红色感叹号，整体节日气氛。\n\n场景：城市街道（引用S8），圣诞清晨，积雪，阳光清冷，钟声阵阵，热闹欢快。【风格复归】回到style_setting基调（从深夜戏恢复到节日明亮）。\n\n光影与色彩：冷白清晨阳光，雪地反光，欢快节日感，与前几章的阴暗形成强对比。\n\n主体与角色：逐格角色预算：主画面可辨识0人（不可辨识人群群体暗示）；斯克鲁奇（引用C1）和圣诞现在之灵（引用C8）在画面边缘离画暗示。"
+    }
+  ]
+}

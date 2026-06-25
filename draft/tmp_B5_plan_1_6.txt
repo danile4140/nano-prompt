@@ -1,0 +1,55 @@
+**B5-1**（1 句）
+- 分组依据：开场建立动作，女巫吹哨召唤飞猴，独立事件节拍，场景建立
+- 原文：
+  1. "The Witch blows her silver whistle and forty Winged Monkeys quickly arrive."
+     译：女巫吹响她的银色口哨，四十只飞猴迅速赶来。
+
+**B5-2**（6 句）
+- 分组依据：飞猴王问话 + 女巫连续下命令，同一对话场景，女巫为单一说话者连续陈述（含3句指令），≤2回合，无视觉焦点/时间/空间/情绪切换；已扫描5对相邻句，四维度均无切换，保留6句（6句豁免条件满足）
+- 原文：
+  1. "\"What do you want?\" the King of the Winged Monkeys asks."
+     译："你想要什么？"飞猴王问道。
+  2. "\"There are three people, a dog and a lion on my road,\" she says."
+     译："我的路上有三个人、一条狗和一头狮子，"她说。
+  3. "\"Go and kill the people and the dog."
+     译："去杀掉那些人和那条狗。
+  4. "But bring me the lion."
+     译：但要把狮子带来给我。
+  5. "He is big and strong."
+     译：他又大又壮。
+  6. "He can work for me.\""
+     译：他可以为我干活。"
+
+**B5-3**（1 句）
+- 分组依据：飞猴接受命令并飞走——条件B触发-转折因果链（命令下达→被接受），结果与B5-2的命令必须独立成镜
+- 原文：
+  1. "\"Yes, immediately!\" say the Winged Monkeys, and they fly away."
+     译："好的，马上去！"飞猴们说，然后飞走了。
+
+**B5-4**（4 句）
+- 分组依据：飞猴执行攻击的4步连续行动（到达→破坏铁皮樵夫→拆散稻草人→带走狮子），条件C计谋执行链（≥3个相互依赖步骤），4句在硬限内；视觉焦点切换4次，内部用4格
+- 原文：
+  1. "They quickly reach the road, and see the four friends and the dog."
+     译：他们很快到达那条路，看到了四个伙伴和那条狗。
+  2. "They break the Tin Woodman's arms and legs."
+     译：他们折断了铁皮樵夫的手臂和腿。
+  3. "They take the straw out of the Scarecrow and throw his clothes into a tree."
+     译：他们把稻草人身体里的稻草全部拽出来，把他的衣服扔上了树。
+  4. "Then they take the Lion to the Wicked Witch's castle."
+     译：然后他们把狮子带到了邪恶女巫的城堡。
+
+**B5-5**（2 句）
+- 分组依据：飞猴发现多萝西额头吻印，视觉焦点转向多萝西，叙事态度转折（不伤害→决定带走），与B5-4的攻击行动构成明显情绪/焦点切换
+- 原文：
+  1. "The winged monkey do not hurt Dorothy and Toto because they see the good witch's kiss on Dorothy's forehead."
+     译：飞猴们没有伤害多萝西和托托，因为他们看到了好女巫的吻印留在多萝西额头上。
+  2. "They decide to take them to the Wicked Witch's castle with the Lion."
+     译：他们决定把多萝西和托托一起带到邪恶女巫的城堡，和狮子关在一起。
+
+**B5-6**（2 句）
+- 分组依据：场景切入城堡内，女巫见到吻印的内心反应（条件D：阶段性场景边界，"城外执行"→"城堡内审视"），心理节拍独立
+- 原文：
+  1. "The Wicked Witch sees the kiss on Dorothy's face and she is afraid."
+     译：邪恶女巫看到多萝西脸上的吻印，心中感到恐惧。
+  2. "But she doesn't say anything."
+     译：但她什么也没说。

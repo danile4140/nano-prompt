@@ -1,0 +1,359 @@
+{
+  "storyboard_assets": [
+    {
+      "id": "B9-1",
+      "character_refs": [
+        "C1"
+      ],
+      "scene_refs": [
+        "S21"
+      ],
+      "covered_sentences": [
+        "I now decided to leave Lagado, and to go home to England.",
+        "My plan was to go to the port of MaJdonada, and to take a ship there for the island of Luggnagg.",
+        "From Luggnagg I planned to travel to Japan.",
+        "I knew that many ships went from Japan to Europe."
+      ],
+      "prompt": "单格全景，低角度仰拍，主角站于石板路中央背向镜头，面朝前方远处港口方向，前景为斑驳石砌路面，中景为破旧石砌建筑立面，后景为阴云密布的天际线，宽幅横构图。\n\n主角双手握地图，身体微前倾，目光投向远方；无对话气泡。\n\n拉格多街道，阴天清晨，低斜侧光从左方投射，近端破旧石柱与荒废农田边界形成前景纵深。\n\n整体色温偏冷，灰蓝主调，建筑与路面饱和度极低，阴云天光漫射无硬阴影。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；背影全身比例，约占画幅1/3高度。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。单格不加外边框。场景含斑驳破旧石砌建筑+不平整石板路面+荒废农田。禁止：主角发色改金/黑/卷，外套改红色/短袖，去掉皮靴，去掉短胡茬。主角背身全身约占1/3画幅高度。"
+    },
+    {
+      "id": "B9-2",
+      "character_refs": [
+        "C1"
+      ],
+      "scene_refs": [],
+      "covered_sentences": [
+        "When I arrived at Maldonada, I learnt that the next ship for Luggnagg was expected in a month.",
+        "I spent a few days in the port of Maldonada, and the local people were very kind to me."
+      ],
+      "prompt": "单格中景，平视镜头，主角站于港口码头前，侧身四分之三角度面向镜头，背景为木质码头栈桥与停泊帆船桅杆，前景为粗绳缆系泊木桩，画面开阔。\n\n主角一手拄着码头木栏，神情平静微带期待；旁侧有两名港口居民面带笑容与主角交谈，无对话气泡。\n\n马尔多纳达港口，白天晴朗，午后阳光从右上方照射，码头木质结构与绳索形成近景纹理。\n\n整体色温偏暖，海港蓝天与木质棕黄形成冷暖对比，光线明朗。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；中景半身偏全身，约占画幅高度2/5。港口居民着普通布衣，为次要配角无需细节描写。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。单格不加外边框。禁止：主角发色改金/黑/卷，外套改红色/短袖，去掉皮靴，去掉短胡茬。主角中景约占2/5画幅高度。"
+    },
+    {
+      "id": "B9-3",
+      "character_refs": [
+        "C1"
+      ],
+      "scene_refs": [],
+      "covered_sentences": [
+        "One of them offered to take me to the little island of Glubbdubrib.",
+        "'It will amuse you,' he said, 'and it isn't far.",
+        "We can go there together, and when we come back, your ship for Luggnagg will be here.'"
+      ],
+      "prompt": "单格中景，平视镜头，主角与港口当地人并排站立，两人面对面微微侧身，当地人右手指向远处海面方向，主角表情好奇，背景为港口海湾与远处岛屿剪影，画面温馨。\n\n当地人伸手指向远方，主角侧身跟随目光望向海面；气泡英文引语：\"It will amuse you, and it isn't far.\"，气泡挂于当地人头顶右侧，白底黑字圆角气泡。\n\n马尔多纳达港口，白天晴朗，暖光侧照，港湾海水远景可见岛屿轮廓。\n\n整体色温偏暖，蓝天海面与人物深色服装形成对比，氛围轻快。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；半身中景，约占画幅高度2/5。当地人为次要配角，普通港口布衣，无需细节。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。单格不加外边框。气泡英文原词来自covered_sentences。禁止：主角发色改金/黑/卷，外套改红色/短袖，去掉皮靴，去掉短胡茬。主角半身约占2/5画幅高度。"
+    },
+    {
+      "id": "B9-4",
+      "character_refs": [
+        "C1"
+      ],
+      "scene_refs": [],
+      "covered_sentences": [
+        "I accepted his kind offer, because I was curious to see Glubbdubrib.",
+        "I knew that the name of the island means 'magician' in their language, and I wanted to see what an island of magicians was like!"
+      ],
+      "prompt": "单格近景，平视略仰，主角正面四分之三朝向镜头，神情兴奋好奇，眼神发亮，背景为模糊的港口海湾，画面聚焦于主角表情。\n\n主角双手轻抬，嘴角上扬，眼睛微睁，呈现期待惊喜之态；无对话气泡。\n\n港口室外，白天，柔和正面光，背景浅景深虚化。\n\n整体色温偏暖，人物面部光线明亮，背景海蓝色为冷色衬托。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；近景半身，约占画幅高度3/5，面部为视觉中心。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。单格不加外边框。禁止：主角发色改金/黑/卷，外套改红色/短袖，去掉皮靴，去掉短胡茬。主角近景半身约占3/5画幅高度。"
+    },
+    {
+      "id": "B9-5",
+      "character_refs": [
+        "C1",
+        "C24"
+      ],
+      "scene_refs": [
+        "S23"
+      ],
+      "covered_sentences": [
+        "When we arrived on the island, we went to the Governor's palace.",
+        "The Governor welcomed us kindly, but there was something strange about his servants.",
+        "They were not dressed in modern clothes, and they were very white and pale."
+      ],
+      "prompt": "单格全景，平视宽角，主角与总督面对面站于接待厅入口，两侧站列数名仆从，仆从服饰古旧，肤色极白苍白，铁艺烛台置于两侧，大型纹章壁炉位于背景中央，厚木门铁件铆钉可见。\n\n总督展臂欢迎，主角微鞠躬回礼，侧方苍白仆从垂手静立，表情空洞；无对话气泡。\n\n格鲁布度里布总督接待厅，室内夜晚或黄昏，铁艺烛台烛光为主光源，橙黄暖光投射，边角偏暗。\n\n整体色温偏冷幽暗，烛光形成局部暖光焦点，仆从苍白肤色与暗调背景形成强对比，氛围诡异压抑。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；全身，约占画幅高度1/2。总督：黑色直发至肩，苍白皮肤，黑色宽袖长袍白色月牙形刺绣，银色宽腰带，袖口白色符文刺绣；全身，与主角高度相近。苍白仆从为背景配角，古旧服饰灰白色调。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。单格不加外边框。场景含铁艺烛台+大型壁炉纹章装饰+厚木门铁件铆钉。禁止：主角发色改金/黑/卷，外套改红色/短袖，去掉皮靴；总督发色改棕，长袍改紫，去掉白色刺绣/银色腰带，添加胡须。主角与总督全身各约1/2画幅高度。"
+    },
+    {
+      "id": "B9-6",
+      "character_refs": [
+        "C1",
+        "C24"
+      ],
+      "scene_refs": [
+        "S23"
+      ],
+      "covered_sentences": [
+        "The Governor asked us to sit down, and began to question me about my adventures.",
+        "Then he clapped his hands, and the servants in the room suddenly disappeared.",
+        "One minute they were there, and the next they were gone!"
+      ],
+      "prompt": "两格横排，白色细直线居中分隔，无圆角无阴影无渐变无留白。左格：主角与总督相对而坐于接待厅，总督身前倾身询问，主角侧身回应，背景可见苍白仆从站立。右格：同一场景，总督起身击掌，原本站立的仆从位置变为空白，只剩残余灰白雾气散开，主角与总督神情惊愕。\n\n左格总督开口询问，主角回答；右格总督双手相击，仆从消失于原位，留下飘散的白雾痕迹；无对话气泡。\n\n格鲁布度里布总督接待厅，室内，烛台暖光，厚木门与纹章壁炉作为背景锚点。\n\n整体色温偏冷暗，烛光局部暖橙，右格仆从消失处增加冷蓝白雾，形成诡异对比。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；坐姿半身，约占单格高度2/5。总督：黑色直发至肩，苍白皮肤，黑色宽袖长袍白色月牙形刺绣，银色宽腰带；坐姿或站姿半身，与主角高度相近。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。两格横排白色细直线分隔，无圆角无阴影无渐变格间无留白。场景含铁艺烛台+大型壁炉纹章装饰+厚木门铁件铆钉。禁止：主角发色改金/黑/卷，外套改红色/短袖，去掉皮靴；总督发色改棕，长袍改紫，去掉白色刺绣/银色腰带，添加胡须。坐姿半身各约2/5单格高度。"
+    },
+    {
+      "id": "B9-7",
+      "character_refs": [
+        "C1",
+        "C24"
+      ],
+      "scene_refs": [
+        "S23"
+      ],
+      "covered_sentences": [
+        "I was very surprised, and a little frightened.",
+        "Then the Governor told me the truth about his servants."
+      ],
+      "prompt": "单格近景，平视，主角与总督面对面，画面左侧为主角，右侧为总督，主角表情惊恐瞪目，总督神情平静低语，背景为接待厅烛台暗调。\n\n主角双眼睁大，身体微后仰，总督微俯身低声开口说话；无对话气泡。\n\n格鲁布度里布总督接待厅，室内，烛台暖光侧照，壁炉余光在背景隐约可见。\n\n整体偏冷暗，烛光在两人脸部形成对侧光，主角惊恐面与总督平静面形成情绪对比。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露；近景上半身，约占画幅高度3/5。总督：黑色直发至肩，苍白皮肤，黑色宽袖长袍白色月牙形刺绣，银色宽腰带；近景上半身，与主角高度相近。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。单格不加外边框。场景含铁艺烛台+大型壁炉纹章装饰。禁止：主角发色改金/黑/卷，外套改红色/短袖；总督发色改棕，长袍改紫，去掉白色刺绣/银色腰带，添加胡须。近景上半身各约3/5画幅高度。"
+    },
+    {
+      "id": "B9-8",
+      "character_refs": [
+        "C1",
+        "C24"
+      ],
+      "scene_refs": [
+        "S23"
+      ],
+      "covered_sentences": [
+        "'They're not real people,' he said, 'they're ghosts.",
+        "I'm a magician, and I can make dead people appear and disappear.'",
+        "He clapped his hands again, and the servants reappeared instantly."
+      ],
+      "prompt": "两格横排，白色细直线居中分隔，无圆角无阴影无渐变无留白。左格：总督近景正面，手指点胸，面向主角说话，神情自信；气泡：\"They're not real people, they're ghosts.\"，白底黑字圆角气泡挂于总督头顶。右格：总督再次击掌，原本空置的仆从位置瞬间出现苍白古装仆从，白色烟雾凝聚成人形，主角目瞪口呆后退半步。\n\n左格总督开口解释；右格总督双手再次相击，苍白仆从从冷白烟雾中成形出现；气泡仅在左格。\n\n格鲁布度里布总督接待厅，室内，烛台暖光，壁炉纹章可见。\n\n整体偏冷暗，右格仆从凝聚处增加冷白蓝发光效果，与烛台暖光形成对比。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露；各格半身。总督：黑色直发至肩，苍白皮肤，黑色宽袖长袍白色月牙形刺绣，银色宽腰带，袖口白色符文刺绣；各格半身，与主角高度相近。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。两格横排白色细直线分隔，无圆角无阴影无渐变格间无留白。场景含铁艺烛台+大型壁炉纹章装饰+厚木门铁件铆钉。气泡英文原词来自covered_sentences。禁止：主角发色改金/黑/卷，外套改红色/短袖，去掉皮靴；总督发色改棕，长袍改紫，去掉白色刺绣/银色腰带，添加胡须。半身各约2/5单格高度。"
+    },
+    {
+      "id": "B9-9",
+      "character_refs": [
+        "C1",
+        "C24"
+      ],
+      "scene_refs": [
+        "S23"
+      ],
+      "covered_sentences": [
+        "We stayed about ten days on the island, and we saw the Governor of the island every day.",
+        "I became used to the strange servants, and I was interested in the governor's magic."
+      ],
+      "prompt": "单格全景，俯视略俯，主角与总督并排坐于接待厅长桌一侧，桌上摆有书卷，苍白仆从在两侧静候，烛台与壁炉纹章可见，氛围趋于平常。\n\n主角侧身与总督交谈，神情已然放松，朝向苍白仆从方向的目光不再惊恐；总督手指书卷讲解；无对话气泡。\n\n格鲁布度里布总督接待厅，室内，多日相处，烛台暖光，壁炉背景，气氛较前几格平静。\n\n整体色温偏冷暗，烛台暖光局部照亮桌面书卷，整体压暗表达幽深室内感。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；坐姿全身侧影，约占画幅高度2/5。总督：黑色直发至肩，苍白皮肤，黑色宽袖长袍白色月牙形刺绣，银色宽腰带；坐姿全身侧影，与主角高度相近。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。单格不加外边框。场景含铁艺烛台+大型壁炉纹章装饰+厚木门铁件铆钉。禁止：主角发色改金/黑/卷，外套改红色/短袖，去掉皮靴；总督发色改棕，长袍改紫，去掉白色刺绣/银色腰带，添加胡须。坐姿全身各约2/5画幅高度。"
+    },
+    {
+      "id": "B9-10",
+      "character_refs": [
+        "C1",
+        "C24"
+      ],
+      "scene_refs": [
+        "S23"
+      ],
+      "covered_sentences": [
+        "He told me that he could use his power to make any dead person appear.",
+        "He asked me if I would like to meet any famous people from history.",
+        "He offered to make them appear for me.",
+        "'You can ask them any questions you like,' he told me.",
+        "'They are ghosts, and they will tell you the truth.'"
+      ],
+      "prompt": "单格中景，平视，主角侧身四分之三面向总督，总督张臂伸手示意，一种\"任君选择\"的姿态，背景壁炉纹章与烛台可见，整体氛围神秘期待。\n\n总督展臂指向虚空，作邀请姿态；主角表情惊喜跃跃欲试；气泡：\"You can ask them any questions you like. They are ghosts, and they will tell you the truth.\"，白底黑字圆角气泡挂于总督头部右侧上方。\n\n格鲁布度里布总督接待厅，室内，烛台暖光，壁炉纹章背景，空气中有微弱蓝白魔法微光。\n\n整体偏冷暗，总督展臂位置有淡蓝白色魔法光晕，烛台暖光形成对比，增加神秘感。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；中景半身，约占画幅高度2/5。总督：黑色直发至肩，苍白皮肤，黑色宽袖长袍白色月牙形刺绣，银色宽腰带，袖口白色符文刺绣；中景半身，与主角高度相近。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。单格不加外边框。场景含铁艺烛台+大型壁炉纹章装饰。气泡英文原词来自covered_sentences。禁止：主角发色改金/黑/卷，外套改红色/短袖，去掉皮靴；总督发色改棕，长袍改紫，去掉白色刺绣/银色腰带，添加胡须。中景半身各约2/5画幅高度。"
+    },
+    {
+      "id": "B9-11",
+      "character_refs": [
+        "C1",
+        "C24",
+        "C25",
+        "C26",
+        "C27",
+        "C28",
+        "C29"
+      ],
+      "scene_refs": [
+        "S23"
+      ],
+      "covered_sentences": [
+        "I asked to see some of the heroes of the past.",
+        "First I saw Alexander the Great, and the great General Hannibal.",
+        "Then I saw Pompey the Great, Caesar and Brutus."
+      ],
+      "prompt": "单格全景宽幅，平视略仰，接待厅中央五位古代英雄鬼魂并排呈弧形站立，全身蓝白色幽光笼罩略透明，前景主角与总督并排站立仰视，画面壮观。\n\n五位鬼魂依次从左到右：金色卷发甲胄红披风者（亚历山大），黑发皮质盔甲短胡者（汉尼拔），棕灰短发银甲红披风者（庞培），深棕稀疏发金袍腰带者（凯撒），黑色卷发白袍金肩扣者（布鲁图）；主角与总督立于前景左侧；无对话气泡。\n\n格鲁布度里布总督接待厅，室内，烛台暖光与鬼魂蓝白幽光双光源，壁炉纹章可见。\n\n整体偏冷，鬼魂蓝白幽光为主色，烛台暖橙光在前景两人脸部形成暖色点缀，对比强烈。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；全身，约占画幅高度2/5。总督：黑色直发至肩，苍白皮肤，黑色宽袖长袍白色月牙形刺绣，银色宽腰带；全身，与主角高度相近。五位鬼魂全身，略高于前景人物，蓝白透明质感。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。单格不加外边框。场景含铁艺烛台+大型壁炉纹章装饰+厚木门铁件铆钉。禁止：主角发色改金/黑/卷，外套改红色/短袖，去掉皮靴；总督发色改棕，长袍改紫，去掉白色刺绣；亚历山大发色改黑/棕，去掉甲胄/披风/幽光；汉尼拔发色改金，盔甲改银，去掉幽光；庞培甲胄改金，去掉红腰带/披风/幽光；凯撒发色改，长袍改红，去掉腰带/幽光；布鲁图发色改棕，长袍改金，去掉幽光/金色肩扣。前景人物约2/5画幅高度，鬼魂略高。"
+    },
+    {
+      "id": "B9-12",
+      "character_refs": [
+        "C1",
+        "C24",
+        "C30",
+        "C31"
+      ],
+      "scene_refs": [
+        "S23"
+      ],
+      "covered_sentences": [
+        "Next I asked to see famous poets and thinkers from the past, and I saw Homer and Aristotle.",
+        "I also saw some of the heroes of modern times."
+      ],
+      "prompt": "单格中景宽幅，平视，接待厅中央两位古代学者鬼魂并立，左侧白发长须闭眼者（荷马），右侧黑发短须学者袍者（亚里士多德），全身蓝白幽光，前景左侧主角与总督半身可见，主角面部表情敬畏。\n\n荷马闭目垂首，手持木杖；亚里士多德微侧身，手持书卷；主角仰视，神情肃穆；无对话气泡。\n\n格鲁布度里布总督接待厅，室内，烛台暖光与鬼魂蓝白幽光双光源。\n\n整体偏冷，鬼魂蓝白幽光主导，烛台暖光点缀前景人物。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露；半身，约占画幅高度2/5。总督：黑色直发至肩，苍白皮肤，黑色宽袖长袍白色月牙形刺绣，银色宽腰带；半身。荷马：白色长波浪发至肩，闭合眼睛，白色长须，白色宽松希腊式长袍金别针，蓝白幽光。亚里士多德：黑色短直发，短修剪胡须，白色希腊宽袖学者长袍棕色细皮带，蓝白幽光。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。单格不加外边框。场景含铁艺烛台+大型壁炉纹章装饰。禁止：主角发色改金/黑/卷；总督长袍改紫，添加胡须；荷马发色改棕，去掉长须/闭眼/幽光/长袍；亚里士多德发色改白，去掉胡须/幽光/长袍。鬼魂全身约占3/5画幅高度，前景人物半身约2/5。"
+    },
+    {
+      "id": "B9-13",
+      "character_refs": [
+        "C1"
+      ],
+      "scene_refs": [
+        "S23"
+      ],
+      "covered_sentences": [
+        "I asked them many questions about famous events in history, but their answers made me sad.",
+        "I learnt that many of these heroes had not been brave at all during their lives.",
+        "They had been dishonest, and they had been cruel.",
+        "I was very disappointed in my heroes."
+      ],
+      "prompt": "单格近景，平视，主角独站于接待厅，鬼魂已散去，背景只剩烛台暗影，主角低头垂肩，神情失落沉郁，眼神向下，整体构图压抑内敛。\n\n主角双手下垂，头微低，嘴角下压，无气泡，无其他人物，孤独立于画面中央。\n\n格鲁布度里布总督接待厅，室内，烛台暖光昏暗，壁炉在远景暗淡，氛围静默压抑。\n\n整体色温偏冷暗，主角面部烛台侧光形成孤寂轮廓，背景大面积阴暗，失落情绪色调。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；近景半身偏全身，约占画幅高度3/5，面部与体态为视觉中心。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。单格不加外边框。场景含铁艺烛台+大型壁炉纹章装饰。禁止：主角发色改金/黑/卷，外套改红色/短袖，去掉皮靴，去掉短胡茬。主角近景约3/5画幅高度。"
+    },
+    {
+      "id": "B9-14",
+      "character_refs": [
+        "C1"
+      ],
+      "scene_refs": [],
+      "covered_sentences": [
+        "We stayed about ten days on the island of Glubbdubrib before returning to Maldonada.",
+        "I then took a ship for the island of Luggnagg."
+      ],
+      "prompt": "单格全景，侧面视角，主角站于海边码头，一艘帆船停于身旁，主角一脚踏上跳板准备登船，背景为大海与远处岛屿剪影，画面开阔有动感。\n\n主角身体前倾踏板，手提小行囊，目光朝向船头；无对话气泡。\n\n港口码头，白天，晴天阳光从右侧斜照，海面反光，远景孤岛轮廓。\n\n整体色温偏暖，阳光照耀下海面蓝绿色与主角深蓝外套形成色调呼应，氛围启程前行。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；全身侧影，约占画幅高度1/2。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。单格不加外边框。禁止：主角发色改金/黑/卷，外套改红色/短袖，去掉皮靴，去掉短胡茬。主角全身侧影约1/2画幅高度。"
+    },
+    {
+      "id": "B9-15",
+      "character_refs": [
+        "C1",
+        "C32"
+      ],
+      "scene_refs": [
+        "S24"
+      ],
+      "covered_sentences": [
+        "The King of Luggnagg welcomed me kindly, and I spent some time at the palace.",
+        "I made friends with some of the most important men on the island, and we had many long conversations."
+      ],
+      "prompt": "单格全景，平视略仰，主角在勒格纳格王宫觐见大厅内，面向国王行礼，国王坐于王座，华丽长地毯延伸至前景，两侧成对石柱排列，水晶烛台高悬，气氛庄严华美。\n\n主角单膝微跪行礼，国王坐姿展臂欢迎；侧方有几位贵族立于石柱旁；无对话气泡。\n\n勒格纳格王宫觐见大厅，室内，白天或灯火通明，水晶烛台光线明亮，华丽地毯铺陈。\n\n整体色温偏暖金，水晶烛台白光与织物金色、石柱暖黄形成富丽色调，氛围热烈庄重。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；全身跪姿，约占画幅高度1/3。国王：黑色中长发整齐，深蓝色绸缎皇袍银色刺绣，金色宽腰带，金色王冠嵌白色珍珠；坐姿全身，约占画幅高度2/5。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。单格不加外边框。场景含华丽长地毯通向王座+成对石柱+水晶大型烛台。禁止：主角发色改金/黑/卷，外套改红色/短袖，去掉皮靴；国王去掉王冠，皇袍改红，去掉腰带，添加胡须。主角跪姿约1/3，国王坐姿约2/5画幅高度。"
+    },
+    {
+      "id": "B9-16",
+      "character_refs": [
+        "C1",
+        "C33"
+      ],
+      "scene_refs": [
+        "S24"
+      ],
+      "covered_sentences": [
+        "One day, one of my friends asked me if I knew about the Struldbruggs.",
+        "'No,' I replied, 'I've never heard of the Struldbruggs.",
+        "Who are they?'",
+        "'The Struldbruggs,' he explained, 'are people who do not die.",
+        "They live for ever.'"
+      ],
+      "prompt": "两格横排，白色细直线居中分隔，无圆角无阴影无渐变无留白。左格：主角与朋友在觐见大厅侧廊对坐交谈，朋友神情郑重开口询问，主角摇头表示不知；气泡：\"Who are they?\"，挂于主角头顶。右格：朋友俯身前倾，认真解释，手势辅助描述；气泡：\"They live for ever.\"，挂于朋友头顶。\n\n左格主角摇头，朋友发问；右格朋友低声细说，主角神情惊奇；各格均有对话气泡，白底黑字圆角。\n\n勒格纳格王宫觐见大厅侧廊，室内，水晶烛台暖白光，石柱可见。\n\n整体偏暖，金色光线烘托宫廷氛围，两人交谈场景温馨亲密。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露；坐姿半身，约占单格高度2/5。朋友：灰棕色短发，圆脸，深棕色宽袖传统袍服橙色条纹领口，棕色宽布腰带；坐姿半身，与主角高度相近。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。两格横排白色细直线分隔，无圆角无阴影无渐变格间无留白。场景含成对石柱+水晶大型烛台。气泡英文原词来自covered_sentences。禁止：主角发色改金/黑/卷，外套改红色/短袖；朋友发色改，袍服改色，去掉橙色条纹领口/棕色腰带，添加胡须。坐姿半身各约2/5单格高度。"
+    },
+    {
+      "id": "B9-17",
+      "character_refs": [
+        "C1",
+        "C33"
+      ],
+      "scene_refs": [
+        "S24"
+      ],
+      "covered_sentences": [
+        "'How wonderful!' I cried.",
+        "I was very excited.",
+        "'I'm sure the Struldbruggs are very wise.",
+        "Do they share their wisdom with the people?",
+        "Do they help and advise the King?",
+        "Think how happy they are, these men who never die!'"
+      ],
+      "prompt": "单格中景，平视，主角激动起身，双手张开，面向朋友，表情兴奋喜悦，眼神发光；朋友坐于对面，神情平静微带苦笑；背景为觐见大厅石柱与水晶烛台。\n\n主角起立张臂，嘴巴微张激动说话；气泡：\"How wonderful! Think how happy they are, these men who never die!\"，白底黑字圆角气泡挂于主角头顶。朋友坐着微笑不语。\n\n勒格纳格王宫觐见大厅，室内，水晶烛台明亮暖白光。\n\n整体色调偏暖明亮，主角激动动势与明亮光线配合，烘托兴奋氛围。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；站姿中景半身，约占画幅高度3/5。朋友：灰棕色短发，圆脸，深棕色宽袖传统袍服橙色条纹领口，棕色宽布腰带；坐姿半身，约占画幅高度2/5。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。单格不加外边框。场景含成对石柱+水晶大型烛台。气泡英文原词来自covered_sentences。禁止：主角发色改金/黑/卷，外套改红色/短袖，去掉皮靴；朋友发色改，袍服改色，去掉橙色条纹领口/棕色腰带，添加胡须。主角站姿约3/5，朋友坐姿约2/5画幅高度。"
+    },
+    {
+      "id": "B9-18",
+      "character_refs": [
+        "C1",
+        "C33"
+      ],
+      "scene_refs": [
+        "S24"
+      ],
+      "covered_sentences": [
+        "My friend smiled.",
+        "'You think obey are happy, these men who never die?' he asked me.",
+        "'You tbink they are wise, and good, and happy, don't you?'",
+        "'Certainly,' I replied.",
+        "'I'm sure they are wise, and good, and happy.'"
+      ],
+      "prompt": "单格中景，平视，主角与朋友面对面，主角神情肯定点头，朋友嘴角挂着意味深长的微笑，一手微抬，作反问手势，背景觐见大厅石柱与水晶烛台隐约可见。\n\n朋友微笑侧头，手势反问；主角微微点头，语气肯定；气泡：\"Certainly. I'm sure they are wise, and good, and happy.\"，白底黑字圆角气泡挂于主角头顶。\n\n勒格纳格王宫觐见大厅，室内，水晶烛台暖白光，氛围平静。\n\n整体色温偏暖，光线稳定，重在两人神情微妙情绪对比：主角的天真肯定与朋友的深知内情微笑。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；中景半身，约占画幅高度2/5。朋友：灰棕色短发，圆脸，深棕色宽袖传统袍服橙色条纹领口，棕色宽布腰带；中景半身，与主角高度相近。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。单格不加外边框。场景含成对石柱+水晶大型烛台。气泡英文原词来自covered_sentences。禁止：主角发色改金/黑/卷，外套改红色/短袖，去掉皮靴；朋友发色改，袍服改色，去掉橙色条纹领口/棕色腰带，添加胡须。中景半身各约2/5画幅高度。"
+    },
+    {
+      "id": "B9-19",
+      "character_refs": [
+        "C1",
+        "C33"
+      ],
+      "scene_refs": [
+        "S24"
+      ],
+      "covered_sentences": [
+        "'Listen to me,' my friend said, 'and I'll tell you the truth about the Struldbruggs.",
+        "They are born with a special mark on their heads,' he began.",
+        "'Everyone knows who they are.",
+        "They behave like ordinary people until they are about thirty years old.",
+        "Then they become sad, and they are sad until they are about eighty years old."
+      ],
+      "prompt": "单格中景，平视，朋友身体前倾，表情严肃认真，一手按住膝盖，正在娓娓道来；主角坐于对面，身体前倾专注倾听，表情从兴奋渐变为若有所思；背景石柱与烛台。\n\n朋友开口细说，表情郑重；主角皱眉倾听，神情开始凝重；气泡：\"Listen to me, and I'll tell you the truth about the Struldbruggs.\"，白底黑字圆角气泡挂于朋友头顶右侧。\n\n勒格纳格王宫觐见大厅，室内，水晶烛台光，氛围由明快转沉。\n\n整体色温稍微偏冷，强调叙述沉重感，光线较前格稍暗，暗示故事内容转折。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露；坐姿半身，约占画幅高度2/5。朋友：灰棕色短发，圆脸，深棕色宽袖传统袍服橙色条纹领口，棕色宽布腰带；坐姿半身，与主角高度相近。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。单格不加外边框。场景含成对石柱+水晶大型烛台。气泡英文原词来自covered_sentences。禁止：主角发色改金/黑/卷，外套改红色/短袖；朋友发色改，袍服改色，去掉橙色条纹领口/棕色腰带，添加胡须。坐姿半身各约2/5画幅高度。"
+    },
+    {
+      "id": "B9-20",
+      "character_refs": [
+        "C1",
+        "C33",
+        "C34"
+      ],
+      "scene_refs": [
+        "S24"
+      ],
+      "covered_sentences": [
+        "When they are eighty years old, they are like other old men.",
+        "They forget things, and they become ill.",
+        "After the age of eighty, they lose all their friends, and they never make new friends.",
+        "'Their sufferings are terrible,' my friend said."
+      ],
+      "prompt": "单格中景，主角与朋友在前景，画面右侧或中景出现一位极度衰老的不死者，佝偻站立，身着破旧浅灰旧长袍，额头有深红色椭圆胎记，稀疏白发，深度皱纹，神情茫然空洞；朋友指向老人，表情凝重；主角望向老人，神情震惊。\n\n朋友侧身指向老人，口中继续叙述；主角眼神直射老人，嘴唇微张；气泡：\"Their sufferings are terrible.\"，白底黑字圆角气泡挂于朋友头顶；无对话气泡在主角处。\n\n勒格纳格王宫觐见大厅，室内，水晶烛台光，老人处光线较暗冷，前景人物受暖光照射。\n\n整体色温冷暖对比，老人所在区域偏冷暗灰，前景两人偏暖，强调孤立与隔绝感。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露；半身，约占画幅高度2/5。朋友：灰棕色短发，圆脸，深棕色宽袖传统袍服橙色条纹领口，棕色宽布腰带；半身，与主角高度相近。不死者：极度衰老，稀疏白发，深度皱纹，额头深红色椭圆胎记，浅灰色旧长袍破旧袖口；全身佝偻，约占画幅高度1/2。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。单格不加外边框。场景含成对石柱+水晶大型烛台。气泡英文原词来自covered_sentences。禁止：主角发色改金/黑/卷，外套改红色/短袖；朋友发色改，袍服改色，去掉橙色条纹领口/棕色腰带，添加胡须；不死者去掉胎记，改变佝偻体型/混浊眼睛/稀疏白发。前景两人半身约2/5，不死者全身佝偻约1/2画幅高度。"
+    },
+    {
+      "id": "B9-21",
+      "character_refs": [
+        "C1",
+        "C33",
+        "C34"
+      ],
+      "scene_refs": [
+        "S24"
+      ],
+      "covered_sentences": [
+        "'When they are ninety years old, they have no memory at all,' he continued.",
+        "'They cannot remember the names of their children.",
+        "They cannot read, because they cannot remember the words of a sentence.",
+        "After two hundred years, they cannot even speak to people.",
+        "This is because the language of the country changes, and they cannot learn the new words.'"
+      ],
+      "prompt": "两格横排，白色细直线居中分隔，无圆角无阴影无渐变无留白。左格：不死者在觐见大厅角落独坐，面前放有一本书，手指书页，眼神混浊茫然，画面凄冷；右格：朋友与主角的近景，朋友神情沉重叙述，主角低头，表情悲痛难过，眼神朝下。\n\n左格不死者翻书却无法阅读，表情空洞；右格朋友低声说完最后内容，主角已无言；气泡在右格朋友头顶：\"They cannot even speak to people.\"，白底黑字圆角气泡。\n\n勒格纳格王宫觐见大厅，室内，左格角落冷暗，右格水晶烛台暖光较前格更柔和压抑。\n\n整体色调压抑冷暗，左格冷灰蓝调，右格暖光极其克制，整体情感基调沉重。\n\n不死者：极度衰老，稀疏白发，深度皱纹，额头深红色椭圆胎记，浅灰色旧长袍破旧袖口；坐姿，约占左格高度2/5。主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露；半身，约占右格高度2/5。朋友：灰棕色短发，圆脸，深棕色宽袖传统袍服橙色条纹领口，棕色宽布腰带；半身，与主角高度相近。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。两格横排白色细直线分隔，无圆角无阴影无渐变格间无留白。场景含成对石柱+水晶大型烛台。气泡英文原词来自covered_sentences。禁止：主角发色改金/黑/卷，外套改红色/短袖；朋友发色改，袍服改色，去掉橙色条纹领口/棕色腰带，添加胡须；不死者去掉胎记，改变佝偻体型/混浊眼睛/稀疏白发。不死者坐姿约2/5左格高度，主角和朋友半身各约2/5右格高度。"
+    },
+    {
+      "id": "B9-22",
+      "character_refs": [
+        "C1"
+      ],
+      "scene_refs": [
+        "S24"
+      ],
+      "covered_sentences": [
+        "This story of the Struldbruggs made me very sad.",
+        "I left Luggnagg shortly afterwards.",
+        "I travelled to Japan, where I found a ship for England."
+      ],
+      "prompt": "单格全景，低角度平视，主角独自走在觐见大厅长地毯走道上，朝着厅门方向背身行走，华丽地毯在前景延伸，成对石柱立于两侧，水晶烛台高悬，画面宏阔但主角渺小孤独。\n\n主角背对镜头，步伐稳定但肩膀微微下沉，透露沉重；无对话气泡。\n\n勒格纳格王宫觐见大厅，室内，水晶烛台暖白光，华丽地毯铺陈，气氛静默庄严。\n\n整体色温偏暖但情绪压抑，宏大宫廷空间与孤独背影形成对比，烘托悲凉离别情绪。\n\n主角：棕色短发蓬松略乱，深蓝色长款翻领铜扣外套，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；全身背影，约占画幅高度1/3，为画幅中央偏远处的孤独身影。\n\nSTYLE_PLACEHOLDER\n\n角色外观、服装细节、场景家具布局严格遵循参考图，不自行添加或修改任何细节，人物外观与比例保持前后一致。画面内不得渲染中文文字，无水印，无多余人物，人物比例自然，道具大小合理，空间关系清楚。单格不加外边框。场景含华丽长地毯通向王座+成对石柱+水晶大型烛台。禁止：主角发色改金/黑/卷，外套改红色/短袖，去掉皮靴，去掉短胡茬。主角全身背影约1/3画幅高度，位于画面中央偏远处。"
+    }
+  ]
+}

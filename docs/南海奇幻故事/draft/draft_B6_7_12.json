@@ -1,0 +1,70 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B6-7",
+      "character_refs": ["C2", "C3"],
+      "scene_refs": ["S10"],
+      "covered_sentences": [
+        "'Good idea!' said Lehua.",
+        "'There are some old maps in the living room. There's probably a map of Hawaii and the dangerous archipelago among them.'",
+        "He went to the bookshelf in the living room and got down some old maps.",
+        "After a while they found one of Hawaii. Lehua soon found where the island was."
+      ],
+      "layout": "①构图与镜头：横排3格序列条构图，「莱华同意→科欧拉取地图→两人找到」三步。左格：对话镜头，看向莱华正面笑脸，「好主意！」；科欧拉过肩前景。中格：镜头从书架侧方，中景，看向科欧拉从书架取下一卷旧地图；书架在背景，桌面地图散放。右格：镜头从书桌上方俯角，看向两人展开地图，莱华手指某处；桌面上摊开的旧地图为视觉主体。比例锚点：左格：莱华（引用C3）中近景，头部约占左格2/3高度，门框边缘在背景；中格：科欧拉（引用C2）站于书架旁，书架高约成人身高1.8倍，地图卷轴在其手中；右格：桌面地图约成人肩宽大小，两人头顶约可见，桌面高约成人腰部。②动作与关系：左格：莱华（引用C3）点头，气泡「好主意！」，面带微笑。中格：科欧拉（引用C2）手伸向书架，取下地图卷轴；书架上书籍部分错位（已翻找痕迹）。右格：两人俯身看地图，莱华（引用C3）手指地图某处，气泡语义「就是这里！」；地图上有岛屿轮廓+标注感图示。③场景：S10客厅（回家后版），白天，室内暖光；书架在背景，桌面摊开地图；与S1相同空间，但地图已摊开。④光影与色彩：白天室内暖光，整体积极合作氛围。⑤主体与角色：逐格角色预算：左格可辨识2人，中格可辨识1人，右格可辨识2人。科欧拉（引用C2）和莱华（引用C3）按格分配可辨识。"
+    },
+    {
+      "id": "B6-8",
+      "character_refs": ["C2", "C3"],
+      "scene_refs": ["S10"],
+      "covered_sentences": [
+        "'It's a long way for an old man to walk,' said Keola.",
+        "'Yes, it is,' said Lehua, 'but, don't forget, my father's a wizard.'",
+        "Keola thought for a moment and said, 'Let's go and talk to a white missionary. Perhaps he can help us.'",
+        "'A white missionary?' asked Lehua, confused."
+      ],
+      "layout": "①构图与镜头：对话双格构图，左右二分1:1，两人讨论，情绪均等。左格：镜头位于莱华过肩，看向科欧拉侧脸；科欧拉手指地图，思考表情。右格：镜头位于科欧拉过肩，看向莱华侧脸；莱华表情困惑「白人传教士？」。比例锚点：左格：科欧拉（引用C2）侧脸，手指地图，桌面可见；右格：莱华（引用C3）侧脸，困惑眉型，头顶约及书架背景第一层。②动作与关系：左格：科欧拉（引用C2）手指地图，分析讨论；气泡：①「路程很远，老人走不回来」（地图距离图示），②「但他是巫师」（莱华简笔气泡反驳），③科欧拉「去找白人传教士！也许他能帮我们」（传教士简笔图标）。右格：莱华（引用C3）困惑，气泡「白人传教士？」，配大问号图标。③场景：S10客厅，白天，室内暖光；桌面地图可见，书架在背景。④光影与色彩：白天暖光，谋划气氛轻松谨慎。⑤主体与角色：逐格角色预算：两格各可辨识2人。科欧拉（引用C2）和莱华（引用C3）两格均可辨识。"
+    },
+    {
+      "id": "B6-9",
+      "character_refs": ["C2", "C3", "C9"],
+      "scene_refs": ["S1"],
+      "covered_sentences": [
+        "'Perhaps he can help us,' said Keola. 'Missionaries know a lot of things.'",
+        "Keola found a white missionary and told him the long story.",
+        "The missionary was a clever man and listened carefully to Keola.",
+        "'You married a second wife while you were on the Isle of Voices,' said the missionary. 'That's wrong, very wrong.'"
+      ],
+      "layout": "①构图与镜头：左右二分1:1构图，左格为科欧拉讲述（传教士倾听），右格为传教士指责（科欧拉窘迫）。左格：镜头位于传教士过肩，中景，看向科欧拉讲述，莱华在其旁边；传教士（引用C9）背影前景。右格：镜头位于科欧拉过肩，中近景，看向传教士（引用C9）正面偏侧，神情严肃指责；科欧拉肩背前景。比例锚点：左格：科欧拉（引用C2）中景站立，头顶约及背景书架第二层，莱华（引用C3）在其旁略矮；右格：传教士（引用C9）中近景，黑色长袍可见，头部占右格约2/3高度。②动作与关系：左格：科欧拉（引用C2）讲述，手势丰富；莱华（引用C3）在旁静听；云状气泡从科欧拉头部，内含各段经历简笔图（船、岛、食人族、传送），表达「长篇故事讲述」。右格：传教士（引用C9）神情严肃，手指，气泡语义「你在声音之岛上娶了第二个妻子——这是错的！」，配叉号+婚礼简笔图示。③场景：S1客厅，白天，室内暖光；书架在背景，圣经在桌面（传教士场合感）。④光影与色彩：白天暖光；传教士指责时面部用侧打光强调权威感。⑤主体与角色：逐格角色预算：左格可辨识2人（科欧拉+莱华）+不可辨识传教士背影，右格可辨识2人（传教士+科欧拉过肩）。科欧拉（引用C2）、莱华（引用C3）、传教士（引用C9）均可辨识。"
+    },
+    {
+      "id": "B6-10",
+      "character_refs": ["C2", "C9"],
+      "scene_refs": ["S1"],
+      "covered_sentences": [
+        "Keola did not know what to say.",
+        "'All the other things you've told me are confusing and mysterious,' said the missionary, 'and I really don't understand them.'"
+      ],
+      "layout": "①构图与镜头：对话双格构图，左右二分2:1，被说话方（科欧拉受窘）更重要，科欧拉占右主格2/3。左辅格：镜头位于科欧拉过肩，看向传教士侧脸；传教士神情困惑+严肃。右主格：镜头位于传教士过肩，看向科欧拉窘迫近景；科欧拉低头，不知所措。比例锚点：左格：传教士（引用C9）侧脸中近景；右格：科欧拉（引用C2）低头近景，头部占右格约3/4高度。②动作与关系：左辅格：传教士（引用C9）神情困惑，气泡语义「你告诉我的其他事情都令人困惑……我不明白」，配「？」图标+迷宫图示（「神秘复杂」）。右主格：科欧拉（引用C2）低头，双手并拢，嘴唇抿住，表情窘迫，不知说什么；无气泡，静默受窘。③场景：S1客厅，白天，室内暖光；书架在背景。④光影与色彩：白天暖光，科欧拉窘迫感轻微阴影。⑤主体与角色：逐格角色预算：两格各可辨识2人。传教士（引用C9）和科欧拉（引用C2）均可辨识。"
+    },
+    {
+      "id": "B6-11",
+      "character_refs": ["C2", "C3", "C9"],
+      "scene_refs": ["S1"],
+      "covered_sentences": [
+        "Keola and Lehua looked at each other.",
+        "'However,' said the missionary, 'if Kalamake made money in a dishonest way, give some of it to the poor people of the island. You can also give some to the missionaries. Your adventure on the Isle of Voices is very strange and you mustn't tell anyone about it. It's your secret.'"
+      ],
+      "layout": "①构图与镜头：横排3格构图，「科欧拉和莱华对视→传教士建议→二人听取」。左格：镜头从侧方，中景，看向科欧拉和莱华面面相觑，表情复杂。中格：镜头位于科欧拉和莱华过肩，看向传教士正面，中近景，传教士给出建议。右格：镜头从传教士侧方，中景，看向科欧拉和莱华点头听取。比例锚点：左格：科欧拉（引用C2）和莱华（引用C3）并排，身高相差约1/4；中格：传教士（引用C9）中近景，头部约占中格2/3；右格：两人并排点头，头顶约及书架第一层。②动作与关系：左格：科欧拉（引用C2）和莱华（引用C3）侧视对方，眼神交流，表情复杂（既窘迫又期待）；无气泡。中格：传教士（引用C9）神情温和建议，气泡语义「把钱给穷人和传教士——声音之岛上的经历不要告诉任何人——这是你们的秘密」；保密图示（嘴唇+锁+金币分配图示）。右格：科欧拉（引用C2）和莱华（引用C3）并排点头，表情遵从。③场景：S1客厅，白天，室内暖光；书架在背景。④光影与色彩：白天暖光；整体「接受建议」平静氛围。⑤主体与角色：逐格角色预算：三格：左格2人，中格3人（传教士主体+二人过肩），右格2人。科欧拉（引用C2）、莱华（引用C3）、传教士（引用C9）均可辨识。"
+    },
+    {
+      "id": "B6-12",
+      "character_refs": ["C9"],
+      "scene_refs": ["S2"],
+      "covered_sentences": [
+        "But the missionary went to the police in Honolulu.",
+        "'Be careful,' he told them, 'because Kalamake and Keola made counterfeit money while they were on the Isle of Voices. Keep an eye on them.'"
+      ],
+      "layout": "①构图与镜头：左右二分2:1构图，左主格2/3承载传教士秘密去警察局（背叛揭露），右辅格1/3承载警察们的反应。左主格：镜头从警察局内侧，斜侧，中景，看向传教士（引用C9）站于警察面前低声叮嘱；表情严肃，与之前「建议保密」形成对比。右辅格：镜头从传教士侧方，看向2-3名不可辨识警察仔细聆听，记录气泡。比例锚点：左格：传教士（引用C9）中景，黑色长袍，头顶约及门框1/2；右格：不可辨识警察轮廓约2-3人，在传教士旁。②动作与关系：左主格：传教士（引用C9）低声叮嘱，表情「告密式」，对话气泡语义「小心——卡拉马克和科欧拉在声音之岛上制造了假币——盯紧他们！」；假币图示（美元+警告图标）；与之前「保密」承诺形成视觉反差（保密锁→被打破）。右辅格：不可辨识警察记录（笔记图示），无可辨识面孔。③场景：S2房屋门前（假定）或公共建筑外，白天；传教士独自前往警察局，与科欧拉/莱华无关的新场景。④光影与色彩：白天暖光，但「背叛」感用轻微冷色调叠加传教士角色；整体带有讽刺色彩。⑤主体与角色：逐格角色预算：左格可辨识1人（传教士），右格无可辨识（警察不可辨识）。传教士（引用C9）左格可辨识；科欧拉和莱华不在场。"
+    }
+  ]
+}

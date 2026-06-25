@@ -1,0 +1,54 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B3-19",
+      "character_refs": [
+        "C1",
+        "C7",
+        "C13"
+      ],
+      "scene_refs": [
+        "S5"
+      ],
+      "covered_sentences": [
+        "She began to pull him towards the door. 'Bring Master Scrooge's luggage to the coach!' somebody shouted in a terrible voice.",
+        "It was the teacher, and when he came in, the boy was very frightened.",
+        "'Goodbye, Master Scrooge!' said the teacher in his terrible voice. 'Goodbye, sir,' the boy answered, trembling.",
+        "But when he got into the coach with his sister, he felt happy."
+      ],
+      "layout": "构图与镜头：横排三格构图，等宽三格承载告别序列。左格：范妮拉着哥哥走向门口，校长出现；中格：校长与少年道别，少年颤抖；右格：少年和范妮进入马车感到快乐。左格：镜头位于教室门口内侧，中景斜侧30度，看向范妮拉着哥哥走动，校长（不可辨识高大人影）从右侧进入；中格：镜头位于校长右侧，中近景，看向校长（高大背影，不可辨识）和少年（颤抖）的对峙；右格：镜头位于马车外侧，中景，看向范妮和哥哥进入马车，两人面露快乐。比例锚点：左格范妮头顶约在哥哥腰部，教室门框高约成人身高1.5倍；中格不可辨识校长高大背影占画面高度约70%（比例压迫），少年缩小在下方；右格马车门约在哥哥腰部，范妮更小，两人进入马车。\n\n动作与关系：左格：范妮（引用C13）拉着哥哥（不可辨识少年，简笔）走向门口，画面右侧有一可怕的高大背影（不可辨识校长）进入，附B级符号：浅蓝色水滴（哥哥恐惧）；中格：不可辨识校长高大背影，少年（不可辨识简笔）颤抖，附B级符号：浅蓝色水滴多个；右格：范妮（引用C13）和不可辨识哥哥进入马车，两人面露快乐，附B级符号：粉红色爱心+橙红色感叹号；斯克鲁奇（引用C1）和圣诞过去之灵（引用C7）在三格边缘旁观（离画）。\n\n场景：斯克鲁奇童年就读的寄宿学校教室（引用S5）至门口及马车，白天。\n\n光影与色彩：左中格昏暗，右格马车处略见温暖阳光。\n\n主体与角色：逐格角色预算：左格可辨识1人——范妮（引用C13），哥哥和校长为不可辨识轮廓；中格可辨识0人（校长和少年均为不可辨识）；右格可辨识1人——范妮（引用C13），哥哥为不可辨识轮廓；斯克鲁奇（引用C1）在画面边缘离画暗示。条件B（触发-转折）：校长出现（触发恐惧）→进入马车释然（转折），分格表达。"
+    },
+    {
+      "id": "B3-20",
+      "character_refs": [
+        "C1",
+        "C7"
+      ],
+      "scene_refs": [],
+      "covered_sentences": [
+        "'Your sister had a very good heart,' said the Ghost. 'When she died, she left one child — your nephew.'",
+        "'Yes.'",
+        "Scrooge remembered the conversation with his nephew in his office the afternoon before, and he felt bad about it."
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例1:2（左格圣诞过去之灵辅格，提及范妮已死；右格斯克鲁奇主格，悔悟愧疚）。左格：镜头位于圣诞过去之灵正前方，中近景，平视，看向圣诞过去之灵温柔宣告；右格：镜头位于斯克鲁奇正前方，中近景，平视，看向斯克鲁奇愧疚面部，思维气泡在画面右上角。比例锚点：左格圣诞过去之灵娇小，面部约占画面高度50%，白色光晕；右格斯克鲁奇面部约占画面高度65%。\n\n动作与关系：左格：圣诞过去之灵（引用C7）温柔宣告，头顶对白气泡内容从covered_sentences抽取nephew（D级物品图标：弗雷德mini_icon头像简笔画：深棕卷发，红润圆脸，深红外套，格纹围巾）；右格：斯克鲁奇（引用C1）面露愧疚，目光朝向思维气泡方向，思维气泡内画与弗雷德对话的简笔场景（两人小轮廓）+深灰色小乌云，承载内心悔意。\n\n场景：回到现实叙事层，圣诞过去之灵和斯克鲁奇对话，背景淡化。条件D（阶段性场景边界）：从回忆切回现实对话节拍。\n\n光影与色彩：圣诞过去之灵白金光晕；斯克鲁奇冷灰调，愧疚情绪。\n\n主体与角色：逐格角色预算：左格可辨识1人——圣诞过去之灵（引用C7）；右格可辨识1人——斯克鲁奇（引用C1）。"
+    },
+    {
+      "id": "B3-21",
+      "character_refs": [
+        "C1",
+        "C7",
+        "C10"
+      ],
+      "scene_refs": [
+        "S6"
+      ],
+      "covered_sentences": [
+        "Suddenly they were standing at the door of an office in the city.",
+        "It was Christmas again.",
+        "'I know this place very well! And there's old Mr Fezziwig — alive again! Oh, dear old Fezziwig!'",
+        "Mr Fezziwig was a fat, happy man with a red face. He was working at a desk."
+      ],
+      "layout": "构图与镜头：左右二分构图，比例1:2（左格辅格：两人突现门口；右格主格：斯克鲁奇认出费滋威格）。左格：镜头位于费滋威格商行门口外侧，中景，看向斯克鲁奇（引用C1）和圣诞过去之灵（引用C7）突然站在门口；右格：镜头位于商行门口内侧，中景，斯克鲁奇在前景半身，费滋威格（引用C10）在中景桌后工作。比例锚点：左格斯克鲁奇全身，门框高于头顶约半头，圣诞过去之灵头顶约在斯克鲁奇腰部；右格斯克鲁奇半身前景较大，费滋威格在桌后，桌面约在其腰部，门框在后方。\n\n动作与关系：左格：斯克鲁奇和圣诞过去之灵突然出现在商行门口，斯克鲁奇面露惊喜；右格：斯克鲁奇面露惊喜，头顶对白气泡内容从covered_sentences抽取Fezziwig（D级物品图标：肥胖圆脸男人轮廓，承载认出费滋威格的感叹）；费滋威格（引用C10）坐于桌后，体型圆润，红润面庞，俯身工作；附A级氛围：AURA-BEAUTY-1（细碎鎏金星芒光点），承载惊喜高潮。\n\n场景：费兹威格的商行办公室（引用S6）门口，圣诞节，白天，温暖光线。\n\n光影与色彩：室内暖光，温暖转变。\n\n主体与角色：逐格角色预算：左格可辨识2人——斯克鲁奇（引用C1）+圣诞过去之灵（引用C7），圣诞过去之灵头顶约在斯克鲁奇腰部；右格可辨识2人——斯克鲁奇（引用C1）前景+费滋威格（引用C10）中景，门框高于两人；费滋威格坐姿头顶约与账本文件架等高。"
+    }
+  ]
+}

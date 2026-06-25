@@ -1,0 +1,65 @@
+第 2 章分镜规划（条目 1–6）
+
+**B2-1**（4 句）
+- 分组依据：同一节拍（介绍保罗其人：背景、性格、爱好），同一叙述视角，无场景跳变，同一情绪基调（平静叙述）；逐对四维度扫描：①保罗信息→②家庭背景，均无切换，4句合并
+- 原文：
+  1. "I always eat lunch at school."
+     译：我一直在学校吃午饭。
+  2. "That day I ate with Dana and Paul Miller, another friend from my class."
+     译：那天我和达娜以及同班同学保罗·米勒一起吃饭。
+  3. "Paul was a very intelligent boy."
+     译：保罗是个非常聪明的男孩。
+  4. "He was always the best in math."
+     译：他的数学一直是最好的。
+
+**B2-2**（4 句）
+- 分组依据：继续介绍保罗家庭背景（父母离异、孤独），同一叙述节拍，无场景跳变，情绪色调略微转暗但属连续渐进叙述；逐对四维度：无切换，4句合并
+- 原文：
+  1. "His parents were divorced and he lived with his father and his black cat, Apollo."
+     译：他的父母离婚了，他和父亲以及黑猫阿波罗住在一起。
+  2. "He missed his mother."
+     译：他很想念妈妈。
+  3. "She lived with another man and didn't want to see Paul."
+     译：她和另一个男人生活，不想见保罗。
+  4. "His father was never at home, so Paul was very lonely."
+     译：他父亲从不在家，所以保罗非常孤独。
+
+**B2-3**（2 句）
+- 分组依据：继续保罗背景（朋友少、爱阿波罗），结束介绍节拍，与下一节拍（对话开始）之间有话题切换
+- 原文：
+  1. "He didn't have many friends at school because he was too intellectual."
+     译：他在学校没什么朋友，因为他太有学究气了。
+  2. "He loved Apollo very much and spent a lot of time with him."
+     译：他非常爱阿波罗，花很多时间陪它。
+
+**B2-4**（3 句）
+- 分组依据：对话开始（讨论新老师），话题切换，新节拍；达娜、珍妮、保罗三人轮流发言（多回合对话）
+- 原文：
+  1. "'What do you think about our new teachers?' asked my friends."
+     译："你们觉得我们的新老师怎么样？"朋友们问。
+  2. "'I think Mr. Adams is very sexy!' said Dana."
+     译："我觉得亚当斯老师非常性感！"达娜说。
+  3. "'Did you see how he looked at the airplane? The sun didn't bother him!' exclaimed Paul."
+     译："你们注意到他怎么看那架飞机了吗？太阳根本不影响他！"保罗大声说。
+
+**B2-5**（3 句）
+- 分组依据：保罗话题引出斯通老师的怪异，珍妮和达娜相继附和；连续同一话题（老师怪异），同一情绪基调（好奇/不安），≤4句
+- 原文：
+  1. "'You're right!' I said. 'But did you hear Mr. Stone? He speaks like a robot! His voice is cold and metallic!'"
+     译："你说得对！"我说，"但你们听到斯通老师了吗？他说话像机器人！声音又冷又像金属！"
+  2. "'He's unfriendly too!' added Dana."
+     译："他也不友好！"达娜补充。
+  3. "'That's true!' I said."
+     译："没错！"我说。
+
+**B2-6**（4 句）
+- 分组依据：保罗发现斯通老师的奇怪午餐（绿色液体+黑色药片变红色），这是一个关键戏剧性事件（道具突现、异常发现）；4句描述同一个连续观察过程，逐对四维度：同一空间/同一时刻/同一视觉焦点（斯通老师）/同一情绪基调，无切换，合并
+- 原文：
+  1. "'Look!' said Paul. 'Look what he's eating!'"
+     译："看！"保罗说，"看他在吃什么！"
+  2. "We looked at Mr. Stone. He sat away from the other teachers and he didn't have a normal lunch."
+     译：我们看向斯通先生。他坐在远离其他老师的地方，午餐也很不寻常。
+  3. "There was a glass in front of him. It was full of a dense, green liquid. There were some black pills in his hand. He put two of them in the glass."
+     译：他面前有一个杯子，装满了浓稠的绿色液体。他手里拿着几粒黑色药片，把两粒放进杯中。
+  4. "The green liquid started to bubble, and it changed colour: it started to become red! Then he took the glass and drank the mysterious red formula."
+     译：绿色液体开始冒泡，颜色改变了——逐渐变红！然后他端起杯子，喝下了那神秘的红色配方。

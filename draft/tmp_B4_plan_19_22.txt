@@ -1,0 +1,69 @@
+**B4-19**（2 句）
+- 分组依据：出发节拍——朋友们离开翡翠城（句 44）、途中把眼镜还给看门小人（句 45），连续出发动作，同一空间（城门出口），2 句。
+- 原文：
+  1. "The friends leave the Emerald City to find the Wicked Witch of the West."
+     译：朋友们离开翡翠城，去寻找西方邪恶女巫。
+  2. "On their way out they give their glasses to the little man at the gate."
+     译：出门时，他们把眼镜还给了城门处的小人。
+
+---
+
+**B4-20**（2 句）
+- 分组依据：问路对话节拍——多萝西问看门小人女巫在哪（句 46）、小人回答并警告（句 47），1 回合对话，同话题，2 句。
+- 原文：
+  1. "Dorothy asks him, "Where is the Wicked Witch of the West? We must find her.""
+     译：多萝西问他：「西方邪恶女巫在哪里？我们必须找到她。」
+  2. ""She lives in the Land of the Winkies," he says, "You must walk to the West. Be careful! She is very bad and everyone is afraid of her.""
+     译：「她住在温基人的土地上，」他说，「你们必须向西走。小心！她非常坏，所有人都怕她。」
+
+---
+
+**B4-21**（2 句）
+- 分组依据：出发行走节拍——五人（含托托）开始向西行走（句 48）、走了很长时间（句 49），连续位移，同一情绪基调（踏上征途），2 句。
+- 原文：
+  1. "So Dorothy, the Scarecrow, the Tin Woodman, the Lion and Toto start walking to the West."
+     译：于是多萝西、稻草人、铁皮樵夫、狮子和托托开始向西行走。
+  2. "They walk for a long time."
+     译：他们走了很长时间。
+
+---
+
+**B4-22**（3 句）
+- 分组依据：视角切换到女巫城堡——叙事焦点从地面行走的五人切换到城堡上空俯视的西方女巫（句 50），介绍女巫的魔法眼能力（句 51），女巫愤怒发问（句 52），构成威胁引入节拍；空间跳转（地面→城堡）触发新节拍；情绪触发词："angrily"，强度：中。
+- 原文：
+  1. "Above them in her castle the Wicked Witch of the West watches them."
+     译：在他们上方的城堡里，西方邪恶女巫正注视着他们。
+  2. "The Wicked Witch has a magic eye and can see everything."
+     译：西方邪恶女巫有一只魔法眼，能看见一切。
+  3. ""Who are those people on my road?" she says angrily."
+     译：「那些人是谁，竟敢走上我的路？」她愤怒地说。
+
+---
+
+**自检：未覆盖句数 = 0**
+
+| 分镜 | 句号范围 | 句数 |
+|------|---------|------|
+| B4-1 | 1-3 | 3 |
+| B4-2 | 4-5 | 2 |
+| B4-3 | 6-7 | 2 |
+| B4-4 | 8-10 | 3 |
+| B4-5 | 11-14 | 4 |
+| B4-6 | 15 | 1 |
+| B4-7 | 16-18 | 3 |
+| B4-8 | 19-20 | 2 |
+| B4-9 | 21-23 | 3 |
+| B4-10 | 24 | 1 |
+| B4-11 | 25-26 | 2 |
+| B4-12 | 27-28 | 2 |
+| B4-13 | 29-31 | 3 |
+| B4-14 | 32-33 | 2 |
+| B4-15 | 34-35 | 2 |
+| B4-16 | 36-38 | 3 |
+| B4-17 | 39-40 | 2 |
+| B4-18 | 41-43 | 3 |
+| B4-19 | 44-45 | 2 |
+| B4-20 | 46-47 | 2 |
+| B4-21 | 48-49 | 2 |
+| B4-22 | 50-52 | 3 |
+| **合计** | | **52** |

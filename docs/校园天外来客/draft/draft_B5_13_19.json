@@ -1,0 +1,84 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B5-13",
+      "character_refs": ["C1", "C4", "C5"],
+      "scene_refs": ["S8"],
+      "covered_sentences": [
+        "The teacher opened the door and made us sit down in his living room.",
+        "'Do you want something to drink?' he asked. 'No, nothing, thank you,' I answered.",
+        "'W-What are those ... warts on your head?' asked Paul, ignoring the look I gave him.",
+        "'These warts are the results of a throat tumour. You see, I started smoking as a teenager and I continued until the tumour. Chemotherapy made me lose all of my hair, and I developed these warts.'"
+      ],
+      "layout": "构图与镜头：2×2网格四格构图；左上格：斯通开门引三人进客厅（空间建立格）；右上格：斯通提供饮料+珍妮婉拒（对话格）；左下格：保罗问头上的疣（大胆提问格）；右下格：斯通解释肿瘤/化疗（揭晓格）。左上镜头：客厅入口，斜侧45°平视，看向斯通开门引导两人进入客厅的全景，前门和沙发区可见；右上镜头：沙发区，斜侧30°平视，珍妮肩后看向斯通端饮料的对话中景；左下镜头：保罗右侧，斜侧30°平视，看向保罗向斯通追问的近中景；右下镜头：珍妮右侧，斜侧30°平视，看向斯通坐于沙发椅上解释的中近景。比例锚点：左上格：斯通（C4）站立，头顶约与前门门框下缘约20厘米；珍妮（C1）和保罗（C5）并排进入，身高约至斯通肩部；沙发和茶几可见；右上/左下/右下格：三人坐于沙发区，头顶约与沙发靠背上缘，茶几高度约至膝盖。动作与关系：左上格：斯通（C4）站于门内，做引导手势；珍妮（C1）和保罗（C5）走进客厅，向沙发区走；整体空间建立，无气泡；右上格：斯通（C4）在旁站立，头旁对白气泡（Drink?+深蓝色问号，D1：杯子图标，D3：问号）；珍妮（C1）回应气泡（No, thanks.+叉号，D3：叉号+句号）；左下格：保罗（C5）推眼镜，看向斯通头部，头旁对白气泡（Warts?+深蓝色问号，D1：头部/疣图标，D3：问号）；珍妮（C1）头侧B级符号：深灰色小乌云（无奈，忍不住的感叹）；右下格：斯通（C4）侧身对两人解释，头旁对白气泡（两行编号：①香烟图标（少年吸烟）→肿瘤图标（肿瘤）②化疗图标/注射器（化疗）→光头+疣图标（结果），D1：各行图标，D2：tumour/chemotherapy，D3：句号，承载原因解释）。场景：斯通住宅客厅（S8）；沙发、茶几、前门可见；傍晚，室内暖灯（窗外蓝灰可见一角）。光影与色彩：室内暖灯，整体暖调；右下格斯通解释时略有暖白聚光（聚焦揭晓）。主体与角色：逐格角色预算：左上3人（斯通C4+珍妮C1+保罗C5），右上2人（斯通C4+珍妮C1），左下2人（保罗C5+斯通C4），右下1人（斯通C4）；珍妮（引用C1）和保罗（引用C5）均可辨识，分布各格；门框高于所有站立角色头顶（左上格锚点）。"
+    },
+    {
+      "id": "B5-14",
+      "character_refs": ["C4"],
+      "scene_refs": ["S8"],
+      "covered_sentences": [
+        "'You've probably noticed my voice. Unfortunately, the tumour destroyed my vocal chords. So now I speak with a voice implant.'",
+        "'The tumour has caused very serious changes in my life. I started to suffer from depression and I still see a psychiatrist. I also moved, hoping to start a better life in a new environment. In fact, I'm from Wisconsin. You see, I'm not married, and the illness has made me very lonely.'",
+        "'People don't like illnesses; they stay away from sick people. Sick people bother them.'"
+      ],
+      "layout": "构图与镜头：单格构图，中心聚焦组织；镜头位于茶几旁，正面偏侧15°，平视看向斯通（C4）坐于沙发椅上真诚倾诉的中近景；珍妮和保罗在画外（以茶几边缘前景暗示其在场，不入镜）；斯通中近景，头部占画面高度约1/3；前景茶几边缘约占画面底部1/6。比例锚点：斯通（C4）坐于沙发椅，头顶约高于沙发靠背约一个头高；前景茶几边缘约至成人坐姿膝盖高度；整体参照家具建立尺度。动作与关系：斯通（C4）坐于沙发椅，身体微微前倾，表情悲伤但诚恳；头顶编号列表气泡（三行：①机器人声音图标+声带图标（声音植入/声带损坏）②心理图标/精神科医生图标+搬家图标（抑郁/搬家）③孤独一人图标（孤独，没有婚姻），D1：各行图标，D2：voice/depression/lonely，D3：句号，承载三段自我揭露）；头旁B级符号：深灰色小乌云（悲伤/孤独情绪）；第三句（病人被远离）用对话气泡单行表达：sick图标+叉号+人群图标（人们远离病人），语义图示。场景：斯通住宅客厅（S8）；沙发区，斯通坐于椅子；傍晚暖灯；茶几前景。【风格调整】触发原因：斯通揭露孤独悲伤人生，情绪深沉，调整方向：整体饱和度降低，暖灯偏暗，阴影加深，氛围词叠加——阴影拉长，光线柔和偏暗，孤独感，调整范围：本镜。光影与色彩：暖灯偏暗，室内整体偏幽暗；斯通面部受单一侧光（孤独感），背景略暗。主体与角色：逐格角色预算：单格可辨识1人（斯通C4）；珍妮和保罗以茶几边缘前景和视线方向暗示在场，不可辨识入镜。【情绪标记】强度：中，类型：悲伤，推荐视觉手段：深灰色小乌云+斯通悲伤表情+偏暗室内光。"
+    },
+    {
+      "id": "B5-15",
+      "character_refs": ["C1", "C4", "C5"],
+      "scene_refs": ["S8"],
+      "covered_sentences": [
+        "'Mr. Stone, we really feel terrible about our behaviour,' I said. 'Yes, we really apologise. We hope you can forgive us,' added Paul.",
+        "'Don't worry! In a sense, I'm glad this happened. I haven't talked like this to anyone for a long time. You see, I want to be friends with my students. That's why I asked your class so many questions. But it's very hard for me to smile, or be cheerful. Try to understand, if I'm strict or unpleasant.'",
+        "I smiled at Mr. Stone. I was very moved. 'We understand,' I said softly.",
+        "'May I ask you a question?' said Paul. 'Paul!' I exclaimed. 'It's OK. Ask me anything you want,' answered Mr. Stone."
+      ],
+      "layout": "构图与镜头：2×2网格四格构图（情感高潮D类）；左上格：珍妮和保罗道歉（羞愧格）；右上格：斯通宽慰+想与学生做朋友（揭晓格）；左下格：珍妮感动微笑表示理解（情感高潮格）；右下格：保罗追问+珍妮阻止+斯通欢迎提问（三方互动格）。左上镜头：斜侧30°俯角10°，看向沙发区珍妮和保罗侧身道歉的双人中景；右上镜头：茶几旁平视，看向斯通微笑宽慰的近中景；左下镜头：斯通右侧，看向珍妮（C1）面带感动微笑的近景；右下镜头：斜侧30°平视，看向保罗（C5）举手+珍妮（C1）阻止+斯通（C4）回应的三人中景。比例锚点：各格：三人均坐于沙发/椅子区，头顶约高于沙发靠背一个头高；茶几约至坐姿膝盖；右下格三人同框，门框高于所有坐姿头顶。动作与关系：左上格：珍妮（C1）和保罗（C5）双双低头，表情羞愧，两人气泡合并为一个（Mr. Stone!+Sorry!+感叹号，共同道歉气泡，D3：感叹号）；右上格：斯通（C4）表情从悲伤转为微微缓和，头旁对白气泡（Friends!+感叹号，D1：握手图标/朋友图标，D2：friends，D3：感叹号，A级氛围局部：角色周身萦绕细碎鎏金星芒光点，伴随淡金色朦胧星屑飘散——斯通难得的温情时刻）；左下格：珍妮（C1）抬头对斯通微笑，眼睛微润，头旁对白气泡（Understand.+句号，We understand，D3：句号，轻柔回应）；左下格A级氛围：角色周身萦绕细碎鎏金星芒光点（珍妮感动的美感时刻）；右下格：保罗（C5）举手，珍妮（C1）在旁手轻放保罗手臂（阻止），斯通（C4）在对面挥手示意没关系；各人气泡：保罗（Question?+问号），珍妮（Paul!+感叹号），斯通（OK!+感叹号）；三人同框，门框高于所有坐姿头顶。场景：斯通住宅客厅（S8）；沙发、茶几、前门一角；傍晚暖灯；【风格复归】从本镜开始从悲伤基调回到暖调（感动/理解的正向情绪）。光影与色彩：暖灯，从上镜偏暗调逐渐回暖；右上格斯通宽慰时A级氛围星芒；左下格珍妮感动时A级氛围星芒。主体与角色：逐格角色预算：左上2人（珍妮C1+保罗C5），右上1人（斯通C4），左下1人（珍妮C1），右下3人（保罗C5+珍妮C1+斯通C4）；三人（引用C1,C4,C5）均可辨识，分布四格；右下格三人同框，门框高于所有坐姿头顶（额外建筑锚点）。【情绪标记】强度：中，类型：感动，推荐视觉手段：珍妮和斯通的A级星芒+左下格珍妮微润眼神。"
+    },
+    {
+      "id": "B5-16",
+      "character_refs": ["C1", "C4", "C5"],
+      "scene_refs": ["S8"],
+      "covered_sentences": [
+        "'What's that stuff you eat at lunch?' 'Oh ... Did that scare you? The green liquid and the black pills are part of my treatment. They include protein and other nutritional substances.'",
+        "'And why, excuse my curiosity, were your eyes amber-coloured yesterday?' 'Well, I tried some coloured contact lenses. I wanted to do something different. I thought that a new look could make me feel better, but it didn't work.'",
+        "'Mr. Stone,' I began, 'I saw you at the park, this morning...' 'Gee, I probably appeared very strange to you, with all those movements!' he said. 'My doctor suggested early-morning exercise, in fresh, clean air. You really have watched me these last few days, I must say!'"
+      ],
+      "layout": "构图与镜头：横排三格对话序列（三个问答对）；左格：保罗问绿色液体→斯通解释（谜团1揭晓）；中格：保罗问彩色眼睛→斯通解释（谜团2揭晓）；右格：珍妮提到公园→斯通幽默解释（谜团3揭晓）。左格镜头：斜侧30°平视，保罗和斯通对话双格，保罗在前景肩背，斯通为主体；中格镜头：斜侧30°平视，保罗和斯通中景，保罗侧身提问，斯通解释；右格镜头：斜侧30°平视，珍妮和斯通对话，珍妮在前景一侧。比例锚点：各格三人坐于客厅沙发/椅，头顶约高于沙发靠背一个头高；茶几约至坐姿膝盖。动作与关系：左格：斯通（C4）回应保罗，表情略带幽默，头旁编号图示（①绿色液体瓶图标+蛋白质图标→治疗，D1：各图标，D2：treatment，D3：感叹号/省略号）；保罗（C5）肩背前景，回应气泡（Scare?+问号）；中格：斯通（C4）摸摸脸（解释眼睛），头旁图示（眼睛图标→彩色图示，D1：隐形眼镜/彩色眼睛图标，承载彩色隐形眼镜说明）；保罗（C5）侧身提问（Amber?+问号）；右格：珍妮（C1）开口，斯通（C4）在对面轻松笑（难得的微笑），斯通头旁对白气泡（Morning?+感叹号，Exercise!+感叹号，D1：公园运动图标，D2：exercise，D3：感叹号）；珍妮（C1）在右格前景侧。场景：斯通住宅客厅（S8）延续；傍晚暖灯，暖调回温。光影与色彩：暖灯，整体回暖（谜团一一揭晓，轻松感增加）；各格色调一致暖白。主体与角色：逐格角色预算：左格2人（保罗C5+斯通C4，保罗肩背前景），中格2人（保罗C5+斯通C4），右格2人（珍妮C1+斯通C4，珍妮侧前景）；珍妮（引用C1），保罗（引用C5），斯通（引用C4）分布各格。"
+    },
+    {
+      "id": "B5-17",
+      "character_refs": ["C1", "C4", "C5"],
+      "scene_refs": ["S8", "S1"],
+      "covered_sentences": [
+        "Paul and I looked at each other. We felt rude and very silly. We were ashamed for being so inconsiderate.",
+        "'Well, Mr. Stone, we don't know how to thank you for your hospitality and kindness,' I said. 'We really don't deserve it. Our behaviour...' 'That's enough, that's enough, don't worry. Thank you for your company. I'll see you tomorrow at school. And remember, if you ever want to come and visit me, you're always welcome.'",
+        "'Thank you very much. We'll come again,' said Paul.",
+        "Paul and I left Mr. Stone's house, and walked home."
+      ],
+      "layout": "构图与镜头：2×2网格四格构图；左上格：珍妮和保罗对视羞愧（内心反思格）；右上格：告别致谢+斯通欢迎随时再来（告别高潮格）；左下格：保罗说会再来（保证格）；右下格：两人走出斯通住宅+路上走回（路径动线格）。左上镜头：斜侧30°俯角，看向珍妮保罗对视的双人中景；右上镜头：斜侧30°平视，看向珍妮和保罗与斯通三人的客厅告别场景；左下镜头：斯通右侧，看向保罗（C5）说话的近中景；右下镜头：住宅外草坪，斜侧45°平视，看向珍妮和保罗走向街道的路径动线中景。比例锚点：左上格：两人坐于沙发，对视，头顶约高于沙发靠背；右上格：三人，斯通站于前门内，头顶约至门框下20厘米，珍妮和保罗站立约至斯通肩部；左下格：保罗近中景，头顶约与背景门框一侧可见；右下格：珍妮保罗走在草坪/街道，粉色楼在背景，头顶约至楼高1/3处。动作与关系：左上格：珍妮（C1）和保罗（C5）对视，表情羞愧，头侧B级符号各一：深灰色小乌云（羞愧）；无气泡；右上格：珍妮（C1）鞠躬致谢，保罗（C5）在旁点头，斯通（C4）挥手送别；斯通头旁对白气泡（Welcome!+感叹号，D1：房子/欢迎图标，D2：welcome，D3：感叹号）；左下格：保罗（C5）转身，头旁对白气泡（Come again!+感叹号，We'll come again，D2：come，D3：感叹号）；右下格：珍妮（C1）和保罗（C5）并排走向街道，路径动线，回望住宅方向；住宅前门和草坪可见作为场景锚点。场景：右上格斯通住宅客厅（S8）内门口区域，右下格住宅外草坪+住宅区街道（S1）；傍晚→黄昏，色调从暖灯转到户外蓝灰。光影与色彩：右上格：室内暖灯送别；右下格：户外傍晚蓝灰（黄昏）；左格延续室内暖调。主体与角色：逐格角色预算：左上2人（珍妮C1+保罗C5），右上3人（珍妮C1+保罗C5+斯通C4），左下1人（保罗C5），右下2人（珍妮C1+保罗C5）；三人（引用C1,C4,C5）均可辨识，分布四格；右上格三人同框，门框高于三人站立头顶（额外建筑锚点）。"
+    },
+    {
+      "id": "B5-18",
+      "character_refs": ["C1", "C3", "C5"],
+      "scene_refs": ["S1"],
+      "covered_sentences": [
+        "'Well, I think we've learned a lesson,' Paul said. 'We must remember that many people in this world are suffering; many people have problems; and, if they act in strange ways, there are reasons. There isn't an alien behind every bush. There's a person, just like you and me. And maybe this person needs friendship and a helping hand.'",
+        "I looked at Paul with affection and admiration. His words expressed my own thoughts perfectly. We had let our imagination and superficiality dominate us. This made us forget human feelings and problems.",
+        "I thought about Mr. Adams and his artificial arm. Even in that case I had overreacted with my ridiculous suspicions."
+      ],
+      "layout": "构图与镜头：左右二分构图，2:1比例（左格主格保罗发表道德总结，右格辅格珍妮凝视保罗+思维气泡回顾亚当斯）；左格镜头位于珍妮右侧，斜侧20°平视，看向保罗边走边感慨说话的中近景，街道行道树为后景；右格镜头位于保罗左肩后方，过肩视角，看向珍妮侧脸+思维气泡的近中景，保罗肩背前景。比例锚点：左格：保罗（C5）站立行走，头顶约至背景行道树1/4处；右格：珍妮（C1）中近景，头部约占格子高度1/3，保罗肩背前景约占1/6。动作与关系：左格：保罗（C5）边走边说，表情认真感慨，头顶计划图示气泡（三行：①多人图标+问号（很多人在受苦）②灌木丛后的人图标（灌木丛后是人，不是外星人）③握手图标（友谊和帮助），承载保罗总结的道德宣言；D1：各行图标，D3：句号）；右格：珍妮（C1）侧脸看向保罗，表情感动钦佩；头顶思维气泡（内画亚当斯mini_icon——金色短发男教师，棕色眼睛，白色衬衫领带+义肢图标+叉号+问号（珍妮之前过度怀疑亚当斯的反思），承载对亚当斯那一事件的回顾反思）。场景：住宅区街道（S1），黄昏傍晚，两人边走边聊；行道树两侧，路面延伸；黄昏暖橙光线斜射。光影与色彩：黄昏暖橙光，长阴影，整体温暖感（道德收束、感悟时刻）；A级氛围（选用）：保罗说话时可有轻微身后鎏金流光粒子拖尾，细碎金芒漫散（帅气/智慧发言的美感定格）。主体与角色：逐格角色预算：左格1人（保罗C5），右格1人（珍妮C1），保罗肩背前景；亚当斯（引用C3）以珍妮思维气泡内mini_icon形式出现，不可辨识入主体。"
+    },
+    {
+      "id": "B5-19",
+      "character_refs": ["C1", "C2", "C5"],
+      "scene_refs": ["S14"],
+      "covered_sentences": [
+        "'Hey, Paul,' I said. 'I want to celebrate! This adventure is over. I feel relieved. Let's go to the \"Rainbow\" and buy an ice-cream.'",
+        "'OK, Jenny! Good idea!'",
+        "'Let's call Dana, too!' I added, thinking it was the moment to inform her about everything. 'Sure!' We stopped at Dana's house and invited her."
+      ],
+      "layout": "构图与镜头：横排三格序列；左格：珍妮提议庆祝去Rainbow（宣告格）；中格：保罗同意（回应格）；右格：三人在Rainbow冰淇淋店坐下（行动结果格）。左格镜头：保罗右肩后，过肩视角，看向珍妮开心宣告的近景，保罗肩背前景；中格镜头：珍妮左肩后，过肩视角，看向保罗点头同意的近景，珍妮肩背前景；右格镜头：冰淇淋店内中部，斜侧30°俯角，看向三人坐于圆桌的全景，点餐柜台和大橱窗在背景。比例锚点：左格：珍妮（C1）近景，头部约占格子高度1/2；中格：保罗（C5）近景，头部约占格子高度1/2；右格：三人坐于圆桌，头顶约至背景橱窗玻璃底沿，圆桌约至成人腰部，橱窗高约为成人身高。动作与关系：左格：珍妮（C1）双手比V庆祝，表情开心解脱，头顶对白气泡（Rainbow!+感叹号，D1：彩虹+冰淇淋图标，D2：celebrate，D3：感叹号）；中格：保罗（C5）点头，表情轻松笑，头旁对白气泡（OK!+感叹号，短而有力，D3：感叹号）；右格：三人坐于Rainbow冰淇淋店（S14）圆桌，各自有圣代冰淇淋，表情轻松愉快；珍妮（C1）对达娜（C2）讲述（计划告知达娜一切的轻松气氛），达娜表情好奇；右格无气泡（全景场景建立）；右格A级氛围：几片浅粉色花瓣从画面顶部缓缓飘落，伴随暖黄细碎光斑散落（浪漫/庆祝场景美化）。场景：左中格为住宅区街道（S1，黄昏过渡）；右格为冰淇淋店Rainbow（S14）室内；橱窗可见街道，点餐柜台在背景，圆桌椅金属椅，花砖地面。光影与色彩：左中格黄昏暖橙；右格冰淇淋店内温馨暖白，大橱窗引入街道光。主体与角色：逐格角色预算：左格1人（珍妮C1），中格1人（保罗C5），右格3人（珍妮C1+保罗C5+达娜C2）；达娜（引用C2）在右格重新加入；三人同框，橱窗高约为成人身高（额外建筑锚点）。【情绪标记】强度：轻，类型：喜悦，推荐视觉手段：珍妮V手势+A级花瓣飘落+冰淇淋道具。"
+    }
+  ]
+}

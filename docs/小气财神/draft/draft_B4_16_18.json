@@ -1,0 +1,58 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B4-16",
+      "character_refs": [
+        "C1",
+        "C3",
+        "C8"
+      ],
+      "scene_refs": [
+        "S9"
+      ],
+      "covered_sentences": [
+        "Scrooge trembled and looked at the ground. Suddenly he heard his name.",
+        "Mr Scrooge! Let us drink to Mr Scrooge! It was Bob Cratchit and he was holding up his glass."
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例1:2（左格辅格：斯克鲁奇羞愧看地，突然听到名字；右格主格：鲍勃举杯敬酒的戏剧性反转）。左格：镜头位于斯克鲁奇正前方，中近景，略仰角，看向斯克鲁奇低头看地面的姿态；右格：镜头位于餐桌旁，中景，看向鲍勃（引用C3）高举酒杯，斯克鲁奇（引用C1）在右格边缘惊讶转头。条件B（触发-转折）：斯克鲁奇颤抖低头（触发）→鲍勃举杯喊名字（转折），两格必拆合法。比例锚点：左格斯克鲁奇面部约占画面高度65%；右格鲍勃（引用C3）站立举杯，头顶约与壁炉架等高，酒杯约在其肩部高度。\n\n动作与关系：左格：斯克鲁奇（引用C1）颤抖低头，附B级符号：浅蓝色水滴多个；右格：鲍勃（引用C3）高举酒杯，头顶对白气泡内容抽取Scrooge（斯克鲁奇mini_icon头像+橙红色感叹号）；斯克鲁奇在右格边缘惊讶转头，面露震惊。\n\n场景：克拉奇特家的厨房兼餐厅（引用S9），圣诞日，戏剧性敬酒节拍。\n\n光影与色彩：左格冷灰调，右格温暖节日光，强对比。\n\n主体与角色：逐格角色预算：左格可辨识1人——斯克鲁奇（引用C1）；右格可辨识2人——鲍勃（引用C3）+斯克鲁奇（引用C1）边缘，圣诞现在之灵（引用C8）离画旁观。"
+    },
+    {
+      "id": "B4-17",
+      "character_refs": [
+        "C3",
+        "C14"
+      ],
+      "scene_refs": [
+        "S9"
+      ],
+      "covered_sentences": [
+        "Drink to Mr Scrooge! said Mrs Cratchit angrily. Drink to that hard old miser! What are you saying, Robert Cratchit?",
+        "My dear — the children. It is Christmas Day.",
+        "I know that, but I would like to tell Mr Scrooge what I think of him! You know how bad he is.",
+        "My dear, it is Christmas Day.",
+        "Well, I will drink to him because it is Christmas. A Merry Christmas and a Happy New Year, Mr Scrooge! — But you will not be merry or happy, I know."
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例2:1（左格克拉奇特太太主格，愤怒反对；右格鲍勃辅格，劝说）。左格：镜头位于克拉奇特太太正前方，中近景，平视，看向克拉奇特太太面部，面露愤怒；右格：镜头位于鲍勃正前方，中近景，平视，看向鲍勃面部，面露安抚。比例锚点：左格克拉奇特太太（引用C14）面部约占画面高度70%；右格鲍勃（引用C3）面部约占画面高度65%。\n\n动作与关系：左格：克拉奇特太太（引用C14）面露愤怒，头顶对白气泡内容抽取miser（斯克鲁奇mini_icon头像+红色叉号），附B级符号：红色折线怒气筋；右格：鲍勃（引用C3）面露安抚，头顶对白气泡内容抽取Christmas Day（圣诞树轮廓+绿色对号）。\n\n场景：克拉奇特家的厨房兼餐厅（引用S9），圣诞日，家庭小争执节拍。\n\n光影与色彩：温暖室内光，克拉奇特太太一侧略冷，鲍勃一侧略暖。\n\n主体与角色：逐格角色预算：左格可辨识1人——克拉奇特太太（引用C14）；右格可辨识1人——鲍勃（引用C3）。"
+    },
+    {
+      "id": "B4-18",
+      "character_refs": [
+        "C1",
+        "C3",
+        "C8",
+        "C15"
+      ],
+      "scene_refs": [
+        "S9"
+      ],
+      "covered_sentences": [
+        "The children drank to Scrooge too, but his name was like a dark shadow in the room and for a few minutes they were silent.",
+        "Then they told stories and sang songs, and they felt better.",
+        "The Cratchits were poor and they looked poor. Their clothes were old; there were big holes in their shoes.",
+        "Bob Cratchit salary was very small. He never had enough money and there was never much food in the house.",
+        "But the family was contented now because it was Christmas. Scrooge watched them carefully. He listened to them well. And he looked at Tiny Tim very often before the family scene vanished."
+      ],
+      "layout": "构图与镜头：主导格+卫星格构图（大场景克拉奇特家+斯克鲁奇情感反应+小蒂姆特写）。主导格（占画面宽度约60%）：镜头位于客厅侧方，中景，看向克拉奇特家人围炉讲故事唱歌，温馨但衣物破旧；右侧卫星格（占画面宽度约40%）：上小格斯克鲁奇（引用C1）旁观，面露感动；下小格小蒂姆（引用C15）特写。比例锚点：主导格不可辨识家人群体，壁炉约在成人胸口高度；卫星格上格斯克鲁奇面部近景约占小格高度80%；卫星格下格小蒂姆头部特写，近景保留参照：椅背侧面。\n\n动作与关系：主导格：不可辨识克拉奇特家人群（服装破旧），围炉讲故事，附B级符号：深灰色小乌云（短暂沉默）→粉红色爱心（恢复欢乐）；卫星格上格：斯克鲁奇（引用C1）旁观，面露关切，附B级符号：浅蓝色水滴；卫星格下格：小蒂姆（引用C15）面部特写，苍白瘦脸，面露快乐，附A级氛围：AURA-BEAUTY-1；鲍勃（引用C3）在主导格背影离画；圣诞现在之灵（引用C8）在画面边缘离画。\n\n场景：克拉奇特家的厨房兼餐厅（引用S9），圣诞日，温馨但贫困。\n\n光影与色彩：温暖橙黄，炉火光晕，卫星格下格AURA-BEAUTY-1于小蒂姆。\n\n主体与角色：逐格角色预算：主导格可辨识0人（不可辨识家人群体）；卫星格上格可辨识1人——斯克鲁奇（引用C1）；卫星格下格可辨识1人——小蒂姆（引用C15），近景保留参照：椅背侧面。"
+    }
+  ]
+}

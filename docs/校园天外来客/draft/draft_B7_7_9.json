@@ -1,0 +1,55 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B7-7",
+      "character_refs": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "scene_refs": [
+        "S3"
+      ],
+      "covered_sentences": [
+        "'I have an idea!' I said. 'What?' asked my friends.",
+        "'We can try to find the hypnotising spray and take it away from him. It can only be in two places: somewhere in his house, or somewhere in the science lab.'",
+        "'Good idea! This afternoon after he goes home, we can look for the spray in the lab; if the spray isn't there, tomorrow morning we won't go to school. We'll get into his house in some way and take the spray,' added Paul."
+      ],
+      "layout": "构图与镜头：横排三格序列（想法宣告→计划说明→保罗完善计划）；左格：珍妮（C1）宣告有主意+朋友追问（宣告格）；中格：珍妮（C1）说明找催眠喷雾的计划（计划格）；右格：保罗（C5）完善补充实验室+家两步计划（完善格）。左格镜头：保罗右侧，斜侧30°，看向珍妮激动宣告的近中景；中格镜头：达娜左肩后，过肩，看向珍妮认真说明的近中景；右格镜头：珍妮左肩后，过肩，看向保罗充满干劲的近中景。比例锚点：各格坐于餐桌，头部约占格子高度1/3；各格对方肩背前景约占1/5。动作与关系：左格：珍妮（C1）举起手，表情兴奋，头顶对白气泡（Idea!+黄色小灯泡+感叹号，D1：灯泡图标，D2：idea，D3：感叹号）；旁边保罗/达娜的气泡（What?+深蓝色问号，D3：问号）合并为单气泡（朋友们问）；中格：珍妮（C1）手指比划两处，头顶计划图示气泡（两行：①斯通住宅图标（他家）②实验室图标（科学实验室），D1：各行图标，D2：find，D3：感叹号，承载两处可能位置）；右格：保罗（C5）推眼镜，表情积极，头顶计划图示气泡（两行：①实验室图标+下午（今天下午找实验室）②住宅图标+明早（明早进他家），D1：各行图标，D3：感叹号，承载保罗完善的两步计划）。场景：学校食堂（S3），延续；各格背景通过过肩受限。光影与色彩：白天柔光，整体明亮活泼；各格色调统一暖白。主体与角色：逐格角色预算：左格1人（珍妮C1），中格1人（珍妮C1），右格1人（保罗C5）；达娜以离画在场（各格肩背或视线暗示）。"
+    },
+    {
+      "id": "B7-8",
+      "character_refs": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "scene_refs": [
+        "S3"
+      ],
+      "covered_sentences": [
+        "'But we don't even know where he lives!' objected Dana.",
+        "'Well, we'll find out!' I said.",
+        "'So we want to steal his hypnotising spray. Maybe Matt can help us. He has a key that opens all doors,' Dana said."
+      ],
+      "layout": "构图与镜头：横排三格对话序列；左格：达娜（C2）反对（不知地址）；中格：珍妮（C1）坚定回应（我们会找到的）；右格：达娜（C2）提出马特的万能钥匙（新信息引入）。左格镜头：珍妮右肩后，过肩，看向达娜反对的近中景；中格镜头：达娜左肩后，过肩，看向珍妮坚定的近中景；右格镜头：珍妮右肩后，过肩，看向达娜提建议的近中景。比例锚点：各格坐于餐桌，头部约占格子高度1/3；对方肩背前景约占1/5。动作与关系：左格：达娜（C2）摊手，表情质疑，头旁对白气泡（Address?+深蓝色问号，D1：位置/地图图标，D3：问号）；中格：珍妮（C1）挥手坚定，头旁对白气泡（Find!+感叹号，D2：find，D3：感叹号，短促有力）；右格：达娜（C2）神情一动，有主意，头旁计划图示气泡（马特mini_icon——棕色短发青年男性，稳重面容，休闲衣领+万能钥匙图标，Key!+感叹号，D1：马特mini_icon+钥匙图标，D3：感叹号，承载马特有万能钥匙的建议）；头侧B级符号：黄色小灯泡（达娜有主意）。场景：学校食堂（S3），延续；各格过肩受限背景。光影与色彩：白天柔光，整体明亮；三格色调统一。主体与角色：逐格角色预算：左格1人（达娜C2），中格1人（珍妮C1），右格1人（达娜C2）；保罗以离画在场。"
+    },
+    {
+      "id": "B7-9",
+      "character_refs": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "scene_refs": [
+        "S3"
+      ],
+      "covered_sentences": [
+        "'Are you sure he'll give it to you? I don't think he'll believe this story,' I said. 'Of course not! How can he believe something like this? I obviously have to steal the key.'",
+        "'I hope he doesn't notice. Stealing a passepartout from the police is a big crime,' Paul commented.",
+        "'Yes, but it's the only way to enter where we want. Don't worry. I'll be careful. Gee, Mr. Adams is so friendly and handsome! It's difficult to believe that he's a horrible, green alien! Well, this afternoon I'll get the key.'"
+      ],
+      "layout": "构图与镜头：横排三格对话序列（三人三回合发言）；左格：珍妮质疑→达娜宣告偷钥匙（两人对话合并为单格，符合≤2回合原则）；中格：保罗担忧（法律风险）；右格：达娜表示没关系+感叹亚当斯帅（复杂单格）。左格镜头：斜侧30°平视，看向珍妮和达娜对话的双人中景；中格镜头：达娜右肩后，过肩，看向保罗担忧的近中景；右格镜头：保罗左肩后，过肩，看向达娜综合说明的近中景。比例锚点：各格坐于餐桌，头部约占各格高度1/3；各格对方肩背前景约占1/5。动作与关系：左格：珍妮（C1）表情怀疑，达娜（C2）摆手坚定，两人面向对话；珍妮气泡（Believe?+深蓝色问号，D3：问号）在上，达娜气泡（Steal!+感叹号，D1：钥匙图标，D2：steal，D3：感叹号）在下，达娜主导（2:1比例，达娜气泡大）；中格：保罗（C5）推眼镜，表情严肃，头旁对白气泡（Crime!+感叹号，D1：法律/警察图标，D2：crime，D3：感叹号）；右格：达娜（C2）挥手表示没关系，表情轻松，然后神情一变带着痴迷（亚当斯帅），头旁对白气泡（两行：①OK!+感叹号（别担心我会小心）②亚当斯mini_icon——金色短发男教师+爱心图标（感叹亚当斯帅），D1：亚当斯mini_icon，D4：粉红色爱心，D3：感叹号）。场景：学校食堂（S3），延续；各格过肩受限背景。光影与色彩：白天柔光，整体明亮；右格达娜谈亚当斯帅时可有轻微粉暖调（爱心情绪）。主体与角色：逐格角色预算：左格2人（珍妮C1+达娜C2），中格1人（保罗C5），右格1人（达娜C2）。"
+    }
+  ]
+}

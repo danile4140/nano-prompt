@@ -1,0 +1,30 @@
+{
+  "project": "校园天外来客",
+  "test_scene_base": "一个穿夹克的活泼女孩爬在院子里的大树上，从树上往窗户里偷看，窗内一个头发怪异的老师坐在镜子前，被她发现的一刻两人对视——美国郊区独栋住宅背景，草坪和蓝天",
+  "styles": [
+    {
+      "id": "A",
+      "name": "美式儿童漫画书风",
+      "description": "1990年代美国儿童漫画书（如Archie Comics）的风格，线条清晰有力，颜色饱和明亮；人物造型简洁讨喜，动作表情夸张幽默。与故事发生的1990s美国校园背景完美匹配，带浓厚的时代感，是这个故事最「原汁原味」的风格选择。",
+      "test_scene_prompt": "A lively girl in a jacket climbs a backyard tree peeking through a window while inside a quirky-looking man at a mirror turns to catch her eye, American suburban house with green lawn and blue sky — 1990s American children's comic book style like Archie Comics, clean bold ink outlines, bright saturated flat colors, expressive cartoon character designs, exaggerated surprised facial expressions, energetic panel-layout composition feel, classic American suburban visual language, fun retro comic book energy"
+    },
+    {
+      "id": "B",
+      "name": "复古60-70年代科幻插画风",
+      "description": "1960-70年代美国科幻杂志插画风格，色彩饱和带时代感，外星人用经典的绿色皮肤大眼睛形象；飞碟和宇宙元素作为装饰点缀，整体有复古未来主义的轻快气质。这种风格与故事「外星人混入校园」的主题高度契合，带一种怀旧喜剧感。",
+      "test_scene_prompt": "A lively girl in a jacket climbs a backyard tree peeking through a window while inside a quirky-looking man at a mirror turns to catch her eye, American suburban house with green lawn and blue sky — retro 1960s-70s sci-fi magazine illustration style, saturated period-correct colors, classic green-skinned big-eyed alien visual vocabulary as background motifs, flying saucer decorative accents, Space Age retro-futurist aesthetic, warm vintage poster color palette, cheerful campy sci-fi comedy mood"
+    },
+    {
+      "id": "C",
+      "name": "日系可爱萌系插画风",
+      "description": "日本萌系插画风格，角色大眼睛圆脸蛋，表情包式的夸张反应（惊呆、脸红、冒冷汗）；线条干净，色彩粉嫩明亮。两个人对视瞬间的「惊讶」画面在萌系风格下会格外有喜剧张力，深受女孩子喜爱，也适合本故事的青少年少女主角。",
+      "test_scene_prompt": "A lively girl in a jacket climbs a backyard tree peeking through a window while inside a quirky-looking man at a mirror turns to catch her eye, American suburban house with green lawn and blue sky — Japanese kawaii moe illustration style, large sparkling eyes and soft round faces, exaggerated manga reaction expressions with sweat drops and shock marks, clean crisp lines, pastel bright color palette, cute character designs, comedic moment captured with expressive emoji-like facial reactions, cheerful soft feminine illustration quality"
+    },
+    {
+      "id": "D",
+      "name": "波普艺术明亮卡通风",
+      "description": "波普艺术风格（Roy Lichtenstein漫画点网格 + Andy Warhol鲜艳配色），人物用粗黑线勾勒，配色撞击感强；惊讶的对话框和感叹号成为装饰元素。霓虹色彩与科幻主题相遇，产生一种视觉冲击力极强的欢乐效果，非常适合这个本就喜剧感十足的故事。",
+      "test_scene_prompt": "A lively girl in a jacket climbs a backyard tree peeking through a window while inside a quirky-looking man at a mirror turns to catch her eye, American suburban house with green lawn and blue sky — Pop Art style inspired by Roy Lichtenstein, bold thick black outlines, clashing neon primary colors, Ben-Day dot pattern accents, exclamation speech bubble decorative elements, high-contrast graphic composition, electric visual energy, loud cheerful color impact, retro comic panel aesthetic with modern pop art flair"
+    }
+  ]
+}

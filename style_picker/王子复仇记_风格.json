@@ -1,0 +1,30 @@
+{
+  "project": "王子复仇记",
+  "test_scene_base": "夜晚城堡高墙上，一位身着黑色斗篷的年轻王子仰望着出现在眼前的铠甲鬼魂，城堡石墙和明亮月光构成背景，鬼魂身形半透明泛着银光",
+  "styles": [
+    {
+      "id": "A",
+      "name": "欧洲中世纪彩绘手稿风",
+      "description": "中世纪欧洲彩绘手稿（illuminated manuscript）风格，金色边框与装饰花卉点缀页边，图像用宝石蓝、鲜红与金黄平涂，带彩色玻璃窗的鲜亮质感；人物造型扁平程式化但颇具古拙魅力。这种风格赋予王子复仇记故事真正的中世纪欧洲视觉身份，独一无二。",
+      "test_scene_prompt": "A young prince in a dark cape stands on a castle wall at night, looking up at a glowing semi-transparent armored ghost, bright moonlight and stone walls in background — medieval European illuminated manuscript style, jewel blue and vermillion red and burnished gold flat color areas, ornate gold leaf decorative border with floral motifs, stylized flat figures with Byzantine-influenced aesthetic, bright stained glass window color quality, parchment texture, formal archaic composition charm"
+    },
+    {
+      "id": "B",
+      "name": "Q版戏剧舞台卡通风",
+      "description": "Q版卡通比例结合舞台剧美学，角色头大身小神情夸张；画面设计如一个微缩舞台布景，石砌城墙有布景板质感，鬼魂用半透明发光效果处理。整体轻松幽默，让原本沉重的悲剧题材变得5岁小朋友也能接受，戏剧感与可爱感并存。",
+      "test_scene_prompt": "A young prince in a dark cape stands on a castle wall at night, looking up at a glowing semi-transparent armored ghost, bright moonlight and stone walls in background — chibi Q-version cartoon style with theatrical stage set aesthetic, adorable big-head small-body proportions, exaggerated surprised and dramatic facial expressions, miniature theatrical backdrop stone walls, glowing translucent ghost with sparkle effects, playful dramatic atmosphere, cute character design that makes tragedy approachable for young children"
+    },
+    {
+      "id": "C",
+      "name": "少年漫画冒险风",
+      "description": "日本少年漫画风格，清晰有力的线稿，角色表情极富感情张力；月光用放射状光线效果强调戏剧性，鬼魂出现的瞬间有漫画速度线和惊叹音效文字感。这种风格把哈姆雷特变成了少年英雄冒险故事，对8-12岁男孩尤其有吸引力。",
+      "test_scene_prompt": "A young prince in a dark cape stands on a castle wall at night, looking up at a glowing semi-transparent armored ghost, bright moonlight and stone walls in background — Japanese shonen manga adventure style, clean bold ink linework with dynamic energy lines, highly expressive dramatic character faces, radial moonlight speed line effect emphasizing dramatic moment, glowing ghost with manga sparkle aura, vibrant color fills, heroic adventure atmosphere, clear action-manga visual language"
+    },
+    {
+      "id": "D",
+      "name": "吉卜力奇幻城堡风",
+      "description": "吉卜力工作室奇幻城堡场景（《哈尔的移动城堡》《天空之城》风格）的手绘质感，石砌城墙和月光有精细的写实层次，鬼魂以透明发光的梦幻方式呈现；整体既有奇幻神秘气息，又有吉卜力特有的温柔与希望感。将哈姆雷特的沉重主题包裹在美丽的奇幻视觉里，适合各年龄段。",
+      "test_scene_prompt": "A young prince in a dark cape stands on a castle wall at night, looking up at a glowing semi-transparent armored ghost, bright moonlight and stone walls in background — Studio Ghibli fantasy castle style inspired by Howl's Moving Castle and Castle in the Sky, detailed hand-drawn stone architecture with soft layered moonlight, translucent luminous ghost rendering with Ghibli magical glow quality, rich painterly backgrounds with warm and cool color contrast, mysterious yet hopeful atmosphere, Miyazaki characteristic blend of wonder and emotional warmth"
+    }
+  ]
+}

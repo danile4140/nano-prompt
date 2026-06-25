@@ -1,0 +1,57 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B3-28",
+      "character_refs": [
+        "C1",
+        "C7",
+        "C12"
+      ],
+      "scene_refs": [],
+      "covered_sentences": [
+        "'But you have changed. When you promised to marry me, you were a different person.'",
+        "'I was a boy,' he said.",
+        "'And so my love is nothing to you now. You aren't happy with me and you don't want to marry me.'",
+        "'I've never said that.'",
+        "'Not in words, no — but I know it's true. I haven't got any money so you don't want me.'",
+        "'Well, you're free to go. I hope you will be happy.' And Belle went sadly away."
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例1:1。左格：镜头位于年轻斯克鲁奇右肩后，过肩视角，中近景，看向贝拉正面，背景中性；右格：镜头位于贝拉左肩后，反打视角，中近景，看向年轻斯克鲁奇面部（不可辨识简笔轮廓）。已扫描5对相邻句，四维度均无切换（同一对话话题：斯克鲁奇是否变了），保留。比例锚点：左格贝拉面部约占画面高度65%；右格年轻斯克鲁奇轮廓约占画面高度60%。\n\n动作与关系：左格：贝拉（引用C12）面露悲伤决绝，头顶对白气泡内容从covered_sentences抽取changed（D级物品图标：两个小人轮廓对比，左侧正常，右侧有钱袋，箭头指向Right，承载你变了语义）；右格：不可辨识年轻斯克鲁奇面部，头顶对白气泡内容从covered_sentences抽取never（红色叉号+深蓝色问号）；左格右下角贝拉离去的附加序列：贝拉侧影走向背景，悲伤离开，附B级符号：浅蓝色水滴；斯克鲁奇（引用C1）和圣诞过去之灵（引用C7）在格子边缘旁观（离画）。\n\n场景：模糊中性背景，贝拉和年轻斯克鲁奇的分别场景，冷灰调。\n\n光影与色彩：冷灰调，悲伤分别。\n\n主体与角色：逐格角色预算：左格可辨识1人——贝拉（引用C12）；右格可辨识0人（不可辨识年轻斯克鲁奇简笔轮廓）；斯克鲁奇（引用C1）离画。"
+    },
+    {
+      "id": "B3-29",
+      "character_refs": [
+        "C1",
+        "C7",
+        "C12b"
+      ],
+      "scene_refs": [],
+      "covered_sentences": [
+        "'Spirit!' Scrooge cried. 'Don't show me any more! Take me home!'",
+        "'There's one more scene.'",
+        "'No! No more! I don't want to see it!'",
+        "But suddenly they were in a room where a beautiful young girl was sitting near a big fire."
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例1:2（左格辅格：斯克鲁奇和圣诞过去之灵对话；右格主格：场景骤变，出现新场景）。左格：镜头位于斯克鲁奇正前方，中近景，看向斯克鲁奇面部，斯克鲁奇痛苦求去；右格：镜头位于新房间侧方，中景斜30度，看向炉火旁坐着一个美丽年轻女孩（贝拉年轻时，引用C12）。条件B（触发-转折）：斯克鲁奇求离（触发）→幽灵拒绝+骤然传送到新场景（转折），两格必拆合法。比例锚点：左格斯克鲁奇面部约占画面高度65%；右格贝拉（引用C12）坐于椅旁，身高约到椅背，壁炉约在其肩部高度。\n\n动作与关系：左格：斯克鲁奇（引用C1）双手抱头，面露极度痛苦，头顶对白气泡内容从covered_sentences抽取home（D级物品图标：小房子轮廓+橙红色感叹号）；圣诞过去之灵（引用C7）在左格边缘，头顶对白气泡内容从covered_sentences抽取more（D级物品图标：眼睛轮廓简笔画）承载还有一幕语义；右格：贝拉（引用C12）坐于炉火旁，美丽年轻，黑色长裙，白色蕾丝衣领，炉火明亮温暖。\n\n场景：左格：模糊中性背景；右格：类似S7的温馨客厅，炉火旁，温暖光线。\n\n光影与色彩：左格冷灰调；右格温暖炉火橙黄光。\n\n主体与角色：逐格角色预算：左格可辨识1人——斯克鲁奇（引用C1）；右格可辨识1人——贝拉（引用C12），深棕长发盘发，黑色长裙，白色蕾丝衣领。"
+    },
+    {
+      "id": "B3-30",
+      "character_refs": [
+        "C1",
+        "C7",
+        "C12b",
+        "C28"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "Next to her sat her mother.",
+        "This was Belle, now older.",
+        "The room was full of children and there was a lot of noise.",
+        "But Belle and her daughter liked it, and the daughter began to play with the children."
+      ],
+      "layout": "构图与镜头：单格构图，建立空间组织。镜头位于客厅门口，中景斜45度轻俯角，看向整个温馨家庭场景：年长贝拉（引用C12b）坐于沙发旁，贝拉女儿（引用C28）在旁，不可辨识孩子群在房间内嬉闹。前景：门框边缘；中景：年长贝拉+女儿；后景：不可辨识嬉闹孩子群。比例锚点：年长贝拉坐姿，头顶约与沙发靠背等高；贝拉女儿站姿，头顶约在年长贝拉肩部高度；不可辨识孩子群约在成人腰部高度；壁炉约在成人胸口高度；门框高于所有人物。\n\n动作与关系：年长贝拉（引用C12b）坐于沙发旁，面露温柔满足，略显年长（深灰蓝长裙，深棕微白长盘发）；贝拉女儿（引用C28）站于旁边，面露活泼，略向孩子群跑去；不可辨识孩子群在房间内嬉闹（群体暗示，不可辨识面部），附B级符号：粉红色爱心+橙红色感叹号，表达温馨热闹；斯克鲁奇（引用C1）和圣诞过去之灵（引用C7）在画面边缘旁观（离画）。\n\n场景：贝拉家的温馨客厅（引用S7），午后温暖光线，炉火燃烧，家庭温馨。\n\n光影与色彩：温暖橙黄，炉火为主要光源，家庭温馨气氛，与斯克鲁奇的孤独形成对比。\n\n主体与角色：逐格角色预算：主画面可辨识2人——年长贝拉（引用C12b）+贝拉女儿（引用C28），不可辨识孩子群为群体暗示；年长贝拉坐姿头顶约与沙发靠背等高，贝拉女儿头顶约在年长贝拉肩部高度，门框高于所有人物。"
+    }
+  ]
+}

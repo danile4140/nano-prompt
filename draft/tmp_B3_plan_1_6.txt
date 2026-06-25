@@ -1,0 +1,71 @@
+**B3-1**（4 句）
+- 分组依据：清晨时间标记触发新场景；两人听声→对话≤2回合→起身奔出，同一"去查看"节拍内的行动链，视觉焦点尚未切换到铁皮人
+- 原文：
+  1. "The next morning Dorothy and the Scarecrow hear a loud noise outside the house."
+     译：第二天清晨，多萝西和稻草人听到屋外传来一阵巨大的响声。
+  2. ""What's that?" asks Dorothy."
+     译："那是什么声音？"多萝西问道。
+  3. ""I don't know," says the Scarecrow, "Let's go and see.""
+     译："我不知道，"稻草人说，"我们出去看看吧。"
+  4. "They run out of the house to the trees."
+     译：他们跑出屋子，奔向那片树林。
+
+---
+
+**B3-2**（2 句）
+- 分组依据：视觉焦点从"两人奔跑"切换到"铁皮人+斧头"，触发新节拍（新戏剧性主体出现）；两句均描述同一时刻同一焦点（铁皮人的外观与道具），合并
+- 原文：
+  1. "They see a strange tin man by a tree."
+     译：他们看见一棵树旁站着一个奇怪的铁皮人。
+  2. "He has an ax in his hands."
+     译：他手里握着一把斧头。
+
+---
+
+**B3-3**（4 句）
+- 分组依据：铁皮人求救→Dorothy询问→铁皮人解释困境并请求涂油→说明油罐位置，对话链3回合同话题，无说话方主导切换，4句≤4句上限
+- 原文：
+  1. ""Help! Help!" cries the strange man."
+     译："救命！救命！"那个奇怪的人喊道。
+  2. ""What's the matter?" asks Dorothy."
+     译："怎么了？"多萝西问道。
+  3. ""I can't move!" says the Tin Woodman, "Can you put some oil on my arms and legs, please?"
+     译："我动不了！"铁皮樵夫说，"请你们帮我在手臂和腿上抹些油好吗？"
+  4. "There's an oil can in my house.""
+     译："我屋里有个油罐。"
+
+---
+
+**B3-4**（2 句）
+- 分组依据：Dorothy奔回取油→返回涂油，连续行动链，空间位移（屋内→铁皮人处）；与句12-13（铁皮人开始动）视觉焦点切换，拆出独立节拍
+- 原文：
+  1. "Dorothy runs back to the house and gets the oil can."
+     译：多萝西跑回屋里取来了油罐。
+  2. "She takes it to the Tin Woodman and they put some oil on his arms and legs."
+     译：她把油罐带到铁皮樵夫那里，他们一起给他的手臂和腿上涂了油。
+
+---
+
+**B3-5**（2 句）
+- 分组依据：涂油结果——铁皮人缓慢恢复活动，时间推进（慢慢开始→先头后手臂腿），连续动作序列，视觉焦点从"Dorothy涂油"切换到"铁皮人活动"
+- 原文：
+  1. "He slowly begins to move."
+     译：他慢慢地开始动了起来。
+  2. "First he moves his head, then his arms and legs."
+     译：他先动了动脑袋，然后是手臂和腿。
+
+---
+
+**B3-6**（4 句）
+- 分组依据：铁皮人连续独白——道谢+当前状态+解释弱点（雨水/铁皮）+提问，同一说话方，无切换，同一话题（自我说明），4句≤4句上限；§4条件B不适用（无情绪反向因果）
+- 原文：
+  1. ""Thank you!" he says, "I feel better now."
+     译："谢谢你们！"他说，"我现在感觉好多了。"
+  2. "Sometimes I get wet in the rain."
+     译："有时候我会被雨淋湿。"
+  3. "Water is very bad for my tin body."
+     译："水对我的铁皮身体非常有害。"
+  4. "Who are you and where are you going?""
+     译："你们是谁？要去哪里？"
+
+---

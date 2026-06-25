@@ -1,0 +1,61 @@
+**B4-7**（3 句）
+- 分组依据：叙事高潮 B 类（身份揭晓）——多萝西进入觐见室（句 16）、看见绿椅上只有一颗巨大的头颅（句 17，身份揭晓瞬间）、她感到惊讶和害怕（句 18），三句共同构成高潮定格，情绪触发词："surprised and afraid"，必须有 ≥2 个视觉承载点；无场景跳变，3 句。
+- 原文：
+  1. "Dorothy goes into a beautiful room."
+     译：多萝西走进了一间华美的房间。
+  2. "On a green chair there is only a very big head, without a body, arms or legs."
+     译：绿色椅子上只有一颗巨大的头颅，没有身体、手臂或腿。
+  3. "She is surprised and afraid."
+     译：她又惊讶又害怕。
+
+---
+
+**B4-8**（2 句）
+- 分组依据：觐见对话第 1 回合——奥兹巨头自我介绍并发问（句 19）、多萝西回答并请求帮助（句 20），1 回合对话，同一话题，2 句。
+- 原文：
+  1. ""I am Oz," says the big head, "Who are you and what do you want?""
+     译：「我是奥兹，」大头说，「你是谁，你想要什么？」
+  2. ""I'm Dorothy and I want to go home to Kansas. I don't know the way. Can you help me, please?""
+     译：「我是多萝西，我想回堪萨斯的家。我不知道路。能帮帮我吗？」
+
+---
+
+**B4-9**（3 句）
+- 分组依据：奥兹动作准备+提出条件——眼睛开合（句 21）、嘴巴开口说话（句 22）是连续描写同一时刻的准备动作，句 23 是随即提出的条件，同一说话方、同一话题、无情绪反转（由神秘→压迫是渐进推进），3 句。
+- 原文：
+  1. "The big eyes open and close."
+     译：那双大眼睛睁开又闭上。
+  2. "Then the mouth opens and speaks."
+     译：然后那张嘴也张开，开始说话。
+  3. ""Perhaps I can help you. But first you must kill the Wicked Witch of the West.""
+     译：「也许我能帮你。但首先你必须杀死西方邪恶女巫。」
+
+---
+
+**B4-10**（1 句）
+- 分组依据：§4 条件 B（触发-转折因果链）——句 23 是奥兹提出条件（触发），句 24 是多萝西的情绪性拒绝（转折，情绪方向相反），必须独立成镜；情绪触发词："Oh, no!"，强度：中。
+- 原文：
+  1. ""Oh, no!" says Dorothy, "I don't want to kill anyone.""
+     译：「哦，不！」多萝西说，「我不想杀任何人。」
+
+---
+
+**B4-11**（2 句）
+- 分组依据：奥兹继续施压对话——句 25 重申逻辑施压（东方女巫已死、穿着银鞋、必须去杀西方女巫），句 26 是多萝西反问（"怎么杀/在哪"），1 回合，同话题，2 句。
+- 原文：
+  1. ""The Wicked Witch of the East is dead. You're wearing her silver shoes. Now go and kill the Wicked Witch of the West.""
+     译：「东方邪恶女巫已经死了。你穿着她的银鞋。现在去杀死西方邪恶女巫吧。」
+  2. ""How can I kill the Wicked Witch of the West?" she asks, "Where is she?""
+     译：「我怎么才能杀死西方邪恶女巫？」她问道，「她在哪里？」
+
+---
+
+**B4-12**（2 句）
+- 分组依据：§4 条件 D（阶段性场景边界）——头颅不回答宣告"多萝西觐见"阶段结束（句 27），多萝西离开、稻草人进入构成"稻草人觐见"新阶段的入场（句 28），叙事阶段切换触发必拆，2 句。
+- 原文：
+  1. "The head does not answer."
+     译：那颗大头没有回答。
+  2. "Dorothy leaves the room and the Scarecrow goes in."
+     译：多萝西离开了房间，稻草人走了进去。
+
+---

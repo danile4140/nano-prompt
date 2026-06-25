@@ -1,0 +1,65 @@
+**B1-1**（4 句）
+- 分组依据：同一叙述节拍——介绍卡拉马克的身份、神通与地位，空间未跳变，情绪基调一致（介绍性叙述）
+- 原文：
+  1. "Kalamake was the wizard of Molokai: he could see into the future with the help of evil spirits."
+     译：卡拉马克是莫洛凯岛的巫师：借助邪灵他能预见未来。
+  2. "Everyone in the Kingdom of Hawaii went to ask for his advice and everyone was afraid of him."
+     译：夏威夷王国的每个人都去向他求教，每个人都害怕他。
+  3. "His enemies died in terrible ways."
+     译：他的敌人都死得极为惨烈。
+  4. "At night he was seen in the high mountains, moving from one mountain to the other."
+     译：夜里有人看见他在高山上，从一座山移向另一座山。
+
+**B1-2**（2 句）
+- 分组依据：同一节拍——夜间森林里被看见，与B1-1相邻叙述节拍但切换了视觉焦点（森林vs山地）；判断为节拍切换，新开一镜；但可与下一句合并（外貌描写）→ 此句属于空间切换，独立节拍
+  - 注意重新判断：B1-1已4句满额，第5句"He was also seen walking in the forest…"为空间切换（山→林），触发切换，必须独立。外貌描写开头"Kalamake looked strange"为主题转移（切换到外貌节拍），与"森林行走"同属对巫师的介绍，但叙述视角已转移（行为描述→外貌描述），判断为同一展示性介绍节拍。
+- 分组依据重定：此两句（森林行走 + 外貌开场）同属对卡拉马克神秘形象的展示，视觉焦点均在卡拉马克本人，合并为一镜。
+- 原文：
+  1. "He was also seen walking in the forest with his head high above the tall trees."
+     译：他也被人看见在林间行走，头颅高耸于参天大树之上。
+  2. "Kalamake looked strange."
+     译：卡拉马克外貌奇异。
+
+**B1-3**（3 句）
+- 分组依据：同一节拍——卡拉马克的外貌细节（皮肤颜色、头发颜色、失明），连续静态描写，无空间/时间/情绪切换
+- 原文：
+  1. "His skin was whiter than the other people's, his hair was the colour of dry grass and he was blind."
+     译：他的皮肤比其他人更白，头发是枯草的颜色，而且他是盲人。
+  2. "The people of the islands said, 'Blind as Kalamake who can see the future.'"
+     译：岛上的人说："盲如卡拉马克，却能预见未来。"
+  3. "Lehua, Kalamake's daughter, lived with her husband, Keola, in her father's house."
+     译：莱华是卡拉马克的女儿，与丈夫科欧拉同住在父亲家中。
+
+**B1-4**（4 句）
+- 分组依据：同一节拍——引入科欧拉的困惑：卡拉马克的神秘财富来源，连续叙述，无场景跳变，无情绪反转，全属"科欧拉对岳父财富的疑惑"主题
+- 原文：
+  1. "Keola did not know much about his wife's father, but one thing troubled him."
+     译：科欧拉对妻子的父亲了解不多，但有一件事困扰着他。
+  2. "Kalamake bought everything he wanted and paid with shiny new dollars."
+     译：卡拉马克想买什么就买什么，总用闪亮的新美元付账。
+  3. "The people of the islands said, 'Shiny as Kalamake's dollars.'"
+     译：岛上的人说："亮如卡拉马克的美元。"
+  4. "However, he never worked and no one knew where his shiny new dollars came from."
+     译：然而他从不工作，没有人知道他那些闪亮的新美元从何而来。
+
+**B1-5**（4 句）
+- 分组依据：同一节拍——某天的背景设定：莱华和村民都出门了，科欧拉独自在家观海，产生调查念头。四句都属于同一决策前铺垫节拍，无场景跳变，无情绪反转
+- 原文：
+  1. "One day Lehua went to visit a friend on the other side of the island, and the men of the village went fishing."
+     译：一天，莱华去岛的另一侧拜访朋友，村里的男人们去捕鱼了。
+  2. "But Keola was lazy and he did not go."
+     译：但科欧拉懒惰，他没有去。
+  3. "He sat and watched the sea and the birds flying in the blue sky."
+     译：他坐着望海，望着蓝天中飞翔的鸟儿。
+  4. "He thought about Kalamake's shiny dollars and decided to find out where he hid his money."
+     译：他想到卡拉马克那些闪亮的美元，决定查出钱藏在哪里。
+
+**B1-6**（3 句）
+- 分组依据：同一节拍——科欧拉回忆卡拉马克深夜翻看书籍、抽屉开合的细节，作出推断。属于"心理+回忆"节拍，无空间实际移动，是B1-5的直接延续心理动作
+- 原文：
+  1. "He remembered that late at night when everyone was in bed, Kalamake sat at his desk and looked at books."
+     译：他记得深夜里当所有人都入睡后，卡拉马克坐在书桌前翻书。
+  2. "Then he could hear the sound of the drawer opening and closing slowly."
+     译：那时他总能听到抽屉缓缓开合的声音。
+  3. "'That's where he probably hides his money,' thought Keola."
+     译："那大概就是他藏钱的地方，"科欧拉心想。

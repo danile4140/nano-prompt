@@ -1,0 +1,208 @@
+{
+  "storyboard_assets": [
+    {
+      "id": "B4-1",
+      "character_refs": ["C1"],
+      "scene_refs": [],
+      "covered_sentences": [
+        "One day I will write a big book about the kingdom of Lilliput.",
+        "I will describe how the people live, and their habits.",
+        "I will not describe it all here, but I do want to say something about this interesting country."
+      ],
+      "layout": "",
+      "prompt": "①构图与镜头：单格，中景正面偏侧，格列佛坐于画框中央略偏右，视线斜向左上，桌面占画面下三分之一，背景留白或淡化，羽毛笔在手，云状幻想气泡浮于左上角占约三分之一画幅。\n\n②动作与关系：格列佛右手执羽毛笔悬于纸面上方，左手轻抵桌沿，目光凝视远方；云状气泡内绘极小人物走在石板街道上的简笔意象——街道两侧是膝盖高的小石屋轮廓，几个火柴棍小人行走其间。\n\n③场景：室内写作空间，桌面铺开羊皮纸，纸上有几行手写体线条（不渲染可辨认文字），旁置墨水瓶，背景模糊，无明确地点限定，自然日光侧射。\n\n④光影与色彩：暖黄色调为主，侧窗日光从左上投射，气泡区域略带冷蓝以示幻想属性，整体明亮温和。\n\n⑤主体与角色：格列佛——棕色短发略蓬乱，蓝灰色眼睛，下巴短胡茬，深蓝色翻领长外套铜扣，白色衬衫领口外露，浅灰色马裤；标准成人比例，坐姿，上半身可见；气泡内小人为轮廓线条图，无需细节。\n\n⑥风格与媒介：STYLE_PLACEHOLDER\n\n⑦约束条件：角色外观与服装细节严格遵循参考图，不自行添加或修改；人物比例自然，道具大小合理，空间关系清楚；单格不加外边框；画面内不得渲染可辨认的中文或英文正文文字；气泡内为简笔画街道意象；格列佛禁止更换发色为金色或黑色、禁止改卷发、禁止外套主色改红色、禁止短袖、禁止去掉皮靴、禁止去掉短胡茬；场景无特定指纹约束；无水印，无多余人物。"
+    },
+    {
+      "id": "B4-2",
+      "character_refs": [],
+      "scene_refs": ["S4"],
+      "covered_sentences": [
+        "It is important to remember that the people of Lilliput are very small.",
+        "They are about six inches tall, and all the animals and trees are in proportion.",
+        "The tallest horse is about five inches high, and a sheep about one inch.",
+        "Some of the animals are so small that I could not see them easily.",
+        "Birds, for example, are about the same size as flies in England.",
+        "The tallest trees in Lilliput are seven feet high."
+      ],
+      "layout": "",
+      "prompt": "①构图与镜头：横排三格序列条，等宽分割，无人物角色，纯图示比例对比；左格展示利立浦特人与成人手掌的比例，中格展示马与羊的体型对比，右格展示最高树木与小屋的比例关系。\n\n②动作与关系：无角色动作；左格中一个轮廓线小人站在一只巨大手掌旁，高度仅及手掌宽度；中格一匹小马与一只更小的羊并排站立，旁边附简笔刻度线；右格一棵锥形小树立于石板路旁，树冠与石屋屋顶齐平，旁置比例刻度线条图标。\n\n③场景：利立浦特首都街道为背景底色，极低矮石砌小屋轮廓作为背景参照，石板路面纵向延伸，无主角人物，重点在图示元素；白天，自然日光。\n\n④光影与色彩：明亮自然光，暖黄绿色调，色彩简洁清晰以突出比例图示，三格背景色调统一，格间以白色细直线分隔。\n\n⑤主体与角色：无可辨识角色；所有图示元素以轮廓线条图风格呈现，笔触简洁，比例精确；马约为小人身高的六分之五，羊约为小人身高的六分之一，树高约为小屋高度的两倍。\n\n⑥风格与媒介：STYLE_PLACEHOLDER\n\n⑦约束条件：三格用白色细直线分隔，无圆角无阴影无留白；画面内不得渲染可辨认文字；无人物角色，无水印；场景指纹——极低矮石砌小屋轮廓+石板路纵深延伸+城门拱洞可见于背景，位置形态不变；道具大小合理，空间关系清楚，比例对比直观。"
+    },
+    {
+      "id": "B4-3",
+      "character_refs": [],
+      "scene_refs": ["S4"],
+      "covered_sentences": [
+        "The Lilliputians are very educated people, but their way of writing is strange.",
+        "They do not write from left to right like the Europeans, or from right to left like the Arabs.",
+        "They do not write from the top of the page downwards, like the Chinese, or from the bottom upwards.",
+        "They write from one corner of the paper to the opposite corner!"
+      ],
+      "layout": "",
+      "prompt": "①构图与镜头：左右二分1:1，单白线分隔；左格展示三种书写方向对比图示，右格展示利立浦特对角线书写方式特写。\n\n②动作与关系：左格中三张羊皮纸图标并排，分别用箭头标示从左至右、从右至左、从上至下三种方向，箭头为简笔线条，无文字内容；右格一张铺开的羊皮纸，对角线方向有一道斜向笔迹轨迹线（线条图，不渲染可辨认文字），旁边一支羽毛笔沿对角线方向摆放，强调方向感。\n\n③场景：利立浦特首都街道背景，石板路和低矮小屋轮廓作为远景底色，画面主体为桌面图示特写，白天自然日光，图示区域明亮突出。\n\n④光影与色彩：左格暖黄米白色调，图示元素深棕线条；右格略带暖橙色强调光，对角线笔迹以深色线条清晰可见，整体明亮轻快。\n\n⑤主体与角色：无可辨识人物角色；所有书写方向以箭头线条图示呈现，羊皮纸以矩形轮廓表示，笔触简洁清晰。\n\n⑥风格与媒介：STYLE_PLACEHOLDER\n\n⑦约束条件：左右二格用白色细直线分隔，无圆角无阴影无留白；画面内不得渲染可辨认的中文或英文正文文字；无人物，无水印；场景指纹——极低矮石砌小屋+石板路纵深延伸+城门拱洞，位置形态不变；道具大小合理，空间关系清楚。"
+    },
+    {
+      "id": "B4-4",
+      "character_refs": [],
+      "scene_refs": ["S4"],
+      "covered_sentences": [
+        "The laws of Lilliput are also very different to English laws.",
+        "They regard trade as very important, and they think that trade depends on honesty.",
+        "So they always punish fraud with death."
+      ],
+      "layout": "",
+      "prompt": "①构图与镜头：单格，信息图式俯瞰视角，利立浦特街道为底色，画面中央排布三个图示图标，从上至下或左至右形成流程关系，模拟地图或告示板风格。\n\n②动作与关系：三个图示图标依次为——一个握手轮廓图标（代表贸易），一个天平轮廓图标（代表诚信/法律），一个带X标记的轮廓图标（代表欺诈受罚），三者之间用箭头线条连接，形成因果流程；无角色人物。\n\n③场景：利立浦特首都街道，极低矮石砌小屋为背景，石板路面纵向延伸，白天阳光，图示告示板置于画面中央前景，如同悬挂于街道中的公告栏轮廓框。\n\n④光影与色彩：暖黄与棕色为主，告示板区域米白背景，线条深棕色，整体清晰，带有朴素版画感。\n\n⑤主体与角色：无可辨识人物角色；图标以简洁轮廓线条图形式呈现，比例匀称，流程方向清晰。\n\n⑥风格与媒介：STYLE_PLACEHOLDER\n\n⑦约束条件：单格不加外边框；画面内不得渲染可辨认文字；无人物，无水印；场景指纹——极低矮石砌小屋+石板路纵深延伸+城门拱洞，位置形态不变；道具大小合理，空间关系清楚。"
+    },
+    {
+      "id": "B4-5",
+      "character_refs": ["C1", "C2"],
+      "scene_refs": ["S5"],
+      "covered_sentences": [
+        "I remember once I asked the Emperor to save a prisoner who had been found guilty of fraud.",
+        "'Death is too serious a punishment,' I said.",
+        "'This man's crime is only that he told lies to his friend, and robbed him.'"
+      ],
+      "layout": "",
+      "prompt": "①构图与镜头：对话双格2:1，左格（主格）格列佛近景四分之三侧面朝右，右格（次格）皇帝中景正面偏侧朝左，两格共同呈现面对面对话场景；白色细直线分隔。\n\n②动作与关系：左格（主格）格列佛弯腰俯身，右手向前伸出做请求手势，左手轻抚胸口，神情诚恳；圆形对话气泡内绘——一个被铁链锁住的火柴棍小人轮廓，旁置一个表示禁止的圆形X线条图标（暗示'不应处死'的请求）；右格皇帝笔直站立，双手交叠于腹前，神情端正凝视，无表情反应。\n\n③场景：利立浦特皇宫觐见大厅，红色长地毯沿地面延伸，两侧石柱可见，王座高台在右格背景深处，彩绘玻璃窗投射彩色光斑，金属烛台立于两侧，日光。\n\n④光影与色彩：暖金黄与深红色调，彩绘玻璃投下冷暖混合光斑，左格偏暖橙（格列佛一侧），右格偏深红（皇帝一侧），整体庄重厚重。\n\n⑤主体与角色：格列佛——棕色短发略蓬乱，蓝灰色眼睛，下巴短胡茬，深蓝色翻领长外套铜扣，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；弯腰俯身，占左格主体；皇帝——极小体型（约为格列佛膝盖高），黑色短发向后梳，金色小王冠镶嵌红色宝石，深红色绒面皇袍金色滚边，金色腰带；正面站立于右格中央，比例锚点：皇帝身高约为格列佛小腿膝盖处。\n\n⑥风格与媒介：STYLE_PLACEHOLDER\n\n⑦约束条件：左右二格用白色细直线分隔，无圆角无阴影无留白；画面内气泡中不得渲染可辨认文字，仅含简笔画图示；无水印，无多余人物；场景指纹——红色长地毯+王座高台石柱+彩绘玻璃窗，位置形态不变；格列佛禁止更换发色为金色或黑色、禁止改卷发、禁止外套主色改红色、禁止短袖、禁止去掉皮靴、禁止去掉短胡茬；皇帝禁止去掉金色王冠、禁止皇袍主色改蓝色或紫色、禁止改变极小体型比例、无胡须、禁止去掉金色腰带；人物比例自然，空间关系清楚。"
+    },
+    {
+      "id": "B4-6",
+      "character_refs": ["C1", "C2"],
+      "scene_refs": ["S5"],
+      "covered_sentences": [
+        "The Emperor was very angry with me.",
+        "He explained that this kind of robbery is the worst crime in the world."
+      ],
+      "layout": "",
+      "prompt": "①构图与镜头：单格，皇帝近景特写居中偏前景，格列佛仅下半身或腰部以下可见于画面边缘（暗示其巨大体型），皇帝为视觉主体，仰拍角度强调情绪张力。\n\n②动作与关系：皇帝双臂向两侧张开，一手抬起指向前方（朝向格列佛方向），神情震怒，眉头紧皱，嘴张开，面颊微红；身周辐射爆裂线条（简笔线条发散形），强调愤怒情绪；格列佛的大靴子底部出现在画面左边缘，暗示体型差距。\n\n③场景：利立浦特皇宫觐见大厅，红色长地毯延伸至画面深处，石柱立于两侧，彩绘玻璃窗在背景上方投射彩色光斑，整体庄严，当前氛围紧张。\n\n④光影与色彩：暖深红与金色为主调，皇帝周边爆裂线条区域微有橙红暖光强调，彩绘玻璃光斑增添色彩层次，整体色彩饱和度略高以强化情绪。\n\n⑤主体与角色：皇帝——极小体型，黑色短发向后梳，金色小王冠镶嵌红色宝石，深红色绒面皇袍金色滚边，金色腰带；面部特写可见，神情震怒；格列佛仅大靴子底部边缘可见于左侧画框，黑色长筒皮靴；比例锚点：皇帝身高约为格列佛足踝高度。\n\n⑥风格与媒介：STYLE_PLACEHOLDER\n\n⑦约束条件：单格不加外边框；画面内不得渲染可辨认文字；无水印，无多余人物；场景指纹——红色长地毯+王座高台石柱+彩绘玻璃窗，位置形态不变；皇帝禁止去掉金色王冠、禁止皇袍主色改蓝色或紫色、禁止改变极小体型比例、无胡须、禁止去掉金色腰带；格列佛禁止更换发色、禁止去掉皮靴；人物比例自然，道具大小合理，空间关系清楚。"
+    },
+    {
+      "id": "B4-7",
+      "character_refs": [],
+      "scene_refs": ["S4"],
+      "covered_sentences": [
+        "Another strange thing about Lilliput is this.",
+        "They punish bad behaviour, as we do in England.",
+        "But they also reward good behaviour, which we never do in England.",
+        "A Lilliputian who has obeyed all the laws of the country for a long time, is given a special title and some money by the government."
+      ],
+      "layout": "",
+      "prompt": "①构图与镜头：左右二分1:1，白色细直线居中分隔；左格展示'惩罚坏行为'图示，右格展示'奖励好行为'图示，两格形成对比关系，俯视或正面平视图示风格。\n\n②动作与关系：左格——一个火柴棍小人轮廓站在格子前，其旁有一个带X标记的告示板轮廓图标，另有铁链线条图示，整体表示处罚；右格——一个火柴棍小人轮廓手持一枚圆形奖章图标（简笔轮廓），旁有一顶帽徽轮廓象征头衔，下方有几枚圆形硬币轮廓，整体表示奖励；无真实角色，全为线条图示。\n\n③场景：利立浦特首都街道背景，极低矮石砌小屋轮廓为远景，石板路面延伸，两格共用同一街道背景氛围，白天自然光。\n\n④光影与色彩：左格整体偏冷灰蓝调（强调惩罚的严肃），右格偏暖黄金色调（强调奖励的正面），两格背景街道底色一致，分格线清晰。\n\n⑤主体与角色：无可辨识人物角色；所有图示元素以轮廓线条图形式呈现，简洁对称，比例清晰。\n\n⑥风格与媒介：STYLE_PLACEHOLDER\n\n⑦约束条件：左右二格用白色细直线分隔，无圆角无阴影无留白；画面内不得渲染可辨认文字；无真实人物，无水印；场景指纹——极低矮石砌小屋+石板路纵深延伸+城门拱洞，位置形态不变；道具大小合理，空间关系清楚。"
+    },
+    {
+      "id": "B4-8",
+      "character_refs": [],
+      "scene_refs": ["S4"],
+      "covered_sentences": [
+        "Their ideas about children are very different to ours.",
+        "They do not believe that parents should choose their children's education.",
+        "All children are taken away from their parents when they are young, and are sent to nursery schools.",
+        "When they are older, children go to different schools.",
+        "The choice of school depends on the family the children come from."
+      ],
+      "layout": "",
+      "prompt": "①构图与镜头：左右二分1:1，白色细直线居中分隔；左格展示父母与孩子在街道送别场景，右格展示孩子们进入学校建筑的场景，两格叙事连贯。\n\n②动作与关系：左格——两个极小成人轮廓（代表父母）站在石板路上，一个极小儿童轮廓转身离开，父母手臂伸出做送别姿态，儿童轮廓向右走向画面边缘；右格——数个儿童轮廓排成一排走向一座低矮石砌建筑入口，建筑门口有一个成人轮廓（教师身份），做引导手势；全为线条图示风格，无需细节。\n\n③场景：利立浦特首都街道，左格在石板路上，低矮石屋为背景；右格为学校建筑近景，石砌低矮外墙，拱形门洞；白天自然光，街道氛围。\n\n④光影与色彩：暖黄色调统一两格，左格带轻微暖橙（送别情感），右格偏明亮黄白（新开始），整体明快。\n\n⑤主体与角色：无可辨识的命名角色；所有人物以极小比例火柴棍轮廓线条图呈现，体型为极小利立浦特人。\n\n⑥风格与媒介：STYLE_PLACEHOLDER\n\n⑦约束条件：左右二格用白色细直线分隔，无圆角无阴影无留白；画面内不得渲染可辨认文字；无水印，无多余人物；场景指纹——极低矮石砌小屋+石板路纵深延伸+城门拱洞，位置形态不变；道具大小合理，人物比例自然，空间关系清楚。"
+    },
+    {
+      "id": "B4-9",
+      "character_refs": [],
+      "scene_refs": ["S4"],
+      "covered_sentences": [
+        "The children from important families go to schools where they learn about religion, honour, justice, and courage.",
+        "Their professors are always with them, and the children are not allowed to talk to the servants in the school.",
+        "Their parents can visit them once or twice a year, but they cannot bring them presents."
+      ],
+      "layout": "",
+      "prompt": "①构图与镜头：左右二分1:1，白色细直线居中分隔；左格展示精英学校课堂内部场景，右格展示父母探望但不携礼物的场景，两格叙事对照。\n\n②动作与关系：左格——数个儿童轮廓整齐端坐于微型课桌前，一个成人轮廓（教授）立于前方做讲解姿态，旁边还有一个轮廓（监督者）始终在侧，氛围庄重；右格——两个成人轮廓（父母）站在石板路上，一个儿童轮廓站在对面，两侧之间有明显空间距离，父母双手空置无礼物，气泡内绘一个礼品盒外加禁止圆形X线条图标（表示不能带礼物）。\n\n③场景：左格为低矮石砌建筑室内，简洁石墙背景，微型桌椅；右格为利立浦特街道或学校入口外，石板路，低矮石屋，白天日光。\n\n④光影与色彩：左格偏冷蓝灰调（严肃学习氛围），右格偏暖黄（家庭探望温情），两格对比清晰。\n\n⑤主体与角色：无命名角色；所有人物为极小利立浦特轮廓线条图，体型统一极小比例。\n\n⑥风格与媒介：STYLE_PLACEHOLDER\n\n⑦约束条件：左右二格用白色细直线分隔，无圆角无阴影无留白；画面内气泡中不得渲染可辨认文字，仅含简笔画图示；无水印，无多余人物；场景指纹——极低矮石砌小屋+石板路纵深延伸+城门拱洞，位置形态不变；道具大小合理，人物比例自然，空间关系清楚。"
+    },
+    {
+      "id": "B4-10",
+      "character_refs": [],
+      "scene_refs": ["S4"],
+      "covered_sentences": [
+        "Girls also go to schools, where they learn the same things as boys.",
+        "They are also taught about family life.",
+        "Girls are not allowed to talk to the servants in their schools.",
+        "The result of this is that they do not hear the silly stories of ignorant women.",
+        "In general, the women of Lilliput are sensible and intelligent."
+      ],
+      "layout": "",
+      "prompt": "①构图与镜头：左右二分1:1，白色细直线居中分隔；左格展示女校课堂场景，右格展示成年利立浦特女性形象，两格叙事连贯。\n\n②动作与关系：左格——数个女童轮廓端坐于微型课桌前，一个成人轮廓立于前方授课，氛围整齐有序，无仆从轮廓在旁（暗示隔离规则）；右格——两三个成年女性极小轮廓立于街道上，姿态端正挺立，气泡内绘一本书轮廓和一盏灯轮廓（象征知识与智慧）。\n\n③场景：左格为低矮石砌建筑室内，微型桌椅，石墙背景；右格为利立浦特首都街道，极低矮石砌小屋为背景，石板路面，白天自然光。\n\n④光影与色彩：整体暖黄明亮，左格偏淡蓝绿（学习氛围），右格偏温暖金黄（正面肯定），色调轻快积极。\n\n⑤主体与角色：无命名角色；所有人物为极小利立浦特轮廓线条图，女性轮廓以裙摆线条区分性别。\n\n⑥风格与媒介：STYLE_PLACEHOLDER\n\n⑦约束条件：左右二格用白色细直线分隔，无圆角无阴影无留白；画面内气泡中不得渲染可辨认文字，仅含简笔画图示；无水印，无多余人物；场景指纹——极低矮石砌小屋+石板路纵深延伸+城门拱洞，位置形态不变；道具大小合理，人物比例自然，空间关系清楚。"
+    },
+    {
+      "id": "B4-11",
+      "character_refs": [],
+      "scene_refs": ["S4"],
+      "covered_sentences": [
+        "The children of ordinary people go to schools where they learn various trades and professions.",
+        "The children of the poorest people do not go to school, because they do not have to learn anything to do their work.",
+        "Poor people in Lilliput are given a government pension when they are old or ill, and there are no beggars in the country."
+      ],
+      "layout": "",
+      "prompt": "①构图与镜头：左右二分1:1，白色细直线居中分隔；左格展示普通职业学校场景，右格展示老人领养老金无乞丐场景，两格叙事对照。\n\n②动作与关系：左格——数个儿童轮廓围绕一台工具台或简单机械轮廓（代表职业技能），一个成人轮廓在旁指导；右格——一个年老驼背轮廓站在一扇窗口前，一个代表官员的轮廓向其递出一个钱袋轮廓图标，街道整洁，无流浪人物，整体展示有序社会保障；气泡内绘一个钱袋和一个老者轮廓的组合图标（养老金）。\n\n③场景：左格为简朴工坊室内，低矮石砌墙，工具轮廓；右格为利立浦特首都街道，极低矮石砌小屋，石板路，白天自然光，街道干净整洁。\n\n④光影与色彩：暖棕黄色调统一，左格偏暖橙（劳动活力），右格偏暖黄金色（保障温情），整体积极温和。\n\n⑤主体与角色：无命名角色；所有人物为极小利立浦特轮廓线条图，老者轮廓以驼背姿态区分。\n\n⑥风格与媒介：STYLE_PLACEHOLDER\n\n⑦约束条件：左右二格用白色细直线分隔，无圆角无阴影无留白；画面内气泡中不得渲染可辨认文字，仅含简笔画图示；无水印，无多余人物；场景指纹——极低矮石砌小屋+石板路纵深延伸+城门拱洞，位置形态不变；道具大小合理，人物比例自然，空间关系清楚。"
+    },
+    {
+      "id": "B4-12",
+      "character_refs": ["C1"],
+      "scene_refs": ["S3"],
+      "covered_sentences": [
+        "I lived in Lilliput for nearly a year, and this is what my daily life was like.",
+        "I made myself a table and chair from one of the biggest trees I could find.",
+        "Two hundred women worked to make clothes for me.",
+        "They used different techniques for measuring me, and these techniques amused me."
+      ],
+      "layout": "",
+      "prompt": "①构图与镜头：横排三格序列条，等宽分割，白色细直线分隔；左格格列佛制作家具场景，中格女裁缝们围绕测量场景，右格格列佛日常生活全景，呈现一年生活片段。\n\n②动作与关系：左格——格列佛蹲下，手持巨大木材轮廓（树干），正在粗凿，地面可见一张已成形的简陋大桌子轮廓，数个极小利立浦特人轮廓站在桌面上为比例参照；中格——格列佛站立，数十个极小女性轮廓围绕其脚踝和腿部，手持布料和量尺线条图示，表情活泼，格列佛低头俯视面带笑意；右格——格列佛坐于自制大桌旁（桌腿粗壮），桌上摆有食物容器轮廓，神庙高拱顶可见于背景。\n\n③场景：利立浦特废弃神庙内部，高耸石质拱形穹顶，厚重石墙，粗凿石板地面，铁环与粗铁链可见于墙壁，白天通过高窄拱窗透入自然光。\n\n④光影与色彩：暖黄自然光从高窄拱窗斜射而下，石墙呈深灰冷色，地面石板为中性灰，光影对比中等，整体温暖中带有古旧感。\n\n⑤主体与角色：格列佛——棕色短发略蓬乱，蓝灰色眼睛，下巴短胡茬，深蓝色翻领长外套铜扣，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；标准成人比例，三格中均为全身或半身可见；极小利立浦特轮廓人物高度约为格列佛膝盖以下，比例锚点鲜明。\n\n⑥风格与媒介：STYLE_PLACEHOLDER\n\n⑦约束条件：三格用白色细直线分隔，无圆角无阴影无留白；画面内不得渲染可辨认文字；无水印；场景指纹——石质穹顶拱券+高窄拱窗+粗凿石板地面，位置形态不变；格列佛禁止更换发色为金色或黑色、禁止改卷发、禁止外套主色改红色、禁止短袖、禁止去掉皮靴、禁止去掉短胡茬；人物比例自然，道具大小合理，空间关系清楚。"
+    },
+    {
+      "id": "B4-13",
+      "character_refs": ["C1"],
+      "scene_refs": ["S3"],
+      "covered_sentences": [
+        "The first method was to determine the length of my clothes.",
+        "I lay on the ground, and one woman stood near my head, and another stood near my leg.",
+        "They had a long piece of rope which they used as a measure of my height."
+      ],
+      "layout": "",
+      "prompt": "①构图与镜头：左右二分2:1，白色细直线分隔；左格（主格，宽幅）格列佛平躺于石板地面全景俯视，右格（次格）绳索测量特写，强调趣味细节。\n\n②动作与关系：左格——格列佛笔直平躺于粗凿石板地面，双臂贴身，神情轻松带笑；一个极小女性轮廓站在其头部旁，另一个站在腿部旁，两人各持一端绳索轮廓，绳索绷直横跨格列佛身体，形成测量状态；右格——绳索特写，绳子张紧的线条图，两端各有一双极小的手轮廓握住，地面石板纹理可见。\n\n③场景：利立浦特废弃神庙内部，高耸石质拱形穹顶为上方背景，粗凿石板地面是主要接触面，厚重石墙与高窄拱窗可见于左格背景，自然光从拱窗斜射。\n\n④光影与色彩：暖黄自然光从高窄拱窗斜入，格列佛身体受光，石板地面呈深冷灰，整体明暗对比温和，色调沉稳。\n\n⑤主体与角色：格列佛——棕色短发略蓬乱，蓝灰色眼睛，下巴短胡茬，深蓝色翻领长外套铜扣，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；平躺全身可见；极小女性轮廓约为格列佛身高的十五分之一，比例锚点清晰。\n\n⑥风格与媒介：STYLE_PLACEHOLDER\n\n⑦约束条件：左右二格用白色细直线分隔，无圆角无阴影无留白；画面内不得渲染可辨认文字；无水印，无多余人物；场景指纹——石质穹顶拱券+高窄拱窗+粗凿石板地面，位置形态不变；格列佛禁止更换发色为金色或黑色、禁止改卷发、禁止外套主色改红色、禁止短袖、禁止去掉皮靴、禁止去掉短胡茬；人物比例自然，道具大小合理，空间关系清楚。"
+    },
+    {
+      "id": "B4-14",
+      "character_refs": ["C1"],
+      "scene_refs": ["S3"],
+      "covered_sentences": [
+        "When they wanted to make a jacket for me, they asked me to kneel on the ground.",
+        "Then they placed a ladder against my neck.",
+        "A man climbed to the top of ladder, and threw a length of rope down to the ground.",
+        "This showed them the correct length of the jacket they wanted to make."
+      ],
+      "layout": "",
+      "prompt": "①构图与镜头：横排三格序列条，等宽分割，白色细直线分隔，展示连续动作步骤；左格格列佛跪地，中格梯子搭于颈侧，右格小人攀梯抛绳。\n\n②动作与关系：左格——格列佛双膝跪地，上身挺直，神情配合且略带俯首；数个极小人轮廓站在其脚边仰望，做手势引导；中格——一架极细长的梯子（高度约及格列佛颈部）靠在格列佛脖颈旁，梯子底端几个极小人轮廓扶住，梯子线条清晰可见；右格——一个极小人轮廓攀爬在梯子顶端，一手抓梯沿，一手将绳索轮廓抛向地面，绳索弧线自上而下延伸，底端几个小人轮廓待接。\n\n③场景：利立浦特废弃神庙内部，粗凿石板地面为主接触面，厚重石墙与高窄拱窗在背景可见，日光自拱窗斜射，三格共用同一背景氛围。\n\n④光影与色彩：暖黄自然光为主，石墙深冷灰，三格整体色调一致，中格梯子区域可略有高光以突出细节。\n\n⑤主体与角色：格列佛——棕色短发略蓬乱，蓝灰色眼睛，下巴短胡茬，深蓝色翻领长外套铜扣，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；跪姿，三格中均可见；极小利立浦特人轮廓高度约为格列佛膝盖以下，比例鲜明。\n\n⑥风格与媒介：STYLE_PLACEHOLDER\n\n⑦约束条件：三格用白色细直线分隔，无圆角无阴影无留白；画面内不得渲染可辨认文字；无水印；场景指纹——石质穹顶拱券+高窄拱窗+粗凿石板地面，位置形态不变；格列佛禁止更换发色为金色或黑色、禁止改卷发、禁止外套主色改红色、禁止短袖、禁止去掉皮靴、禁止去掉短胡茬；人物比例自然，道具大小合理，空间关系清楚。"
+    },
+    {
+      "id": "B4-15",
+      "character_refs": ["C1"],
+      "scene_refs": ["S3"],
+      "covered_sentences": [
+        "Three hundred cooks worked to prepare my food every day.",
+        "I lifted twenty waiters onto my table.",
+        "They threw ropes over the side of the table to the ground below.",
+        "The cooks attached the barrels of wine and dishes of food to the ropes, and the waiters pulled the food up to the table."
+      ],
+      "layout": "",
+      "prompt": "①构图与镜头：左右二分1:1，白色细直线居中分隔；左格展示格列佛坐于大桌旁、桌面上站有极小侍从的场景；右格展示桌边拉绳上运食物的特写。\n\n②动作与关系：左格——格列佛坐于自制粗木大桌旁，双手放于桌面，约二十个极小侍从轮廓分散站立于桌面上，部分朝向桌沿做抓绳动作；左格背景可见数百个极小厨师轮廓在地面忙碌；右格——桌面边缘特写，两三个极小侍从轮廓俯身抓住绳索向上拉，绳索沿桌沿垂下，绳端悬挂一个小桶轮廓和盘子轮廓，地面有更多食物容器轮廓等候起吊；绳索线条清晰，动作方向明确。\n\n③场景：利立浦特废弃神庙内部，高耸石质拱形穹顶为远背景，粗凿石板地面在左格下方大面积可见，厚重石墙，高窄拱窗，白天自然光斜射，桌子为粗木质地。\n\n④光影与色彩：暖黄自然光为主，桌面偏亮受光，地面偏冷灰，两格色调统一，左格视野宏观，右格局部细节略提亮对比。\n\n⑤主体与角色：格列佛——棕色短发略蓬乱，蓝灰色眼睛，下巴短胡茬，深蓝色翻领长外套铜扣，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；坐姿，左格可见上半身；极小侍从轮廓高度约为格列佛食指高度，比例极度悬殊；比例锚点：侍从站于桌面高度约及格列佛手背。\n\n⑥风格与媒介：STYLE_PLACEHOLDER\n\n⑦约束条件：左右二格用白色细直线分隔，无圆角无阴影无留白；画面内不得渲染可辨认文字；无水印；场景指纹——石质穹顶拱券+高窄拱窗+粗凿石板地面，位置形态不变；格列佛禁止更换发色为金色或黑色、禁止改卷发、禁止外套主色改红色、禁止短袖、禁止去掉皮靴、禁止去掉短胡茬；人物比例自然，道具大小合理，空间关系清楚。"
+    },
+    {
+      "id": "B4-16",
+      "character_refs": ["C1", "C7"],
+      "scene_refs": ["S3"],
+      "covered_sentences": [
+        "One night a very important Lilliputian came to see me at the temple.",
+        "His visit there was a secret, he said.",
+        "'You are in danger,' he told me.",
+        "'The Emperor does not like you, and he wants to punish you.'"
+      ],
+      "layout": "",
+      "prompt": "①构图与镜头：对话双格2:1，白色细直线分隔；左格（主格，宽幅）神庙内部全景，格列佛与极小大臣的相遇场景，仰拍略带纵深；右格（次格）大臣特写，气泡警告内容。\n\n②动作与关系：左格——格列佛低头俯身坐于或蹲于石板地面，一手撑地，视线投向地面前方的极小大臣轮廓；大臣轮廓站立于画面前景，一手举起做低声示意手势（食指竖于唇前，暗示秘密），神情严肃凝重；神庙室内昏暗，蜡烛或月光透过高窄拱窗投下冷蓝色光条；右格——大臣面部近景特写，眉头紧皱，眼神急切，圆形对话气泡内绘——一个皇冠轮廓加一道闪电线条（代表皇帝愤怒）和一个指向人物的警告箭头图标（代表危险警告），气泡风格为圆角矩形，边缘带锯齿状以表示低语紧张。\n\n③场景：利立浦特废弃神庙内部，夜晚，主光源为月光透过高窄拱窗投入的冷蓝色光条，次光源为地面或角落的微弱烛光暖黄点，高耸石质拱形穹顶笼罩全场，粗凿石板地面，厚重石墙，铁环与粗铁链可见于墙壁，整体昏暗神秘。\n\n④光影与色彩：夜晚冷蓝色主调，月光从高窄拱窗斜射形成蓝白光条，烛光在角落形成暖黄光点，两种光源对比形成戏剧性冷暖张力，右格大臣特写以月光蓝白侧光为主，阴影深重。\n\n⑤主体与角色：格列佛——棕色短发略蓬乱，蓝灰色眼睛，下巴短胡茬，深蓝色翻领长外套铜扣，白色衬衫领口外露，浅灰色马裤，黑色长筒皮靴；左格俯身坐姿，月光侧打，上半身轮廓清晰；大臣——极小体型（身高约为格列佛膝盖以下），灰白色短发，消瘦脸，嘴角略下垂，深紫色高领大臣礼服，领口白色褶皱装饰，深色宽腰带，袖口金色刺绣；左格全身可见，右格面部特写；比例锚点：大臣身高约及格列佛小腿中部。\n\n⑥风格与媒介：STYLE_PLACEHOLDER\n\n⑦约束条件：左右二格用白色细直线分隔，无圆角无阴影无留白；画面内气泡中不得渲染可辨认文字，仅含简笔画图示；无水印，无多余人物；场景指纹——石质穹顶拱券+高窄拱窗+粗凿石板地面，位置形态不变；格列佛禁止更换发色为金色或黑色、禁止改卷发、禁止外套主色改红色、禁止短袖、禁止去掉皮靴、禁止去掉短胡茬；大臣禁止更换发色为黑色、禁止礼服主色改红色、禁止改变极小体型比例、无胡须、禁止去掉金色袖口刺绣；人物比例自然，道具大小合理，空间关系清楚。"
+    }
+  ]
+}

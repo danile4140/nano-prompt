@@ -1,0 +1,74 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B6-1",
+      "character_refs": ["C2"],
+      "scene_refs": ["S3"],
+      "covered_sentences": [
+        "Keola was glad that Lehua was near him.",
+        "He knew he had to get the wizard's leaves and there was little time.",
+        "But he was afraid, very afraid.",
+        "He thought about the battle in the woods and knew it was dangerous to be there."
+      ],
+      "layout": "①构图与镜头：单格心理/想象组织，镜头位于科欧拉正面偏侧，中近景，科欧拉站于S3沙滩，表情复杂（喜悦+恐惧）；左侧有莱华的虚线轮廓（隐形的存在感），大型云状气泡在右上方承载内心矛盾。比例锚点：科欧拉（引用C2）中近景，头部约占画面1/2高度；莱华虚线轮廓在左侧，轮廓身高约及科欧拉肩部；云气泡约占画面1/3。②动作与关系：科欧拉（引用C2）站立，表情复杂；莱华虚线轮廓在旁侧（隐形），科欧拉微侧头感受她的存在（「感到莱华在旁，心安」情绪）。云状气泡内两层：①喜悦层——莱华简笔+心形（「莱华在旁边！」）；②恐惧层——树林战斗图示+骷髅（「但树林里很危险！」）；气泡内有沙漏（时间紧迫）。③场景：S3声音之岛海滩，白天，强烈日光；背景为沙滩和树林边缘，隐形莱华的位置有轻微暖光晕。④光影与色彩：白天强光；莱华虚线位置有轻微温暖光晕；科欧拉内心矛盾用冷暖双色调云气泡表达。⑤主体与角色：逐格角色预算：单格可辨识1人（科欧拉），莱华以虚线轮廓暗示，不可辨识。科欧拉（引用C2）可辨识入镜；莱华不入character_refs。"
+    },
+    {
+      "id": "B6-2",
+      "character_refs": ["C2"],
+      "scene_refs": ["S9", "S3"],
+      "covered_sentences": [
+        "'I must be brave and go,' he thought. 'Lehua is waiting for me.'",
+        "He ran back to the woods, got the leaves and returned to Lehua."
+      ],
+      "layout": "①构图与镜头：横排2格，左格为决断+奔向树林，右格为取叶返回。左格：镜头位于科欧拉身后，中景，看向他大步奔向S9树林方向；速度线+对角线动作。右格：镜头位于沙滩侧方，中景，看向科欧拉从树林奔出，手握树叶束，返回沙滩草席方向。比例锚点：左格：科欧拉（引用C2）背影，树林入口在前方，树干高约成人身高4倍；右格：科欧拉（引用C2）奔出树林，树叶束在手中，树干在背景。②动作与关系：左格：科欧拉（引用C2）大步奔跑，姿态决断，思维气泡（小型）语义为「我必须勇敢去！莱华在等我！」（爱心+勇气图标）；速度线强调奔跑感。右格：科欧拉（引用C2）奔出树林，手持宽叶束，表情完成任务感，朝向沙滩方向（草席/莱华处）。③场景：左格S9树林入口，右格S3→S9边缘，白天，强烈日光。④光影与色彩：白天强光；左格对角线奔跑速度感；右格明亮轻松，完成任务感。⑤主体与角色：逐格角色预算：两格各可辨识1人。科欧拉（引用C2）两格均可辨识。"
+    },
+    {
+      "id": "B6-3",
+      "character_refs": ["C2"],
+      "scene_refs": ["S3"],
+      "covered_sentences": [
+        "She helped him put his feet on the mat and then she made the fire.",
+        "As it was burning Keola heard the noise of the battle in the woods.",
+        "The wizards and the cannibals were fighting desperately and screaming.",
+        "It was a long, terrible battle."
+      ],
+      "layout": "①构图与镜头：左右二分1:1构图，左格为仪式启动（草席+隐形莱华生火），右格为树林战斗声音图示。左格：镜头从斜俯角，看向科欧拉站于草席上，隐形的手（虚线轮廓）将树叶放入小锅点燃；科欧拉站立，树叶燃烧，烟雾升腾。右格：镜头从沙滩侧方，看向科欧拉耳朵方向（侧脸），背景树林方向有战斗声音波纹+斧头图示+叫喊气泡。比例锚点：左格：科欧拉（引用C2）站于草席，草席宽约其肩宽，火焰高约其膝盖；隐形之手（虚线轮廓）长约30厘米；右格：科欧拉（引用C2）侧脸，树林在背景，树干高约成人身高4倍（远处）。②动作与关系：左格：科欧拉（引用C2）站立草席，表情紧张等待；虚线手（莱华隐形）放树叶入火，火焰燃起；无气泡，仪式进行中。右格：科欧拉（引用C2）侧脸，侧耳听，表情恐惧紧张；声音波纹从背景树林方向传来（战斗声图示：斧头+叫喊）；「漫长可怕的战斗」用多条声音波纹叠加表达。③场景：S3声音之岛海滩，白天，草席在沙滩上；右格背景可见树林方向。④光影与色彩：左格火焰橙红光圈；右格白天暖光但战斗声带来紧张感。【风格调整】触发原因：仪式启动同时外部战斗激烈，调整方向：火焰橙光，紧张声音感，调整范围：本镜。⑤主体与角色：逐格角色预算：两格各可辨识1人（科欧拉），莱华以虚线轮廓暗示。科欧拉（引用C2）两格可辨识；莱华不入character_refs。"
+    },
+    {
+      "id": "B6-4",
+      "character_refs": ["C2"],
+      "scene_refs": ["S3", "S1"],
+      "covered_sentences": [
+        "And all this time Keola stood there and listened and trembled.",
+        "He watched as Lehua's invisible hands put the leaves in the fire.",
+        "She worked quickly, the flames grew high and almost burnt his hands.",
+        "When the last leaf was burnt, Keola and Lehua were at home again on their island, Molokai."
+      ],
+      "layout": "①构图与镜头：左右二分1:1构图，左格为煎熬等待时刻（高焰几乎烧手），右格为传送回家。左格：镜头从斜侧低处，仰角，看向科欧拉站于草席，全身颤抖，虚线之手将最后树叶入火，火焰猛然窜高几乎烧到科欧拉双手。右格：镜头从S1客厅侧方，中景，看向科欧拉和莱华突然出现于客厅草席，两人相视，表情惊喜/如释重负。比例锚点：左格：科欧拉（引用C2）站立，火焰高达其腰部高度，虚线手在火中；右格：科欧拉（引用C2）和莱华（引用C3）并排站于草席，书架在背景，高约成人身高1.8倍。②动作与关系：左格：科欧拉（引用C2）站立颤抖，双手微缩（险些被烧），表情极度紧张；虚线之手（莱华隐形）投入最后树叶，火焰猛烧。右格：传送回家——科欧拉（引用C2）和莱华（引用C3，重新可见！）突然在S1客厅，两人对视；莱华现形了！表情喜悦+如释重负；「回家了！」情感高潮图示。③场景：左格S3海滩草席，白天，火焰橙光；右格S1卡拉马科家客厅，白天，室内暖光；传送切换感。④光影与色彩：左格火焰强烈橙红；右格骤回室内暖柔光，对比表达传送。【风格复归】右格回到style_setting基调（正常室内暖光）。⑤主体与角色：逐格角色预算：左格可辨识1人（科欧拉），右格可辨识2人。科欧拉（引用C2）两格均可辨识；莱华（引用C3）右格重新现形可辨识入镜。"
+    },
+    {
+      "id": "B6-5",
+      "character_refs": ["C2", "C3"],
+      "scene_refs": ["S1"],
+      "covered_sentences": [
+        "Keola was very happy when he could finally see his wife Lehua.",
+        "And he was pleased to be home again in Molokai, in front of a good bowl of poi: there was no poi on the ship or on the Isle of Voices.",
+        "But most of all he was happy because he escaped from the cannibals.",
+        "However, Keola and Lehua were worried about another problem, and they talked about it all night."
+      ],
+      "layout": "①构图与镜头：左右二分2:1构图，左主格2/3承载回家喜悦（情感高潮），右辅格1/3承载「但有另一个问题」的夜间担忧。左主格：镜头位于两人侧方，斜侧，中景，看向科欧拉和莱华相拥，面前有一碗poi；背景为S1客厅正常布置。右辅格：镜头从茅屋/客厅侧方，中景，看向两人夜间坐谈，面色忧虑；夜间昏黄光。比例锚点：左格：科欧拉（引用C2）和莱华（引用C3）相拥，桌面在两人腰部高度，poi碗直径约手掌大小；门框高约成人身高；右格：两人夜间对坐，烛光在中间，头顶约及书架第一层。②动作与关系：左主格：科欧拉（引用C2）和莱华（引用C3）相拥，表情喜悦如释重负；桌面有poi碗特写图示；情感高潮图示（爱心+「逃脱食人族！」+poi碗）。右辅格：两人夜间对坐，面色转忧；谈话气泡（来回交替语义），夜间担忧感。③场景：左格S1客厅，白天/傍晚，室内暖光；右格S1客厅，夜晚，烛光昏黄。④光影与色彩：左格温暖明亮，情感高潮；右格夜间昏黄，忧虑感。⑤主体与角色：逐格角色预算：左格可辨识2人，右格可辨识2人。科欧拉（引用C2）和莱华（引用C3）两格均可辨识。【情绪标记】强度：强，类型：感动/喜悦，推荐视觉手段：左格暖光情感高潮+相拥姿态+poi碗特写+高级氛围装饰（温暖光晕）。"
+    },
+    {
+      "id": "B6-6",
+      "character_refs": ["C2", "C3"],
+      "scene_refs": ["S1"],
+      "covered_sentences": [
+        "Kalamake was still on the Isle of Voices.",
+        "'If Kalamake stays on the Isle of Voices, we're safe and we can live happily,' said Keola. 'But if he returns to Molokai we're both in great danger.'",
+        "'Remember, my father is a wizard and can grow big and he can walk in the deep sea,' said Lehua.",
+        "'I know,' said Keola, 'but the Isle of Voices is far away. It's in the dangerous archipelago. Let's find it on a map.'"
+      ],
+      "layout": "①构图与镜头：对话双格构图，左右二分1:1，夜间室内两人讨论，情绪均等。左格：镜头位于莱华过肩，看向科欧拉侧脸，中近景；科欧拉分析危险，表情严肃。右格：镜头位于科欧拉过肩，看向莱华侧脸，中近景；莱华提醒父亲的能力，表情担忧。比例锚点：左格：科欧拉（引用C2）侧脸，烛光侧打，莱华肩背前景约1/5；右格：莱华（引用C3）侧脸，烛光另侧打，科欧拉肩背前景约1/5。②动作与关系：左格：科欧拉（引用C2）分析，气泡：「如果他留在声音之岛——安全；如果他回来——大危险！」；地图简笔图示（声音之岛+箭头+莫洛凯）。右格：莱华（引用C3）提醒，气泡：「记住——父亲能变成巨人，能在深海行走！」；卡拉马克巨人简笔图示（C1b轮廓）。③场景：S1客厅，深夜，烛光昏黄；两人坐于桌旁，书架在背景。④光影与色彩：深夜烛光，暖黄侧打；整体氛围忧虑谨慎。【风格调整】触发原因：深夜讨论威胁，调整方向：烛光昏黄，阴影较重，调整范围：本镜。⑤主体与角色：逐格角色预算：两格各可辨识2人。科欧拉（引用C2）和莱华（引用C3）均可辨识。"
+    }
+  ]
+}

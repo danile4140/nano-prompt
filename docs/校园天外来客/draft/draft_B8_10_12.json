@@ -1,0 +1,45 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B8-10",
+      "character_refs": [
+        "C1",
+        "C8"
+      ],
+      "scene_refs": [
+        "S17"
+      ],
+      "covered_sentences": [
+        "I took the spray, went to the dog-house and sprayed Fred.",
+        "Then I called him again and I pointed towards the water in the basin. What a surprise! Fred calmly came out of the dog-house and jumped into the water!",
+        "After Fred's bath I went to the refrigerator and took out some leftovers. I put them in his dish and gave it to him. 'Food time, Fred!' I said. Fred saw the leftovers and didn't protest. He started eating. It was incredible!"
+      ],
+      "layout": "构图与镜头：横排三格序列（喷雾→弗雷德顺从入浴→剩菜测试，测试成功行动链）；左格：珍妮对弗雷德使用喷雾（行动格）；中格：弗雷德平静走向水盆跳入（高潮测试成功格）；右格：剩菜测试+弗雷德顺从吃（测试成功确认格）。左格镜头：狗屋旁，斜侧30°平视，看向珍妮蹲于狗屋前对弗雷德喷雾的近景；中格镜头：水盆旁低机位，斜侧30°，看向弗雷德平静跳入水盆的动作中景，水盆可见；右格镜头：喂食碗旁，斜侧30°俯角，看向弗雷德低头吃剩菜的近景，珍妮在旁。比例锚点：左格：珍妮（C1）蹲于狗屋前，弗雷德（C8）在狗屋口，狗屋高约至珍妮腰部（蹲姿）；中格：弗雷德（C8）跳入水盆，水盆约为弗雷德体长，跳入时弗雷德占水盆约3/4；近景保留参照：水盆边缘可见；右格：弗雷德（C8）低头吃碗中剩菜，碗直径约为弗雷德头部大小，珍妮腿部在旁作为尺度参照。动作与关系：左格：珍妮（C1）一手持喷雾罐对弗雷德喷出，喷雾有发光效果（磷光）；弗雷德（C8）接受喷雾，表情平静（与之前狂吠对比）；喷雾效果用蓝绿光雾表达；中格：弗雷德（C8）平静走出狗屋，平静跳入水盆，珍妮（C1）在背景惊喜表情；拟声词大字SPLASH!在中格右上角；珍妮头旁B级符号：橙色感叹号（惊喜）；右格：珍妮（C1）蹲于碗旁，弗雷德（C8）平静吃剩菜，头旁对白气泡（Fred!+感叹号，D1：弗雷德mini_icon+碗图标，D2：food，D3：感叹号）；弗雷德（C8）低头吃，无气泡；B级符号：黄色小灯泡（惊奇！）悬于两者旁侧。场景：珍妮家花园（S17）；狗屋、水盆、草坪、围栏可见；傍晚，暖橙光。光影与色彩：傍晚暖橙光；左格喷雾磷光蓝绿色；中格水盆跳入有水花；右格碗和剩菜为道具主体。主体与角色：逐格角色预算：左格2个（珍妮C1+弗雷德C8），中格2个（弗雷德C8+珍妮C1远景），右格2个（弗雷德C8+珍妮C1）；弗雷德（引用C8）非标准体型，各格均保留近景参照。【情绪标记】强度：中，类型：喜悦/惊喜，推荐视觉手段：SPLASH!+珍妮橙色感叹号+弗雷德平静顺从表情（与预期对比）。"
+    },
+    {
+      "id": "B8-11",
+      "character_refs": [
+        "C1"
+      ],
+      "scene_refs": [],
+      "covered_sentences": [
+        "I immediately phoned Dana and gave her the good news.",
+        "Then I phoned Paul. 'Hi, Paul. It's me. We have the right spray. Fred has been completely hypnotised.'"
+      ],
+      "layout": "构图与镜头：左右二分构图，1:1等比（左格珍妮打电话给达娜，右格珍妮打电话给保罗）；左格镜头位于室内，斜侧30°平视，看向珍妮拿手机打电话的中近景；右格镜头延续相同构图，看向珍妮通话中的近中景（略有角度变化）。比例锚点：各格：珍妮（C1）坐于室内（床边或沙发），中近景，头部约占格子高度1/3；手机为道具参照，约为珍妮手掌大小。动作与关系：左格：珍妮（C1）笑着打电话，表情开心，头旁对白气泡（Good news!+感叹号，D1：达娜mini_icon——金色波浪卷发少女，活泼圆脸，彩色衣领+绿色对号（好消息），D3：感叹号，承载告知达娜的好消息）；右格：珍妮（C1）继续打电话，表情更认真，头旁对白气泡（Paul!+感叹号，D1：保罗mini_icon——深色直发眼镜少年，Spray!+感叹号，两行，D1：喷雾罐图标+弗雷德mini_icon（喷雾用弗雷德验证），D3：感叹号，承载告知保罗我们找到正确的喷雾）。场景：珍妮家室内（非场景库资产，参照民居卧室/客厅）；傍晚，室内暖灯；手机道具可见。光影与色彩：室内傍晚暖灯，整体温馨暖调；两格色调统一。主体与角色：逐格角色预算：各格1人（珍妮C1）；通话对象以mini_icon气泡表达，不可辨识入镜。"
+    },
+    {
+      "id": "B8-12",
+      "character_refs": [
+        "C1",
+        "C5"
+      ],
+      "scene_refs": [],
+      "covered_sentences": [
+        "'Great! Listen, can you come to my house now? I need to talk to you.' There was something strange in his voice. 'Paul, are you OK?' I asked.",
+        "'Yes, I'm fine. I'll tell you everything when you arrive, OK? Please come. It's important.'"
+      ],
+      "layout": "构图与镜头：对话双格，左右两格，1:1等比���珍妮和保罗电话对话，两格各承载一方反应）；左格镜头：斜侧20°平视，看向珍妮拿手机听到异常语气后皱眉的近景；右格镜头：斜侧20°平视，看向保罗（C5）（想象画面，对话方）在家中室内坐着打电话的近中景（画中画或左侧想象格）。比例锚点：左格：珍妮（C1）近景，头部约占格子高度1/2；右格：保罗（C5）坐于卧室（S4）床边或椅上，中近景，头部约占格子高度1/3，阿波罗（C9）可能在旁但不必要入镜。动作与关系：左格：珍妮（C1）拿手机，眉头微皱，表情从开心变为担忧，头旁对白气泡（Paul? OK?+深蓝色问号，D1：保罗mini_icon——深色直发眼镜少年，D2：ok，D3：问号）；左格B级符号：深蓝色问号（察觉异常）；右格：保罗（C5）坐于卧室（叙事想象格/通话对方想象），表情有点沉重，头旁对白气泡（Important!+感叹号，Come!+感叹号，D2：important，D3：感叹号，承载重要+来的请求）；右格B级符号：深灰色小乌云（保罗有什么沉重的事）。场景：左格珍妮家室内，右格保罗家室内（S4，叙事想象格）；傍晚，室内暖灯。光影与色彩：各格室内暖灯；右格保罗略偏冷（暗示有沉重事情的气氛）。主体与角色：逐格角色预算：左格1人（珍妮C1），右格1人（保罗C5）；两格各承载一方。【情绪标记】强度：轻，类型：疑惑，推荐视觉手段：珍妮皱眉+深蓝色问号+保罗深灰色小乌云。"
+    }
+  ]
+}

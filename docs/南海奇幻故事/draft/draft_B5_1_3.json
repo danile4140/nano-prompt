@@ -1,0 +1,51 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B5-1",
+      "character_refs": [
+        "C2"
+      ],
+      "scene_refs": [
+        "S3"
+      ],
+      "covered_sentences": [
+        "The sun was hot on the other side of the island and there were no people.",
+        "But there were footprints on the sand and Keola could hear voices and whispers everywhere.",
+        "Little fires appeared and disappeared all over the beach.",
+        "All the languages of the world were spoken on that beach: French, Dutch, Russian, Chinese and many others."
+      ],
+      "layout": "①构图与镜头：建立空间单格，比例压迫组织，镜头位于科欧拉身后约5米，俯角，看向科欧拉站于S3空旷声音海滩；沙滩延伸向前景，多处小火苗隐现，脚印遍布，无可见人影；烈日从上方打下，科欧拉是画面中唯一可见人物，周围一片空旷。比例锚点：科欧拉（引用C2）站于沙滩中，头顶约及远处椰树第一叶层高度1/5，椰树高约成人身高4倍；小火苗高度约科欧拉脚踝；沙滩脚印在前景，脚印约鞋底大小。②动作与关系：科欧拉（引用C2）站立，四处张望，神情从困惑到好奇；周围有多处小火苗忽明忽暗（用闪光效果表达）；脚印遍布沙滩但无人可见；多语言声音图示气泡（多种语言文字轮廓+声音波纹），归属科欧拉，语义为「他听见了各种语言」；无可见对话者。③场景：S3声音之岛海滩（白日空寂版，此刻为无形活跃状态），白天，强烈日光烈日当头；沙滩空旷，脚印遍地，小火苗忽隐忽现。④光影与色彩：白天强烈日光，高对比度；小火苗有橙红色闪烁效果点缀其中；整体空旷孤独但充满奇异活力。⑤主体与角色：逐格角色预算：单格可辨识1人。科欧拉（引用C2）可辨识入镜；无形恶魔和巫师只以声音波纹和脚印暗示，无可见形态。"
+    },
+    {
+      "id": "B5-2",
+      "character_refs": [
+        "C2"
+      ],
+      "scene_refs": [
+        "S3"
+      ],
+      "covered_sentences": [
+        "Devils and wizards from all parts of the world whispered to each other.",
+        "The beach was very crowded but Keola could see no one and he was not afraid any more.",
+        "When the fires appeared he jumped on them.",
+        "Strange voices called and invisible hands threw sand on the fires, and they were gone before he could reach them."
+      ],
+      "layout": "①构图与镜头：单格路径/S形动线组织，镜头位于沙滩侧方，斜侧45°，中景，看向科欧拉在沙滩上奔跑踩踏火苗；路径从左到右延伸，科欧拉沿路径追踩忽隐忽现的火苗；背景为S3海滩空旷环境。比例锚点：科欧拉（引用C2）奔跑姿态，火苗（即将消失）约及其脚踝高度，椰树远景高约成人身高4倍。②动作与关系：科欧拉（引用C2）张开双臂，奔跑跳踩，表情从恐惧解脱变为好奇无畏；多处小火苗闪烁（橙色光点），隐形之手（虚线手掌轮廓）向火苗撒沙，火苗消散；科欧拉踩处的沙地有脚印；无气泡，纯动作场景；多语言声音波纹在背景环绕。③场景：S3声音之岛海滩，白天，强烈日光；沙滩上科欧拉奔跑路径可见。④光影与色彩：白天强光，火苗橙红对比；科欧拉无惧感用明亮轻盈色调表达。⑤主体与角色：逐格角色预算：单格可辨识1人。科欧拉（引用C2）可辨识入镜；隐形之手以虚线轮廓暗示，非可辨识入镜。"
+    },
+    {
+      "id": "B5-3",
+      "character_refs": [
+        "C2"
+      ],
+      "scene_refs": [
+        "S3"
+      ],
+      "covered_sentences": [
+        "'I'm lucky that Kalamake is not here,' he thought. 'I know he wants to kill me.'",
+        "He sat down near the woods because he was tired.",
+        "The beach in front of him was alive with voices and fires."
+      ],
+      "layout": "①构图与镜头：单格心理/想象组织，镜头位于科欧拉侧方，中景，科欧拉坐于树林边缘，面朝海滩；背景为S3海滩全景，多处小火苗和声音波纹在海滩上弥漫；云状气泡在左上方。比例锚点：科欧拉（引用C2）坐于树根旁，树根高约其坐高1/3，背景椰树高约成人身高4倍；海滩延伸向背景，火苗散布其间。②动作与关系：科欧拉（引用C2）疲惫坐于树林边，手撑树根，凝视海滩；云状思维气泡：卡拉马克简笔+叉号（「幸好他不在」）+骷髅（「我知道他要杀我」）；海滩上可见火苗闪烁和声音波纹，科欧拉平静观察，不再恐惧。③场景：S3声音之岛海滩边缘（靠近S9树林入口），白天，强烈日光；科欧拉坐于树根旁，海滩全景在其前方。④光影与色彩：白天强光，科欧拉处于树林阴影边缘，光线较柔；海滩上火苗橙红散布；整体平静观察氛围。⑤主体与角色：逐格角色预算：单格可辨识1人。科欧拉（引用C2）可辨识入镜。"
+    }
+  ]
+}

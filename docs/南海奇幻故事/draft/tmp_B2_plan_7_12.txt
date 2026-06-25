@@ -1,0 +1,67 @@
+**B2-7**（3 句）
+- 分组依据：同一节拍——科欧拉追问为何用皮利的船、卡拉马克给出神秘回答、科欧拉轻松答应，这是同一对话节拍的延续（问船→答→同意），情绪基调为科欧拉轻信
+- 原文：
+  1. "'Why can't we use your boat tonight?' asked Keola."
+     译："今晚为什么不用你自己的船？"科欧拉问。
+  2. "'Pili's boat is better and tomorrow you'll understand why,' said Kalamake."
+     译："皮利的船更好，明天你就会明白为什么，"卡拉马克说。
+  3. "'Very well,' said Keola happily."
+     译："好吧，"科欧拉高兴地说。
+
+**B2-8**（4 句）
+- 分组依据：同一节拍——科欧拉内心独白：自我鼓励、想告诉莱华但决定等到有了手风琴再说。纯心理活动节拍，同一情绪基调（自信/期待），无空间/时间切换
+- 原文：
+  1. "'All a man needs is a little courage,' thought Keola."
+     译："一个男人只需要一点勇气，"科欧拉心想。
+  2. "When he saw Lehua he wanted to tell her everything."
+     译：当他看见莱华时，他想把一切都告诉她。
+  3. "'But no,' he thought, 'I'll wait until I can show her the concertina.'"
+     译："但不，"他心想，"我要等到能把手风琴拿给她看的时候。"
+  4. "'Then she'll understand that I'm a clever man.'"
+     译："那时她就会明白我是个聪明人了。"
+
+**B2-9**（4 句）
+- 分组依据：同一节拍——夜间出航场景建立：两人乘皮利船出海、风浪较大、巫师拿着灯笼、两人像老朋友般聊天。时间跳跃（"That night"）触发新节拍，同一场景内（S4）的连续描述
+- 原文：
+  1. "That night Kalamake and Keola took Pili's boat and went out to sea."
+     译：那天夜里，卡拉马克和科欧拉驾着皮利的船出海了。
+  2. "It was a windy night and the sea was rough."
+     译：那是个风急的夜晚，大海波涛汹涌。
+  3. "The wizard had a lantern that he held with his finger."
+     译：巫师拿着一盏提灯，用手指勾住。
+  4. "He and Keola talked together like old friends about magic and money."
+     译：他和科欧拉像老朋友一样聊着魔法和钱财。
+
+**B2-10**（3 句）
+- 分组依据：同一节拍——卡拉马克介绍"亡者之海"：指出莫洛凯岛在身后、这片海域的名称和可怕特性。这是卡拉马克的独白节拍，情绪从轻松聊天转向神秘叙说，视觉焦点为卡拉马克举灯、身后岛影，属于新节拍（视觉焦点切换+话题转变）
+- 原文：
+  1. "'Look!' said the wizard. 'There is Molokai behind us.'"
+     译："看！"巫师说，"莫洛凯岛在我们身后。"
+  2. "'This part of the sea is called the Sea of the Dead. It's very deep here and the bottom of the sea is covered with the bones of men.'"
+     译："这片海域叫做亡者之海。这里非常深，海底铺满了人类的骸骨。"
+  3. "'When a man falls into the sea here, he drowns and his bones go to the bottom, where the evil spirits live.'"
+     译："一个人落入这片海中，就会溺死，他的骸骨沉入海底，那里住着邪灵。"
+
+**B2-11**（4 句）
+- 分组依据：同一节拍——科欧拉察觉卡拉马克异样、询问是否生病、卡拉马克给出神秘回答。这是一个"科欧拉感到不安→卡拉马克的奇怪回答"节拍，情绪开始转向不祥预感
+- 原文：
+  1. "Keola was afraid and looked at Kalamake."
+     译：科欧拉感到恐惧，转眼看向卡拉马克。
+  2. "By the light of the stars and the lantern the wizard seemed to change."
+     译：在星光与灯光的照映下，巫师似乎正在发生变化。
+  3. "'What's the matter?' asked Keola. 'Are you ill?'"
+     译："怎么了？"科欧拉问，"你病了吗？"
+  4. "'I'm not ill,' said the wizard, 'but someone here's very ill.'"
+     译："我没病，"巫师说，"但这里有人病得很重。"
+
+**B2-12**（4 句）
+- 分组依据：必拆充要条件E（变身）+ 高潮加密——卡拉马克的手开始变大、科欧拉尖叫、头越变越大。这是变身节拍的第一阶段，触发新节拍（视觉焦点切换+戏剧性事件：变身开始）；四句描述变身开始过程
+- 原文：
+  1. "Suddenly Kalamake's hand started growing and it became huge."
+     译：突然卡拉马克的手开始变大，变得硕大无比。
+  2. "Keola screamed and covered his face."
+     译：科欧拉尖叫着捂住脸。
+  3. "Kalamake held up the lantern and said, 'Look at my face.'"
+     译：卡拉马克举起提灯说："看我的脸。"
+  4. "His head got bigger and bigger and he continued growing."
+     译：他的头越来越大，身体不断膨胀。

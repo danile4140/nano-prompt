@@ -1,0 +1,70 @@
+{
+  "1": [
+    "draft_B1_1_3.json",
+    "draft_B1_4_6.json",
+    "draft_B1_7_9.json",
+    "draft_B1_10_12.json",
+    "draft_B1_13_15.json",
+    "draft_B1_16_18.json",
+    "draft_B1_19_21.json",
+    "draft_B1_22_23.json"
+  ],
+  "2": [
+    "draft_B2_1_3.json",
+    "draft_B2_4_6.json",
+    "draft_B2_7_9.json",
+    "draft_B2_10_12.json",
+    "draft_B2_13_15.json",
+    "draft_B2_16_18.json",
+    "draft_B2_19_20.json"
+  ],
+  "3": [
+    "draft_B3_1_3.json",
+    "draft_B3_4_6.json",
+    "draft_B3_7_9.json",
+    "draft_B3_10_12.json",
+    "draft_B3_13_15.json",
+    "draft_B3_16_18.json"
+  ],
+  "4": [
+    "draft_B4_1_3.json",
+    "draft_B4_4_6.json",
+    "draft_B4_7_9.json",
+    "draft_B4_10_12.json",
+    "draft_B4_13_15.json",
+    "draft_B4_16_18.json",
+    "draft_B4_19_21.json",
+    "draft_B4_22_22.json"
+  ],
+  "5": [
+    "draft_B5_1_3.json",
+    "draft_B5_4_6.json",
+    "draft_B5_7_9.json",
+    "draft_B5_10_12.json",
+    "draft_B5_13_15.json"
+  ],
+  "6": [
+    "draft_B6_1_3.json",
+    "draft_B6_4_6.json",
+    "draft_B6_7_9.json",
+    "draft_B6_10_12.json",
+    "draft_B6_13_15.json",
+    "draft_B6_16_17.json"
+  ],
+  "7": [
+    "draft_B7_1_3.json",
+    "draft_B7_4_6.json",
+    "draft_B7_7_9.json",
+    "draft_B7_10_12.json",
+    "draft_B7_13_15.json"
+  ],
+  "8": [
+    "draft_B8_1_3.json",
+    "draft_B8_4_6.json",
+    "draft_B8_7_9.json",
+    "draft_B8_10_12.json",
+    "draft_B8_13_15.json",
+    "draft_B8_16_18.json",
+    "draft_B8_19_21.json"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B2-16",
+      "character_refs": [
+        "C2b"
+      ],
+      "scene_refs": [
+        "S4"
+      ],
+      "covered_sentences": [
+        "I lived like you, Scrooge!",
+        "Seven years ago your chain was long and heavy.",
+        "Now it is very long and very heavy!'"
+      ],
+      "layout": "构图与镜头：单格构图，中心聚焦组织（马利幽灵直接指控斯克鲁奇）。镜头位于马利幽灵右侧，仰角10度，中近景，看向马利幽灵抬臂指向画面外（指向斯克鲁奇方向）的姿态。前景：无；中景：马利幽灵半身，铁链清晰；后景：极暗卧室。比例锚点：马利幽灵上半身约占画面高度65%，铁链从颈部垂下，在画面中有厚重感。\n\n动作与关系：马利幽灵（引用C2b）右手抬起，手指朝向画面右侧（斯克鲁奇方向），面露庄严警告；头顶对白气泡内容从covered_sentences抽取\"like you!\"（关系图示：马利幽灵mini_icon头像→绿色双向箭头→斯克鲁奇mini_icon头像，表达\"我和你一样\"语义）；画面左侧附铁链图示：两段铁链对比，左段标\"7 years ago\"（较短），右段标\"Now\"（更长更粗），承载铁链越来越重的语义。\n\n场景：斯克鲁奇的卧室兼起居室（引用S4），深夜，冷蓝光，指控节拍。\n\n光影与色彩：冷蓝幽灵光，强调指控姿态。\n\n主体与角色：逐格角色预算：主画面可辨识1人——马利幽灵（引用C2b），半透明蓝灰色，铁链，抬臂指向。【情绪标记】强度：中，类型：警告/指控，推荐视觉手段：速度线3道从马利幽灵指尖放射，冷蓝光强调指控姿态。"
+    },
+    {
+      "id": "B2-17",
+      "character_refs": [
+        "C1",
+        "C2b"
+      ],
+      "scene_refs": [
+        "S4"
+      ],
+      "covered_sentences": [
+        "Again Scrooge trembled in terror. 'Tell me more, old Jacob Marley. Help me!'",
+        "'I cannot help you, Ebenezer Scrooge,' answered the Ghost.",
+        "'I cannot rest, I cannot stay here.'",
+        "'When I was alive, my spirit never walked out of our office.'",
+        "'It was locked in there while I made all my money.'",
+        "'So now I must travel and never stop.'"
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例1:2（左格斯克鲁奇辅格恳求，右格马利幽灵主格宣告无法停歇的诅咒）。左格：镜头位于斯克鲁奇正面偏侧，中近景，平视，看向斯克鲁奇颤抖恳求的面部；右格：镜头位于马利幽灵正前方，中景，仰角5度，看向马利幽灵宣告时的全身，铁链可见。比例锚点：左格斯克鲁奇面部占画面高度约65%；右格马利幽灵全身约占画面高度70%，铁链从颈部垂下。\n\n动作与关系：左格：斯克鲁奇（引用C1）颤抖，双手向前伸出恳求，头顶对白气泡内容从covered_sentences抽取\"Help me!\"（橙红色感叹号）；右格：马利幽灵（引用C2b）面露遗憾但坚定，头顶对白气泡内容从covered_sentences抽取\"travel\"（D级物品图标：行走小人+路径曲线，承载永远旅行语义）+\"never stop.\"。已扫描5对相邻句，四维度均无切换（同一话题：幽灵无法帮助+旅行诅咒），保留。\n\n场景：斯克鲁奇的卧室兼起居室（引用S4），深夜，冷蓝光。\n\n光影与色彩：左格斯克鲁奇冷灰光；右格马利幽灵冷蓝光。\n\n主体与角色：逐格角色预算：左格可辨识1人——斯克鲁奇（引用C1）；右格可辨识1人——马利幽灵（引用C2b）。"
+    },
+    {
+      "id": "B2-18",
+      "character_refs": [
+        "C1",
+        "C2b"
+      ],
+      "scene_refs": [
+        "S4"
+      ],
+      "covered_sentences": [
+        "'Have you travelled all this time — for seven years?'",
+        "'Yes. No rest. No peace. Always travelling.'",
+        "'Do you travel fast?'",
+        "'Very fast. Like the wind.'",
+        "'Well, in seven years you have been to a lot of places then.'"
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例1:1。左格：镜头位于马利幽灵右肩后，过肩视角，中近景，看向斯克鲁奇正面，背景仅露壁炉一角；右格：镜头位于斯克鲁奇左肩后，反打视角，中近景，看向马利幽灵面部。比例锚点：左格斯克鲁奇面部占画面高度约65%；右格马利幽灵面部约占画面高度65%，铁链在其颈肩可见。\n\n动作与关系：左格：斯克鲁奇（引用C1）面露惊讶和好奇，头顶对白气泡内容从covered_sentences抽取\"seven years?\"（深蓝色问号+日历轮廓简笔画）；右格：马利幽灵（引用C2b）面露沉痛，头顶对白气泡内容从covered_sentences抽取\"Like the wind.\"（D级物品图标：风的波浪线+行走小人轮廓）。\n\n场景：斯克鲁奇的卧室兼起居室（引用S4），深夜，冷蓝光，对话节拍。\n\n光影与色彩：整体冷蓝灰，两格冷光交错。\n\n主体与角色：逐格角色预算：左格可辨识1人——斯克鲁奇（引用C1）；右格可辨识1人——马利幽灵（引用C2b）。"
+    }
+  ]
+}

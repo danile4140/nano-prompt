@@ -1,0 +1,54 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B3-10",
+      "character_refs": [
+        "C2"
+      ],
+      "scene_refs": [
+        "S3",
+        "S6"
+      ],
+      "covered_sentences": [
+        "All this time he lived in his hut near the lagoon and the palms. One day he went to the beach near the sea but he did not like the bright sand, the shiny shells and the hot sun.",
+        "He looked around and was amazed.",
+        "'How is this possible?' he thought. 'This is like Kalamake's beach. Perhaps white men don't know everything about sailing. We probably sailed in a circle and I'm near Molokai. Is this the beach where Kalamake gets his dollars?'",
+        "The thought frightened him, and he decided not to go to the beach again."
+      ],
+      "layout": "①构图与镜头：左右二分2:1构图，左主格2/3承载科欧拉在S3海滩震惊认出，右辅格1/3承载他转身决定不再来。左主格：镜头位于科欧拉正前方，斜侧30°，中景，看向他站于闪亮贝壳沙滩震惊四顾；背景为S3标志性白沙和贝壳，海面在后方。右辅格：镜头从身后，中景，看向科欧拉背对海滩迈步离开，面向礁湖方向。比例锚点：左格：科欧拉（引用C2）站立，头顶约及背景椰树第一叶层高度1/4；贝壳在地面，单枚约脚掌大小；右格：科欧拉（引用C2）背影，茅屋区域在远景。②动作与关系：左主格：科欧拉（引用C2）震惊站立，双手摊开，眼睛大睁；大型云状气泡，内含：①卡拉马克简笔+海滩图示+问号「这是卡拉马克的海滩？」，②航行路线图简笔「绕圈航行」，③美元+贝壳图示「就是这里！」；恐惧感。右辅格：科欧拉（引用C2）背对海滩迈步，「下定决心」姿态，思维气泡语义为「再也不来这片海滩」，配叉号+海滩图标。③场景：左格S3声音之岛海滩，白天，强烈日光；右格S6礁湖边，白天。④光影与色彩：左格白天强光，沙滩刺眼；科欧拉恐惧感用轻微冷白光晕叠加；右格正常白天暖光，离开感。【风格调整】触发原因：认出魔法海滩，极度恐惧，调整方向：左格叠加轻微冷白光晕，恐惧感，调整范围：左格。⑤主体与角色：逐格角色预算：左格可辨识1人，右格可辨识1人。科欧拉（引用C2）两格均可辨识入镜。【情绪标记】强度：强，类型：惊吓/恐惧，推荐视觉手段：速度线+夸张震惊张嘴表情+冷白光晕叠加。"
+    },
+    {
+      "id": "B3-11",
+      "character_refs": [
+        "C2",
+        "C8"
+      ],
+      "scene_refs": [
+        "S6",
+        "S7"
+      ],
+      "covered_sentences": [
+        "About a month later some boats arrived.",
+        "The people looked friendly and spoke a different language, but many of the words were the same as Hawaiian, so it was easy to understand.",
+        "The men behaved in a polite way and the women were friendly.",
+        "They were very kind to Keola and built him a new hut."
+      ],
+      "layout": "①构图与镜头：左右二分1:1构图，左格为部落船只抵达礁湖，右格为新茅屋建造完成+科欧拉接受友待。左格：镜头从礁湖岸边，中景，看向数艘部落小船从礁湖驶入，部落人站于船头；背景为礁湖水面和椰树。右格：镜头从S7新茅屋正面，斜侧30°，中景，看向科欧拉站于新茅屋前，部落人在周围；酋长（引用C8）在右侧。比例锚点：左格：部落船只长约成人身高2倍，部落人站立约及船舷高度1.5倍；右格：科欧拉（引用C2）站于新茅屋前，茅屋屋顶高约成人身高1.3倍；部落酋长（引用C8）比科欧拉略高，旁边椰树可见高度参照。②动作与关系：左格：数艘部落小船驶入，不可辨识部落人站于船头，手势友好示意；背景部落群体以不可辨识群体暗示（2-3人全貌，其余为轮廓）。右格：科欧拉（引用C2）站于新茅屋前，表情惊讶但谨慎；部落酋长（引用C8）在侧方，手示意茅屋方向，友好姿态；不可辨识部落人在背景暗示建造完成场景。③场景：左格礁湖边（近S6），白天；右格S7部落新茅屋，白天，新鲜棕榈叶屋顶。④光影与色彩：白天热带暖光，部落人友好氛围；整体色调明亮温暖，但科欧拉内心谨慎（表情暗示）。⑤主体与角色：逐格角色预算：左格可辨识0-1人（部落人不可辨识），右格可辨识2人。科欧拉（引用C2）和部落酋长（引用C8）右格可辨识；部落其余人以群体暗示。"
+    },
+    {
+      "id": "B3-12",
+      "character_refs": [
+        "C2",
+        "C4"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "He was surprised because they never sent him to work with the other men. They even gave him a wife.",
+        "When Keola realized that his new wife was the same girl he saw on the island the first time, he began to get worried."
+      ],
+      "layout": "①构图与镜头：必拆充要条件B——左右二分2:1构图，左辅格1/3承载「被给了妻子」的事实，右主格2/3承载科欧拉认出她后的震惊。左辅格：镜头从侧方，中景，看向岛上女子（引用C4）站于科欧拉身前，部落酋长在一旁介绍；科欧拉表情初步惊讶。右主格：镜头位于科欧拉正前方，正面偏左15°，中近景，看向科欧拉震惊认出女子的表情；岛上女子在画面右侧侧身可见。比例锚点：左格：岛上女子（引用C4）站立，头顶约及科欧拉（引用C2）肩部；右格：科欧拉中近景，面部占右格约2/3高度；岛上女子（引用C4）侧身在右侧，叶裙可见。②动作与关系：左辅格：酋长（仅见手势，不可辨识入镜）介绍；岛上女子（引用C4）站立，表情平和；科欧拉（引用C2）初步惊讶。右主格：科欧拉（引用C2）突然认出她，眼睛大睁，表情由惊讶转为担忧警觉；爆裂认出气泡（闪光感）；岛上女子（引用C4）在旁侧身，不知情表情；科欧拉思维气泡：叶裙女子简笔+树林场景，语义为「就是树林里的她！」。③场景：S7部落新茅屋旁，白天，热带阳光；茅屋在背景，地面为白沙。④光影与色彩：白天暖光，右主格有认出闪光感（轻微光点效果）。⑤主体与角色：逐格角色预算：左格可辨识2人，右格可辨识2人。科欧拉（引用C2）和岛上女子（引用C4）两格均可辨识；酋长以手势暗示不可辨识。【情绪标记】强度：强，类型：惊吓，推荐视觉手段：速度线+爆裂认出气泡+科欧拉震惊大睁眼。"
+    }
+  ]
+}
