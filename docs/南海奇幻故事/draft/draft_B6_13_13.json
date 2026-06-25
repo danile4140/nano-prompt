@@ -1,0 +1,21 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B6-13",
+      "character_refs": [
+        "C2",
+        "C3"
+      ],
+      "scene_refs": [
+        "S2"
+      ],
+      "covered_sentences": [
+        "Keola and Lehua listened to the missionary and gave a lot of dollars to the poor people of the island and to the missionaries.",
+        "They were lucky because they did not see Kalamake again.",
+        "Was he killed during the battle?",
+        "Or is he still living on the Isle of Voices? No one knows."
+      ],
+      "layout": "①构图与镜头：主画面+云状气泡内场景构图，主格承载科欧拉和莱华在家门前（日常平安），云气泡承载「卡拉马克命运未知」的悬念图示。主格：镜头位于S2门廊前，斜侧30°，中景，看向科欧拉和莱华并排站于家门前，表情平静幸福；海湾在背景。云气泡位于右上，约占画面1/4，内含：卡拉马克（C1简笔）→？号→两个分叉图示（死亡骷髅 vs 声音之岛轮廓），语义「卡拉马克的命运：无人知晓」。比例锚点：主格：科欧拉（引用C2）和莱华（引用C3）并排，莱华头顶约及科欧拉肩部；房屋门框高约成人身高，海湾在背景；云气泡为图示。②动作与关系：主格：科欧拉（引用C2）和莱华（引用C3）并排站立，表情平静幸福；科欧拉手握若干美元（正在分给背景图示中的「穷人」，以简笔图示表达）；两人互相靠近，有「相依相守」感。云气泡：卡拉马克简笔头像→大问号→分叉箭头（骷髅「战死？」vs 声音之岛「还活着？」）；最后「No one knows」用问号封底；悬念感。③场景：S2卡拉马科家门前海湾眺望处，白天，晴天开阔；海湾平静，货轮不在（生活已改变），只有平静海面和热带植物。④光影与色彩：白天温暖明亮，结局安宁感；整体色调暖和，与故事开头的S2形成呼应（从好奇出发→回归平静）。【风格复归】已在全局回到style_setting基调。⑤主体与角色：逐格角色预算：主格可辨识2人，云气泡为图示。科欧拉（引用C2）和莱华（引用C3）可辨识入镜；卡拉马克以云气泡简笔图示承载，不入character_refs。"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+**B6-7**（4 句）
+- 分组依据：同一节拍——莱华同意用地图、科欧拉去书架取地图、两人翻找、终于找到夏威夷地图。这是"找地图"行动节拍，连续动作，同一空间（客厅S10），情绪基调统一（合作寻找）
+- 原文：
+  1. "'Good idea!' said Lehua."
+     译："好主意！"莱华说。
+  2. "'There are some old maps in the living room. There's probably a map of Hawaii and the dangerous archipelago among them.'"
+     译："客厅里有一些旧地图。其中大概有夏威夷和危险群岛的地图。"
+  3. "He went to the bookshelf in the living room and got down some old maps."
+     译：他走到客厅书架前，取下一些旧地图。
+  4. "After a while they found one of Hawaii. Lehua soon found where the island was."
+     译：过了一会儿，他们找到了一张夏威夷地图。莱华很快找出了那座岛的位置。
+
+**B6-8**（4 句）
+- 分组依据：同一节拍——两人讨论卡拉马克能否走回来（路程远但他是巫师）、科欧拉提出去找白人传教士。这是"谋划下一步"对话节拍，连续讨论，情绪基调为谨慎谋划
+- 原文：
+  1. "'It's a long way for an old man to walk,' said Keola."
+     译："对一个老人来说走回来的路很远，"科欧拉说。
+  2. "'Yes, it is,' said Lehua, 'but, don't forget, my father's a wizard.'"
+     译："是的，"莱华说，"但别忘了，我父亲是个巫师。"
+  3. "Keola thought for a moment and said, 'Let's go and talk to a white missionary. Perhaps he can help us.'"
+     译：科欧拉想了一会儿说："我们去找一个白人传教士谈谈。也许他能帮我们。"
+  4. "'A white missionary?' asked Lehua, confused."
+     译："白人传教士？"莱华困惑地问。
+
+**B6-9**（4 句）
+- 分组依据：同一节拍——科欧拉解释"传教士知道很多事"、找到传教士、讲述完整故事、传教士仔细聆听。这是"寻求帮助"节拍，时间推进（去找传教士）但仍属于同一"找传教士求助"主线，四句均服务于该节拍
+- 原文：
+  1. "'Perhaps he can help us,' said Keola. 'Missionaries know a lot of things.'"
+     译："也许他能帮我们，"科欧拉说，"传教士知道很多事情。"
+  2. "Keola found a white missionary and told him the long story."
+     译：科欧拉找到了一位白人传教士，把这段漫长的故事告诉了他。
+  3. "The missionary was a clever man and listened carefully to Keola."
+     译：传教士是个聪明人，仔细地听着科欧拉讲述。
+  4. "'You married a second wife while you were on the Isle of Voices,' said the missionary. 'That's wrong, very wrong.'"
+     译："你在声音之岛上娶了第二个妻子，"传教士说，"这是错的，非常错误。"
+
+**B6-10**（2 句）
+- 分组依据：必拆充要条件B——科欧拉不知道怎么回答（沉默受窘）→传教士继续说其他事情很神秘。这是"被指责→不知如何回应"的反应节拍，情绪从期待帮助转向窘迫，独立节拍
+- 原文：
+  1. "Keola did not know what to say."
+     译：科欧拉不知道该说什么。
+  2. "'All the other things you've told me are confusing and mysterious,' said the missionary, 'and I really don't understand them.'"
+     译："你告诉我的所有其他事情都令人困惑又神秘，"传教士说，"我真的不明白。"
+
+**B6-11**（2 句）
+- 分组依据：同一节拍——科欧拉和莱华面面相觑。这2句是B6-10的直接反应，视觉焦点切换（从传教士→科欧拉和莱华的对视），独立节拍
+- 原文：
+  1. "Keola and Lehua looked at each other."
+     译：科欧拉和莱华相互对视。
+  2. "'However,' said the missionary, 'if Kalamake made money in a dishonest way, give some of it to the poor people of the island. You can also give some to the missionaries. Your adventure on the Isle of Voices is very strange and you mustn't tell anyone about it. It's your secret.'"
+     译："不过，"传教士说，"如果卡拉马克以不诚实的方式挣钱，把其中一些分给岛上的穷人。你也可以把一些给传教士们。你在声音之岛上的经历非常奇特，你不能把它告诉任何人。这是你们的秘密。"
+
+**B6-12**（2 句）
+- 分组依据：必拆充要条件B——传教士表面建议（秘密保持）→私下去报警（出卖他们）。这是触发-背叛因果链（传教士当面说保密→暗地里报警），情绪从感谢/遵从转向被出卖，独立节拍
+- 原文：
+  1. "But the missionary went to the police in Honolulu."
+     译：但传教士却去了火奴鲁鲁的警察局。
+  2. "'Be careful,' he told them, 'because Kalamake and Keola made counterfeit money while they were on the Isle of Voices. Keep an eye on them.'"
+     译："小心，"他告诉他们，"因为卡拉马克和科欧拉在声音之岛上制造了假币。盯紧他们。"

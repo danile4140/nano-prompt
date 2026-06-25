@@ -1,0 +1,65 @@
+**B4-1**（3 句）
+- 分组依据：旅行节拍——傍晚行进中依次看见绿色村庄、多萝西点出"快到翡翠城了"，同一时间推进、同一情绪基调（好奇期待），无场景跳变，3 句。
+- 原文：
+  1. "The four friends walk all day."
+     译：四个朋友走了一整天。
+  2. "In the evening they see some little green houses and some little people in green clothes."
+     译：傍晚时分，他们看见了一些绿色小屋和一些身穿绿色衣服的小人。
+  3. ""Everything's green," says Dorothy, "We're near the Emerald City.""
+     译：「到处都是绿色，」多萝西说，「我们快到翡翠城了。」
+
+---
+
+**B4-2**（2 句）
+- 分组依据：空间定点节拍——走到大绿门前，门缓缓打开并看见绿衣看门小人；焦点从"街道行进"切换到"城门入口"，视觉焦点切换触发新节拍，2 句。
+- 原文：
+  1. "Soon they come to a big green door."
+     译：不久，他们来到一扇巨大的绿色门前。
+  2. "It opens slowly, and they see a little man in green clothes and green glasses."
+     译：门缓缓打开，他们看见了一个穿绿色衣服、戴绿色眼镜的小人。
+
+---
+
+**B4-3**（2 句）
+- 分组依据：§4 条件 B（触发-转折因果链）——句 6 是多萝西提出请求，句 7 是小人接受并发出指令，两句之间存在"期待→被接受"因果依赖，必须独立成镜，不与后续执行动作合并。
+- 原文：
+  1. ""We want to see the Wizard of Oz, please," says Dorothy."
+     译：「我们想见奥兹巫师，请问可以吗？」多萝西说。
+  2. ""OK. Follow me," says the little man, "But first put these on.""
+     译：「好的，跟我来，」小人说，「不过先把这些戴上。」
+
+---
+
+**B4-4**（3 句）
+- 分组依据：执行动作节拍——小人开箱取眼镜（句 8）、命令戴上（句 9）、众人戴上后进城（句 10），连续同话题执行步骤，无视觉焦点切换，3 句。
+- 原文：
+  1. "He opens a big box and inside there are lots of pairs of green glasses."
+     译：他打开一个大箱子，里面放满了各式绿色眼镜。
+  2. ""You must wear these glasses. Everybody in the Emerald City wears them.""
+     译：「你们必须戴上这些眼镜。翡翠城里每个人都要戴。」
+  3. "So they put on the glasses and go into the Emerald City."
+     译：于是他们戴上眼镜，走进了翡翠城。
+
+---
+
+**B4-5**（4 句）
+- 分组依据：进宫引导节拍——抵达宫殿外（句 11）、侍从开门（句 12）、说"跟我来"（句 13）、带进绿色大厅并叫等候（句 14），连续的引导进入流程，同一场景无时间跳跃，4 句（四维度扫描：句 11→12 属同一空间内的连续动作；句 12→13 说话方无切换；句 13→14 视觉焦点仍在侍从引导，情绪平稳；未达切分阈值）。
+- 原文：
+  1. "They stop in front of the Palace of Oz."
+     译：他们在奥兹宫殿前停了下来。
+  2. "A man opens the door."
+     译：一名男子打开了门。
+  3. ""Follow me," he says."
+     译：「跟我来，」他说。
+  4. "He takes them into a big green room, "Now wait here until I call you.""
+     译：他把他们带进一间绿色大厅，「现在在这里等候，直到我来叫你们。」
+
+---
+
+**B4-6**（1 句）
+- 分组依据：§4 条件 D（阶段性场景边界）——"等候"阶段结束，侍从返回宣布巫师要先见多萝西，是"等候→入场"的叙事阶段分界点；时间跳跃（"when he returns"）亦触发新节拍，独立成镜。
+- 原文：
+  1. "When he returns he says, "The Wizard wants to see the girl first.""
+     译：侍从返回后说：「巫师想先见那个女孩。」
+
+---

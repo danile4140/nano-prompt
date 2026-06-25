@@ -1,0 +1,63 @@
+**B1-13**（1 句）
+- 分组依据：多萝西惊跳后退，§5 情感高潮 D 类（强情绪瞬间），独立作为视觉高潮定格，不与前后合并。
+- 原文：
+  1. "She jumps back in surprise."
+     译：她惊讶地往后跳了一步。
+
+**B1-14**（3 句）
+- 分组依据：老女人取下银鞋→赠予多萝西→说明"这是你的鞋/必须穿/有魔力"，同一赠予仪式场景，连续动作+说明，合并。
+- 原文：
+  1. "The old woman takes the silver shoes from the Wicked Witch's feet and gives them to Dorothy."
+     译：老妇人从邪恶女巫的脚上取下银鞋，交给了多萝西。
+  2. "\"They're your shoes now."
+     译："这双鞋现在是你的了。
+  3. "You must wear them because a witch's shoes can do great things.\""
+     译：你必须穿上它，因为女巫的鞋子能做很多神奇的事情。"
+
+**B1-15**（3 句）
+- 分组依据：多萝西问"你也是女巫吗？"（邀请/询问）→ 北方女巫回答"是的，我是北方女巫/我是好女巫"，§4 条件 B（询问→回应），1 回合对话，分格承载问答。
+- 原文：
+  1. "\"But are you a witch, too?\" asks Dorothy."
+     译："但你也是一个女巫吗？"多萝西问。
+  2. "\"Yes, I'm the Witch of the North."
+     译："是的，我是北方女巫。
+  3. "I'm a good witch.\""
+     译：我是一个好女巫。"
+
+**B1-16**（3 句）
+- 分组依据：多萝西连续疑问（A good witch? / I don't understand / Where are we?），同一说话者连续困惑发问，单节拍。
+- 原文：
+  1. "\"A good witch?"
+     译："好女巫？
+  2. "I don't understand."
+     译：我不明白。
+  3. "Where are we?\" says Dorothy."
+     译：我们在哪里？"多萝西说。
+
+**B1-17**（5 句）
+- 分组依据：北方女巫介绍奥兹王国四女巫格局（连续独白），同一说话方同一话题（奥兹王国背景）同一情绪，四维度逐对扫描 4 对相邻句均无切换，豁免保留 5 句。
+- 原文：
+  1. "\"We're in the Land of Oz."
+     译："我们在奥兹王国。
+  2. "Here in the Land of Oz there are four witches,\" says the Witch of the North, \"The Witches of the North and South are very good witches."
+     译：在奥兹王国里有四个女巫，"北方女巫说，"北方和南方的女巫是非常好的女巫。
+  3. "But the Wicked Witches of the East and the West are very bad witches."
+     译：但东方和西方的邪恶女巫是非常坏的女巫。
+  4. "Now the Wicked Witch of the East is dead."
+     译：现在东方邪恶女巫已经死了。
+  5. "There's only one Wicked Witch, the Wicked Witch of the West.\""
+     译：只剩下一个邪恶女巫了，就是西方邪恶女巫。"
+
+**B1-18**（5 句）
+- 分组依据：多萝西求助回堪萨斯（S57）→ 北方女巫回应"不知道堪萨斯/我没法帮你/你去见巫师/他能帮你"（S58–S61），1 回合对话，同一话题（找帮助），≤2 回合可合并；四维度扫描 4 对相邻句：说话方切换1次但同一对话场景，情绪无强反转，豁免保留 5 句。
+- 原文：
+  1. "\"Can you please help me go home to Kansas?\" asks Dorothy."
+     译："你能帮我回堪萨斯的家吗？"多萝西问。
+  2. "\"Kansas?"
+     译："堪萨斯？
+  3. "Where's Kansas?\" asks the Good Witch, \"I'm sorry but I can't help you."
+     译：堪萨斯在哪里？"好女巫问，"对不起，我帮不了你。
+  4. "You must go and see the Wizard of Oz in the Emerald City."
+     译：你必须去绿宝石城见奥兹巫师。
+  5. "He's a Good Wizard and he can help you.\""
+     译：他是一位好巫师，他能帮助你。"

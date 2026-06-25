@@ -1,0 +1,54 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B3-4",
+      "character_refs": [
+        "C2",
+        "C5",
+        "C6"
+      ],
+      "scene_refs": [
+        "S5"
+      ],
+      "covered_sentences": [
+        "'No, but I know it,' said the captain. 'Ships never go there and no one lives on it.'",
+        "'Really?' said the mate. 'One night I sailed near the island and saw a lot of lights on the beach. Perhaps some people live there.'",
+        "'Perhaps, but we won't stop there,' said the captain. 'We'll just sail by the island.'",
+        "He turned to Keola and shouted, 'Did you hear me, Keola? Sail by the island but don't go too close to it.'"
+      ],
+      "layout": "①构图与镜头：横排3格构图，左格为船长和大副对话，中格为船长最终决定，右格为船长命令科欧拉。左格：过肩视角交替，斜侧，中景，船长和大副面对面；背景为夜空星光。中格：镜头从侧面，中近景，看向船长正面偏侧，神情坚定宣告；前景为船舷护栏边缘。右格：镜头位于科欧拉过肩，看向船长面朝科欧拉严肃命令。比例锚点：左格：船长（引用C5）和大副（引用C6）面对面，两人头顶约在画面上1/3处，船舷护栏在背景；中格：船长中近景，头部占约2/3格高度；右格：科欧拉肩背前景约1/5画面，船长面部中近景。②动作与关系：左格：船长（引用C5）和大副（引用C6）对话气泡交替——船长「没有人住在那岛，船不去那里」，大副「我看见过沙滩灯火，也许有人住」。中格：船长（引用C5）神情坚定，气泡语义为「也许，但我们不会停靠，只是路过」。右格：船长（引用C5）面朝科欧拉（引用C2），指令气泡语义为「靠边驶过，但不要太靠近！」；科欧拉背影点头。③场景：S5大帆船甲板，夜晚，冷蓝星光；三格均为甲板背景，夜空和远处岛影可见。④光影与色彩：冷蓝夜间，甲板灯笼暖黄局部；船长气质稳重，大副神情有疑惑。⑤主体与角色：逐格角色预算：左格可辨识2人，中格可辨识1人，右格可辨识2人（船长主体+科欧拉过肩）。船长（引用C5）、大副（引用C6）、科欧拉（引用C2）按格分配可辨识。"
+    },
+    {
+      "id": "B3-5",
+      "character_refs": [
+        "C2"
+      ],
+      "scene_refs": [
+        "S5"
+      ],
+      "covered_sentences": [
+        "Keola listened to the captain and the mate as they talked.",
+        "'This island is perfect for me,' he thought. 'Ships never go there so the mate won't find me. And Kalamake can't possibly come this far.'",
+        "When the captain and the mate went away, he quietly steered very close to the island."
+      ],
+      "layout": "①构图与镜头：单格心理/想象组织，镜头位于科欧拉侧后方，中近景，科欧拉握舵，头部略低，表情若有所思；大型云状气泡从其头部延伸至右上方，承载逃跑计划。比例锚点：科欧拉（引用C2）握住舵轮，舵轮直径约其肩宽1.5倍；人物占画面约3/4高度；云气泡约占画面右上方1/4。②动作与关系：科欧拉（引用C2）握舵侧视，悄悄偏转舵轮方向（细微动作，舵轮方向略偏）；云状气泡内：①岛屿简笔图+打勾「完美！」，②大副简笔+叉号「找不到我」，③卡拉马克简笔+叉号「到不了这么远」，④悄悄转舵的图示。整体语义为「这座岛对我完美，他们都找不到我」。③场景：S5大帆船甲板，夜晚，冷蓝星光；科欧拉单独在舵轮处，船长和大副离画（背景隐约可见他们离去背影）。④光影与色彩：冷蓝夜间，舵轮处有甲板灯暖黄；科欧拉内心计划感——暗暗行动。⑤主体与角色：逐格角色预算：单格可辨识1人，云气泡为图示。科欧拉（引用C2）可辨识入镜；船长大副以背景离去剪影暗示，不入character_refs。"
+    },
+    {
+      "id": "B3-6",
+      "character_refs": [
+        "C2",
+        "C6"
+      ],
+      "scene_refs": [
+        "S5"
+      ],
+      "covered_sentences": [
+        "The mate suddenly came back and saw that the ship was sailing towards the island.",
+        "'What are you doing?' he shouted angrily. 'You fool! You're steering the ship too close to the island.'",
+        "Keola quickly jumped from the ship into the black sea and swam towards the island.",
+        "He was not afraid because the sea was calm and warm, and he had his sailor's knife to fight sharks."
+      ],
+      "layout": "①构图与镜头：左右二分2:1构图，左主格承载被发现+大副怒斥，右辅格承载科欧拉跳海逃跑。左主格：镜头位于科欧拉过肩，仰角，看向大副突然出现在舵轮旁怒斥；大副面部扭曲愤怒，占主格约2/3高度；前景科欧拉背影约1/5宽。右辅格：镜头从船舷侧面，看向科欧拉从船舷纵身跃入黑海；动态跳跃剪影，对角线动作线。比例锚点：左格：大副（引用C6）高大站立，科欧拉（引用C2）背影在前，大副头顶约比科欧拉高约1/3；右格：科欧拉（引用C2）跳跃剪影，船舷护栏高度约其腰部，海面在下方。②动作与关系：左主格：大副（引用C6）怒斥，对话气泡语义为「你在干什么！你这蠢货！离岛太近了！」；爆裂线+愤怒图标；科欧拉（引用C2）背影有紧张速度线（即将逃跑）。右辅格：科欧拉（引用C2）腾跃跳入海中，动态对角线；下方黑色海水，腰间水手刀图示可见；无气泡，纯动作。③场景：S5大帆船甲板，夜晚，冷蓝星光；左格舵轮区域，右格船舷外缘。④光影与色彩：夜间冷蓝，左格大副愤怒有红色爆裂感，右格跳跃入黑海有对角线动态感。⑤主体与角色：逐格角色预算：左格可辨识2人，右格可辨识1人。大副（引用C6）和科欧拉（引用C2）左格均可辨识；右格科欧拉（引用C2）跳跃剪影可辨识。【情绪标记】强度：强，类型：愤怒/惊吓，推荐视觉手段：速度线+爆裂线+大副极度愤怒表情+科欧拉跳跃动态。"
+    }
+  ]
+}

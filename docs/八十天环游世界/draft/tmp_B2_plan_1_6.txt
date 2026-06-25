@@ -1,0 +1,75 @@
+**B2-1**（2 句）
+- 分组依据：Fogg 每天出门计步走到俱乐部的路径描述，单一路径动作，同一时间段（出发���达），句1→2 是连续动作（出门→计步到达）。与下一组"俱乐部内日程"存在空间/时间切换（路上→俱乐部内各时段活动），必须分镜。
+- 原文：
+  1. "Every day, Phileas Fogg left his house at half past eleven."
+     译：每天，菲利斯·福格在十一点半准时离开家。
+  2. "He put his right foot in front of his left foot 575 times – he knew the exact length of every step – and he put his left foot in front of his right foot 576 times before arriving at the steps of the Reform Club."
+     译：他右脚迈出 575 步，左脚迈出 576 步——他清楚地知道每一步的精确长度——才走到改革俱乐部的台阶前。
+
+---
+
+**B2-2**（3 句）
+- 分组依据：俱乐部内一整天的时间序列日程（午饭→下午读报→下午茶→牌室），有明确时间推进（"then / at five / at twenty to six"），适合用序列条表现，同一场景内部连续时间步骤，3 句覆盖完整日程线。
+- 原文：
+  1. "He usually waited a little before having lunch at thirty minutes to one."
+     译：他通常稍等片刻，在十二点半用午餐。
+  2. "Then he went to the lounge room where he spent the afternoon reading the newspapers."
+     译：然后他去休息室，在那里度过整个下午阅读报纸。
+  3. "At five o'clock he had afternoon tea and at twenty to six it was time to go to the Games Room to play cards with other wealthy and respected members of the club, like Sir Ralph Gautier and Andrew Sutart."
+     译：五点钟他喝下午茶，五点四十分是去游戏室与俱乐部其他富裕而受人尊敬的成员打牌的时间，比如拉尔夫·戈蒂尔爵士和安德鲁·斯图尔特。
+
+---
+
+**B2-3**（5 句）
+- 分组依据：安德鲁朗读报纸关于银行抢劫的消息，同一叙述视角、同一话题（抢劫事件细节），无焦点/空间/情绪切换。已扫描 4 对相邻句，四维度均无切换，保留 5 句豁免。
+- 原文：
+  1. "On this particular day Andrew Stuart started to read a story to them from the evening newspaper about a robbery at the Bank of England."
+     译：就在这一天，安德鲁·斯图尔特开始向大家朗读晚报上一则关于英格兰银行被抢劫的新闻。
+  2. "The robbery took place on 29 September."
+     译：抢劫发生在 9 月 29 日。
+  3. "The thief stole fifty-five thousand pounds while the head cashier was busy writing a receipt for just a few pence."
+     译：当首席出纳正忙于开具一张几便士的收据时，窃贼偷走了五万五千英镑。
+  4. "England's best detectives were looking for the thief after hearing that the Bank of England was offering a reward of two thousand pounds to the person who was able to catch the thief."
+     译：得知英格兰银行悬赏两千英镑缉拿窃贼后，英国最优秀的侦探们纷纷出动搜寻。
+  5. "From the first investigations into the robbery they knew only one thing for certain: he was an elegant, well-spoken gentleman."
+     译：从最初的调查来看，他们只能确定一件事：窃贼是一位举止优雅、谈吐得体的绅士。
+
+---
+
+**B2-4**（4 句）
+- 分组依据：过渡句（成员坐下准备打牌）+ 安德鲁继续谈及抢劫案并提问"小偷在哪里"，同一场景同一说话者连续陈述，属于安德鲁的独白型叙述段，无说话方切换。
+- 原文：
+  1. "While the other members of the club sat at the table, ready to play their game of cards, Andrew Stuart continued to talk about the robbery."
+     译：俱乐部其他成员坐在桌边，准备打牌，而安德鲁·斯图尔特继续谈论这起抢劫案。
+  2. "'Where do you think the thief is hiding?"
+     译："你们觉得窃贼藏在哪里？
+  3. "He could be anywhere."
+     译：他可能藏在任何地方。
+  4. "The world is so big!'"
+     译：世界这么大！"
+
+---
+
+**B2-5**（3 句）
+- 分组依据：Fogg 与安德鲁关于"世界变小了"的首轮交锋，2 个说话方 2 回合（Fogg 回答→安德鲁质疑并反驳），情绪基调平稳（好奇/轻微质疑），属于同一话题内简短来回，可合并。
+- 原文：
+  1. "'It isn't so big any more,' replied Phileas Fogg."
+     译："世界不再那么大了，"菲利斯·福格回答道。
+  2. "'What do you mean?' said Andrew Stuart with a laugh."
+     译："什么意思？"安德鲁·斯图尔特笑着说。
+  3. "'The earth doesn't get any smaller!'"
+     译："地球又没有变小！"
+
+---
+
+**B2-6**（3 句）
+- 分组依据：拉尔夫爵士接话，论述交通进步让地球"缩小"的论点，同一说话者连续陈述，无说话方切换，同一话题（旅行速度/地球大小论），3 句完整呈现一个论点节拍。
+- 原文：
+  1. "'Ah! But the earth is smaller,' said Sir Ralph Gautier."
+     译："啊！但地球确实变小了，"拉尔夫·戈蒂尔爵士说道。
+  2. "'If you think that we can now go around it ten times quicker than we could one hundred years ago."
+     译："如果你想想，我们现在绕地球一圈的速度比一百年前快了十倍。
+  3. "Did you know that today a man can travel around the world in only three months?'"
+     译：你知道吗，如今一个人只需三个月就能环游世界？"
+
+---

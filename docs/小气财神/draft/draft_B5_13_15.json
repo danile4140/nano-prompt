@@ -1,0 +1,53 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B5-13",
+      "character_refs": [
+        "C1",
+        "C9",
+        "C24",
+        "C26"
+      ],
+      "scene_refs": [
+        "S12"
+      ],
+      "covered_sentences": [
+        "Just then the housekeeper came in. She had a large bag full of sheets, towels, clothes, and shoes.",
+        "Now look in my bag, Old Joe, she said, and tell me how much you will give me.",
+        "Old Joe counted up the money for each thing in the box and the bag and wrote some numbers on the wall. That is how much I will give you, he said. And no more. I always give too much and so I am poor. Then he opened a dirty bag and put the money on the floor."
+      ],
+      "layout": "构图与镜头：横排三格构图，等宽三格承载管家到来+老乔清点的序列。左格：管家进门放大布袋；中格：老乔清点逐一估价，在墙上写数字；右格：老乔打开脏布袋，把钱摆在地上。左格：镜头位于铺内门口，中景，看向管家妇（引用C26）进门，提着大布袋；中格：镜头位于铺内侧方，中景，看向老乔（引用C24）在墙上写数字，清点物品；右格：镜头位于炉旁，中近景，看向老乔打开脏布袋把钱摆在地上。比例锚点：左格管家妇（引用C26）全身约占画面高度60%，大布袋在其腋下约在腰部；中格老乔站立，头顶约与旧货架等高，墙上数字约在其头顶高度；右格老乔坐姿，钱摆在地面，死者女仆（引用C25）和管家妇（引用C26）在旁。\n\n动作与关系：左格：管家妇（引用C26）进门，灰发小发髻，干瘪严肃，深黑长裙，白色挺括围裙，手提大布袋，头顶对白气泡内容抽取bag（布袋轮廓+深蓝色问号，承载how much语义）；中格：老乔（引用C24）在墙上写数字，面露精打细算，附B级符号：黄色小灯泡；右格：老乔打开脏布袋，把钱摆在地面，死者女仆（引用C25）和管家妇（引用C26）在旁等待，附D级物品图标：硬币轮廓堆（承载钱摆在地上语义）；斯克鲁奇（引用C1）在格子边缘旁观（离画）。\n\n场景：贫民区旧货铺（引用S12），夜间，昏暗，管家到来+清点交易序列。\n\n光影与色彩：昏暗灰黑，炉火微光，阴险算计气氛。\n\n主体与角色：逐格角色预算：左格可辨识1人——管家妇（引用C26）；中格可辨识1人——老乔（引用C24）；右格可辨识3人——老乔（引用C24）+死者女仆（引用C25）+管家妇（引用C26），铺内门框高于所有站立人物。"
+    },
+    {
+      "id": "B5-14",
+      "character_refs": [
+        "C1",
+        "C9"
+      ],
+      "scene_refs": [
+        "S12"
+      ],
+      "covered_sentences": [
+        "When he was alive, he frightened people and they hated him. So we get the profits now that he is dead. Ha, ha, ha!",
+        "Scrooge watched this in horror. Spirit! I see and I understand. This could happen to me. Oh God, what is this now?"
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例1:2（左格辅格：老乔嘲讽的话；右格主格：斯克鲁奇震惊领悟）。左格：镜头位于铺内，中近景，看向老乔（引用C24）说出嘲讽话语的面部，三人在后景；右格：镜头位于斯克鲁奇正前方，中近景，仰角，看向斯克鲁奇震惊领悟的面部。条件B（触发-转折）：老乔嘲讽死者活着时被人恨（触发）→斯克鲁奇领悟这可能发生在自己身上（转折），两格必拆合法。比例锚点：左格老乔面部约占画面高度60%，烟斗在其嘴边；右格斯克鲁奇面部约占画面高度70%，仰角强调其震惊领悟。\n\n动作与关系：左格：老乔（引用C24）大笑，面露讽刺，头顶对白气泡内容抽取profits（棕色钱袋+绿色上升箭头+橙红色感叹号，承载we get the profits now he is dead语义）；右格：斯克鲁奇（引用C1）面露震惊领悟，双手捂嘴，头顶对白气泡内容抽取me（D级物品图标：斯克鲁奇mini_icon头像+橙红色感叹号，承载this could happen to me的恐惧）；圣诞将来之灵（引用C9）黑色剪影在右格边缘（离画），压迫感。【叙事高潮D类：情感高潮/领悟节点】\n\n场景：贫民区旧货铺（引用S12），夜间，昏暗，道德启示节拍。【风格调整】触发原因：斯克鲁奇领悟这可能是他的命运，情感高潮。调整方向：右格斯克鲁奇面部冷白强光，高对比，震惊领悟。调整范围：右格。\n\n光影与色彩：左格昏暗笑声；右格冷白强光打在斯克鲁奇面部，震惊领悟。\n\n主体与角色：逐格角色预算：左格可辨识1人——老乔（引用C24）；右格可辨识1人——斯克鲁奇（引用C1）；圣诞将来之灵（引用C9）在右侧边缘离画。"
+    },
+    {
+      "id": "B5-15",
+      "character_refs": [
+        "C1",
+        "C9"
+      ],
+      "scene_refs": [
+        "S13"
+      ],
+      "covered_sentences": [
+        "The scene changed and he was near a bed.",
+        "It had no blankets or curtains. There was only an old sheet with something under it — the body of a dead man.",
+        "The Ghost pointed at the head, but Scrooge could not pull down the sheet and look at the dead man face."
+      ],
+      "layout": "构图与镜头：单格构图，弱势/危险镜头策略（死者卧室，极度恐惧）。镜头位于床侧低机位，略仰角，看向床上只有一张白色床单覆盖的遗体，圣诞将来之灵（引用C9）在床旁，骨感白手指向遗体头部（道具/关键细节特写）；斯克鲁奇（引用C1）在画面边缘，背向遗体，无法上前。比例锚点：床架约在成人腰部高度，覆盖白床单的遗体形状可见（床单隆起），圣诞将来之灵（引用C9）黑色高大剪影，头顶约接近天花板，骨感白手指向遗体头部约在床面正上方约半米高度；斯克鲁奇在画面边缘约占画面高度40%（比例压迫）。\n\n动作与关系：圣诞将来之灵（引用C9）骨感白手指向床上遗体的头部，黑色剪影矗立，沉默无声；床上白色床单隆起（遗体形状），无帘幕无毯子，极度萧条；斯克鲁奇（引用C1）在画面边缘，背对遗体，面露极度恐惧，无法靠近，双手握住手杖；附B级符号：浅蓝色水滴多个+橙红色感叹号。\n\n场景：死者卧室（引用S13），夜间（未来），极暗，冷灰，空旷荒凉。【风格调整】触发原因：死者卧室，遗体在床，极度恐惧和悲凉。调整方向：深蓝黑主调，冷灰光，高对比，阴暗荒凉。调整范围：本镜。\n\n光影与色彩：深蓝黑极暗，冷灰光，遗体被白床单反光，高对比，极度悲凉。\n\n主体与角色：逐格角色预算：主画面可辨识2人——圣诞将来之灵（引用C9）+斯克鲁奇（引用C1）（边缘），遗体为道具（不可辨识，用白床单隆起形状表达）。"
+    }
+  ]
+}

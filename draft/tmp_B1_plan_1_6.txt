@@ -1,0 +1,63 @@
+**B1-1**（5 句）
+- 分组依据：堪萨斯背景介绍——人物、环境、龙卷风三件套，同一叙事阶段，四维度（视觉焦点/时间/空间/情绪）无切换；四维度逐对扫描 4 对相邻句均无切换，豁免保留 5 句。
+- 原文：
+  1. "Dorothy lives in a small gray house in Kansas with her Uncle Henry, Aunt Em and little dog, Toto."
+     译：多萝西和亨利叔叔、艾姆婶婶以及小狗托托住在堪萨斯州的一座灰色小屋里。
+  2. "Everything in Kansas is gray."
+     译：堪萨斯的一切都是灰色的。
+  3. "There are no trees or flowers, but there are cyclones."
+     译：这里没有树木，也没有花朵，但有龙卷风。
+  4. "Cyclones are very strong winds."
+     译：龙卷风是一种非常强劲的风。
+  5. "They can sometimes blow people and houses away."
+     译：它们有时能把人和房子一起吹走。
+
+**B1-2**（4 句）
+- 分组依据：亨利叔叔发现龙卷风→叫大家去地窖，两位说话方（亨利+艾姆）均发出同一方向的紧急指令，同一场景同一话题同一情绪（紧张/警觉），≤2 回合对话可合并。
+- 原文：
+  1. "One day Uncle Henry looks at the gray sky."
+     译：一天，亨利叔叔看着灰色的天空。
+  2. "He says, \"A cyclone is coming!"
+     译：他说："龙卷风来了！
+  3. "We must go to the cellar!\""
+     译：我们必须去地窖！"
+  4. "\"Come with us quickly, Dorothy!\" says Aunt Em."
+     译："快跟我们来，多萝西！"艾姆婶婶说。
+
+**B1-3**（3 句）
+- 分组依据：托托惊跑进卧室→钻入床下→多萝西追，同一连续追逐动作，视觉焦点始终在托托/多萝西，空间从地窖门口过渡到卧室为一条移动路径，无节拍切换。
+- 原文：
+  1. "They run to the door of the cellar but Toto is afraid."
+     译：他们跑向地窖的门，但托托很害怕。
+  2. "He runs into the bedroom and under the bed."
+     译：它跑进卧室，钻到了床底下。
+  3. "Dorothy runs after him."
+     译：多萝西追了过去。
+
+**B1-4**（2 句）
+- 分组依据：艾姆婶婶下命令（§4 条件 B 触发动作）→ 多萝西抱起托托执行（转折结果），命令→执行因果链必须分格，但情绪/场景相同可同镜双格。
+- 原文：
+  1. "\"Leave Toto and come to the cellar now!\" cries Aunt Em."
+     译："把托托留下，现在就去地窖！"艾姆婶婶喊道。
+  2. "Dorothy picks Toto up and runs to the door of the cellar."
+     译：多萝西抱起托托，跑向地窖的门。
+
+**B1-5**（3 句）
+- 分组依据：预示（strange happens）→ 房子被卷走→ 亨利/艾姆在地窖旁目送。S17 视角切换到地窖（§4 条件 A：同时异地，两个主体在不同空间有独立状态），必须分格。
+- 原文：
+  1. "But at that moment something strange happens."
+     译：但就在那一刻，奇怪的事情发生了。
+  2. "The cyclone is very strong and it picks the house up and takes it, with Dorothy and Toto inside, into the sky."
+     译：龙卷风非常猛烈，它把房子连同里面的多萝西和托托一起卷上了天空。
+  3. "Uncle Henry and Aunt Em can only watch from the cellar."
+     译：亨利叔叔和艾姆婶婶只能从地窖里望着。
+
+**B1-6**（3 句）
+- 分组依据：房子在天上飞很久→多萝西托托孤独害怕→渐渐疲惫入睡，时间跨度（many hours→fall asleep），同一视觉主体连续状态变化（飞翔中→入睡）。
+- 原文：
+  1. "The house flies and flies in the sky for many hours."
+     译：房子在天空中飞啊飞，飞了好几个小时。
+  2. "Dorothy and Toto are alone and afraid."
+     译：多萝西和托托孤独又害怕。
+  3. "After some time they become very tired and they fall asleep."
+     译：过了一段时间，他们越来越疲惫，终于睡着了。

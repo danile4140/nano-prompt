@@ -1,0 +1,37 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B6-19",
+      "character_refs": [
+        "C1b",
+        "C3",
+        "C15"
+      ],
+      "scene_refs": [
+        "S9"
+      ],
+      "covered_sentences": [
+        "Scrooge gave Bob more money, helped his family and did much more.",
+        "Tiny Tim did NOT die and Scrooge was a second father to him.",
+        "He became a good friend, a good manager and a good man."
+      ],
+      "layout": "构图与镜头：单格构图，中心聚焦组织（核心转折结果节拍：小蒂姆没有死）。镜头位于克拉奇特家厨房侧方，中景斜30度，看向温暖家庭场景：斯克鲁奇（引用C1b）、鲍勃（引用C3）和小蒂姆（引用C15）三人在克拉奇特家温馨画面。前景：厨房边缘；中景：三人互动；后景：克拉奇特家温馨环境。比例锚点：斯克鲁奇（引用C1b）和鲍勃（引用C3）均站立，身高相近，斯克鲁奇略高；小蒂姆（引用C15）站于两人之间，头顶约在两人腰部，手持小木拐杖；厨房碗柜高于所有人物；近景保留参照：小蒂姆旁边的小木拐杖和餐桌侧面。\n\n动作与关系：斯克鲁奇（引用C1b）面露温柔满足，右手轻搭小蒂姆肩膀，面朝小蒂姆；鲍勃（引用C3）在另一侧，面露感激和温柔；小蒂姆（引用C15）站于两人之间，面露快乐天真大笑，手持小木拐杖；附A级氛围：AURA-BEAUTY-1（细碎鎏金星芒光点），承载情感最高潮——小蒂姆活着的核心情感节点；附B级符号：粉红色爱心+绿色对号+橙红色感叹号，承载这个幸福结局。\n\n场景：克拉奇特家的厨房兼餐厅（引用S9），圣诞日后，温暖家庭，结局温馨。\n\n光影与色彩：温暖橙黄，AURA-BEAUTY-1效果，整体温馨感动。\n\n主体与角色：逐格角色预算：主画面可辨识3人——斯克鲁奇（引用C1b）+鲍勃（引用C3）+小蒂姆（引用C15），小蒂姆头顶约在两人腰部高度，厨房碗柜高于所有人物，近景保留参照：小蒂姆旁边小木拐杖+餐桌侧面。"
+    },
+    {
+      "id": "B6-20",
+      "character_refs": [
+        "C1b"
+      ],
+      "scene_refs": [
+        "S15"
+      ],
+      "covered_sentences": [
+        "A few people laughed at him, of course, but he knew that some people always laugh at anything new, strange, and good.",
+        "He often laughed now, and that was the most important thing to him.",
+        "He did not see the Spirits again, and he celebrated every Christmas with all his heart.",
+        "And, like Tiny Tim, he said, God bless everyone!"
+      ],
+      "layout": "构图与镜头：单格构图，中心聚焦组织（章节收束：新的斯克鲁奇的生活）。镜头位于起居室正面，中景，平视，看向斯克鲁奇（引用C1b）在起居室内，面露满足大笑，大壁炉旺盛，窗外阳光透入；前景：茶几边缘；中景：斯克鲁奇坐于扶手椅旁；后景：起居室温暖明亮。比例锚点：斯克鲁奇（引用C1b）站立，头顶约与壁炉架等高，扶手椅约在其腰部，茶几约在其腰部。\n\n动作与关系：斯克鲁奇（引用C1b）面露发自内心的大笑，眼睛明亮有神，右手轻搭扶手椅靠背，神态从容自在；头顶对白气泡内容抽取God bless everyone（D级物品图标：多个小人轮廓+绿色对号+橙红色感叹号，承载祝福每个人，与小蒂姆的名言呼应）；附A级氛围：AURA-BEAUTY-1（细碎鎏金星芒光点），承载圆满结局的情感高潮；附B级符号：粉红色爱心+橙红色感叹号，整体温馨圆满；窗外阳光明亮，起居室暖火旺盛，一切美好。\n\n场景：斯克鲁奇的起居室（圣诞清晨觉醒变体）（引用S15），圣诞节后的日常，温暖明亮，圆满结局。【风格复归】回到style_setting基调，圆满结局。\n\n光影与色彩：温暖橙黄，壁炉旺盛，阳光透入，AURA-BEAUTY-1效果，整体温馨圆满，故事圆满收束。\n\n主体与角色：逐格角色预算：主画面可辨识1人——斯克鲁奇（引用C1b），改变后的斯克鲁奇，面露发自内心的大笑，眼睛明亮有神，高顶黑礼帽，深灰长外套，手持黑色手杖，壁炉架约在其头顶处；近景保留参照：扶手椅靠背（约在其腰部）。"
+    }
+  ]
+}

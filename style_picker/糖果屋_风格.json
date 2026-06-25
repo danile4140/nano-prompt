@@ -1,0 +1,30 @@
+{
+  "project": "糖果屋",
+  "test_scene_base": "两个小孩——一个男孩和一个女孩——站在深林空地上，眼神惊喜地发现并咬食一座用面包做墙、糖果做屋顶、透明糖做窗户的奇幻小屋，周围是茂密的森林",
+  "styles": [
+    {
+      "id": "A",
+      "name": "迪士尼黄金时代动画风",
+      "description": "1950年代迪士尼经典动画（《仙履奇缘》《睡美人》时期）的手绘质感，角色线条流畅饱满，背景如油画般精美层叠；色彩明亮而温柔，糖果屋细节丰富可爱。这种风格让童话故事自带电影级的梦幻感，深受5-12岁小朋友喜爱。",
+      "test_scene_prompt": "A boy and a girl stand in a forest clearing, delightedly nibbling on a magical candy cottage made of bread walls, candy roof and sugar-glass windows, surrounded by dense trees — Disney Golden Age hand-drawn animation style circa 1950s, smooth flowing character linework, lush multi-layered painterly background, bright gentle colors, rich storybook fairy tale atmosphere, Cinderella-era Disney quality, warm dreamy lighting, detailed charming candy house decorations, joyful innocent expressions"
+    },
+    {
+      "id": "B",
+      "name": "俄罗斯民间彩绘童话风（Bilibin风格）",
+      "description": "Ivan Bilibin式俄罗斯民间童话彩绘，浓郁装饰性的粗黑线描搭配宝石色彩绘，充满民族花纹边框；人物造型带刺绣图案质感，森林如层叠织物般绚丽。这种独特的东欧民间艺术风格让糖果屋故事焕发出强烈的异域童话感，在所有风格里视觉最独特。",
+      "test_scene_prompt": "A boy and a girl stand in a forest clearing, delightedly nibbling on a magical candy cottage made of bread walls, candy roof and sugar-glass windows, surrounded by dense trees — Ivan Bilibin-inspired Russian folk tale illustration, bold black decorative outlines, rich jewel-tone colors like deep ruby and emerald and gold, intricate folk pattern borders and embroidery-like textures, ornate decorative forest with stylized trees, flat yet deeply decorative composition, Eastern European fairy tale book aesthetic"
+    },
+    {
+      "id": "C",
+      "name": "Jan Brett精细北欧民间绘本风",
+      "description": "Jan Brett（《雪人手套》作者）的精细北欧民间绘本风格，以画面主图配合精美装饰边框为特色，边框内藏有故事细节彩蛋；人物与场景刻画极为细腻，色彩温暖饱和，带浓郁的中欧民间艺术气质。与糖果屋的德国森林背景高度契合，充满温馨的北欧童话氛围。",
+      "test_scene_prompt": "A boy and a girl stand in a forest clearing, delightedly nibbling on a magical candy cottage made of bread walls, candy roof and sugar-glass windows, surrounded by dense trees — Jan Brett-style detailed Northern European folk picture book illustration, richly detailed main scene with ornate folk art decorative border frames containing hidden story details, intricate character rendering, warm saturated Central European folk art colors, dense woodland fairy tale atmosphere, meticulous hand-crafted picture book quality"
+    },
+    {
+      "id": "D",
+      "name": "巴伐利亚民间装饰绘画风",
+      "description": "德国巴伐利亚地区传统民间装饰绘画（Bauernmalerei）风格，以鲜艳花卉图案装饰为特色，色彩饱和浓烈；建筑、人物和自然元素都有手工彩绘木器的质感，如同一件彩色木雕玩具。这种风格与故事的德国格林童话起源天然契合，让画面充满中欧乡村的温暖民俗气息。",
+      "test_scene_prompt": "A boy and a girl stand in a forest clearing, delightedly nibbling on a magical candy cottage made of bread walls, candy roof and sugar-glass windows, surrounded by dense trees — Bavarian folk art Bauernmalerei painting style, bold saturated floral decorative motifs on the cottage, rich primary colors with black outlines, hand-painted wooden toy texture and quality, decorative folk pattern borders of tulips and vines, warm Central European village craft aesthetic, cheerful naive folk art charm"
+    }
+  ]
+}

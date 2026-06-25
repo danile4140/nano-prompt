@@ -73,7 +73,3 @@ yarn-error.log*
 *.pem
 *.key
 secrets/
-
-draft/
-*.json
-*.txt

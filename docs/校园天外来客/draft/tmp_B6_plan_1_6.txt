@@ -1,0 +1,51 @@
+第 6 章分镜规划（条目 1–6）
+
+**B6-1**（3 句）
+- 分组依据：场景切换（三人在Rainbow冰淇淋店坐下），新场景/新节拍，介绍性节拍
+- 原文：
+  1. "We sat down at the 'Rainbow' and ordered three sundaes."
+     译：我们在"彩虹"坐下，点了三份圣代。
+  2. "'Dana, we have news about Mr. Stone!' I said."
+     译："达娜，我们有关于斯通先生的消息！"我说。
+  3. "'Yes, although it's a very long story,' Paul added."
+     译："是的，虽然是个很长的故事，"保罗补充。
+
+**B6-2**（2 句）
+- 分组依据：珍妮和保罗向达娜讲述事情经过（叙述性节拍，用图示气泡承载），达娜的表情变化（情绪序列节拍）
+- 原文：
+  1. "We told her everything: the news on the comet and the intergalactic meetings; our plan to spy on Mr. Stone; finally, the teacher's sad story."
+     译：我们告诉了她一切：关于彗星和星际会面的消息、我们监视斯通先生的计划、最后老师悲伤的故事。
+  2. "Dana's expression went from surprised, to worried, to ashamed, during our tale."
+     译：在我们讲述过程中，达娜的表情从惊讶变为担忧，再变为惭愧。
+
+**B6-3**（3 句）
+- 分组依据：达娜感言→提到外星人→珍妮打断（三回合对话，情绪各异），需3格承载
+- 原文：
+  1. "'Our class must be much nicer to him!' she said. 'But this comet... maybe aliens will come to Earth!'"
+     译："我们班必须对他更好些！"她说，"但这颗彗星……也许外星人真的会来地球！"
+  2. "'Dana, please, I don't even want to hear the word "alien"!' I exclaimed."
+     译："达娜，拜托，我甚至不想听到'外星人'这个词！"我大声说。
+  3. "'Let's keep our eyes open for people in need, not for aliens!' Paul added."
+     译："让我们多关注有需要的人，而不是外星人！"保罗补充。
+
+**B6-4**（1 句）
+- 分组依据：达娜服软承认（≤2回合收尾），可并入B6-3，但达娜的"OK, OK, sorry"是转折结果，与B6-3 3句合并后将超4句，故独立
+- 原文：
+  1. "'OK, OK, sorry!' said Dana."
+     译："好，好，抱歉！"达娜说。
+
+**B6-5**（2 句）
+- 分组依据：珍妮发现天色已暗、发现��表不在（新戏剧性事件：道具突现/消失），情绪切换（轻松→惊慌），新节拍
+- 原文：
+  1. "From the window of the ice-cream parlour, I noticed that it was already dark."
+     译：从冰淇淋店的窗户望去，我注意到天色已暗。
+  2. "I looked at the time ... my watch wasn't on my wrist! 'Oh no! My watch!' I exclaimed."
+     译：我看了看时间……手表不在腕上！"哦不！我的手表！"我叫道。
+
+**B6-6**（2 句）
+- 分组依据：珍妮想起把手表落在体育馆→解释手表的重要性（情感揭露：祖父遗物），同一节拍，情绪基调（担忧+情感价值）
+- 原文：
+  1. "Then I remembered. 'I left it in the gym! I took it off at recess, to play volleyball. I must go and get it!'"
+     译：然后我想起来了。"我把它放在体育馆了！课间休息打排球时摘下来的，我必须去拿回来！"
+  2. "'But, Jenny, I'm sure that the janitor will find it and put it in a safe place,' said Paul. 'I don't trust him. That watch is so important to me. It was a gift from my grandfather. He's dead now, and it's the only thing I have of him. I must go to school immediately!'"
+     译："但珍妮，我相信门卫会找到它并妥善保管的，"保罗说。"我不信任他。那块手表对我太重要了，是祖父送给我的礼物，他已经过世了，那是我唯一拥有的他的遗物，我必须马上去学校！"

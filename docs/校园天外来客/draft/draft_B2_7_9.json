@@ -1,0 +1,55 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B2-7",
+      "character_refs": [
+        "C1",
+        "C2",
+        "C5"
+      ],
+      "scene_refs": [
+        "S3"
+      ],
+      "covered_sentences": [
+        "I looked at Paul and he looked at me. We were disgusted and frightened.",
+        "Dana tried to be rational. 'Maybe it's a new diet. Maybe that's why he's so thin!' she said. I didn't agree."
+      ],
+      "layout": "构图与镜头：左右二分构图，1:1等比（左格珍妮保罗互看恶心/恐惧，右格达娜理性解读）；左格镜头位于达娜右侧，斜侧30°平视看向珍妮和保罗相视而望的双人中近景，食堂餐桌边缘前景；右格镜头位于珍妮左肩后，过肩视角看向达娜的面部近中景，珍妮肩背在左前景。比例锚点：左格：珍妮（C1）和保罗（C5）坐于餐桌，头部约占高度1/3，视线对望；右格：达娜（C2）中近景，头部约占格子高度1/3，珍妮肩背居左前景。动作与关系：左格：珍妮（C1）和保罗（C5）对视，两人均皱眉，面带恶心/惊恐表情；珍妮头侧B级符号：浅蓝色水滴（恐惧/恶心情绪）；保罗头侧B级符号：绿色弯曲线（恶心感）；无气泡（用肢体表情承载）；右格：达娜（C2）神情平静，摊手姿势（理性解读），头顶对白气泡（Diet?+深蓝色问号，D1：瘦身/节食图标——计重秤简笔画，D2：diet，D3：问号，承载达娜的理性解读语义）；达娜头侧B级符号：黄色小灯泡（理性想法出现）。场景：学校食堂（S3），午饭时间，延续上镜；左格仅见餐桌边缘；右格通过过肩仅见珍妮肩背和背景餐桌模糊一角。光影与色彩：白天柔光，延续上镜；左格色调略偏冷（恶心/恐惧情绪），右格中性暖白（达娜的理性反应）。主体与角色：逐格角色预算：左格2人（珍妮C1+保罗C5），右格1人（达娜C2），珍妮肩背前景；全格可辨识3人符合规则。【情绪标记】强度：中，类型：恐惧/疑惑，推荐视觉手段：珍妮和保罗的恶心表情+浅蓝色水滴；达娜黄色小灯泡对比。"
+    },
+    {
+      "id": "B2-8",
+      "character_refs": [
+        "C1",
+        "C4",
+        "C5"
+      ],
+      "scene_refs": [
+        "S2"
+      ],
+      "covered_sentences": [
+        "There was something strange about Mr. Stone.",
+        "That afternoon and the next day we met our other new teachers. We also had English again.",
+        "Mr. Stone came in and sat down. 'Miller. Paul Miller. Tell me something about yourself.'"
+      ],
+      "layout": "构图与镜头：横排三格序列；左格：珍妮内心独白（斯通有某种奇怪之处）；中格：时间跳跃标记（下午+第二天上课场景建立）；右格：斯通进入教室点名保罗（戏剧性事件）。左格镜头：保罗卧室或街道场景（非固定），近中景看向珍妮侧脸思考；中格镜头：教室（S2）远景全景建立，斜侧45°俯角10°看向教室全景；右格镜头：学生席低机位仰角，看向站在讲台的斯通老师（C4），保罗（C5）在前景学生席侧面。比例锚点：左格：珍妮（C1）中近景，头部约占高度1/3；中格：教室（S2）全景，课桌排整齐，老师桌在前方，门框明显高于所有人物（但此格无角色，空场景）；右格：斯通（C4）站立仰拍，头顶约与黑板上缘齐，保罗（C5）坐于前景课桌，头顶约至斯通腰部高度。动作与关系：左格：珍妮（C1）皱眉侧脸，若有所思，头顶思维气泡（内画斯通老师mini_icon——黑发男教师头像，颧骨高耸，尖鼻子，深色西装，+深蓝色问号，承载斯通有某种奇怪之处的心理）；中格：空场景建立镜头，教室（S2）空景，右上角时间标签Day 2/Afternoon标记；右格：斯通（C4）站在讲台前，表情冷漠指向保罗方向，头顶对白气泡（Miller!+橙色感叹号，D1：保罗mini_icon——深色直发戴眼镜少年，细框眼镜，D2：tell，D3：感叹号）。场景：左格为模糊过渡背景，中格为教室（S2）空景，右格为教室（S2）内讲台区域；白天柔光。光影与色彩：左格暖调过渡，中格白天教室整体明亮，右格延续偏冷（斯通相关）。主体与角色：逐格角色预算：左格1人（珍妮C1），中格0人（空场景），右格2人（斯通C4+保罗C5，保罗在前景学生席侧面）。"
+    },
+    {
+      "id": "B2-9",
+      "character_refs": [
+        "C1",
+        "C4",
+        "C5"
+      ],
+      "scene_refs": [
+        "S2"
+      ],
+      "covered_sentences": [
+        "'Paul? Don't you have anything to say?' 'Uh, well, I enjoy astronomy, I have a cat...'",
+        "Mr. Stone asked everyone to say something about their life and hobbies.",
+        "'Maybe he wants to create a relationship with us, but he's such a cold person! How bizarre!' I thought. Then, looking at him more carefully, I noticed something: his eyes weren't green anymore! They seemed a darker, different colour!",
+        "I raised my hand. 'May I go to the bathroom?' I asked. As I walked towards the door, I looked at Mr. Stone's eyes again. I was right! They were yellowish brown. They looked like amber!"
+      ],
+      "layout": "构图与镜头：2×2网格四格构图；左上：斯通（C4）向保罗追问（对话格）；右上：保罗（C5）紧张回答（回应格）；左下：珍妮（C1）内心思考+发现眼睛变色（心理高潮格）；右下：珍妮举手借口去洗手间+再次验证眼睛颜色（行动+验证格）。左上镜头：保罗右肩后过肩，仰角10°看向斯通面部；右上镜头：斯通肩后过肩，平视看向保罗紧张表情；左下镜头：教室内珍妮座位旁，斜侧30°平视看向珍妮侧脸+思维气泡+目光朝向斯通；右下镜头：教室走廊门口，斜侧45°，看向珍妮走向门口时回望斯通眼睛的动作。比例锚点：左上格：斯通（C4）站立仰拍，头顶约达格子2/3，保罗肩背前景；右上格：保罗（C5）坐于课桌，头顶约占格子1/3；左下格：珍妮（C1）坐于课桌，头顶约占格子1/3，思维气泡位于头顶上方；右下格：珍妮（C1）站起走向门口，身高约占格子2/3，斯通（C4）在背景为中景（头顶约低于门框）。动作与关系：左上格：斯通（C4）眼神指向保罗方向，头顶对白气泡（Paul?+深蓝色问号，D1：保罗mini_icon——深色直发眼镜少年，D3：问号）；右上格：保罗（C5）推眼镜，表情紧张，头顶对白气泡（Astronomy...+省略号，D1：星星图标，D2：enjoy，语气略带不确定）；左下格：珍妮（C1）侧脸看向斯通方向，头顶思维气泡（气泡内：斯通mini_icon+问号+不同颜色眼睛图示—绿色→琥珀色对比，承载发现眼睛变色的惊讶）；头侧B级符号：橙色感叹号（发现异常的惊讶）；右下格：珍妮（C1）站起举手走向门口，回头看向斯通（C4）眼睛方向，头顶对白气泡（Bathroom?+深蓝色问号，简短借口）；背景斯通（C4）在后方讲台可见，距离较远。场景：教室（S2）内；各格通过机位仅露课桌边缘、黑板角或走廊门框；白天柔光延续。光影与色彩：白天柔光，左下格和右下格因珍妮发现异常略偏冷；右下格走向门口时可见走廊自然光片段。主体与角色：逐格角色预算：左上2人（斯通C4+保罗C5，保罗肩背前景），右上1人（保罗C5），左下1人（珍妮C1），右下2人（珍妮C1+背景斯通C4）；珍妮（引用C1），保罗（引用C5），斯通（引用C4）均可辨识入镜（分布在四格）。【情绪标记】强度：中，类型：疑惑，推荐视觉手段：左下格思维气泡+橙色感叹号+眼睛颜色对比图示。"
+    }
+  ]
+}

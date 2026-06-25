@@ -1,0 +1,49 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B5-1",
+      "character_refs": [
+        "C1",
+        "C9"
+      ],
+      "scene_refs": [],
+      "covered_sentences": [
+        "Another phantom was coming towards him.",
+        "It was tall and silent.",
+        "Scrooge could not see its face or its body because it was wearing long, black clothes and a black hood.",
+        "There was something mysterious about it."
+      ],
+      "layout": "构图与镜头：单格构图，比例压迫组织（圣诞将来之灵降临，压倒性黑色剪影）。镜头位于低机位，仰角20度，看向从深蓝黑背景中走来的圣诞将来之灵（引用C9），巨大黑色剪影；斯克鲁奇（引用C1）在画面右下角极小，仰视，极度恐惧。前景：斯克鲁奇的影子；中景：斯克鲁奇全身（极小）；后景：圣诞将来之灵巨大黑色剪影，整个画面高度约80%。比例锚点：圣诞将来之灵（引用C9）身高高于斯克鲁奇约两倍，头顶约接近画面顶部，黑色兜帽无脸；斯克鲁奇全身约占画面高度25%（比例压迫），站立于画面右下角。\n\n动作与关系：圣诞将来之灵（引用C9）静静走来，全黑斗篷和兜帽，看不见面部和身体，骨感苍白的手隐约从袖管中伸出；斯克鲁奇（引用C1）仰头望向巨大黑色剪影，面露极度恐惧，双手握住手杖，附B级符号：浅蓝色水滴多个+橙红色感叹号。【叙事高潮B类：身份揭晓——圣诞将来之灵降临】\n\n场景：深夜，黑暗虚空背景，无明确地点。【风格调整】触发原因：圣诞将来之灵降临，极度神秘恐惧氛围。调整方向：深黑背景，冷蓝侧光打亮黑色斗篷轮廓，高对比剪影效果。调整范围：本镜。\n\n光影与色彩：深黑背景，冷蓝侧光打亮黑色斗篷轮廓，高对比，极度神秘恐惧。\n\n主体与角色：逐格角色预算：主画面可辨识2人——圣诞将来之灵（引用C9）+斯克鲁奇（引用C1）（极小），圣诞将来之灵约为斯克鲁奇的两倍身高。"
+    },
+    {
+      "id": "B5-2",
+      "character_refs": [
+        "C1",
+        "C9"
+      ],
+      "scene_refs": [],
+      "covered_sentences": [
+        "When it came near him, Scrooge was very frightened.",
+        "It did not speak or move.",
+        "Are you the Ghost of Christmas Yet To Come? he asked.",
+        "The Spirit did not answer, but its long, white hand came out from the black clothes and pointed down."
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例1:2（左格斯克鲁奇辅格，颤抖询问；右格主格：幽灵骨感苍白手指向下的特写）。左格：镜头位于斯克鲁奇正前方，中近景，仰角，看向斯克鲁奇面部，面露极度恐惧；右格：镜头位于幽灵右侧，近景，看向从黑色袖管中伸出的骨感苍白长手，手指向下（道具/关键细节特写）。比例锚点：左格斯克鲁奇面部约占画面高度65%；右格骨感苍白手约占画面高度60%，袖管黑色边缘在上方，手指纤长苍白，近景保留参照：黑色袖管边缘。\n\n动作与关系：左格：斯克鲁奇（引用C1）颤抖，面露恐惧，头顶对白气泡内容抽取Ghost？（深蓝色问号+D级物品图标：第三个幽灵序号③+黑色斗篷剪影简笔画）；右格：骨感苍白长手从黑色袖管中伸出，手指指向下方，附B级符号：冷蓝色放射线从手指尖向下放射，承载向下指的威胁语义；附A级氛围：AURA-MAGIC（淡金色朦胧星屑炸开飘散），承载神秘出现的魔法感。\n\n场景：深夜，黑暗虚空，无明确地点，幽灵逼近节拍。\n\n光影与色彩：左格冷灰调；右格深黑背景，冷蓝光打亮骨感手，高对比特写。\n\n主体与角色：逐格角色预算：左格可辨识1人——斯克鲁奇（引用C1）；右格可辨识0人（骨感手为道具特写，不计入可辨识人物）。"
+    },
+    {
+      "id": "B5-3",
+      "character_refs": [
+        "C1",
+        "C9"
+      ],
+      "scene_refs": [],
+      "covered_sentences": [
+        "Are you going to show me things from the future? Scrooge asked.",
+        "His legs were trembling a lot and so he could not follow the Ghost when it moved away.",
+        "It stopped and waited for him.",
+        "He could not see its eyes but he felt that they were looking at him."
+      ],
+      "layout": "构图与镜头：单格构图，比例压迫组织（内心挣扎：腿软无法跟随）。镜头位于斯克鲁奇左侧，低机位，斜侧30度，看向斯克鲁奇站立颤抖，远处圣诞将来之灵已走出一段（S形动线，幽灵在远处等待）。前景：斯克鲁奇脚边地面；中景：斯克鲁奇全身（腿颤抖）；后景：圣诞将来之灵黑色剪影在远处，已停下等待。比例锚点：斯克鲁奇全身约占画面高度55%，双腿颤抖呈现；圣诞将来之灵在远处约占画面高度30%（远景透视），两者距离明确；地面为参照。\n\n动作与关系：斯克鲁奇（引用C1）双腿颤抖（腿部轻微运动线），身体向前倾但无法移步，面露恐惧和坚持，附B级符号：浅蓝色水滴多个；头顶对白气泡内容抽取future（D级物品图标：向前箭头+深蓝色问号）；圣诞将来之灵（引用C9）在远处停下，黑色剪影静止，骨感白手方向指向斯克鲁奇，暗示在等待。\n\n场景：深夜，黑暗虚空，斯克鲁奇内心挣扎节拍。\n\n光影与色彩：深蓝黑背景，斯克鲁奇被冷蓝微光打亮，圣诞将来之灵在远处黑色剪影。\n\n主体与角色：逐格角色预算：主画面可辨识2人——斯克鲁奇（引用C1）+圣诞将来之灵（引用C9）（远景轮廓），两者均可见但圣诞将来之灵在远处小。"
+    }
+  ]
+}

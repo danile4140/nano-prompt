@@ -1,0 +1,62 @@
+**B4-13**（2 句）
+- 分组依据：同一节拍——科欧拉躺在床上绝望地想着可怕的未来。这是独白心理节拍，是B4-12的延续情绪，但B4-12已3句，这2句另立
+- 原文：
+  1. "He lay on his bed and thought about his terrible future."
+     译：他躺在床上，想着自己可怕的未来。
+  2. "The next day the people of the tribe were kind and friendly, as they always were."
+     译：第二天，部落里的人还是像往常一样友善和热情。
+
+**B4-14**（4 句）
+- 分组依据：同一节拍——部落人说诗、讲笑话，但科欧拉只看见他们的白牙，感到恶心，回茅屋倒下。这是"科欧拉眼中的反差恐惧"节拍，视觉焦点切换（部落人表面友善→科欧拉内心恐惧），情绪为绝望恶心，独立节拍
+- 原文：
+  1. "They spoke politely and made beautiful poetry, and they told funny stories at meals."
+     译：他们说话有礼，作出美丽的诗歌，在餐桌上讲有趣的故事。
+  2. "But Keola did not care about this, all he could see were the white teeth in their mouths and he felt sick."
+     译：但科欧拉对此全不在乎，他眼中只有他们口中那些白色的牙齿，感到一阵恶心。
+  3. "When they finished eating he went to his hut and lay down like a dead man."
+     译：他们吃完后，他回到茅屋，像死人一样躺下。
+  4. "The next day everything was the same."
+     译：第二天，一切依旧如此。
+
+**B4-15**（3 句）
+- 分组依据：同一节拍——妻子追来劝科欧拉吃饭（否则会被当成病人提前宰杀）。这是"紧迫警告"节拍，触发新节拍（妻子的警告是新的压力），视觉焦点切换（茅屋内→妻子出现），情绪从绝望麻木转向生死紧迫
+- 原文：
+  1. "His wife followed him."
+     译：他的妻子跟来了。
+  2. "'Keola,' she said, 'you must eat, or you'll be killed and cooked tomorrow. The old chiefs say you're ill and you'll get thin.'"
+     译："科欧拉，"她说，"你必须吃东西，否则明天你就会被杀掉烹煮。老酋长们说你生病了，你会消瘦下去。"
+  3. "Keola got up and looked at his wife."
+     译：科欧拉站起来，看着妻子。
+
+**B4-16**（3 句）
+- 分组依据：必拆充要条件B + D（情感高潮）——科欧拉愤然说"让恶魔吃了我"并转身走向岛的另一侧（决定性行动）。触发-转折因果链（妻子劝告→科欧拉绝望反抗→走向禁区），情绪为愤怒/自暴自弃，独立节拍
+- 原文：
+  1. "'I don't care,' he said angrily. 'If I must die, I'll die the quickest way. Let the devils eat me and not the men. Goodbye.'"
+     译："我不在乎，"他愤怒地说，"如果我必须死，我要死得最快。让恶魔来吃我，而不是那些人。再见。"
+  2. "He turned around and started walking to the other side of the island."
+     译：他转过身，开始向岛的另一侧走去。
+
+---
+
+**最终汇总**：
+
+| 分镜ID | 句数 |
+|--------|------|
+| B4-1   | 4    |
+| B4-2   | 2    |
+| B4-3   | 4    |
+| B4-4   | 4    |
+| B4-5   | 4    |
+| B4-6   | 3    |
+| B4-7   | 4    |
+| B4-8   | 1    |
+| B4-9   | 4    |
+| B4-10  | 3    |
+| B4-11  | 3    |
+| B4-12  | 3    |
+| B4-13  | 2    |
+| B4-14  | 4    |
+| B4-15  | 3    |
+| B4-16  | 2    |
+
+共 **16** 条分镜

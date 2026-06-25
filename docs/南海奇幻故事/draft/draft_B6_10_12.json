@@ -1,0 +1,49 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B6-10",
+      "character_refs": [
+        "C2",
+        "C9"
+      ],
+      "scene_refs": [
+        "S1"
+      ],
+      "covered_sentences": [
+        "Keola did not know what to say.",
+        "'All the other things you've told me are confusing and mysterious,' said the missionary, 'and I really don't understand them.'"
+      ],
+      "layout": "①构图与镜头：对话双格构图，左右二分2:1，被说话方（科欧拉受窘）更重要，科欧拉占右主格2/3。左辅格：镜头位于科欧拉过肩，看向传教士侧脸；传教士神情困惑+严肃。右主格：镜头位于传教士过肩，看向科欧拉窘迫近景；科欧拉低头，不知所措。比例锚点：左格：传教士（引用C9）侧脸中近景；右格：科欧拉（引用C2）低头近景，头部占右格约3/4高度。②动作与关系：左辅格：传教士（引用C9）神情困惑，气泡语义「你告诉我的其他事情都令人困惑……我不明白」，配「？」图标+迷宫图示（「神秘复杂」）。右主格：科欧拉（引用C2）低头，双手并拢，嘴唇抿住，表情窘迫，不知说什么；无气泡，静默受窘。③场景：S1客厅，白天，室内暖光；书架在背景。④光影与色彩：白天暖光，科欧拉窘迫感轻微阴影。⑤主体与角色：逐格角色预算：两格各可辨识2人。传教士（引用C9）和科欧拉（引用C2）均可辨识。"
+    },
+    {
+      "id": "B6-11",
+      "character_refs": [
+        "C2",
+        "C3",
+        "C9"
+      ],
+      "scene_refs": [
+        "S1"
+      ],
+      "covered_sentences": [
+        "Keola and Lehua looked at each other.",
+        "'However,' said the missionary, 'if Kalamake made money in a dishonest way, give some of it to the poor people of the island. You can also give some to the missionaries. Your adventure on the Isle of Voices is very strange and you mustn't tell anyone about it. It's your secret.'"
+      ],
+      "layout": "①构图与镜头：横排3格构图，「科欧拉和莱华对视→传教士建议→二人听取」。左格：镜头从侧方，中景，看向科欧拉和莱华面面相觑，表情复杂。中格：镜头位于科欧拉和莱华过肩，看向传教士正面，中近景，传教士给出建议。右格：镜头从传教士侧方，中景，看向科欧拉和莱华点头听取。比例锚点：左格：科欧拉（引用C2）和莱华（引用C3）并排，身高相差约1/4；中格：传教士（引用C9）中近景，头部约占中格2/3；右格：两人并排点头，头顶约及书架第一层。②动作与关系：左格：科欧拉（引用C2）和莱华（引用C3）侧视对方，眼神交流，表情复杂（既窘迫又期待）；无气泡。中格：传教士（引用C9）神情温和建议，气泡语义「把钱给穷人和传教士——声音之岛上的经历不要告诉任何人——这是你们的秘密」；保密图示（嘴唇+锁+金币分配图示）。右格：科欧拉（引用C2）和莱华（引用C3）并排点头，表情遵从。③场景：S1客厅，白天，室内暖光；书架在背景。④光影与色彩：白天暖光；整体「接受建议」平静氛围。⑤主体与角色：逐格角色预算：三格：左格2人，中格3人（传教士主体+二人过肩），右格2人。科欧拉（引用C2）、莱华（引用C3）、传教士（引用C9）均可辨识。"
+    },
+    {
+      "id": "B6-12",
+      "character_refs": [
+        "C9"
+      ],
+      "scene_refs": [
+        "S2"
+      ],
+      "covered_sentences": [
+        "But the missionary went to the police in Honolulu.",
+        "'Be careful,' he told them, 'because Kalamake and Keola made counterfeit money while they were on the Isle of Voices. Keep an eye on them.'"
+      ],
+      "layout": "①构图与镜头：左右二分2:1构图，左主格2/3承载传教士秘密去警察局（背叛揭露），右辅格1/3承载警察们的反应。左主格：镜头从警察局内侧，斜侧，中景，看向传教士（引用C9）站于警察面前低声叮嘱；表情严肃，与之前「建议保密」形成对比。右辅格：镜头从传教士侧方，看向2-3名不可辨识警察仔细聆听，记录气泡。比例锚点：左格：传教士（引用C9）中景，黑色长袍，头顶约及门框1/2；右格：不可辨识警察轮廓约2-3人，在传教士旁。②动作与关系：左主格：传教士（引用C9）低声叮嘱，表情「告密式」，对话气泡语义「小心——卡拉马克和科欧拉在声音之岛上制造了假币——盯紧他们！」；假币图示（美元+警告图标）；与之前「保密」承诺形成视觉反差（保密锁→被打破）。右辅格：不可辨识警察记录（笔记图示），无可辨识面孔。③场景：S2房屋门前（假定）或公共建筑外，白天；传教士独自前往警察局，与科欧拉/莱华无关的新场景。④光影与色彩：白天暖光，但「背叛」感用轻微冷色调叠加传教士角色；整体带有讽刺色彩。⑤主体与角色：逐格角色预算：左格可辨识1人（传教士），右格无可辨识（警察不可辨识）。传教士（引用C9）左格可辨识；科欧拉和莱华不在场。"
+    }
+  ]
+}

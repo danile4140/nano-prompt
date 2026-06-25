@@ -1,0 +1,57 @@
+第 5 章分镜规划（条目 7–12）
+
+**B5-7**（3 句）
+- 分组依据：珍妮向下传报→说斯通先生坐在镜子前、手放在头上→"哦不！！！"（悬念堆积，情绪升温），同一时刻连续汇报节拍
+- 原文：
+  1. "'What's happening?' whispered Paul."
+     译："发生什么了？"保罗低声问。
+  2. "'He's sitting in front of a mirror,' I said softly. 'His hands are on his head. Oh no!!!'"
+     译："他坐在镜子前，"我轻声说，"他的手放在头上。哦不！！！"
+  3. "'What? What?' asked Paul."
+     译："什么？什么？"保罗问。
+
+**B5-8**（2 句）
+- 分组依据：揭露真相——斯通先生是秃头、满头疣（重大戏剧性揭晓：身体残缺），情绪切换（震惊/恶心），高潮节点B类，独立节拍
+- 原文：
+  1. "The teacher was totally bald, and his head was covered with disgusting, brown warts!"
+     译：老师完全秃头，脑袋上布满令人恶心的棕色疣！
+  2. "I felt sick."
+     译：我感到一阵恶心。
+
+**B5-9**（3 句）
+- 分组依据：镜中出现珍妮的倒影→斯通先生发现→珍妮被吓得动弹不得（关键危险节点：被发现），高潮加密，情绪切换（恐惧/预感最坏结果）
+- 原文：
+  1. "Suddenly I noticed my reflection in Mr. Stone's mirror and Mr. Stone noticed it, too!"
+     译：突然，我看到自己的倒影出现在斯通先生的镜子里——斯通先生也看到了！
+  2. "He brusquely turned around and stared at me."
+     译：他猛地转过身，直盯着我看。
+  3. "I was paralysed with fear. My mouth fell open. I was expecting the worst."
+     译：我吓得动弹不得，嘴巴张开，以为最坏的情况要发生了。
+
+**B5-10**（2 句）
+- 分组依据：出乎意料——斯通先生不生气，他看起来很悲伤（情绪反转：预期→出乎意料），触发-转折对（条件B），独立节拍
+- 原文：
+  1. "Instead, Mr. Stone didn't look angry. He actually seemed very sad."
+     译：然而，斯通先生并没有看起来愤怒，他反而显得非常悲伤。
+  2. "He opened the window. 'You students think I'm weird. Come inside. I want to tell you something.'"
+     译：他推开窗户。"你们学生都觉得我奇怪，进来吧，我想告诉你们一些事。"
+
+**B5-11**（3 句）
+- 分组依据：珍妮道歉→斯通先生回应→斯通先生邀请进入（对话来回，≤2回合，同一话题），合并；随后珍妮爬下树
+- 原文：
+  1. "'Uh, Mr. Stone, I'm terribly sorry ...,' I started to say. I was extremely embarrassed."
+     译："呃，斯通先生，我非常抱歉……"我开口说，极度尴尬。
+  2. "'Don't worry. Since you're here, please come in.'"
+     译："没关系，既然你来了，请进吧。"
+  3. "I climbed down the tree."
+     译：我从树上爬了下来。
+
+**B5-12**（3 句）
+- 分组依据：保罗劝珍妮逃跑→珍妮拒绝（触发-拒绝结果，必拆条件B）→珍妮走向前门，保罗跟上（行动决定节拍）；保罗的劝说与珍妮拒绝是必须各独立承载的对话双格
+- 原文：
+  1. "Paul was very nervous. 'Come on, Jenny, let's go away before it's too late!'"
+     译：保罗非常紧张。"来吧，珍妮，趁还来得及我们走吧！"
+  2. "'No, Paul. I'm going in.'"
+     译："不，保罗，我要进去。"
+  3. "'But... ' I went towards Mr. Stone's front door, so Paul followed."
+     译："但……"我走向斯通先生的前门，保罗跟着我。

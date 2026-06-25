@@ -1,0 +1,50 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B3-7",
+      "character_refs": [
+        "C1",
+        "C5"
+      ],
+      "scene_refs": [
+        "S4"
+      ],
+      "covered_sentences": [
+        "'Didn't you notice? Yesterday they were green; today they're amber-coloured!' I answered.",
+        "'Even if his eyes change colour, I still don't believe he's an alien.'",
+        "'But the comet explains everything: it entered the Virgo constellation last week, and Mr. Stone is a new teacher. I talked to Dana's brother, Matt. He said that this is Mr. Stone's first year at Jefferson High. No one knows where he comes from!' I said."
+      ],
+      "layout": "构图与镜头：横排三格对话序列；左格：珍妮（C1）解释眼睛变色事实；中格：保罗（C5）坚持不信（转折回应）；右格：珍妮（C1）抛出彗星证据（宣告性主格）。左格镜头：保罗肩后过肩，近景看向珍妮正面偏侧15°，珍妮面部为主体；中格镜头：珍妮肩后过肩，近中景看向保罗摆手/摇头的表情；右格镜头：低机位斜侧30°仰角，看向珍妮前倾宣告彗星证据的中近景，突出宣告气场。比例锚点：各格近中景，头部约占各格高度1/3；各格有对方肩背前景约占1/6。动作与关系：左格：珍妮（C1）手指伸出比划今昨两天，表情确信，头顶对白气泡（两行：①绿色圆形（昨天绿色）②琥珀黄圆形（今天琥珀色），即颜色对比图示，D1：眼睛图标/颜色变化图示，D2：colour，D3：感叹号）；中格：保罗（C5）摇头，手掌向外推，头顶对白气泡（Alien?+叉号+深蓝色问号，D1：外星人轮廓图标，D3：问号+叉号（否定），表达不相信）；右格：珍妮（C1）前倾激动，头顶计划图示气泡（三行编号：①彗星图标+室女座星座（上周进入）②斯通老师mini_icon——黑发高颧骨尖鼻深色西装+新老师标签③Jefferson High标签+地球+问号（无人知他来自哪里），D1：各行图标，D3：感叹号，承载三条关键证据的宣告）。场景：保罗的卧室（S4）延续；各格通过过肩视角自然受限；下午柔光。光影与色彩：下午柔光，延续上镜；右格宣告格略有暖调加强。主体与角色：逐格角色预算：左格1人（珍妮C1），中格1人（保罗C5），右格1人（珍妮C1）；各格另有对方肩背前景。"
+    },
+    {
+      "id": "B3-8",
+      "character_refs": [
+        "C1",
+        "C5"
+      ],
+      "scene_refs": [
+        "S4"
+      ],
+      "covered_sentences": [
+        "'Maybe' Paul's eyes lit up. 'Maybe that's why he asked us all those personal questions: he wants to study us!'",
+        "'Yes! You see, all clues indicate that he is an alien! So, what can we do?' I asked."
+      ],
+      "layout": "构图与镜头：对话双格，左右两格，1:1等比（保罗灵感闪现+发现=珍妮确认）；左格镜头位于珍妮右肩后方，过肩近景看向保罗眼睛一亮的面部，珍妮肩背前景；右格镜头位于保罗左肩后方，过肩近景看向珍妮激动确认的面部，保罗肩背前景。比例锚点：各格近景，头部约占格子高度1/2；各格有对方肩背前景约占1/6。动作与关系：左格：保罗（C5）眼神从半信半疑转为豁然开朗，推眼镜，嘴略张（灵感闪现），头顶B级符号：黄色小灯泡+短放射线（灵感/计谋图标）；头顶对白气泡（Study!+感叹号，D1：显微镜/研究图标，D2：study，D3：感叹号，承载保罗的新发现）；右格：珍妮（C1）双手拍掌，表情确认激动，头顶对白气泡（Yes!+感叹号，短而有力，D3：感叹号）；旁侧追加计划图示气泡（Alien!+外星人轮廓图标+深蓝色问号，承载珍妮的追问：那我们能做什么？）。场景：保罗的卧室（S4）延续；各格过肩背景仅见书架/电脑角片段；下午柔光。光影与色彩：下午柔光，延续；左格保罗灵感时可有轻微黄色亮光效果（灯泡符号呼应）；右格暖调。主体与角色：逐格角色预算：左格1人（保罗C5），右格1人（珍妮C1），各另有对方肩背前景。【情绪标记】强度：轻，类型：喜悦（发现），推荐视觉手段：保罗眼睛一亮+黄色灯泡B级符号。"
+    },
+    {
+      "id": "B3-9",
+      "character_refs": [
+        "C1",
+        "C5"
+      ],
+      "scene_refs": [
+        "S4"
+      ],
+      "covered_sentences": [
+        "'We can spy on him. Maybe we can follow him to his house. We can see where he lives and what he does at home. However, we must be very careful. He doesn't seem to have emotions. He might get angry if he discovers we suspect him. We'll try to follow him tomorrow, after school, OK?' said Paul.",
+        "The next morning before school, I took Fred out for a walk in the park."
+      ],
+      "layout": "构图与镜头：左右二分构图，2:1比例（左格保罗宣布计划主格占2/3，右格时间跳跃+晨公园铺垫辅格占1/3）；左格镜头位于珍妮右肩后方，过肩近中景看向保罗侧身朝向珍妮宣布计划的姿态，珍妮肩背前景；右格镜头位于公园入口斜侧45°平视，看向珍妮清晨牵弗雷德进入公园的动线中景（时间跳跃到次日晨）。比例锚点：左格：保罗（C5）坐于椅子近中景，头部约占格子高度1/3，珍妮肩背前景；右格：珍妮（C1）站立，头顶约低于背景树冠1/4处，弗雷德（C8）肩高约至珍妮膝盖；右格近景保留参照：地面小路和珍妮腿部作为弗雷德尺度参照。动作与关系：左格：保罗（C5）侧身朝向珍妮，神情认真，手势比划（制定计划），头顶计划图示气泡（内画编号计划图：①斯通老师mini_icon（监视对象）→②房屋图标（跟踪到家）+眼睛图标（观察）③警告符号（要小心）；D1：各行图标，D2：spy/follow，D3：感叹号）；右格：珍妮（C1）清晨牵着弗雷德（C8）沿公园小路走，路径S形动线，背景树木清晨薄雾；右格左上角时间标签Next morning。场景：左格为保罗卧室（S4），延续下午；右格为城市公园（S5），清晨；【环境状态】右格物理场景：城市公园（S5），当前环境：清晨，视觉覆盖：晨雾薄光，草地湿润，树木轮廓清晰，光线柔和偏冷，原因：next morning。光影与色彩：左格下午柔光；右格清晨冷调柔光，薄雾感，草地青绿。主体与角色：逐格角色预算：左格1人（保罗C5），右格2个（珍妮C1+弗雷德C8）；弗雷德（引用C8）在右格首次出现，米黄色短毛，软垂耳朵，肩高约至珍妮膝盖。"
+    }
+  ]
+}

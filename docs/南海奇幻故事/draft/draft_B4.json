@@ -1,0 +1,259 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B4-1",
+      "character_refs": [
+        "C2",
+        "C8"
+      ],
+      "scene_refs": [
+        "S3",
+        "S7"
+      ],
+      "covered_sentences": [
+        "The people of the tribe told Keola about the Isle of Voices.",
+        "The island got its name from the invisible devils that lived on the beach near the sea.",
+        "These invisible devils talked to each other in strange languages.",
+        "Little fires appeared and disappeared on the beach day and night."
+      ],
+      "layout": "①构图与镜头：主画面+云状气泡内场景构图，主格承载科欧拉与酋长的对话场景，云气泡承载声音之岛海滩的神秘现象图示。主格：镜头位于两人侧方，斜侧30°，中景，看向酋长对科欧拉讲述；茅屋在背景。云气泡位于画面右侧，约占1/3，内含S3海滩示意：隐形轮廓（虚线人形+对话气泡）、多语言符号（各种文字图标）、小火苗忽隐忽现图示。比例锚点：主格：科欧拉（引用C2）和酋长（引用C8）对坐，酋长头顶约比科欧拉高约1/4格高度；茅屋屋梁在二人头顶上方；云气泡为图示，无比例要求。②动作与关系：主格：酋长（引用C8）表情神秘严肃，手指朝海滩方向；科欧拉（引用C2）侧耳倾听，表情好奇警惕；对话气泡归属酋长，语义为「这座岛因隐形恶魔得名——它们在海滩上用陌生语言交谈——小火苗日夜忽隐忽现」。云气泡内：虚线轮廓人形（隐形恶魔）+多语言符号（法语/荷兰语等图示）+小火苗图示（闪烁动效感）。③场景：主格S7部落茅屋旁，白天；云气泡内为S3海滩神秘场景图示。④光影与色彩：主格白天暖光；云气泡内偏神秘暗夜感，小火苗有橙光效果；整体氛围神秘。⑤主体与角色：逐格角色预算：主格可辨识2人，云气泡为图示。科欧拉（引用C2）和酋长（引用C8）均可辨识入镜。"
+    },
+    {
+      "id": "B4-2",
+      "character_refs": [
+        "C2",
+        "C8"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "But no one understood why.",
+        "Keola was very surprised to hear this."
+      ],
+      "layout": "①构图与镜头：对话双格构图，左右二分2:1，科欧拉惊讶反应为主导，科欧拉占右主格2/3。左辅格：镜头位于科欧拉过肩，看向酋长侧脸，酋长耸肩表情（无人知晓）。右主格：镜头位于酋长过肩，看向科欧拉惊讶表情，正面偏侧近景。比例锚点：左格：酋长（引用C8）侧脸，科欧拉肩背前景约1/5；右格：科欧拉（引用C2）近景，头部占右格约3/4高度。②动作与关系：左辅格：酋长（引用C8）侧脸，双手摊开耸肩，表情「没人知道」；气泡语义为「没有人明白其中缘由」，配问号+叉号。右主格：科欧拉（引用C2）眼睛大睁，嘴微张，惊讶；B级疑惑图标（深蓝色问号+感叹号）。③场景：S7部落茅屋旁，白天，热带阳光；背景仅见茅屋屋檐边缘。④光影与色彩：白天暖光，惊讶反应用轻微闪光感。⑤主体与角色：逐格角色预算：两格各可辨识2人。科欧拉（引用C2）和酋长（引用C8）均可辨识。【情绪标记】强度：轻，类型：疑惑，推荐视觉手段：眉型变化+B级符号图标（深蓝色问号）。"
+    },
+    {
+      "id": "B4-3",
+      "character_refs": [
+        "C2",
+        "C8"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "'Does this happen on the Green Island too?' asked Keola.",
+        "'No, never,' answered one man. 'It never happens on any other island, only here.'",
+        "'But you mustn't worry because the devils live on the beach near the sea and not at the lagoon.'",
+        "'Remember, the devils won't hurt you if you leave them alone.'"
+      ],
+      "layout": "①构图与镜头：对话双格构图，左右二分2:1，部落人安慰为主导，部落人（酋长）占左主格2/3。左主格：镜头位于科欧拉过肩，看向酋长面部；酋长神情平静安慰，手势指向礁湖方向（安全区）。右辅格：镜头位于酋长过肩，看向科欧拉侧脸；科欧拉表情由担忧转向稍微放心。比例锚点：左格：酋长（引用C8）面部中近景，面部纹身清晰；右格：科欧拉（引用C2）侧脸近景。②动作与关系：左主格：酋长（引用C8）手指向礁湖方向，安慰科欧拉；对话气泡：①「只有这里才有，其他岛没有」，②「恶魔在海滩，礁湖这边安全」，③「别去打扰它们就不会受伤」；简笔地图：礁湖=安全区（绿色），海滩=危险区（红色）。右辅格：科欧拉（引用C2）侧脸，从担忧到半放心，表情仍有余虑。③场景：S7部落茅屋旁，白天，热带阳光；礁湖可见片段在背景左侧。④光影与色彩：白天暖光，安慰氛围柔和。⑤主体与角色：逐格角色预算：左格可辨识2人，右格可辨识2人。酋长（引用C8）和科欧拉（引用C2）均可辨识。"
+    },
+    {
+      "id": "B4-4",
+      "character_refs": [
+        "C2",
+        "C8"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "Keola knew he was safe at the lagoon, but he wanted to do something about the devils.",
+        "One day he went to speak to the chief of the tribe.",
+        "'There was an island that had problems with invisible devils,' Keola told the chief, 'and the people solved it.'",
+        "'How did they do that?' asked the chief."
+      ],
+      "layout": "①构图与镜头：左右二分1:1构图，左格为科欧拉主动去找酋长，右格为科欧拉提出计划。左格：镜头从侧方，中景，看向科欧拉主动走向酋长（酋长坐于茅屋前）；动作感强，科欧拉迈步朝前。右格：镜头位于酋长过肩，看向科欧拉讲述，表情认真自信；酋长侧脸听讲。比例锚点：左格：科欧拉（引用C2）走向酋长（引用C8），酋长坐于地席，站立的科欧拉头顶约及茅屋门框顶端；右格：科欧拉（引用C2）中景站立，酋长背影前景。②动作与关系：左格：科欧拉（引用C2）迈步朝酋长（引用C8）走去，神情主动；表达「他决定主动解决」姿态。右格：科欧拉（引用C2）讲述，手势指向海滩方向；对话气泡语义为「有一座岛解决了隐形恶魔问题」，酋长（引用C8）气泡问「他们是怎么做到的？」。③场景：S7部落茅屋，白天；两格均为茅屋前背景。④光影与色彩：白天暖光，主动出击气氛明亮。⑤主体与角色：逐格角色预算：两格各可辨识2人。科欧拉（引用C2）和酋长（引用C8）两格均可辨识。"
+    },
+    {
+      "id": "B4-5",
+      "character_refs": [
+        "C2",
+        "C8"
+      ],
+      "scene_refs": [
+        "S9"
+      ],
+      "covered_sentences": [
+        "'There was a tree growing in the woods that had magic leaves,' he said, 'and the devils came to get the leaves. So the people of the island cut it down and the devils went away.'",
+        "'What kind of tree was it?' asked the chief.",
+        "Keola showed him the tree with the magic leaves that Kalamake used.",
+        "The chief and other men seemed interested in his plan."
+      ],
+      "layout": "①构图与镜头：左右二分1:1构图，左格为科欧拉在树林中指向魔法树，右格为酋长和众人围观感兴趣。左格：镜头从树林边缘，斜侧，中景，看向科欧拉指向某棵特定大树（有宽叶特征）；树林背景（S9）。右格：镜头从树前方，中景，看向酋长和2-3个部落人围在树旁，面部表情感兴趣。比例锚点：左格：科欧拉（引用C2）站于树前，特定魔法树高约成人身高4倍，树干约成人肩宽2倍；右格：酋长（引用C8）站于树旁，树干可见局部，树干宽约酋长肩宽2倍；2-3不可辨识部落人在旁。②动作与关系：左格：科欧拉（引用C2）手指向魔法树，表情自信解释；对话气泡语义为「就是这棵树！恶魔来取叶子——砍倒它们就离开了」，树叶特写气泡（宽叶图示）。右格：酋长（引用C8）仰视树木，表情感兴趣，摸树干；不可辨识部落人2-3个围观，群体暗示；整体「感兴趣」氛围。③场景：S9声音之岛内陆树林，白天，林间斑驳光；魔法树在树林中可见，林内光线柔和。④光影与色彩：林内斑驳光，整体绿色调；魔法树叶有轻微光晕暗示特殊性。⑤主体与角色：逐格角色预算：左格可辨识1人，右格可辨识1人+不可辨识群体。科欧拉（引用C2）左格可辨识，酋长（引用C8）右格可辨识；其余部落人群体暗示。"
+    },
+    {
+      "id": "B4-6",
+      "character_refs": [
+        "C8"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "Every night the chief and the old men of the tribe talked about his plan, but the chief was afraid.",
+        "'Remember,' said the chief to the other men, 'a chief once threw his spear at one of the voices and that night he fell out of a palm tree and was killed.'",
+        "The men decided to forget Keola's plan."
+      ],
+      "layout": "①构图与镜头：横排3格构图，等宽，「夜间讨论→酋长引用先例→众人放弃」三节拍。左格：镜头从侧方，中景，看向酋长和老人们围坐篝火旁夜间讨论；不可辨识老人们的剪影。中格：镜头位于老人们过肩，看向酋长中近景面部，神情严肃讲述先例；对话气泡。右格：镜头从上方，俯角，看向众人摇头摆手放弃姿态；酋长在中央，众人围绕。比例锚点：左格：酋长（引用C8）坐于篝火旁，篝火高约其膝盖，不可辨识老人剪影在周围；中格：酋长（引用C8）面部中近景，面部纹身清晰；右格：酋长（引用C8）俯视，众人围坐，每人头顶在画面中可见。②动作与关系：左格：夜间讨论氛围，篝火在中央，众人围坐；图示：「每晚讨论」反复图示。中格：酋长（引用C8）严肃，气泡语义为「记住！有个酋长向声音投矛，当晚从棕榈树上摔死了」，配骷髅+棕榈树图示。右格：众人摇头，酋长做出放弃手势；科欧拉计划被叉号覆盖图示（方案放弃）。③场景：S7部落茅屋旁/篝火处，夜晚，篝火光。【环境状态】物理场景S7，当前环境：夜晚，视觉覆盖：篝火橙红光圈，背景深黑，原因：Every night。④光影与色彩：夜间篝火橙红光，周围深黑；氛围严肃带有恐惧。⑤主体与角色：逐格角色预算：左格可辨识1人（酋长，老人不可辨识），中格可辨识1人，右格可辨识1人+不可辨识群体。酋长（引用C8）三格均可辨识入镜；老人们以不可辨识剪影群体暗示。"
+    },
+    {
+      "id": "B4-7",
+      "character_refs": [
+        "C2",
+        "C4"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "Keola began to feel happy with his new life and the things around him.",
+        "He was kind to his wife and she loved him very much.",
+        "But one day he came home and found her on the floor crying.",
+        "'What's the matter, dear?' said Keola softly."
+      ],
+      "layout": "①构图与镜头：左右二分2:1构图，左主格2/3为妻子哭泣+科欧拉发现，右辅格1/3为生活美好的简笔回顾图示。左主格：镜头从茅屋门口，斜侧，中景，看向科欧拉发现妻子伏地哭泣；科欧拉站于门口，妻子在地上。右辅格：图示格，内含生活美好片段：科欧拉+妻子（引用C4）微笑简笔图+「幸福感」图示。比例锚点：左格：科欧拉（引用C2）站于门口，茅屋门框约成人身高；妻子（引用C4）伏于地面，头顶约及科欧拉膝盖高度；右辅格为图示，无比例要求。②动作与关系：左主格：科欧拉（引用C2）站于门口，表情由放松转为担忧；妻子（引用C4）伏于地面哭泣；科欧拉弯腰，气泡语义为「怎么了，亲爱的？」（温柔语气）。右辅格：生活美好图示（夫妻简笔微笑图+心形+茅屋）→对比箭头指向哭泣场景，表达「但好景不长」。③场景：S7部落新茅屋内，白天，室内柔和光；科欧拉站于门口，妻子伏于地席。④光影与色彩：左格白天柔和光，情绪转折感；右辅格图示为明亮简笔色调，与左格形成视觉对比。⑤主体与角色：逐格角色预算：左格可辨识2人，右格为图示。科欧拉（引用C2）和岛上女子（引用C4）左格可辨识。【情绪标记】强度：中，类型：悲伤，推荐视觉手段：妻子伏地哭泣姿态+B级符号图标（暗蓝色泪滴）。"
+    },
+    {
+      "id": "B4-8",
+      "character_refs": [
+        "C2",
+        "C4"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "'Oh, it's nothing, Keola,' she said, crying."
+      ],
+      "layout": "①构图与镜头：单格近景，弱势/危险组织，镜头位于科欧拉侧方低处，仰角，看向妻子侧脸；妻子抬起泪脸，表情强忍秘密，眼含泪光。比例锚点：妻子（引用C4）侧脸近景，头部占画面约2/3高度；眼泪可见，叶裙肩部在画面下方。②动作与关系：岛上女子（引用C4）侧脸，泪眼汪汪，嘴角强扯出一丝笑，话语敷衍；对话气泡语义为「哦，没什么，科欧拉」（但表情显示有话没说）；科欧拉（引用C2）在旁伸手，近景侧影约占画面1/5；「隐瞒秘密」图示：气泡内有一个小小的食人族骷髅图标被她捂住（暗示）。③场景：S7部落新茅屋内，白天，柔和室内光；地席、竹壁在背景。④光影与色彩：柔和室内光，泪眼特写有轻微水光效果；情绪压抑。⑤主体与角色：逐格角色预算：单格可辨识2人（妻子主体+科欧拉侧影）。岛上女子（引用C4）可辨识入镜；科欧拉（引用C2）以侧影局部可辨识。"
+    },
+    {
+      "id": "B4-9",
+      "character_refs": [
+        "C2",
+        "C4"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "The same night she woke him up, and by the low light of the lamp Keola could see her sad face.",
+        "'Keola,' she said softly, 'come very close to me because I must whisper. No one must hear us.'",
+        "Keola moved closer to her and she continued.",
+        "'Two days before we leave the island, go and stay in the woods. We'll choose the place and hide food there. Every night I'll come to the secret place and I'll sing. If you don't hear me singing, it means that we are no longer on the island. Then you can come out of the woods safely.'"
+      ],
+      "layout": "①构图与镜头：单格弱势/危险组织，镜头从茅屋内侧，低机位，看向两人在昏暗灯光下靠近低语；椰壳灯在两人之间，光圈覆盖面部；前景为地席边缘，背景为竹壁深黑。比例锚点：科欧拉（引用C2）和妻子（引用C4）靠近坐于地席，两人头顶约及竹壁中段；椰壳灯直径约妻子手掌宽度；竹壁高约成人身高。②动作与关系：科欧拉（引用C2）俯身靠近妻子，侧耳倾听，表情困惑不安；妻子（引用C4）低声耳语，表情悲伤但坚定，手指外（保密手势）；椰壳灯在二人之间照明。妻子对话气泡（低语气泡）：①「靠近，没人能听见」（手指指向唇部+保密图标），②「离岛前两天去树林躲——我每晚来唱歌——听不到歌声说明我们走了」（路线图示：树林→歌声图标→安全箭头）。③场景：S7部落新茅屋内，深夜，椰壳灯为唯一光源；两人低语，茅屋外静寂。【环境状态】物理场景S7，当前环境：深夜，视觉覆盖：椰壳灯昏暗暖黄，竹壁深黑，静谧低语氛围，原因：The same night。④光影与色彩：极暗夜间，椰壳灯暖黄小光圈覆盖两人面部；周围深黑压迫；「秘密」气氛用低饱和+深阴影强化。【风格调整】触发原因：深夜秘密低语，命运攸关，调整方向：极暗椰壳灯光，深黑压迫，低语保密感，调整范围：本镜。⑤主体与角色：逐格角色预算：单格可辨识2人。科欧拉（引用C2）和岛上女子（引用C4）均可辨识入镜。"
+    },
+    {
+      "id": "B4-10",
+      "character_refs": [
+        "C2",
+        "C4"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "Keola was confused and frightened when he heard this.",
+        "'What's happening?' he cried. 'I can't live among the devils. I don't want to stay on this island alone. I want to leave it.'",
+        "'My poor Keola,' said the girl sadly, 'you'll never leave this island alive.'"
+      ],
+      "layout": "①构图与镜头：对话双格构图，左右二分2:1，被说话方（科欧拉）情绪更重要——恐惧爆发，科欧拉占右主格2/3。左辅格：镜头位于科欧拉过肩，看向妻子悲伤侧脸中近景；妻子表情悲伤痛苦。右主格：镜头位于妻子过肩，看向科欧拉惊慌失措的面部；科欧拉近景，面部充满恐惧。比例锚点：左格：妻子（引用C4）侧脸近景，椰壳灯在其旁侧；右格：科欧拉（引用C2）近景，头部占右格约3/4高度，眼睛大睁惊恐。②动作与关系：左辅格：妻子（引用C4）悲伤侧脸，泪光；气泡语义为「我可怜的科欧拉，你永远无法活着离开这座岛」，语气悲伤；食人族暗示图标（骷髅）隐约可见。右主格：科欧拉（引用C2）惊慌失措，嘴大张，双手无措；爆裂惊叫气泡（「发生了什么！我不能和恶魔住在一起！我要离开！」）；爆裂线+速度线。③场景：S7部落茅屋内，深夜，椰壳灯昏暗；两人靠坐，周围深黑。④光影与色彩：极暗夜间昏黄，科欧拉惊恐情绪有视觉冲击感。【风格调整】触发原因：生死威胁揭露，极度恐惧，调整方向：深黑椰壳灯，科欧拉惊恐爆裂感，调整范围：本镜。⑤主体与角色：逐格角色预算：两格各可辨识2人。科欧拉（引用C2）和岛上女子（引用C4）均可辨识。【情绪标记】强度：强，类型：惊吓/恐惧，推荐视觉手段：速度线+爆裂线+科欧拉极度惊恐表情+高级氛围装饰（深黑压迫）。"
+    },
+    {
+      "id": "B4-11",
+      "character_refs": [
+        "C4"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "You see, my people are cannibals: they eat men.",
+        "They have always eaten men!",
+        "But this is a secret."
+      ],
+      "layout": "①构图与镜头：单格中心聚焦组织，身份揭晓高潮加密。镜头位于妻子正面，正面偏右10°，近景特写，看向妻子的悲伤眼神和颤动嘴唇；画面以妻子面部为绝对中心；后景极度虚化，仅见椰壳灯光圈边缘。比例锚点：妻子（引用C4）近景，面部填满画面约3/4高度，眼泪和微颤表情清晰可见；椰壳灯光圈只在画面边缘隐约露出，无其他环境元素。②动作与关系：妻子（引用C4）面部特写，表情极度悲伤且坚定；嘴唇微动，气泡语义为「我的族人是食人族——他们吃人——他们一直都在吃人——但这是个秘密」；食人族揭秘气泡（骷髅+人形+「!」）以特写方式呈现；科欧拉不在画面内（离画）。③场景：S7部落茅屋内，深夜，椰壳灯为唯一光源；背景完全虚化，只见暖黄光圈。④光影与色彩：极暗夜间，椰壳灯暖黄近距离照射，面部明暗对比极强；揭秘高潮用强光暗影对比强化。【风格调整】触发原因：食人族身份揭晓，叙事高潮，调整方向：近距离暖黄强光，背景极暗，高对比度面部特写，调整范围：本镜。⑤主体与角色：逐格角色预算：单格可辨识1人。岛上女子（引用C4）可辨识入镜；科欧拉离画。【情绪标记】强度：强，类型：恐惧（传递感），推荐视觉手段：高级氛围装饰（近距离暖黄强光+极暗背景+面部微颤）。"
+    },
+    {
+      "id": "B4-12",
+      "character_refs": [
+        "C2",
+        "C4"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "They'll eat you before we leave. Oh, my poor Keola, I love you very much, but I can't take you to the Green Island.",
+        "Keola was terrified. Every part of his body trembled.",
+        "He knew about cannibals in the South Sea Islands and this always frightened him. He heard from travellers that cannibals took good care of the man they wanted to eat. Now he understood why he had a new hut, a wife, and lots of good food, and he never worked."
+      ],
+      "layout": "①构图与镜头：左右二分2:1构图，左主格2/3承载科欧拉颤抖恐惧的反应，右辅格1/3承载「一切都说得通了」的回顾图示。左主格：镜头位于妻子过肩，看向科欧拉颤抖的面部近景；科欧拉面色苍白，全身颤抖感。右辅格：云状气泡图示格，内含：新茅屋+美食+妻子（引用C4简笔）→箭头→食人族骷髅，语义为「原来如此——一切都是为了吃我」。比例锚点：左格：科欧拉（引用C2）近景，头部占左格约2/3高度；右格为云状气泡图示，无比例要求。②动作与关系：左主格：科欧拉（引用C2）全身颤抖，表情极度恐惧白化；妻子（引用C4）在前景过肩，气泡语义为「他们会在我们离开前吃掉你——我爱你——但我无法带你离开」；科欧拉表情震惊难以置信。右辅格：云状思维气泡内：新茅屋/美食/妻子的「好待遇」→箭头→「原来是为了养肥再吃！」；爆裂图标（真相揭晓感）。③场景：S7部落茅屋内，深夜，椰壳灯昏黄；两人靠坐。④光影与色彩：极暗夜间椰壳灯光；科欧拉面部苍白化（惊恐颜色效果）。【风格调整】触发原因：科欧拉知道自己将被吃掉，极度恐惧，调整方向：苍白光效，深黑压迫，颤抖视觉感，调整范围：本镜。⑤主体与角色：逐格角色预算：左格可辨识2人（科欧拉主体+妻子过肩），右格为图示。科欧拉（引用C2）和岛上女子（引用C4）左格均可辨识。【情绪标记】强度：强，类型：恐惧，推荐视觉手段：高级氛围装饰（苍白光效，全身颤抖感，深黑压迫）。"
+    },
+    {
+      "id": "B4-13",
+      "character_refs": [
+        "C2"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "He lay on his bed and thought about his terrible future.",
+        "The next day the people of the tribe were kind and friendly, as they always were."
+      ],
+      "layout": "①构图与镜头：左右二分1:1构图，左格为夜间科欧拉绝望躺卧，右格为次日部落人友好（表面）。左格：镜头从低机位，看向科欧拉侧躺于地席，眼睛睁开望向黑暗；椰壳灯在旁边发出微弱光。右格：镜头从科欧拉视角（主观视角），看向部落人友好微笑的不可辨识面孔；构图倾斜，暗示科欧拉内心不安。比例锚点：左格：科欧拉（引用C2）侧躺，头顶约与椰壳灯齐平，灯光直径约科欧拉头部大小；右格：不可辨识部落人面部，轮廓模糊，构图倾斜感。②动作与关系：左格：科欧拉（引用C2）侧躺，眼睛望向黑暗，表情极度悲伤；云状气泡：骷髅+自己简笔+时间沙漏（「可怕的未来」）；无力感，绝望姿态。右格：不可辨识部落人「友好微笑」——笑容越大越感到恐惧；没有气泡，纯视觉恐惧感（科欧拉的主观视角，部落人的白牙清晰可见）。③场景：左格S7茅屋内，深夜，椰壳灯昏暗；右格S7茅屋外，白天，热带暖光但主观恐惧色调。【环境状态】左格：深夜昏暗；右格：The next day，白天正常光，原因：The next day the people were kind。④光影与色彩：左格极暗夜间；右格白天暖光但有轻微冷白失真感（科欧拉主观恐惧滤镜）。⑤主体与角色：逐格角色预算：左格可辨识1人，右格无可辨识角色（部落人不可辨识）。科欧拉（引用C2）左格可辨识；部落人以不可辨识群体轮廓暗示。【情绪标记】强度：中，类型：恐惧/悲伤，推荐视觉手段：夸张绝望躺姿+B级符号图标（暗蓝色泪滴）。"
+    },
+    {
+      "id": "B4-14",
+      "character_refs": [
+        "C2"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "They spoke politely and made beautiful poetry, and they told funny stories at meals.",
+        "But Keola did not care about this, all he could see were the white teeth in their mouths and he felt sick.",
+        "When they finished eating he went to his hut and lay down like a dead man.",
+        "The next day everything was the same."
+      ],
+      "layout": "①构图与镜头：左右二分2:1构图，左主格2/3承载进餐场景+科欧拉的恐惧视角，右辅格1/3承载科欧拉独自趴倒。左主格：镜头从科欧拉视角（稍仰角），看向一张进餐的脸（特写不可辨识）——嘴里的白牙最显眼；周围有欢快气氛（部落人笑声图示）但对科欧拉来说是噩梦。右辅格：镜头从茅屋内侧，中景，看向科欧拉像死人一样趴倒在地席。比例锚点：左格：不可辨识部落人进餐的嘴部特写，白牙占画面约1/3；右格：科欧拉（引用C2）趴倒，头顶约及茅屋竹壁第二格竹竿。②动作与关系：左主格：进餐场景，不可辨识部落人嘴部（白牙特写），欢快气氛图示（笑声波纹/诗歌图标）；但科欧拉的主观视角：白牙和食物图示→食人族骷髅图示，恶心感（恶心漩涡图标）。右辅格：科欧拉（引用C2）完全趴倒，无力姿态，「如死人般」；无气泡，静默绝望。③场景：S7茅屋或户外用餐区，白天；右格S7茅屋内，白天。④光影与色彩：左格白天暖光但科欧拉视角有轻微冷白失真；右格正常柔和光，趴倒的孤独感。⑤主体与角色：逐格角色预算：左格无可辨识角色（部落人嘴部不可辨识），右格可辨识1人。科欧拉（引用C2）右格可辨识；部落人以不可辨识嘴部特写暗示。【情绪标记】强度：中，类型：恐惧，推荐视觉手段：白牙特写主观视角+科欧拉恶心颤抖+B级符号图标（恶心/恐惧）。"
+    },
+    {
+      "id": "B4-15",
+      "character_refs": [
+        "C2",
+        "C4"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "His wife followed him.",
+        "'Keola,' she said, 'you must eat, or you'll be killed and cooked tomorrow. The old chiefs say you're ill and you'll get thin.'",
+        "Keola got up and looked at his wife."
+      ],
+      "layout": "①构图与镜头：横排3格序列条构图，等宽，「妻子跟来→妻子警告→科欧拉起身」三步。左格：镜头从茅屋侧面，中景，看向妻子从外走入，科欧拉仍趴在地席；妻子（引用C4）在门口俯视科欧拉。中格：镜头位于科欧拉过肩，中近景，看向妻子近距离警告；妻子面部，表情严肃。右格：镜头从侧面，中景，看向科欧拉从地席缓慢起身，视线与妻子相交。比例锚点：左格：妻子（引用C4）站立，科欧拉（引用C2）趴倒，妻子头顶约及门框；中格：妻子（引用C4）面部中近景，占画面约2/3高度；右格：科欧拉（引用C2）起身，身高约及妻子头顶以上。②动作与关系：左格：妻子（引用C4）弯腰俯视科欧拉，表情紧迫；科欧拉（引用C2）趴卧，无力。中格：妻子（引用C4）严肃警告，气泡语义为「你必须吃东西，否则明天你就会被杀——老酋长说你病了」；骷髅+厨具图示（「被杀烹煮」）；生死紧迫感。右格：科欧拉（引用C2）缓慢起身，视线与妻子相遇；表情复杂（决意？）。③场景：S7部落茅屋内，白天，柔和室内光；茅屋内部竹壁和地席在背景。④光影与色彩：白天柔和光，但紧迫感升温；中格妻子警告有强调光。⑤主体与角色：逐格角色预算：三格各可辨识2人。科欧拉（引用C2）和岛上女子（引用C4）三格均可辨识入镜。【情绪标记】强度：强，类型：恐惧，推荐视觉手段：妻子严肃警告表情+骷髅图示+科欧拉生死紧迫感。"
+    },
+    {
+      "id": "B4-16",
+      "character_refs": [
+        "C2",
+        "C4"
+      ],
+      "scene_refs": [
+        "S7"
+      ],
+      "covered_sentences": [
+        "'I don't care,' he said angrily. 'If I must die, I'll die the quickest way. Let the devils eat me and not the men. Goodbye.'",
+        "He turned around and started walking to the other side of the island."
+      ],
+      "layout": "①构图与镜头：左右二分2:1构图，左辅格1/3承载科欧拉愤然向妻子道别，右主格2/3承载科欧拉决然走向岛的另一侧。左辅格：镜头位于妻子过肩，看向科欧拉正面，表情愤然决绝。右主格：镜头位于科欧拉斜后方，中景，看向科欧拉背对镜头大步走向岛的另一侧（海滩方向）；背景为岛内道路延伸向远处。比例锚点：左格：科欧拉（引用C2）正面，妻子肩背前景约1/5；右格：科欧拉（引用C2）背影，头顶约及椰树叶层1/4高度，椰树高约成人身高4倍；道路向远处延伸。②动作与关系：左辅格：科欧拉（引用C2）表情愤怒决绝，气泡语义为「我不在乎——让恶魔来吃我吧——再见！」；妻子（引用C4）伸手，担忧。右主格：科欧拉（引用C2）大步迈向岛的另一侧（海滩方向），速度线表达坚定步伐；道路图示引导视线向画面深处；无气泡，纯动作。③场景：S7茅屋旁→岛内道路，白天，热带阳光；左格茅屋门口，右格开阔道路延伸向岛的另一侧。④光影与色彩：白天强光，科欧拉迈向光明但走向危险；整体色调明亮但情绪决绝。⑤主体与角色：逐格角色预算：左格可辨识2人，右格可辨识1人（科欧拉）。科欧拉（引用C2）和岛上女子（引用C4）左格均可辨识；右格科欧拉背影可辨识。【情绪标记】强度：强，类型：愤怒，推荐视觉手段：速度线+决绝步伐+科欧拉愤怒表情+「再见」爆裂气泡。"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B6-7",
+      "character_refs": [
+        "C1b",
+        "C30"
+      ],
+      "scene_refs": [
+        "S8"
+      ],
+      "covered_sentences": [
+        "The boy ran as fast as possible to the shop.",
+        "I will send it to Bob Cratchit, Scrooge said. Ha, ha! He will not know who sent it!",
+        "And he wrote Bob address on a piece of paper."
+      ],
+      "layout": "构图与镜头：左右二分构图，比例1:2（左格辅格：男孩飞速跑向肉铺；右格主格：斯克鲁奇秘密写地址，面露得意）。左格：镜头位于街道侧方低机位，看向男孩（引用C30）飞速奔跑向肉铺，身后5道速度线；右格：镜头位于起居室内，中近景，看向斯克鲁奇（引用C1b）伏案写地址，面露得意笑容。比例锚点：左格男孩全身约占画面高度50%，身后速度线，街道建筑为参照，男孩头顶约在街道建筑门框高度的1/3处；右格斯克鲁奇伏案，头顶约与茶几上物品等高，桌面约在其腰部。\n\n动作与关系：左格：买火鸡的街头男孩（引用C30）全速奔跑，双腿大步，身后5道速度线；右格：斯克鲁奇（引用C1b）伏案写纸条，面露得意大笑，头顶对白气泡内容抽取Bob Cratchit（D级物品图标：鲍勃mini_icon头像：深棕短发，圆脸，褪色深蓝旧外套，旧礼帽+橙红色感叹号，承载要秘密送给鲍勃）；附B级符号：黄色小灯泡+粉红色爱心（秘密好事的得意）。\n\n场景：左格：城市街道（引用S8），圣诞清晨；右格：斯克鲁奇的起居室（圣诞清晨觉醒变体）（引用S15），圣诞清晨。\n\n光影与色彩：左格圣诞清晨阳光明亮，速度线欢快；右格温暖室内光，斯克鲁奇面露得意。\n\n主体与角色：逐格角色预算：左格可辨识1人——买火鸡的街头男孩（引用C30）；右格可辨识1人——斯克鲁奇（引用C1b），伏案写纸条，桌面约在其腰部。"
+    },
+    {
+      "id": "B6-8",
+      "character_refs": [
+        "C1b",
+        "C30"
+      ],
+      "scene_refs": [
+        "S15",
+        "S8"
+      ],
+      "covered_sentences": [
+        "When the butcher man arrived with the enormous turkey, Scrooge told him to call a cab.",
+        "He paid for the turkey and the cab, and he gave the boy half-a-crown. He was laughing all the time.",
+        "Then he put on his coat and walked along the street."
+      ],
+      "layout": "构图与镜头：横排三格构图，等宽三格承载火鸡送出序列。左格：肉铺伙计带着巨大火鸡到来；中格：斯克鲁奇付钱给男孩半克朗；右格：斯克鲁奇穿上外套走上街道。左格：镜头位于门口，中景，看向不可辨识肉铺伙计抱着巨大火鸡到来，斯克鲁奇（引用C1b）在门口接待；中格：镜头位于门口，中近景，看向斯克鲁奇递给男孩（引用C30）半克朗；右格：镜头位于街道侧方，中景，看向斯克鲁奇穿着深灰外套走上街道，面露灿烂笑容。比例锚点：左格巨大火鸡约在肉铺伙计腰部高度，肉铺伙计（不可辨识）全身约占画面高度60%；中格斯克鲁奇（引用C1b）半身和男孩（引用C30）全身，男孩头顶约在斯克鲁奇腰部，近景保留参照：门口边缘；右格斯克鲁奇全身约占画面高度65%，街道建筑为参照，头顶约与建筑门框等高。\n\n动作与关系：左格：不可辨识肉铺伙计抱着巨大火鸡（D级物品图标：大火鸡轮廓），斯克鲁奇（引用C1b）面露满足大笑；中格：斯克鲁奇（引用C1b）将半克朗递给男孩（引用C30），男孩面露惊喜，附A级氛围：AURA-BEAUTY-2（物体周身柔化金箔碎光点点，暖黄光晕轻笼），承载赠予礼物的温暖；右格：斯克鲁奇（引用C1b）穿上深灰外套和高顶礼帽，拿着手杖走上街道，面露灿烂笑容，身后留下行走路径。\n\n场景：左中格：斯克鲁奇的起居室（圣诞清晨觉醒变体）（引用S15）门口；右格：城市街道（引用S8），圣诞清晨，阳光明亮。\n\n光影与色彩：整体圣诞清晨阳光明亮，温暖欢快，AURA-BEAUTY-2于中格。\n\n主体与角色：逐格角色预算：左格可辨识1人——斯克鲁奇（引用C1b），肉铺伙计为不可辨识；中格可辨识2人——斯克鲁奇（引用C1b）+买火鸡的街头男孩（引用C30），男孩头顶约在斯克鲁奇腰部，近景保留参照：门口边缘；右格可辨识1人——斯克鲁奇（引用C1b），建筑门框约与其头顶等高。"
+    },
+    {
+      "id": "B6-9",
+      "character_refs": [
+        "C1b"
+      ],
+      "scene_refs": [
+        "S8"
+      ],
+      "covered_sentences": [
+        "He looked at all the people with a happy smile.",
+        "Good morning! people said to him. A Merry Christmas to you! And Scrooge answered in the same way."
+      ],
+      "layout": "构图与镜头：单格构图，建立空间组织（新的斯克鲁奇与世界的关系）。镜头位于街道侧方，中景斜侧30度，看向斯克鲁奇（引用C1b）走在街道上，满脸微笑，不可辨识路人主动打招呼；前景：街道石板路面；中景：斯克鲁奇和路人的互动；后景：街道建筑和节日气氛。比例锚点：斯克鲁奇（引用C1b）全身约占画面高度60%，街道建筑约为其身高的2倍，不可辨识路人约与斯克鲁奇同等身高；路人们与斯克鲁奇保持友好互动距离。\n\n动作与关系：斯克鲁奇（引用C1b）面露灿烂笑容，目光看向路人，黑色手杖轻放，走姿轻快；不可辨识路人群体（男女老幼）与斯克鲁奇互动打招呼；各路人头顶对白气泡内容抽取Merry Christmas（圣诞树轮廓+橙红色感叹号）；斯克鲁奇头顶也有对白气泡内容抽取Merry Christmas（圣诞树轮廓+橙红色感叹号）；附A级氛围：AURA-BEAUTY-1（细碎鎏金星芒光点），承载新斯克鲁奇的光辉形象。\n\n场景：城市街道（引用S8），圣诞日，阳光明亮，欢快节日氛围。\n\n光影与色彩：圣诞清晨阳光明亮，节日欢快，AURA-BEAUTY-1效果，整体温暖喜悦。\n\n主体与角色：逐格角色预算：主画面可辨识1人——斯克鲁奇（引用C1b），改变后的斯克鲁奇，面露灿烂笑容，高顶黑礼帽，深灰色长外套，黑色手杖，轻快走姿；不可辨识路人群体为群体暗示；街道建筑约为斯克鲁奇身高的2倍。"
+    },
+    {
+      "id": "B6-10",
+      "character_refs": [
+        "C1b",
+        "C5",
+        "C6"
+      ],
+      "scene_refs": [
+        "S8"
+      ],
+      "covered_sentences": [
+        "Ah, there are the two gentlemen who were asking for money in my office yesterday, he said. How do you do, my dear sirs! A Merry Christmas to you!",
+        "Mr Scrooge? asked one of them."
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例2:1（左格斯克鲁奇主格，热情主动上前打招呼；右格绅士们辅格，惊讶反应）。左格：镜头位于斯克鲁奇正前方，中近景，看向斯克鲁奇面部，面露热情；右格：镜头位于斯克鲁奇左肩后，过肩视角，中景，看向两位绅士惊讶的面部。条件D（阶段性场景边界）：从路人打招呼→特定目标交涉，新叙事节拍。比例锚点：左格斯克鲁奇面部约占画面高度70%；右格绅士甲（引用C5）和绅士乙（引用C6）均约占画面高度55%，两人肥胖圆润并排，街道建筑为后景。\n\n动作与关系：左格：斯克鲁奇（引用C1b）面露热情喜悦，右手微抬打招呼，头顶对白气泡内容抽取Merry Christmas（圣诞树轮廓+橙红色感叹号）；右格：绅士甲（引用C5）和绅士乙（引用C6）均面露惊讶，绅士甲头顶对白气泡内容抽取Scrooge（斯克鲁奇mini_icon头像+深蓝色问号，承载You are Mr Scrooge的惊讶）。\n\n场景：城市街道（引用S8），圣诞日，阳光明亮，节日气氛。\n\n光影与色彩：圣诞清晨阳光明亮，温暖欢快。\n\n主体与角色：逐格角色预算：左格可辨识1人——斯克鲁奇（引用C1b）；右格可辨识2人——绅士甲（引用C5）+绅士乙（引用C6），街道建筑约为人物身高的2倍。"
+    },
+    {
+      "id": "B6-11",
+      "character_refs": [
+        "C1b",
+        "C5"
+      ],
+      "scene_refs": [
+        "S8"
+      ],
+      "covered_sentences": [
+        "Yes. That is my name and perhaps you do not like me. Please excuse me for yesterday. Listen...",
+        "Scrooge spoke quietly in the man ear. Are you serious, Mr Scrooge? The man was very surprised. Of course. Can you do me that favour?",
+        "My dear Scrooge, that is very generous! I do not know what to say to thank you. Do not say anything. Come and see me tomorrow. I will give it to you then. All right?"
+      ],
+      "layout": "构图与镜头：单格构图，道具/关键细节组织（斯克鲁奇在绅士耳边悄声承诺大额捐款）。镜头位于两人侧方，中近景，看向斯克鲁奇（引用C1b）附身凑近绅士甲（引用C5）耳边轻声说话的姿态，绅士甲面露极度惊讶。前景：无；中景：斯克鲁奇和绅士甲互动；后景：街道建筑一角。比例锚点：斯克鲁奇和绅士甲同框，斯克鲁奇略高，绅士甲（引用C5）肥胖圆润，体型明显圆润，两人头顶相近约与街道建筑门框等高。\n\n动作与关系：斯克鲁奇（引用C1b）俯身凑近绅士甲（引用C5）耳边，右手遮口，悄声说话；绅士甲面露极度惊讶，瞪大眼睛，附B级符号：橙红色感叹号+黄色小灯泡（惊讶+理解）；斯克鲁奇附B级符号：粉红色爱心（慷慨之举）；结束后绅士甲头顶对白气泡内容抽取generous（绿色对号+橙红色感叹号，承载generous的赞叹）；斯克鲁奇头顶对白气泡内容抽取tomorrow（D级物品图标：日历轮廓，承载明天来拿钱）。附A级氛围：AURA-BEAUTY-1（细碎鎏金星芒光点），承载慷慨之举的温暖光辉。\n\n场景：城市街道（引用S8），圣诞日，阳光明亮，慷慨之举节拍。\n\n光影与色彩：圣诞清晨阳光明亮，AURA-BEAUTY-1温暖光辉。\n\n主体与角色：逐格角色预算：主画面可辨识2人——斯克鲁奇（引用C1b）+绅士甲（引用C5），两人头顶约与街道建筑门框等高，绑士甲体型肥胖圆润明显比斯克鲁奇宽。"
+    },
+    {
+      "id": "B6-12",
+      "character_refs": [
+        "C1b"
+      ],
+      "scene_refs": [
+        "S8"
+      ],
+      "covered_sentences": [
+        "Then Scrooge continued walking. He watched the people, he kissed little children, he played with some dogs, he looked at everything with love, and he felt very happy.",
+        "In the afternoon he went to his nephew house."
+      ],
+      "layout": "构图与镜头：单格构图，路径/S形动线组织（新的斯克鲁奇与世界互动）。镜头位于街道侧方，中景斜侧30度，看向斯克鲁奇（引用C1b）在街道上与人互动——亲吻孩子、与狗玩耍、向人微笑，路径从近处延伸至远处；画面充满欢乐节日氛围。比例锚点：斯克鲁奇（引用C1b）全身约占画面高度60%，街道建筑约为其身高的2倍；不可辨识孩子在其腰部高度；小狗约在其脚踝处；远处弗雷德家（引用S10方向）可见。\n\n动作与关系：斯克鲁奇（引用C1b）走在街道上，依次与不可辨识小孩（脸颊亲吻���态）和小狗（低身抚摸姿态）互动，面露灿烂笑容；附A级氛围：AURA-CHARM（身后鎏金流光粒子拖尾），承载新斯克鲁奇的光辉形象；附B级符号：粉红色爱心+橙红色感叹号；画面右后方有路牌简笔画指向弗雷德家方向（计划图示：去侄子家吃饭），承载In the afternoon he went to his nephew house。\n\n场景：城市街道（引用S8），圣诞日午后，阳光明亮，欢快节日。\n\n光影与色彩：圣诞午后阳光明亮，温暖橙黄，AURA-CHARM效果，整体欢快喜悦。\n\n主体与角色：逐格角色预算：主画面可辨识1人——斯克鲁奇（引用C1b）；不可辨识孩子和小狗为群体暗示，不计入可辨识人物；斯克鲁奇约与街道建筑门框同高。"
+    }
+  ]
+}

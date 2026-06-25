@@ -1,0 +1,72 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B3-7",
+      "character_refs": ["C2"],
+      "scene_refs": ["S6"],
+      "covered_sentences": [
+        "The sea pushed him into a big lagoon where he could see thousands of shiny stars.",
+        "There were palm trees all around him.",
+        "The next morning Keola looked everywhere but he could not find anyone."
+      ],
+      "layout": "①构图与镜头：左右二分1:1构图，左格为夜间礁湖星空（到达），右格为清晨空岛寻找（孤独）。左格：镜头位于礁湖水面，斜侧，中景，看向科欧拉在礁湖中游泳，头部出水，背景为满天繁星和四周棕榈剪影；水面反映星光。右格：镜头位于废旧茅屋S6前，斜侧30°，中景，看向科欧拉四处张望，背景为空旷礁湖边。比例锚点：左格：科欧拉（引用C2）仅露出头肩，头部约等于礁湖水面波纹高度3倍；棕榈树高约成人身高4-5倍，剪影在背景；右格：科欧拉（引用C2）站立，茅屋屋顶高约成人身高1.2倍，椰树在背景更高。②动作与关系：左格：科欧拉（引用C2）游泳着陆，头部出水，眼神惊喜望向星空；水面波纹动态。右格：科欧拉（引用C2）站于空旷礁湖边，四处张望，无一人；表情从好奇转向孤独；无气泡，静默表达孤独。③场景：左格礁湖区域（近S6），夜晚，繁星满天，椰树倒影在水面；右格S6礁湖边废旧茅屋群，清晨，柔和晨光。【环境状态】左格：夜晚冷蓝星光；右格：清晨柔和日出光，原因：The next morning。④光影与色彩：左格冷蓝星光+水面银色反光，梦幻感；右格清晨柔和暖光，空旷感。⑤主体与角色：逐格角色预算：两格各可辨识1人。科欧拉（引用C2）两格均可辨识入镜。"
+    },
+    {
+      "id": "B3-8",
+      "character_refs": ["C2"],
+      "scene_refs": ["S6"],
+      "covered_sentences": [
+        "He only found some old huts and he made his home there.",
+        "He fished and cooked his fish over the fire.",
+        "He climbed the tall palm trees and got green coconuts.",
+        "He drank their milk because there was no water on the island."
+      ],
+      "layout": "①构图与镜头：2×2四格网格，展示独居生活的四个日常动作。左上格：镜头从茅屋正面斜侧，中景，看向科欧拉在破旧茅屋前安置。右上格：镜头从火堆侧面，中景，看向科欧拉烤鱼，火焰在中央。左下格：镜头从地面仰角，看向科欧拉攀爬棕榈树；树干在左侧，科欧拉身体在树干上攀登。右下格：镜头从茅屋内，中近景，看向科欧拉仰头饮椰汁，椰子在手中。比例锚点：左上格：科欧拉（引用C2）站于茅屋前，茅屋屋顶约成人身高1.2倍；右上格：科欧拉（引用C2）坐于火堆前，火焰高约成人膝盖；左下格：科欧拉（引用C2）在树干上，棕榈树高约成人身高5倍，科欧拉位于树干中段；右下格：科欧拉（引用C2）中近景，椰子直径约其头部大小1/2。②动作与关系：左上格：科欧拉（引用C2）整理茅屋，推开破旧门板，表情坦然接受；无气泡。右上格：科欧拉（引用C2）坐于火堆前翻烤鱼，鱼钩/鱼在旁边；自给自足感。左下格：科欧拉（引用C2）手脚并用攀爬棕榈树，动作有力；树顶椰子可见。右下格：科欧拉（引用C2）仰头饮椰汁，表情满足微闭眼；椰汁滴落图示。③场景：全部S6礁湖边废旧茅屋，白天，晴天热带光；四格分别呈现茅屋/火堆/树干/茅屋内部局部。④光影与色彩：白天热带强光，整体色调明亮；各格主体清晰，生活感真实。⑤主体与角色：逐格角色预算：四格各可辨识1人。科欧拉（引用C2）四格均可辨识入镜。"
+    },
+    {
+      "id": "B3-9",
+      "character_refs": ["C2"],
+      "scene_refs": ["S6"],
+      "covered_sentences": [
+        "The days were long and the nights were very frightening.",
+        "He made a lamp from a coconut shell, and in the evening he sat in his hut, lit his lamp and trembled until morning.",
+        "'Oh, I'm very unhappy and afraid,' he often thought."
+      ],
+      "layout": "①构图与镜头：单格弱势/危险组织，近景压缩，镜头位于茅屋内正面偏侧15°，中近景，看向科欧拉蜷缩坐于茅屋地铺，椰壳灯在其前方；茅屋内部昏暗，门口隐约透入黑夜。比例锚点：科欧拉（引用C2）坐于地铺，头顶约及茅屋屋梁高度的2/3，椰壳灯直径约其掌宽；茅屋门口高约成人身高，黑夜在门口可见。②动作与关系：科欧拉（引用C2）蜷缩于地铺，双臂抱膝，身体微微颤抖；椰壳灯点亮，发出暖黄小光圈；表情恐惧悲伤，眼神空洞朝向黑暗门口；思维云气泡从其头部延伸，语义为「我很不幸福，我很害怕」，配悲伤图标（泪珠+叹号）。③场景：S6废旧茅屋内部，深夜，椰壳灯为唯一光源；茅屋外黑暗，虫鸣/风声的视觉暗示（如茅草颤动）可见。【环境状态】物理场景S6，当前环境：深夜，视觉覆盖：椰壳灯暖黄小光圈，茅屋内部昏暗深黑，门口只见漆黑，原因：the nights were very frightening，trembled until morning。④光影与色彩：极暗夜间，椰壳灯暖黄小光圈是唯一光源；周围深黑压迫，科欧拉面部一侧受光一侧在阴影中；整体孤独恐惧感强。【风格调整】触发原因：深夜恐惧独居，调整方向：极暗，椰壳灯小光圈，深黑压迫，调整范围：本镜。⑤主体与角色：逐格角色预算：单格可辨识1人。科欧拉（引用C2）可辨识入镜。【情绪标记】强度：中，类型：恐惧/悲伤，推荐视觉手段：夸张恐惧颤抖姿态+B级符号图标（暗蓝色泪滴/惊悚线）。"
+    },
+    {
+      "id": "B3-10",
+      "character_refs": ["C2"],
+      "scene_refs": ["S3", "S6"],
+      "covered_sentences": [
+        "All this time he lived in his hut near the lagoon and the palms. One day he went to the beach near the sea but he did not like the bright sand, the shiny shells and the hot sun.",
+        "He looked around and was amazed.",
+        "'How is this possible?' he thought. 'This is like Kalamake's beach. Perhaps white men don't know everything about sailing. We probably sailed in a circle and I'm near Molokai. Is this the beach where Kalamake gets his dollars?'",
+        "The thought frightened him, and he decided not to go to the beach again."
+      ],
+      "layout": "①构图与镜头：左右二分2:1构图，左主格2/3承载科欧拉在S3海滩震惊认出，右辅格1/3承载他转身决定不再来。左主格：镜头位于科欧拉正前方，斜侧30°，中景，看向他站于闪亮贝壳沙滩震惊四顾；背景为S3标志性白沙和贝壳，海面在后方。右辅格：镜头从身后，中景，看向科欧拉背对海滩迈步离开，面向礁湖方向。比例锚点：左格：科欧拉（引用C2）站立，头顶约及背景椰树第一叶层高度1/4；贝壳在地面，单枚约脚掌大小；右格：科欧拉（引用C2）背影，茅屋区域在远景。②动作与关系：左主格：科欧拉（引用C2）震惊站立，双手摊开，眼睛大睁；大型云状气泡，内含：①卡拉马克简笔+海滩图示+问号「这是卡拉马克的海滩？」，②航行路线图简笔「绕圈航行」，③美元+贝壳图示「就是这里！」；恐惧感。右辅格：科欧拉（引用C2）背对海滩迈步，「下定决心」姿态，思维气泡语义为「再也不来这片海滩」，配叉号+海滩图标。③场景：左格S3声音之岛海滩，白天，强烈日光；右格S6礁湖边，白天。④光影与色彩：左格白天强光，沙滩刺眼；科欧拉恐惧感用轻微冷白光晕叠加；右格正常白天暖光，离开感。【风格调整】触发原因：认出魔法海滩，极度恐惧，调整方向：左格叠加轻微冷白光晕，恐惧感，调整范围：左格。⑤主体与角色：逐格角色预算：左格可辨识1人，右格可辨识1人。科欧拉（引用C2）两格均可辨识入镜。【情绪标记】强度：强，类型：惊吓/恐惧，推荐视觉手段：速度线+夸张震惊张嘴表情+冷白光晕叠加。"
+    },
+    {
+      "id": "B3-11",
+      "character_refs": ["C2", "C8"],
+      "scene_refs": ["S6", "S7"],
+      "covered_sentences": [
+        "About a month later some boats arrived.",
+        "The people looked friendly and spoke a different language, but many of the words were the same as Hawaiian, so it was easy to understand.",
+        "The men behaved in a polite way and the women were friendly.",
+        "They were very kind to Keola and built him a new hut."
+      ],
+      "layout": "①构图与镜头：左右二分1:1构图，左格为部落船只抵达礁湖，右格为新茅屋建造完成+科欧拉接受友待。左格：镜头从礁湖岸边，中景，看向数艘部落小船从礁湖驶入，部落人站于船头；背景为礁湖水面和椰树。右格：镜头从S7新茅屋正面，斜侧30°，中景，看向科欧拉站于新茅屋前，部落人在周围；酋长（引用C8）在右侧。比例锚点：左格：部落船只长约成人身高2倍，部落人站立约及船舷高度1.5倍；右格：科欧拉（引用C2）站于新茅屋前，茅屋屋顶高约成人身高1.3倍；部落酋长（引用C8）比科欧拉略高，旁边椰树可见高度参照。②动作与关系：左格：数艘部落小船驶入，不可辨识部落人站于船头，手势友好示意；背景部落群体以不可辨识群体暗示（2-3人全貌，其余为轮廓）。右格：科欧拉（引用C2）站于新茅屋前，表情惊讶但谨慎；部落酋长（引用C8）在侧方，手示意茅屋方向，友好姿态；不可辨识部落人在背景暗示建造完成场景。③场景：左格礁湖边（近S6），白天；右格S7部落新茅屋，白天，新鲜棕榈叶屋顶。④光影与色彩：白天热带暖光，部落人友好氛围；整体色调明亮温暖，但科欧拉内心谨慎（表情暗示）。⑤主体与角色：逐格角色预算：左格可辨识0-1人（部落人不可辨识），右格可辨识2人。科欧拉（引用C2）和部落酋长（引用C8）右格可辨识；部落其余人以群体暗示。"
+    },
+    {
+      "id": "B3-12",
+      "character_refs": ["C2", "C4"],
+      "scene_refs": ["S7"],
+      "covered_sentences": [
+        "He was surprised because they never sent him to work with the other men. They even gave him a wife.",
+        "When Keola realized that his new wife was the same girl he saw on the island the first time, he began to get worried."
+      ],
+      "layout": "①构图与镜头：必拆充要条件B——左右二分2:1构图，左辅格1/3承载「被给了妻子」的事实，右主格2/3承载科欧拉认出她后的震惊。左辅格：镜头从侧方，中景，看向岛上女子（引用C4）站于科欧拉身前，部落酋长在一旁介绍；科欧拉表情初步惊讶。右主格：镜头位于科欧拉正前方，正面偏左15°，中近景，看向科欧拉震惊认出女子的表情；岛上女子在画面右侧侧身可见。比例锚点：左格：岛上女子（引用C4）站立，头顶约及科欧拉（引用C2）肩部；右格：科欧拉中近景，面部占右格约2/3高度；岛上女子（引用C4）侧身在右侧，叶裙可见。②动作与关系：左辅格：酋长（仅见手势，不可辨识入镜）介绍；岛上女子（引用C4）站立，表情平和；科欧拉（引用C2）初步惊讶。右主格：科欧拉（引用C2）突然认出她，眼睛大睁，表情由惊讶转为担忧警觉；爆裂认出气泡（闪光感）；岛上女子（引用C4）在旁侧身，不知情表情；科欧拉思维气泡：叶裙女子简笔+树林场景，语义为「就是树林里的她！」。③场景：S7部落新茅屋旁，白天，热带阳光；茅屋在背景，地面为白沙。④光影与色彩：白天暖光，右主格有认出闪光感（轻微光点效果）。⑤主体与角色：逐格角色预算：左格可辨识2人，右格可辨识2人。科欧拉（引用C2）和岛上女子（引用C4）两格均可辨识；酋长以手势暗示不可辨识。【情绪标记】强度：强，类型：惊吓，推荐视觉手段：速度线+爆裂认出气泡+科欧拉震惊大睁眼。"
+    }
+  ]
+}

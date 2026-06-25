@@ -1,0 +1,79 @@
+**B2-13**（6 句）
+- 分组依据：Fogg 宣布出发计划的完整独白——宣告时间、记录日期、宣布回程时间、宣布赌注后果，同一说话者连续宣告，无情绪/话题/空间/时间切换（整体为宣告节拍）。已扫描 5 对相邻句，四维度均无切换，保留 6 句豁免。
+- 原文：
+  1. "'Good."
+     译："好。
+  2. "I'll take the train for Dover at a quarter to nine this evening."
+     译：今晚差一刻九点我将乘火车去多佛。
+  3. "The bet starts as from…' Phileas Fogg took a small notebook and pencil from his pocket and made a note:"
+     译：赌注从……开始——"菲利斯·福格从口袋里掏出一个小笔记本和铅笔，记下：
+  4. "2 October, 8:45p.m."
+     译：10 月 2 日，晚上 8 点 45 分。
+  5. "'And I will return here to the Reform Club at eight forty-five on Saturday 21 December."
+     译："我将在 12 月 21 日，星期六，晚上八点四十五分回到改革俱乐部。
+  6. "If I am not here by that time, this cheque for twenty thousand pounds is yours, gentlemen.'"
+     译：如果我届时未能到场，这张两万英镑的支票就是各位的了，先生们。"
+
+---
+
+**B2-14**（1 句）
+- 分组依据：Fogg 将支票放在桌上、拿起帽子、离开，是高潮收尾的离场动作，与前一镜的"宣告"存在动作节点切换（宣告→行动/离场），是独立的叙事动作节拍。
+- 原文：
+  1. "And with these words he left the cheque for twenty thousand pounds on the table, picked up his hat and went out of the door."
+     译：说完这些话，他把两万英镑的支票留在桌上，拿起帽子，走出了门。
+
+---
+
+**B2-15**（1 句）
+- 分组依据：场景跳切——时间跳跃到"差十分八点"的家中，Passepartout 惊讶看到雇主归来，是新场景新时间新事件，必须独立分镜。
+- 原文：
+  1. "At ten to eight his manservant was surprised to see his new employer come through the door."
+     译：差十分八点，仆从惊讶地看到他的新雇主走进了门。
+
+---
+
+**B2-16**（5 句）
+- 分组依据：Fogg 下令出发的连续指令，同一说话者连续陈述（句 1-4 Fogg 说话，句 5 是叙述补充），话题统一（出发命令与行程告知）。已扫描 4 对相邻句，四维度均无切换，保留 5 句豁免。
+- 原文：
+  1. "'Passepartout, we're leaving in ten minutes."
+     译："路路通，我们十分钟后出发。
+  2. "We're taking a train to Dover,' he said."
+     译：我们要坐火车去多佛，"他说道。
+  3. "'From there, a boat leaves for Calais at eleven o'clock tonight."
+     译："从那里，今晚十一点有一艘船开往加来。
+  4. "We're going to go around the world – in eighty days."
+     译：我们要去环游世界——八十天内。
+  5. "We haven't another second to lose.'"
+     译：我们一秒钟也不能耽误。"
+
+---
+
+**B2-17**（3 句）
+- 分组依据：叙述者描述 Fogg 下达命令时的态度——不慌不忙、平静如常，3 句连续描述同一主体同一特质，无切换，是对 Fogg 状态的独立叙述节拍。
+- 原文：
+  1. "His employer did not seem to be in a hurry."
+     译：他的雇主看起来一点也不着急。
+  2. "The opposite in fact."
+     译：恰恰相反。
+  3. "He spoke a little quicker, but he behaved in the same calm way."
+     译：他说话稍微快了一点，但举止依旧平静如常。
+
+---
+
+**B2-18**（6 句）
+- 分组依据：Passepartout 内心震惊的心理独白——惊呼"环游世界？"→ 懊恼"当初还以为找到了完美工作"→ 反问"这怎么可能是安静的生活？"。同一心理状态（震惊/懊恼），同一内部视角，6 句连续心理流，已扫描 5 对相邻句，四维度均无切换，保留 6 句豁免。
+- 原文：
+  1. "'Around the world?' said Passepartout to himself."
+     译："环游世界？"路路通自言自语道。
+  2. "'Well really!' he thought, shaking his head."
+     译："哎，真是的！"他边想边摇着头。
+  3. "Just when he finally thought he had the perfect job."
+     译：就在他终于以为找到了完美工作的时候。
+  4. "He wanted to work for Phileas Fogg because he was a gentleman who lived a quiet life, who always did the same things."
+     译：他之所以想为菲利斯·福格工作，是因为他是一位过着安静生活、每天做同样事情的绅士。
+  5. "And now?"
+     译：而现在呢？
+  6. "How could this be a quiet life?"
+     译：这怎么可能是安静的生活？
+
+---

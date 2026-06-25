@@ -1,0 +1,61 @@
+**B8-13**（4 句）
+- 分组依据：女巫看银鞋微笑（行为）+ 连续解释魔法银鞋并给出施法指令（同一说话方连续台词），同一焦点（女巫+银鞋）、同一情绪基调（温暖揭示），无场景/时间/空间/情绪切换；已扫描 3 对相邻句，四维度均无切换，保留
+- 原文：
+  1. She looks at Dorothy's silver shoes and smiles.
+     译：她看了看多萝西的银色鞋子，微笑起来。
+  2. "Your silver shoes are magic," she says.
+     译："你的银色鞋子是有魔力的，"她说。
+  3. "They can take you home.
+     译："它们能带你回家。
+  4. First close your eyes, then click your heels three times and say, 'Take me home to Kansas!'"
+     译：先闭上眼睛，然后把脚跟碰三下，说'带我回堪萨斯的家！'"
+
+**B8-14**（1 句）
+- 分组依据：Dorothy 高兴接受（说话方切换回 Dorothy），情绪转变为喜悦，是 B8-13 魔法揭示的接受反应，§4 条件 B 触发-转折（女巫给出方法→Dorothy 接受），必须独立成镜
+- 原文：
+  1. "That's easy!" says Dorothy happily, "Thank you!"
+     译："这太简单了！"多萝西高兴地说，"谢谢你！"
+
+**B8-15**（6 句）
+- 分组依据：女巫问及朋友愿望，三位朋友依次独立表态（§4 条件 A），女巫总结回应，同一场景同一话题（愿望表达），6 句达上限，§3b 第二层上限内，多格承载多角色表态
+- 原文：
+  1. "And what about your friends?" says the Good Witch, "What do they want?"
+     译："那你的朋友们呢？"善良女巫说，"他们想要什么？"
+  2. "I'm a clever Scarecrow and I want to rule the Emerald City," says the Scarecrow.
+     译："我是一个聪明的稻草人，我想统治翡翠城，"稻草人说。
+  3. "I have a kind heart," says the Tin Woodman, "I want to rule the Land of the Winkies because the Wicked Witch of the West is dead."
+     译："我有一颗善良的心，"铁皮樵夫说，"我想统治温基之地，因为西方邪恶女巫已经死了。"
+  4. "I am a courageous lion," says the Lion, "I want to be the King of the Forest."
+     译："我是一头勇敢的狮子，"狮子说，"我想成为森林之王。"
+  5. "Good," says the Good Witch.
+     译："好，"善良女巫说。
+  6. "You can all have what you want."
+     译："你们每个人都能得到自己想要的。"
+
+**B8-16**（4 句）
+- 分组依据：情感高潮——幸福时刻宣告+Dorothy 吻别三位朋友+互道再见，同一情感基调（告别喜悦），同一场景，§5 情感高潮 D 类（情感高潮），多格承载告别时刻
+- 原文：
+  1. This is a happy moment for everyone.
+     译：这对所有人来说都是一个幸福的时刻。
+  2. Dorothy kisses the Scarecrow, the Tin Woodman and the Lion.
+     译：多萝西亲吻了稻草人、铁皮樵夫和狮子。
+  3. "Goodbye, my dear friends!" she says.
+     译："再见了，我亲爱的朋友们！"她说。
+  4. "Goodbye, Dorothy, and thank you!" her friends say.
+     译："再见，多萝西，谢谢你！"她的朋友们说。
+
+**B8-17**（2 句）
+- 分组依据：Dorothy 施法——拿起托托+闭眼，踢脚跟三次说咒语，§4 条件 C 执行链（①抱起托托②闭眼③踢脚跟+说咒语，3 步相互依赖），多格承载施法步骤
+- 原文：
+  1. She picks Toto up and closes her eyes.
+     译：她抱起托托，闭上了眼睛。
+  2. Then she clicks her heels three times and says, "Take me home to Kansas!"
+     译：然后她把脚跟碰了三下，说道："带我回堪萨斯的家！"
+
+**B8-18**（2 句）
+- 分组依据：戏剧性高潮事件——强风突现+被吹上天飞翔，§5 物理高潮 C 类，新戏剧性事件（魔法生效），连续动作同一节拍
+- 原文：
+  1. Suddenly there is a strong wind.
+     译：突然刮起了一阵强风。
+  2. It blows her and Toto into the sky and they fly and fly.
+     译：风把她和托托吹上了天空，她们飞呀飞呀。

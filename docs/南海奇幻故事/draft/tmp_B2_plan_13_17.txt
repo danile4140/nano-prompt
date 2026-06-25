@@ -1,0 +1,73 @@
+**B2-13**（2 句）
+- 分组依据：必拆充要条件B（触发-转折因果链）——卡拉马克嘲讽科欧拉想要手风琴（结算）→站起来说"我要下船了"，这是从嘲讽到行动的情绪节拍转折，独立分镜
+- 原文：
+  1. "Keola sat in front of him and screamed with terror."
+     译：科欧拉坐在他面前，吓得大叫。
+  2. "'And now,' said the wizard, 'what do you think about the concertina? Or perhaps you want a flute? Well, I must get out of this little boat now; I'm too big for it.'"
+     译："现在，"巫师说，"你怎么看那把手风琴？或者你想要一支笛子？好了，我必须离开这艘小船了，我已经大到装不下了。"
+
+**B2-14**（4 句）
+- 分组依据：卡拉马克跳入海中继续生长、双手粉碎小船、科欧拉落海——这是变身高潮的核心戏剧事件，同一节拍内的连续灾难行动
+- 原文：
+  1. "Kalamake stood up and jumped into the sea, and he continued growing."
+     译：卡拉马克站起身跳入海中，继续膨胀生长。
+  2. "He stood in the deep sea and his head and shoulders were like an island."
+     译：他屹立在深海中，头颅与双肩宛如一座小岛。
+  3. "He was huge and frightening. He took Pili's boat in his hand and broke it into pieces and Keola fell into the deep, rough sea."
+     译：他巨大而可怖。他一手抓起皮利的船，将它摔成碎片，科欧拉跌入深沉汹涌的大海。
+  4. "'I'm taking the lantern with me,' said the wizard, 'because I must walk a very long way to get to the island. Ah, I can feel the bones under my feet.'"
+     译："我带走灯笼，"巫师说，"因为我要走很长的路才能到达岛上。啊，我能感觉到脚下的骸骨。"
+
+**B2-15**（2 句）
+- 分组依据：卡拉马克远去的视觉定格——科欧拉目睹巫师举灯远去消失于黑夜。与B2-14分属两个叙事节拍（毁船→消失），情绪从恐惧/落海转向孤立无援的绝望
+- 原文：
+  1. "Kalamake turned and walked away with big steps."
+     译：卡拉马克转身，迈着大步走去。
+  2. "Keola watched him disappear in the night, holding the lantern above his head."
+     译：科欧拉目送他举着灯笼消失在黑夜中。
+
+**B2-16**（4 句）
+- 分组依据：同一节拍——科欧拉在海中挣扎游泳、听见船上呼声、大喊求救、被人拉出水面。这是一个"濒死→获救"节拍，连续动作，情绪从绝望转向得救
+- 原文：
+  1. "Keola was terrified and began swimming, but he did not know where he was going."
+     译：科欧拉惊恐万分，开始游泳，但他不知道该往哪里游。
+  2. "Suddenly he heard the voices of men on a big ship."
+     译：突然他听见一艘大船上传来人声。
+  3. "'Help!' he cried loudly. 'Help!'"
+     译："救命！"他大声喊道，"救命！"
+  4. "The men on the ship heard him and pulled him out of the water."
+     译：船上的人听见了他的呼救，把他从水中拉了上来。
+
+**B2-17**（3 句）
+- 分组依据：同一节拍——船员给食物衣物，科欧拉决定留在船上工作。这是获救后的新状态节拍，情绪从得救转向"决定留在船上"（决策时刻）
+- 原文：
+  1. "They gave him food, water and dry clothes."
+     译：他们给了他食物、清水和干衣服。
+  2. "He did not want to return to Hawaii because he did not want to see Kalamake again, so he decided to work on the ship."
+     译：他不想回夏威夷，因为他不想再见到卡拉马克，所以他决定在船上工作。
+
+---
+
+**最终汇总**：
+
+| 分镜ID | 句数 |
+|--------|------|
+| B2-1   | 4    |
+| B2-2   | 4    |
+| B2-3   | 4    |
+| B2-4   | 2    |
+| B2-5   | 4    |
+| B2-6   | 2    |
+| B2-7   | 3    |
+| B2-8   | 4    |
+| B2-9   | 4    |
+| B2-10  | 3    |
+| B2-11  | 4    |
+| B2-12  | 4    |
+| B2-13  | 2    |
+| B2-14  | 4    |
+| B2-15  | 2    |
+| B2-16  | 4    |
+| B2-17  | 2    |
+
+共 **17** 条分镜

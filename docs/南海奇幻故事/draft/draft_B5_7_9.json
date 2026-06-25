@@ -1,0 +1,50 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B5-7",
+      "character_refs": [
+        "C2"
+      ],
+      "scene_refs": [
+        "S3"
+      ],
+      "covered_sentences": [
+        "'But the invisible voices continue talking, and their voices are angry.' He looked around.",
+        "'They're not angry at me,' thought Keola, 'because they pass in front of me.'",
+        "Keola started running with the voices."
+      ],
+      "layout": "①构图与镜头：单格路径动线组织，镜头位于科欧拉侧后方，中景，科欧拉开始奔跑，方向朝向树林；声音波纹弧线方向引导视线，路径从沙滩延伸向树林。比例锚点：科欧拉（引用C2）奔跑，头顶约及椰树叶层1/5高度，路径延伸向远处树林边缘。②动作与关系：科欧拉（引用C2）奔跑，表情由困惑转向决定跟随；声音波纹从他面前飞过（表达「不是对着他的」），科欧拉的奔跑路径顺着波纹方向（树林）；思维气泡：「声音不是对着我的！」→奔跑图示（跟随声音）。③场景：S3声音之岛海滩，清晨，柔和晨光；奔跑路径从沙滩延伸向S9树林边缘方向。④光影与色彩：清晨柔和光；科欧拉奔跑有动态速度线；整体情绪从困惑转向行动。⑤主体与角色：逐格角色预算：单格可辨识1人。科欧拉（引用C2）可辨识入镜。"
+    },
+    {
+      "id": "B5-8",
+      "character_refs": [
+        "C2"
+      ],
+      "scene_refs": [
+        "S9"
+      ],
+      "covered_sentences": [
+        "He ran from one part of the island to the other.",
+        "He remembered that the wizard's favourite trees grew together in one part of the woods.",
+        "At that place there was a great noise of screaming men.",
+        "Soon he could hear the noise of axes and loud, screaming voices."
+      ],
+      "layout": "①构图与镜头：横排3格序列条构图，「跨岛奔跑→记起→到达听见」三步。左格：镜头从岛屿路径侧面，中景，科欧拉奔跑跨越岛屿；S形路径动线表达穿越岛屿的移动。中格：镜头从侧方，中近景，科欧拉停步，表情忽想起什么；云状气泡内有魔法树简笔图（「巫师最爱的树在树林某处」）。右格：镜头从树林外侧，中景，科欧拉站于S9树林边缘，表情震惊；背景传来声音波纹和砍击感图示（斧头轮廓）。比例锚点：左格：科欧拉（引用C2）奔跑，岛屿道路在其脚下，椰树高约成人身高4倍；中格：科欧拉（引用C2）停步，中近景，头顶约及画面上方1/3；右格：科欧拉（引用C2）站于树林边，树干粗壮在其旁，树干宽约肩宽。②动作与关系：左格：科欧拉（引用C2）跑步穿越岛屿，速度线；中格：科欧拉（引用C2）停步，云气泡回忆魔法树位置；右格：科欧拉（引用C2）站立，双手握拳靠近耳朵（听声音姿态），声音波纹+斧头轮廓图示在背景。③场景：左中格为岛屿路径/S3边缘，右格为S9树林边缘；全部白天，清晨转白天。④光影与色彩：白天热带光；右格树林边有斑驳光，紧张氛围。⑤主体与角色：逐格角色预算：三格各可辨识1人。科欧拉（引用C2）三格均可辨识。"
+    },
+    {
+      "id": "B5-9",
+      "character_refs": [
+        "C2"
+      ],
+      "scene_refs": [
+        "S9"
+      ],
+      "covered_sentences": [
+        "'Perhaps the chief has decided to cut down the magic trees,' he thought, 'and now the wizards and the devils are angry and are trying to defend their trees.'",
+        "He wanted to see what was happening.",
+        "He walked across the beach, got to the woods and stopped, he was amazed."
+      ],
+      "layout": "①构图与镜头：单格心理/想象组织，镜头位于科欧拉侧方，中景，科欧拉站于树林入口边缘，表情惊愕停步；云状思维气泡在左上方承载推理。比例锚点：科欧拉（引用C2）站立，树林入口树干在其旁，树干高约成人身高4倍，树干直径约其肩宽1.5倍。②动作与关系：科欧拉（引用C2）站于树林入口，表情从推理到惊愕定格；云状思维气泡：酋长简笔+砍树图示（「也许酋长决定砍魔法树了」）+恶魔虚影愤怒图示（「巫师恶魔在愤怒护树」）；科欧拉身体前倾，准备走进树林，表情「想去看看」。③场景：S9声音之岛内陆树林入口，白天，林内斑驳光；树林入口可见树干和树冠。④光影与色彩：树林边缘光线转暗，斑驳感；整体紧张期待氛围。⑤主体与角色：逐格角色预算：单格可辨识1人。科欧拉（引用C2）可辨识入镜。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "project": "八十天环游世界",
+  "test_scene_base": "一位身着礼服的高挑绅士和一位卷发活泼的年轻仆人并肩站在蒸汽轮船甲板上，仆人兴奋地指向远处的异域港口城市，海风吹动礼帽，背景是湛蓝大海和白云",
+  "styles": [
+    {
+      "id": "A",
+      "name": "皮克斯3D动画插画风",
+      "description": "皮克斯电影的3D动画插画质感，角色造型生动可爱，表情丰富细腻；环境细节充沛，从船舷到远处港口都有电影级精致光影。整体洋溢出家庭冒险动画的轻快气息，色彩饱和温暖，让两个性格迥异的旅行搭档活灵活现。",
+      "test_scene_prompt": "An elegant English gentleman in a top hat and a lively curly-haired young servant stand side by side on a steamship deck, the servant pointing excitedly at a distant exotic port city, sea wind tugging at their hats, blue ocean and bright clouds in background — Pixar-style 3D rendered illustration, expressive animated character design, soft warm cinematic lighting, rich detailed environment, vibrant saturated colors, family adventure animation aesthetic, joyful mood, crisp render quality"
+    },
+    {
+      "id": "B",
+      "name": "Art Nouveau旅行海报风",
+      "description": "19世纪末欧洲旅行海报的装饰插画风格，流畅有机的线条勾勒人物与场景，配色采用宝石绿、深蓝与金黄的复古组合；带精美装饰边框，如一张古典航运公司广告。这种风格与故事的维多利亚时代背景完美契合，优雅而充满冒险感。",
+      "test_scene_prompt": "An elegant English gentleman in a top hat and a lively curly-haired young servant stand side by side on a steamship deck, the servant pointing excitedly at a distant exotic port city, sea wind tugging at their hats, blue ocean and bright clouds in background — Art Nouveau travel poster illustration, flowing organic decorative lines, jewel green and deep navy with warm gold accents, ornate botanical border frame, flat stylized graphic design, vintage Belle Epoque shipping advertisement aesthetic, elegant adventurous mood"
+    },
+    {
+      "id": "C",
+      "name": "复古英国儿童书插画风",
+      "description": "E.H.Shepard（小熊维尼原版插画师）式的复古英国儿童书插画，细腻钢笔线描搭配淡彩，带手绘温度；角色造型亲切自然，细节丰富但笔触轻盈。整体散发出英国经典儿童文学插图特有的温雅气息，与故事的英国绅士气质高度契合。",
+      "test_scene_prompt": "An elegant English gentleman in a top hat and a lively curly-haired young servant stand side by side on a steamship deck, the servant pointing excitedly at a distant exotic port city, sea wind tugging at their hats, blue ocean and bright clouds in background — E.H. Shepard-inspired vintage English children's book illustration, fine pen line work with light watercolor wash, warm gentle color palette, charming naturalistic character design, classic British children's literature illustration quality, delicate hand-drawn warmth"
+    },
+    {
+      "id": "D",
+      "name": "Q版蒸汽朋克卡通风",
+      "description": "Q版卡通比例结合蒸汽朋克机械美学，角色头大身小表情夸张可爱；场景点缀铜齿轮、蒸汽管道和气压表等道具细节。主色调以铜棕、暗金与蒸汽蓝搭配，既保留了维多利亚时代感，又充满奇幻机械趣味，低龄小朋友一眼就喜欢。",
+      "test_scene_prompt": "An elegant English gentleman in a top hat and a lively curly-haired young servant stand side by side on a steamship deck, the servant pointing excitedly at a distant exotic port city, sea wind tugging at their hats, blue ocean and bright clouds in background — chibi Q-version cartoon style with steampunk mechanical aesthetics, adorable big-head small-body proportions, exaggerated cheerful facial expressions, decorative copper gears and steam pipes details, warm copper bronze and steam blue color palette, playful Victorian adventure cartoon energy"
+    }
+  ]
+}

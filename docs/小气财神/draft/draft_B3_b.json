@@ -1,0 +1,104 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B3-7",
+      "character_refs": [
+        "C1",
+        "C7"
+      ],
+      "scene_refs": [
+        "S4"
+      ],
+      "covered_sentences": [
+        "'Yes, I am,' the visitor replied in a quiet voice.",
+        "'Who and what are you?'",
+        "'I am the Ghost of Christmas Past.'",
+        "'Whose past?'",
+        "'Your past.'",
+        "'Why are you here?'"
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例1:1。左格：镜头位于圣诞过去之灵右肩后，过肩视角，中近景，看向斯克鲁奇正面，背景仅露卧室一角；右格：镜头位于斯克鲁奇左肩后，反打视角，中近景，看向圣诞过去之灵面部。比例锚点：左格斯克鲁奇坐于床上，面部占画面高度约65%，床架在左格边缘可见；右格圣诞过去之灵面部约占画面高度60%，白色光晕在其周围。\n\n动作与关系：左格：斯克鲁奇（引用C1）坐于床上，面露好奇困惑，头顶对白气泡内容从covered_sentences抽取\"Who are you?\"（深蓝色问号）；右格：圣诞过去之灵（引用C7）面露温柔，头顶对白气泡内容从covered_sentences抽取\"Christmas Past.\"（D级物品图标：时钟轮廓+向左箭头，承载\"往年\"语义）。已扫描5对相邻句，四维度均无切换（同一话题：幽灵身份确认），保留。\n\n场景：斯克鲁奇的卧室兼起居室（引用S4），深夜，圣诞过去之灵自发白光，极暗背景。\n\n光影与色彩：左格斯克鲁奇被白光照亮；右格圣诞过去之灵自发柔和白金光晕。\n\n主体与角色：逐格角色预算：左格可辨识1人——斯克鲁奇（引用C1）；右格可辨识1人——圣诞过去之灵（引用C7），娇小，白色长发，白色花纹长袍，绿色冬青枝。"
+    },
+    {
+      "id": "B3-8",
+      "character_refs": [
+        "C1",
+        "C7"
+      ],
+      "scene_refs": [
+        "S4"
+      ],
+      "covered_sentences": [
+        "'To help you.'",
+        "'I thank you,' Scrooge said. 'If you want to help me, let me sleep.'",
+        "'Get up and walk with me,' said the Spirit, and it took his arm.",
+        "Scrooge wanted to say that it was late, the weather was very cold, and his bed was warm.",
+        "But the Spirit took him to the window.",
+        "'No, I'll fall!' Scrooge said."
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例1:1。左格：镜头位于圣诞过去之灵右肩后，过肩视角，中近景，看向斯克鲁奇面部，斯克鲁奇被拉起来；右格：镜头位于窗口处，中景，看向圣诞过去之灵拉着斯克鲁奇走向窗口，斯克鲁奇面露不情愿恐惧。比例锚点：左格斯克鲁奇面部占画面高度约65%；右格圣诞过去之灵头顶约在斯克鲁奇腰部，两人同框，圣诞过去之灵拉着斯克鲁奇的手。\n\n动作与关系：左格：斯克鲁奇（引用C1）面露困惑不情愿，头顶对白气泡内容从covered_sentences抽取\"sleep!\"（D级物品图标：小ZZZ图标+深蓝色问号）；右格：圣诞过去之灵（引用C7）拉着斯克鲁奇手臂走向窗口，斯克鲁奇脚步后退，面露惊恐，头顶对白气泡内容从covered_sentences抽取\"fall!\"（橙红色感叹号+向下箭头，表达会摔落的恐惧）。已扫描5对相邻句，四维度均无切换（同一话题：不情愿跟随），保留。\n\n场景：斯克鲁奇的卧室兼起居室（引用S4），深夜，窗口处，圣诞过去之灵白光晕。\n\n光影与色彩：圣诞过去之灵白金光晕，窗外极暗。\n\n主体与角色：逐格角色预算：左格可辨识1人——斯克鲁奇（引用C1）；右格可辨识2人——圣诞过去之灵（引用C7）拉着斯克鲁奇（引用C1），圣诞过去之灵头顶约在斯克鲁奇腰部，窗框高于斯克鲁奇约半头。【情绪标记】强度：中，类型：恐惧，推荐视觉手段：斯克鲁奇浅蓝色水滴图标，脚步后退。"
+    },
+    {
+      "id": "B3-9",
+      "character_refs": [
+        "C1",
+        "C7"
+      ],
+      "scene_refs": [
+        "S4"
+      ],
+      "covered_sentences": [
+        "The Spirit put its hand on his heart. 'If I touch you here, you won't fall,' it said.",
+        "Then they went through the wall, and suddenly they were standing on a road in the country.",
+        "There was snow in the fields."
+      ],
+      "layout": "构图与镜头：左右二分构图，比例1:2（左格辅格圣诞过去之灵触碰心脏，右格主格穿墙后出现在雪野）。左格：镜头位于两人正面，中近景，平视，聚焦圣诞过去之灵的手放在斯克鲁奇心口的动作（关键触碰道具特写）；右格：镜头位于乡村道路侧方，中景斜侧30度，看向两人突然站在积雪原野上（空间骤变）。条件B（触发-转折）：触碰心脏（触发）→穿墙传送（转折），两格必拆合法。比例锚点：左格圣诞过去之灵的手放在斯克鲁奇胸口，两人高度差可见，圣诞过去之灵头顶约在斯克鲁奇腰部；右格两人站于雪地，背景为开阔田野，天际线可见，斯克鲁奇头顶约占画面高度60%。\n\n动作与关系：左格：圣诞过去之灵（引用C7）右手放在斯克鲁奇胸口，头顶对白气泡内容从covered_sentences抽取\"fall\"（D级物品图标：向下箭头+红色叉号，承载\"不会摔落\"否定语义）；右格：斯克鲁奇（引用C1）和圣诞过去之灵（引用C7）突然站于雪地乡村道路，两人均面露惊讶，背景从极暗卧室骤变为雪白田野，A级氛围：AURA-DREAM（柔白棉絮云边缘，淡金色光斑零星点缀）。\n\n场景：左格：斯克鲁奇的卧室兼起居室（引用S4），窗口处；右格：乡村道路，冬日白天，积雪田野，开阔天际线。【环境状态】物理场景右格：乡村道路，当前环境：白天，积雪覆盖，视觉覆盖：冷白天光，雪地反光，开阔空间，原因：suddenly they were standing on a road in the country / snow in the fields。\n\n光影与色彩：左格昏暗卧室光；右格白天冷光雪地，开阔明亮，与前镜极暗形成强对比。\n\n主体与角色：逐格角色预算：左格可辨识2人——斯克鲁奇（引用C1）+圣诞过去之灵（引用C7）；右格可辨识2人——斯克鲁奇（引用C1）+圣诞过去之灵（引用C7），圣诞过去之灵头顶约在斯克鲁奇腰部高度。"
+    },
+    {
+      "id": "B3-10",
+      "character_refs": [
+        "C1",
+        "C7"
+      ],
+      "scene_refs": [],
+      "covered_sentences": [
+        "'Good Heavens!' Scrooge cried. 'This is where I was born! I was a boy here!'",
+        "And he remembered all his old feelings about the place.",
+        "'Your lip is trembling,' said the Ghost. 'Are you crying?'",
+        "'No, no...' answered Scrooge. But a tear fell from his eye."
+      ],
+      "layout": "构图与镜头：2×2网格构图（叙事高潮D类情感高潮，4格）。左上格：斯克鲁奇认出故乡，惊喜叫出；右上格：圣诞过去之灵观察斯克鲁奇嘴唇颤抖；左下格：斯克鲁奇否认哭泣，面露矛盾；右下格：特写泪水从斯克鲁奇眼眶滑落（关键道具情感细节）。比例锚点：各格均为中近景，斯克鲁奇面部在各格占画面高度约60-70%；右下格泪水特写，面部填满画面约80%。\n\n动作与关系：左上格：斯克鲁奇（引用C1）双臂展开，面露惊喜，头顶对白气泡内容从covered_sentences抽取\"born!\"（橙红色感叹号+D级物品图标：房屋轮廓简笔画）；右上格：圣诞过去之灵（引用C7）侧对斯克鲁奇，面露关切，头顶对白气泡内容从covered_sentences抽取\"crying?\"（深蓝色问号）；左下格：斯克鲁奇面部矛盾，嘴唇颤抖，头顶对白气泡内容从covered_sentences抽取\"No, no...\"；右下格：斯克鲁奇面部特写，一滴泪从眼眶滑下，附A级氛围：AURA-BEAUTY-1（周身萦绕细碎鎏金星芒光点），承载情感高潮。\n\n场景：乡村道路附近，冬日白天，积雪，故乡田野；圣诞过去之灵白光晕。\n\n光影与色彩：冷白天光，雪地反光，斯克鲁奇情感高潮，AURA-BEAUTY-1效果于右下格。\n\n主体与角色：逐格角色预算：左上格可辨识1人——斯克鲁奇（引用C1）；右上格可辨识2人——斯克鲁奇（引用C1）+圣诞过去之灵（引用C7）（圣诞过去之灵头顶约在斯克鲁奇腰部）；左下格可辨识1人——斯克鲁奇（引用C1）；右下格可辨识1人——斯克鲁奇（引用C1）面部特写。【情绪标记】强度：强，类型：感动，推荐视觉手段：右下格泪水特写，AURA-BEAUTY-1，嘴唇颤抖。"
+    },
+    {
+      "id": "B3-11",
+      "character_refs": [
+        "C1",
+        "C7"
+      ],
+      "scene_refs": [],
+      "covered_sentences": [
+        "They walked along the road towards a little town with a bridge, a church and a river.",
+        "Some boys came out of a school.",
+        "They were laughing and singing because it was a holiday.",
+        "They shouted 'Merry Christmas!' to each other."
+      ],
+      "layout": "构图与镜头：单格构图，路径/S形动线组织。镜头位于道路侧方低角，中景斜侧30度，看向斯克鲁奇和圣诞过去之灵沿道路走向远处小镇，远处依稀可见小镇的桥、教堂尖顶、河流；前景道路延伸，不可辨识男孩们在中景道路旁欢快奔跑，小镇建筑在后景可见。比例锚点：斯克鲁奇全身约占画面高度55%，圣诞过去之灵头顶约在斯克鲁奇腰部，不可辨识男孩群约在斯克鲁奇腰部高度，后景小镇建筑比所有人物矮（远景透视）；道路S形延伸从近景到后景。\n\n动作与关系：斯克鲁奇（引用C1）和圣诞过去之灵（引用C7）并行走在道路上，斯克鲁奇目光望向前方小镇，圣诞过去之灵贴近斯克鲁奇；不可辨识男孩群在道路旁奔跑欢笑，互相挥手；道路右侧附D级物品图标：音符简笔画+节日气氛气泡（承载\"笑和唱\"），不可辨识男孩群附B级符号：粉红色爱心+橙红色感叹号。\n\n场景：乡村道路，冬日白天，积雪，远处小镇（有桥、教堂、河流）。\n\n光影与色彩：冷白天光，雪地反光，温暖怀旧色调，节日气氛。\n\n主体与角色：逐格角色预算：主画面可辨识2人——斯克鲁奇（引用C1）+圣诞过去之灵（引用C7）；不可辨识男孩群为群体暗示，不计入可辨识人物；圣诞过去之灵头顶约在斯克鲁奇腰部。"
+    },
+    {
+      "id": "B3-12",
+      "character_refs": [
+        "C1",
+        "C7"
+      ],
+      "scene_refs": [],
+      "covered_sentences": [
+        "'They are all in the past,' the Ghost said. 'They are only shadows.'",
+        "Scrooge knew all of them and he felt suddenly happy.",
+        "Why did his cold eyes and heart become warm with joy?",
+        "What did merry Christmas mean to him?",
+        "He didn't like Christmas!"
+      ],
+      "layout": "构图与镜头：单格构图，心理/想象组织，主画面+云状气泡。主画面：镜头位于斯克鲁奇正面偏侧，中近景，看向斯克鲁奇面部，面露突然涌现的温暖惊讶；画面左侧圣诞过去之灵可见（离画暗示，仅手部指向）；右上角云状气泡（A级氛围：AURA-DREAM）承载斯克鲁奇内心的温暖回忆。比例锚点：斯克鲁奇面部约占主画面高度60%；云状气泡约占画面右上角20%区域。\n\n动作与关系：斯克鲁奇（引用C1）面露突然的温暖和困惑（明明不喜欢圣诞，却感到喜悦），眼眶略湿；圣诞过去之灵（引用C7）在左侧说\"shadows\"，头顶对白气泡内容从covered_sentences抽取\"shadows\"（D级物品图标：半透明小人轮廓+椭圆形阴影）；云状气泡内（A级AURA-DREAM效果）：隐约的男孩群体温暖画面（不可辨识简笔画）；斯克鲁奇附B级符号：粉红色爱心+黄色小灯泡，承载突然涌现的暖意。\n\n场景：乡村道路，冬日白天，斯克鲁奇面露困惑的喜悦。\n\n光影与色彩：冷白天光，斯克鲁奇面部略微暖调（内心暖意），云状气泡内温暖橙黄。\n\n主体与角色：逐格角色预算：主画面可辨识1人——斯克鲁奇（引用C1）；圣诞过去之灵（引用C7）手部在左侧边缘离画，不计入可辨识人物；云状气泡内为不可辨识简笔画群体。【情绪标记】强度：中，类型：感动/困惑，推荐视觉手段：眼眶略湿，粉红色爱心图标，黄色小灯泡图标。"
+    }
+  ]
+}

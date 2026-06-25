@@ -1,0 +1,78 @@
+**B3-13**（3 句）
+- 分组依据：说话方从狮子切回Dorothy，新节拍；Dorothy连续指责（你害怕/你是狮子你害怕/你是懦夫），同一说话方，同一情绪基调（愤怒指责），3句
+- 原文：
+  1. ""You're afraid!" says Dorothy."
+     译："你是个胆小鬼！"多萝西说。
+  2. ""You're a Lion and you're afraid."
+     译："你是狮子，却害怕。"
+  3. "You're a coward!""
+     译："你是个懦夫！"
+
+---
+
+**B3-14**（3 句）
+- 分组依据：说话方从Dorothy切到狮子，新节拍；情绪从Dorothy的愤怒切换到狮子的悲伤自省，情绪反转；§5情感高潮D类（狮子哭泣）；狮子连续独白+哭泣行为，3句
+- 原文：
+  1. ""Yes, I am a coward."
+     译："是的，我是个懦夫。"
+  2. "Lions must be courageous but I'm not."
+     译："狮子应该勇敢，可我做不到。"
+  3. "I make a lot of noise, but I am a coward," says the Lion sadly as he starts crying."
+     译："我会发出很大的声响，但我是个懦夫，"狮子悲伤地说着，开始哭泣起来。
+
+---
+
+**B3-15**（2 句）
+- 分组依据：说话方从狮子切到Dorothy，新节拍；Dorothy安慰+邀请（别哭/来加入我们），2句，同一说话方；§4条件B（邀请=触发动作，后续接受=结果）——结果在下一分镜（B3-16）中隐含于"they all continue walking"，本镜仅含邀请动作，无需分格
+- 原文：
+  1. ""Don't cry!" says Dorothy, "Come with us to the Emerald City."
+     译："别哭！"多萝西说，"和我们一起去翡翠城吧。"
+  2. "Perhaps the Wizard of Oz can give you courage.""
+     译："也许奥兹大法师能给你勇气。"
+
+---
+
+**B3-16**（2 句）
+- 分组依据：§4条件D（阶段性场景边界：狮子加入后重新上路=新叙事阶段）；两句推进叙事（继续走→看到河），同一方向性位移节拍，2句
+- 原文：
+  1. "So they all continue walking along the yellow brick road."
+     译：于是他们所有人继续沿着黄砖路走下去。
+  2. "At one point they see a big river."
+     译：走着走着，他们看见了一条宽阔的大河。
+
+---
+
+**B3-17**（4 句）
+- 分组依据：河边"如何过河"对话，3方轮流说话（Dorothy问→狮子答→稻草人鼓励→狮子答应），超过2回合需多格；§4条件B（稻草人提出"驮我们过河"的邀请/要求→狮子接受，必须分格）；4句≤4句上限，同场景
+- 原文：
+  1. ""How can we cross the river?" asks Dorothy."
+     译："我们怎么过河呢？"多萝西问。
+  2. "The Lion looks at the river and says, "I can jump across, but I'm afraid.""
+     译：狮子望着河水说："我能跳过去，但我害怕。"
+  3. ""Don't be afraid!" says the Scarecrow, "You're a strong Lion. You can take us on your back, one by one.""
+     译："别害怕！"稻草人说，"你是一头强壮的狮子。你可以一个个地把我们驮过去。"
+  4. ""All right, I can do that," says the Lion, "You don't have a brain but you have good ideas, Scarecrow,""
+     译："好吧，我能做到，"狮子说，"你没有脑子，但你有好主意，稻草人。"
+
+---
+
+**B3-18**（3 句）
+- 分组依据：§4条件C（计划执行链：先跳→驮稻草人→驮Dorothy+Toto→驮铁皮人，≥3个相互依赖步骤）；时间推进（first→then→last），连续动作序列，3句
+- 原文：
+  1. "And so the Lion jumps across the river."
+     译：就这样，狮子跳过了大河。
+  2. "He takes the Scarecrow first, and then he takes Dorothy and Toto."
+     译：他先驮稻草人过去，然后驮多萝西和托托。
+  3. "He takes the Tin Woodman last."
+     译：最后驮铁皮樵夫过河。
+
+---
+
+## 自检
+
+- 总句子数（含引号内子句按句号/问号/感叹号拆分）：41个句法单元，全部已归属分镜，**未覆盖句数 = 0** ✓
+- 每条分镜句数：4/2/4/2/2/4/3/2/3/3/3/3/3/3/2/2/4/3，最大值=4，全部 ≤ 6，无需进入豁免判断 ✓
+- §4条件B（邀请-接受因果链）命中处：B3-9（稻草人邀请铁皮人）、B3-17（稻草人请狮子驮人），均已按多格规划 ✓
+- §4条件A（多主体独立表态）命中处：B3-9（三方各表态），已用横排三格规划 ✓
+- §4条件C（计划执行链）命中处：B3-18（狮子依序驮人≥3步），已用序列条规划 ✓
+- §4条件D（阶段性场景边界）命中处：B3-10（告别铁皮人→上路）、B3-16（狮子加入→继续上路），均已拆为独立分镜 ✓

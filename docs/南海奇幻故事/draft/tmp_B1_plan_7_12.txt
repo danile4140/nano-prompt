@@ -1,0 +1,69 @@
+**B1-7**（3 句）
+- 分组依据：同一节拍——科欧拉起身去查抽屉、找到美元、关上抽屉的连续动作链，同一空间（书桌前），同一情绪基调（好奇/得意）
+- 原文：
+  1. "He went to the desk drawer and looked at it for a moment."
+     译：他走到书桌抽屉前，盯着看了一会儿。
+  2. "Then he opened it and saw Kalamake's shiny dollars."
+     译：然后他打开抽屉，看到了卡拉马克那些闪亮的美元。
+  3. "'Ha, I was right!' thought Keola, closing the drawer."
+     译："哈，我没猜错！"科欧拉心想，随手关上了抽屉。
+
+**B1-8**（3 句）
+- 分组依据：同一节拍——次日，货船抵达，科欧拉在屋前观看；时间跳跃（"next day"）但整体仍属"科欧拉观察卡拉马克财富来源"主线，空间从客厅转移到门前，场景切换（S1→S2），独立分镜
+- 原文：
+  1. "The next day the ship which came once a month with a lot of special things to eat and drink arrived in Molokai."
+     译：第二天，每月一次带来大量特色食品与饮料的货船抵达了莫洛凯岛。
+  2. "Keola stood in front of the house and watched the ship coming into the bay."
+     译：科欧拉站在屋前，看着货船驶入海湾。
+  3. "'If he can pay for those special things today, then he's certainly a wizard and the dollars come from the devil,' Keola thought."
+     译："如果他今天还能买那些特货，那他肯定是巫师，那些美元来自魔鬼，"科欧拉心想。
+
+**B1-9**（4 句）
+- 分组依据：同一节拍——卡拉马克从科欧拉身后出现、问话、宣布要告诉秘密、一起进屋。这是一个"触发事件"节拍（卡拉马克突然出现），打断科欧拉的独白，情绪从"独自猜测"转向"被巫师发现"，与B1-8存在情绪锚点切换，必须独立。四句全在"卡拉马克出现→进屋"这一连续互动节拍内
+- 原文：
+  1. "While he was thinking, Kalamake came and stood behind him."
+     译：就在他思索时，卡拉马克走来，站到了他身后。
+  2. "The old wizard was worried."
+     译：老巫师面露忧虑。
+  3. "'Is that the ship?' he asked."
+     译："那是货船吗？"他问道。
+  4. "'Yes,' answered Keola. 'It'll be here soon.'"
+     译："是的，"科欧拉回答，"很快就到了。"
+
+**B1-10**（4 句）
+- 分组依据：同一节拍——卡拉马克宣布要告诉秘密，两人进入客厅，客厅描述。从门口进入室内，场景实际移动但属于"进入仪式感"的单一叙事节拍，四句均服务于"进入客厅、揭秘前环境铺垫"主题
+  - 注意：B1-9 最后一句已经是"answered Keola"，B1-10从"Well said Kalamake…"开始是情节推进（宣告→进入客厅），属于同一节拍延续还是新节拍？卡拉马克的台词"then I must tell you my secret"是一个新宣告（节拍触发点），但与B1-9的对话是同一对话的延续，未超过2回合；进入客厅是该对话的直接结果动作。合并合理，不超过4句
+- 原文：
+  1. "'Well,' said Kalamake seriously, 'then I must tell you my secret, Keola. Come into the house.'"
+     译："好吧，"卡拉马克严肃地说，"那我必须把秘密告诉你，科欧拉。进屋来。"
+  2. "So they went into the elegant living room."
+     译：于是他们走进了雅致的客厅。
+  3. "There was a shelf with a lot of books, a Bible on the table and pictures on the walls."
+     译：一面书架上摆满了书，桌上放着一本圣经，墙上挂着几幅画。
+  4. "It was the living room of a rich man."
+     译：这是一个有钱人的客厅。
+
+**B1-11**（4 句）
+- 分组依据：同一节拍——客厅内准备仪式：关窗上锁、取出项链和树叶、宣布施法。连续准备动作，同一空间，同一情绪基调（神秘/紧张准备中），节拍一致
+- 原文：
+  1. "'Close the windows while I lock all the doors,' said Kalamake."
+     译："把窗户关上，我来锁门，"卡拉马克说。
+  2. "He opened the desk drawer and took out some necklaces and some leaves from trees."
+     译：他打开书桌抽屉，取出几串项链和一些树叶。
+  3. "'Now I'm going to do something magic,' said Kalamake."
+     译："现在我要施法了，"卡拉马克说。
+  4. "He put the Bible under the sofa and got a mat."
+     译：他把圣经塞到沙发底下，取来一张草席。
+
+**B1-12**（4 句）
+- 分组依据：同一节拍——仪式过程：放树叶、两人戴项链对坐、点火、烟雾迷幻、消失、出现在海滩。这是一个完整的"传送仪式执行"节拍，虽然涉及场景跳变（客厅→海滩），但这个瞬间跳变本身就是该节拍的核心戏剧事件，处于同一叙事节拍内（魔法传送），不拆分
+  - 四句：布置→施法→迷幻→传送完成
+- 原文：
+  1. "He put the leaves on some sand in a little pan."
+     译：他把树叶放在一个小锅里的沙子上。
+  2. "Then he and Keola put on the necklaces and sat on opposite sides of the mat."
+     译：然后他与科欧拉都戴上项链，在草席两侧相对而坐。
+  3. "'Don't be afraid,' said the wizard, lighting the leaves and saying strange words."
+     译："别害怕，"巫师说着，点燃了树叶，念起了奇怪的咒语。
+  4. "The smoke and the strange words confused Keola."
+     译：烟雾和奇怪的咒语让科欧拉感到迷乱。

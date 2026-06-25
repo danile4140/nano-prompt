@@ -1,0 +1,59 @@
+**B4-7**（4 句）
+- 分组依据：同一节拍——计划被否决后，科欧拉开始适应新生活、对妻子好、妻子爱他——新的生活状态节拍，情绪从挫败转向平静满足
+- 原文：
+  1. "Keola began to feel happy with his new life and the things around him."
+     译：科欧拉开始感到对新生活和周围的一切感到满足。
+  2. "He was kind to his wife and she loved him very much."
+     译：他对妻子很好，妻子也非常爱他。
+  3. "But one day he came home and found her on the floor crying."
+     译：但有一天他回家，发现妻子伏在地上哭泣。
+  4. "'What's the matter, dear?' said Keola softly."
+     译："怎么了，亲爱的？"科欧拉温柔地说。
+
+**B4-8**（1 句）
+- 分组依据：必拆充要条件B——妻子哭泣但回答"没什么"是一个触发-敷衍回应的因果链节点；同时这是B4-7对话的紧随回应，属于同一对话节拍。检查：B4-7已4句，无法继续合并。这1句另立
+- 原文：
+  1. "'Oh, it's nothing, Keola,' she said, crying."
+     译："哦，没什么，科欧拉，"她哭着说。
+
+**B4-9**（4 句）
+- 分组依据：同一节拍——当晚妻子在灯光下轻声叫醒科欧拉，说必须悄悄说话，交代"离岛前两天去藏身树林"的计划。这是新的戏剧性节拍（妻子夜间秘密叮嘱），时间跳跃（"The same night"），视觉焦点切换（白天→夜晚茅屋内），独立节拍
+- 原文：
+  1. "The same night she woke him up, and by the low light of the lamp Keola could see her sad face."
+     译：就在那天夜里，她将他叫醒，在昏暗的灯光下科欧拉看见了她悲伤的脸。
+  2. "'Keola,' she said softly, 'come very close to me because I must whisper. No one must hear us.'"
+     译："科欧拉，"她轻声说，"靠近我，因为我必须低声说话。不能让任何人听见我们。"
+  3. "Keola moved closer to her and she continued."
+     译：科欧拉靠近她，她继续说道。
+  4. "'Two days before we leave the island, go and stay in the woods. We'll choose the place and hide food there. Every night I'll come to the secret place and I'll sing. If you don't hear me singing, it means that we are no longer on the island. Then you can come out of the woods safely.'"
+     译："我们离岛前两天，你去树林里躲起来。我们先选好地点，在那里藏好食物。每天晚上我会来那个秘密地点唱歌。如果你听不到我唱歌，说明我们已经不在岛上了。那时候你就可以安全地从树林里出来了。"
+
+**B4-10**（3 句）
+- 分组依据：必拆充要条件B——科欧拉的恐惧反应："我不能和恶魔在一起！我不想留在这座岛！"→被秘密压住。这是触发-情绪爆发节拍，情绪从被叮嘱转向惊慌失措，独立节拍
+- 原文：
+  1. "Keola was confused and frightened when he heard this."
+     译：科欧拉听到这话，既困惑又害怕。
+  2. "'What's happening?' he cried. 'I can't live among the devils. I don't want to stay on this island alone. I want to leave it.'"
+     译："发生了什么？"他叫道，"我不能和恶魔住在一起。我不想独自留在这座岛上。我要离开！"
+  3. "'My poor Keola,' said the girl sadly, 'you'll never leave this island alive.'"
+     译："我可怜的科欧拉，"女孩悲伤地说，"你永远无法活着离开这座岛。"
+
+**B4-11**（3 句）
+- 分组依据：必拆充要条件B + 高潮加密D（情感高潮）——妻子揭秘"部落是食人族"（身份揭晓），对科欧拉来说是震惊性揭秘节拍，视觉焦点切换（从科欧拉反应→妻子说出真相），独立节拍
+- 原文：
+  1. "You see, my people are cannibals: they eat men."
+     译："你看，我的族人是食人族：他们吃人。"
+  2. "They have always eaten men!"
+     译："他们一直都在吃人！"
+  3. "But this is a secret."
+     译："但这是个秘密。"
+
+**B4-12**（3 句）
+- 分组依据：同一节拍——妻子解释科欧拉的命运（会被吃掉）、解释为何不能带他去绿岛。这是妻子悲伤说完真相的尾声，与B4-11同属一个"揭秘对话"大节拍，但B4-11已3句，此处3句另立，属于揭秘的"后半段"
+- 原文：
+  1. "They'll eat you before we leave. Oh, my poor Keola, I love you very much, but I can't take you to the Green Island."
+     译："他们会在我们离开前吃掉你。哦，我可怜的科欧拉，我非常爱你，但我无法带你去绿岛。"
+  2. "Keola was terrified. Every part of his body trembled."
+     译：科欧拉惊恐万分。他浑身每一处都在颤抖。
+  3. "He knew about cannibals in the South Sea Islands and this always frightened him. He heard from travellers that cannibals took good care of the man they wanted to eat. Now he understood why he had a new hut, a wife, and lots of good food, and he never worked."
+     译：他知道南海岛屿上有食人族，这一直让他感到恐惧。他从旅行者那里听说食人族会把要吃的人照顾得很好。现在他明白了为什么他有新茅屋、有妻子、有大量好食物，而且从不用干活。

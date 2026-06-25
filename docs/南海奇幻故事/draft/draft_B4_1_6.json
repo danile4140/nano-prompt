@@ -1,0 +1,73 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B4-1",
+      "character_refs": ["C2", "C8"],
+      "scene_refs": ["S3", "S7"],
+      "covered_sentences": [
+        "The people of the tribe told Keola about the Isle of Voices.",
+        "The island got its name from the invisible devils that lived on the beach near the sea.",
+        "These invisible devils talked to each other in strange languages.",
+        "Little fires appeared and disappeared on the beach day and night."
+      ],
+      "layout": "①构图与镜头：主画面+云状气泡内场景构图，主格承载科欧拉与酋长的对话场景，云气泡承载声音之岛海滩的神秘现象图示。主格：镜头位于两人侧方，斜侧30°，中景，看向酋长对科欧拉讲述；茅屋在背景。云气泡位于画面右侧，约占1/3，内含S3海滩示意：隐形轮廓（虚线人形+对话气泡）、多语言符号（各种文字图标）、小火苗忽隐忽现图示。比例锚点：主格：科欧拉（引用C2）和酋长（引用C8）对坐，酋长头顶约比科欧拉高约1/4格高度；茅屋屋梁在二人头顶上方；云气泡为图示，无比例要求。②动作与关系：主格：酋长（引用C8）表情神秘严肃，手指朝海滩方向；科欧拉（引用C2）侧耳倾听，表情好奇警惕；对话气泡归属酋长，语义为「这座岛因隐形恶魔得名——它们在海滩上用陌生语言交谈——小火苗日夜忽隐忽现」。云气泡内：虚线轮廓人形（隐形恶魔）+多语言符号（法语/荷兰语等图示）+小火苗图示（闪烁动效感）。③场景：主格S7部落茅屋旁，白天；云气泡内为S3海滩神秘场景图示。④光影与色彩：主格白天暖光；云气泡内偏神秘暗夜感，小火苗有橙光效果；整体氛围神秘。⑤主体与角色：逐格角色预算：主格可辨识2人，云气泡为图示。科欧拉（引用C2）和酋长（引用C8）均可辨识入镜。"
+    },
+    {
+      "id": "B4-2",
+      "character_refs": ["C2", "C8"],
+      "scene_refs": ["S7"],
+      "covered_sentences": [
+        "But no one understood why.",
+        "Keola was very surprised to hear this."
+      ],
+      "layout": "①构图与镜头：对话双格构图，左右二分2:1，科欧拉惊讶反应为主导，科欧拉占右主格2/3。左辅格：镜头位于科欧拉过肩，看向酋长侧脸，酋长耸肩表情（无人知晓）。右主格：镜头位于酋长过肩，看向科欧拉惊讶表情，正面偏侧近景。比例锚点：左格：酋长（引用C8）侧脸，科欧拉肩背前景约1/5；右格：科欧拉（引用C2）近景，头部占右格约3/4高度。②动作与关系：左辅格：酋长（引用C8）侧脸，双手摊开耸肩，表情「没人知道」；气泡语义为「没有人明白其中缘由」，配问号+叉号。右主格：科欧拉（引用C2）眼睛大睁，嘴微张，惊讶；B级疑惑图标（深蓝色问号+感叹号）。③场景：S7部落茅屋旁，白天，热带阳光；背景仅见茅屋屋檐边缘。④光影与色彩：白天暖光，惊讶反应用轻微闪光感。⑤主体与角色：逐格角色预算：两格各可辨识2人。科欧拉（引用C2）和酋长（引用C8）均可辨识。【情绪标记】强度：轻，类型：疑惑，推荐视觉手段：眉型变化+B级符号图标（深蓝色问号）。"
+    },
+    {
+      "id": "B4-3",
+      "character_refs": ["C2", "C8"],
+      "scene_refs": ["S7"],
+      "covered_sentences": [
+        "'Does this happen on the Green Island too?' asked Keola.",
+        "'No, never,' answered one man. 'It never happens on any other island, only here.'",
+        "'But you mustn't worry because the devils live on the beach near the sea and not at the lagoon.'",
+        "'Remember, the devils won't hurt you if you leave them alone.'"
+      ],
+      "layout": "①构图与镜头：对话双格构图，左右二分2:1，部落人安慰为主导，部落人（酋长）占左主格2/3。左主格：镜头位于科欧拉过肩，看向酋长面部；酋长神情平静安慰，手势指向礁湖方向（安全区）。右辅格：镜头位于酋长过肩，看向科欧拉侧脸；科欧拉表情由担忧转向稍微放心。比例锚点：左格：酋长（引用C8）面部中近景，面部纹身清晰；右格：科欧拉（引用C2）侧脸近景。②动作与关系：左主格：酋长（引用C8）手指向礁湖方向，安慰科欧拉；对话气泡：①「只有这里才有，其他岛没有」，②「恶魔在海滩，礁湖这边安全」，③「别去打扰它们就不会受伤」；简笔地图：礁湖=安全区（绿色），海滩=危险区（红色）。右辅格：科欧拉（引用C2）侧脸，从担忧到半放心，表情仍有余虑。③场景：S7部落茅屋旁，白天，热带阳光；礁湖可见片段在背景左侧。④光影与色彩：白天暖光，安慰氛围柔和。⑤主体与角色：逐格角色预算：左格可辨识2人，右格可辨识2人。酋长（引用C8）和科欧拉（引用C2）均可辨识。"
+    },
+    {
+      "id": "B4-4",
+      "character_refs": ["C2", "C8"],
+      "scene_refs": ["S7"],
+      "covered_sentences": [
+        "Keola knew he was safe at the lagoon, but he wanted to do something about the devils.",
+        "One day he went to speak to the chief of the tribe.",
+        "'There was an island that had problems with invisible devils,' Keola told the chief, 'and the people solved it.'",
+        "'How did they do that?' asked the chief."
+      ],
+      "layout": "①构图与镜头：左右二分1:1构图，左格为科欧拉主动去找酋长，右格为科欧拉提出计划。左格：镜头从侧方，中景，看向科欧拉主动走向酋长（酋长坐于茅屋前）；动作感强，科欧拉迈步朝前。右格：镜头位于酋长过肩，看向科欧拉讲述，表情认真自信；酋长侧脸听讲。比例锚点：左格：科欧拉（引用C2）走向酋长（引用C8），酋长坐于地席，站立的科欧拉头顶约及茅屋门框顶端；右格：科欧拉（引用C2）中景站立，酋长背影前景。②动作与关系：左格：科欧拉（引用C2）迈步朝酋长（引用C8）走去，神情主动；表达「他决定主动解决」姿态。右格：科欧拉（引用C2）讲述，手势指向海滩方向；对话气泡语义为「有一座岛解决了隐形恶魔问题」，酋长（引用C8）气泡问「他们是怎么做到的？」。③场景：S7部落茅屋，白天；两格均为茅屋前背景。④光影与色彩：白天暖光，主动出击气氛明亮。⑤主体与角色：逐格角色预算：两格各可辨识2人。科欧拉（引用C2）和酋长（引用C8）两格均可辨识。"
+    },
+    {
+      "id": "B4-5",
+      "character_refs": ["C2", "C8"],
+      "scene_refs": ["S9"],
+      "covered_sentences": [
+        "'There was a tree growing in the woods that had magic leaves,' he said, 'and the devils came to get the leaves. So the people of the island cut it down and the devils went away.'",
+        "'What kind of tree was it?' asked the chief.",
+        "Keola showed him the tree with the magic leaves that Kalamake used.",
+        "The chief and other men seemed interested in his plan."
+      ],
+      "layout": "①构图与镜头：左右二分1:1构图，左格为科欧拉在树林中指向魔法树，右格为酋长和众人围观感兴趣。左格：镜头从树林边缘，斜侧，中景，看向科欧拉指向某棵特定大树（有宽叶特征）；树林背景（S9）。右格：镜头从树前方，中景，看向酋长和2-3个部落人围在树旁，面部表情感兴趣。比例锚点：左格：科欧拉（引用C2）站于树前，特定魔法树高约成人身高4倍，树干约成人肩宽2倍；右格：酋长（引用C8）站于树旁，树干可见局部，树干宽约酋长肩宽2倍；2-3不可辨识部落人在旁。②动作与关系：左格：科欧拉（引用C2）手指向魔法树，表情自信解释；对话气泡语义为「就是这棵树！恶魔来取叶子——砍倒它们就离开了」，树叶特写气泡（宽叶图示）。右格：酋长（引用C8）仰视树木，表情感兴趣，摸树干；不可辨识部落人2-3个围观，群体暗示；整体「感兴趣」氛围。③场景：S9声音之岛内陆树林，白天，林间斑驳光；魔法树在树林中可见，林内光线柔和。④光影与色彩：林内斑驳光，整体绿色调；魔法树叶有轻微光晕暗示特殊性。⑤主体与角色：逐格角色预算：左格可辨识1人，右格可辨识1人+不可辨识群体。科欧拉（引用C2）左格可辨识，酋长（引用C8）右格可辨识；其余部落人群体暗示。"
+    },
+    {
+      "id": "B4-6",
+      "character_refs": ["C8"],
+      "scene_refs": ["S7"],
+      "covered_sentences": [
+        "Every night the chief and the old men of the tribe talked about his plan, but the chief was afraid.",
+        "'Remember,' said the chief to the other men, 'a chief once threw his spear at one of the voices and that night he fell out of a palm tree and was killed.'",
+        "The men decided to forget Keola's plan."
+      ],
+      "layout": "①构图与镜头：横排3格构图，等宽，「夜间讨论→酋长引用先例→众人放弃」三节拍。左格：镜头从侧方，中景，看向酋长和老人们围坐篝火旁夜间讨论；不可辨识老人们的剪影。中格：镜头位于老人们过肩，看向酋长中近景面部，神情严肃讲述先例；对话气泡。右格：镜头从上方，俯角，看向众人摇头摆手放弃姿态；酋长在中央，众人围绕。比例锚点：左格：酋长（引用C8）坐于篝火旁，篝火高约其膝盖，不可辨识老人剪影在周围；中格：酋长（引用C8）面部中近景，面部纹身清晰；右格：酋长（引用C8）俯视，众人围坐，每人头顶在画面中可见。②动作与关系：左格：夜间讨论氛围，篝火在中央，众人围坐；图示：「每晚讨论」反复图示。中格：酋长（引用C8）严肃，气泡语义为「记住！有个酋长向声音投矛，当晚从棕榈树上摔死了」，配骷髅+棕榈树图示。右格：众人摇头，酋长做出放弃手势；科欧拉计划被叉号覆盖图示（方案放弃）。③场景：S7部落茅屋旁/篝火处，夜晚，篝火光。【环境状态】物理场景S7，当前环境：夜晚，视觉覆盖：篝火橙红光圈，背景深黑，原因：Every night。④光影与色彩：夜间篝火橙红光，周围深黑；氛围严肃带有恐惧。⑤主体与角色：逐格角色预算：左格可辨识1人（酋长，老人不可辨识），中格可辨识1人，右格可辨识1人+不可辨识群体。酋长（引用C8）三格均可辨识入镜；老人们以不可辨识剪影群体暗示。"
+    }
+  ]
+}

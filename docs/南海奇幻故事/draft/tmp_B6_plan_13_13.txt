@@ -1,0 +1,33 @@
+**B6-13**（4 句）
+- 分组依据：同一节拍——科欧拉和莱华听从传教士的建议把钱分给穷人和传教士、庆幸没再见到卡拉马克。这是"遵循建议+结果"节拍，连续叙述，情绪基调为庆幸/收尾
+- 原文：
+  1. "Keola and Lehua listened to the missionary and gave a lot of dollars to the poor people of the island and to the missionaries."
+     译：科欧拉和莱华听从了传教士的话，把许多美元分给了岛上的穷人和传教士们。
+  2. "They were lucky because they did not see Kalamake again."
+     译：他们很幸运，因为他们再也没有见到卡拉马克。
+  3. "Was he killed during the battle?"
+     译：他是在那场战斗中被杀死了吗？
+  4. "Or is he still living on the Isle of Voices? No one knows."
+     译：还是他仍然活在声音之岛上？没有人知道。
+
+---
+
+**最终汇总**：
+
+| 分镜ID | 句数 |
+|--------|------|
+| B6-1   | 4    |
+| B6-2   | 2    |
+| B6-3   | 4    |
+| B6-4   | 4    |
+| B6-5   | 4    |
+| B6-6   | 4    |
+| B6-7   | 4    |
+| B6-8   | 4    |
+| B6-9   | 4    |
+| B6-10  | 2    |
+| B6-11  | 2    |
+| B6-12  | 2    |
+| B6-13  | 4    |
+
+共 **13** 条分镜

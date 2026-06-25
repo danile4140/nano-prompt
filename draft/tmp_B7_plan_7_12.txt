@@ -1,0 +1,65 @@
+**B7-7**（4 句）
+- 分组依据：铁皮樵夫与奥兹3回合对话（问→答→感谢+宣告），说话方交替切换，同一话题（心脏是否善良/感谢），情绪渐进（喜悦），4句内，合并为多格分镜。已扫描3对相邻句，四维度均无切换（同场景/同话题/同情绪渐进/同说话对），保留4句。
+- 原文：
+  1. "\"Is it a kind heart?\" asks the Tin Woodman."
+     译：铁皮樵夫问："它是一颗善良的心吗？"
+  2. "\"Yes, it's a very kind heart,\" says Oz."
+     译：奥兹说："是的，这是一颗非常善良的心。"
+  3. "\"I'm very happy! Thank you!\" says the Tin Woodman."
+     译：铁皮樵夫说："我非常开心！谢谢你！"
+  4. "\"Now I can love someone.\""
+     译："现在我可以去爱某个人了。"
+
+---
+
+**B7-8**（3 句）
+- 分组依据：视觉焦点切换到狮子（新角色请求）；句20狮子要求勇气，句21奥兹取绿瓶（道具行动），句22命令喝下，同一话题（勇气）同一场景，≤4句合并。
+- 原文：
+  1. "\"Now you must give me courage!\" says the Lion."
+     译：狮子说："现在你必须给我勇气！"
+  2. "Oz gives him a green bottle with the word \"courage\" on it."
+     译：奥兹给了他一个写着"courage（勇气）"字样的绿色瓶子。
+  3. "\"Drink this!\" he says to the Lion."
+     译：奥兹对狮子说："喝了它！"
+
+---
+
+**B7-9**（2 句）
+- 分组依据：狮子喝下并微笑（状态变化），随即感叹感谢，句23-24同一焦点（狮子），情绪：释然/喜悦，≤4句合并。
+- 原文：
+  1. "The Lion drinks it quickly and then smiles."
+     译：狮子迅速喝下它，然后微笑起来。
+  2. "\"Now I feel courageous, very courageous!\" says the Lion, \"Thank you!\""
+     译：狮子说："现在我感觉有勇气了，非常有勇气！谢谢你！"
+
+---
+
+**B7-10**（2 句）
+- 分组依据：条件B触发-转折因果链：多萝西提问（请求/关切）→奥兹回答并邀请（接受/给出答案），说话方切换，情绪方向转折（期待→确认），双格同一分镜。
+- 原文：
+  1. "\"And what about Toto and me?\" asks Dorothy quietly."
+     译：多萝西轻声问道："那托托和我呢？"
+  2. "\"I can take you to Kansas in my hot-air balloon,\" says Oz, \"Come with me!\""
+     译：奥兹说："我可以用我的热气球带你去堪萨斯，跟我来！"
+
+---
+
+**B7-11**（2 句）
+- 分组依据：空间切换（进入花园），触发新节拍；句27进花园看热气球（新场景建立），句28奥兹上篮子呼唤多萝西（连续动作），≤4句合并。
+- 原文：
+  1. "They go into his garden and see the big hot-air balloon with a small box under it."
+     译：他们走进他的花园，看到了那个巨大的热气球，气球下面挂着一个小篮子。
+  2. "Oz gets into the box and says, \"Come on, Dorothy! We're going to Kansas!\""
+     译：奥兹钻进篮子里说："快点，多萝西！我们要去堪萨斯了！"
+
+---
+
+**B7-12**（2 句）
+- 分组依据：多萝西向三位朋友道别（句29），随即对托托说话（句30），同一情绪节拍（告别/出发），同一场景同一焦点，≤4句合并。
+- 原文：
+  1. "Dorothy says goodbye to the Scarecrow, the Tin Woodman and the Lion."
+     译：多萝西向稻草人、铁皮樵夫和狮子道别。
+  2. "\"Come on, Toto. We're going home to Kansas.\""
+     译："来吧，托托。我们要回堪萨斯的家了。"
+
+---

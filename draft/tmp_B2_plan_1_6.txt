@@ -1,0 +1,51 @@
+**B2-1**（2 句）
+- 分组依据：同一空间（黄砖路/芒奇金国），同一时间（晴天全天），旅行行动描述，无对话无焦点切换，属同一节拍。
+- 原文：
+  1. "It is a sunny day in the Land of the Munchkins."
+     译：芒奇金国是一个阳光灿烂的日子。
+  2. "Dorothy and Toto walk along the yellow brick road all day."
+     译：多萝西和托托沿着黄砖路走了一整天。
+
+**B2-2**（3 句）
+- 分组依据：Dorothy 坐下靠近稻草人→稻草人突然微笑（新戏剧性事件）→Dorothy 惊讶（即时情绪反应），三句均处于同一时刻同一空间，s4 触发与 s5 反应属于同一节拍内两个维度，合并用多格承载。
+- 原文：
+  1. "When Dorothy is tired, she sits down by the road near a Scarecrow."
+     译：当多萝西累了，她坐在路边一个稻草人旁边。
+  2. "Suddenly, the Scarecrow smiles at her."
+     译：突然，稻草人对她微笑了。
+  3. "She is very surprised."
+     译：她非常惊讶。
+
+**B2-3**（1 句）
+- 分组依据：Dorothy 内心独白（心理节拍），说话方切换前的独立心理状态节拍，独立成镜。
+- 原文：
+  1. "\"Can a Scarecrow smile?\" she thinks."
+     译："稻草人会微笑吗？"她心想。
+
+**B2-4**（4 句）
+- 分组依据：稻草人打招呼→Dorothy 惊呼→稻草人说能说话但不能动→请求帮助，说话权切换 2 次（≤2 回合），话题未转移，情绪基调一致（初次对话展开），4 句在上限内。s9-s10 为稻草人同一回合的连续说话。
+- 原文：
+  1. "Then the Scarecrow says, \"Hello!\""
+     译：然后稻草人说："你好！"
+  2. "\"Oh!\" says Dorothy, \"You can speak!\""
+     译："哦！"多萝西说，"你会说话！"
+  3. "\"Of course I can speak,\" says the Scarecrow, \"But I can't move."
+     译："我当然会说话，"稻草人说，"但我不能动。
+  4. "Can you help me?\""
+     译：你能帮帮我吗？"
+
+**B2-5**（3 句）
+- 分组依据：Dorothy 帮稻草人下柱（行动）→稻草人道谢并活动手脚（行动结果）→稻草到处都是（视觉后果），同一事件连续推进，无说话方/空间/情绪切换，3 句合并。
+- 原文：
+  1. "Dorothy helps the Scarecrow to move from his post."
+     译：多萝西帮稻草人从木桩上下来。
+  2. "\"Thank you very much,\" he says, moving his arms and legs."
+     译："非常感谢，"他说着活动起手臂和腿。
+  3. "There's straw everywhere."
+     译：稻草撒得到处都是。
+
+**B2-6**（1 句）
+- 分组依据：s14（稻草人提问）超 4 句候选块触发四维度拆分——视觉焦点从稻草人提问→Dorothy 回答发生切换，故 s14 独立成镜。
+- 原文：
+  1. "\"Who are you?\" he asks, \"And where are you going?\""
+     译："你是谁？"他问，"你要去哪里？"

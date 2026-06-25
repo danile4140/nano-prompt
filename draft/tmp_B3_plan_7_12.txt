@@ -1,0 +1,69 @@
+**B3-7**（3 句）
+- 分组依据：说话方从铁皮人切到Dorothy，新节拍；Dorothy连续回答（自我介绍+目的地+稻草人需求），同一说话方，3句，同一话题
+- 原文：
+  1. ""I'm Dorothy and this is the Scarecrow."
+     译："我是多萝西，这位是稻草人。"
+  2. "We're going to the Emerald City to find the Wizard of Oz because he can help me go back to Kansas."
+     译："我们要去翡翠城找奥兹大法师，因为他能帮我回到堪萨斯。"
+  3. "Perhaps he can also give the Scarecrow a brain.""
+     译："也许他还能给稻草人一个脑袋。"
+
+---
+
+**B3-8**（2 句）
+- 分组依据：说话方从Dorothy切到铁皮人，新节拍；铁皮人反问（能给我心脏吗）+自述困境（没有心脏/无法爱），同一说话方，2句
+- 原文：
+  1. ""Can the Wizard of Oz give me a heart?" asks the Tin Woodman, "I don't have a heart and I can't love anyone."
+     译："奥兹大法师能给我一颗心脏吗？"铁皮樵夫问道，"我没有心脏，无法爱任何人。"
+  2. "There is no happiness without love.""
+     译："没有爱就没有幸福。"
+
+---
+
+**B3-9**（3 句）
+- 分组依据：§4条件A（三方各对"铁皮人加入"事件独立表态，缺一则信息消失）；§4条件B（稻草人提出邀请→Dorothy确认→铁皮人接受，必须至少2格）；三句同场景，用横排三格承载三方表态，3句≤4句上限
+- 原文：
+  1. ""Why don't you come with us?" says the Scarecrow."
+     译："你为什么不和我们一起走呢？"稻草人说。
+  2. ""Yes, you can ask the Wizard for a heart," says Dorothy."
+     译："对呀，你可以向大法师要一颗心脏，"多萝西说。
+  3. ""Thank you, my friends," says the Tin Woodman and they start walking again."
+     译："谢谢你们，我的朋友们，"铁皮樵夫说，于是他们又重新出发了。
+
+---
+
+**B3-10**（3 句）
+- 分组依据：§4条件D（阶段性场景边界：告别铁皮人→重新上路是新叙事阶段，与前一段"结识铁皮人"功能不同）；三句描述上路途中环境（走路+看树+听到动物声），同一推进节拍，无场景跳变，3句
+- 原文：
+  1. "The three friends and Toto walk along the yellow brick road."
+     译：三位朋友和托托沿着黄砖路走着。
+  2. "They look at all the tall trees near the road."
+     译：他们望着路旁那些高大的树木。
+  3. "There are a lot of noises coming from the different animals behind the trees."
+     译：树林里传来各种动物发出的嘈杂声响。
+
+---
+
+**B3-11**（3 句）
+- 分组依据：新戏剧性事件（狮子突然跳出），情绪从"平静旅行"切换到"危险逼近"，必须新开分镜；三句连续描述同一危险升级节拍（跳出→咆哮→要咬Toto），同场景同焦点，3句
+- 原文：
+  1. "Suddenly a Lion jumps out into the road."
+     译：突然，一头狮子跳到了路上。
+  2. "He opens his big mouth and roars."
+     译：他张开大嘴，发出一声咆哮。
+  3. "He has big teeth and wants to bite Toto."
+     译：他有一口大牙，想要咬托托。
+
+---
+
+**B3-12**（3 句）
+- 分组依据：§5叙事高潮C类（物理冲突：Dorothy打狮子鼻子）；§4条件B（Dorothy发起攻击=触发动作，狮子求饶=转折结果，情绪方向相反，必须分格）；3句（行动+Dorothy喊话+狮子求饶），必须至少2格
+- 原文：
+  1. "Dorothy is afraid for Toto and she runs to the Lion and hits him on the nose with her basket."
+     译：多萝西担心托托，她跑向狮子，用篮子打了他的鼻子。
+  2. ""Don't hurt my dog!" she cries angrily, "He's small and you're big.""
+     译："不许伤害我的狗！"她愤怒地喊道，"他那么小，你那么大。"
+  3. ""Don't hit me, please," says the Lion."
+     译："请不要打我，"狮子说。
+
+---

@@ -1,0 +1,57 @@
+**B2-7**（4 句）
+- 分组依据：Dorothy 连续独白（同一说话方），介绍名字/目的地/任务/回家愿望，4 句，无任何四维度切换，正好在上限。
+- 原文：
+  1. "\"My name is Dorothy."
+     译："我叫多萝西。
+  2. "I'm going to the Emerald City."
+     译：我要去翡翠城。
+  3. "I must find the Wizard of Oz."
+     译：我必须找到奥兹魔法师。
+  4. "He can help me go back home to Kansas.\""
+     译：他能帮我回到堪萨斯的家。"
+
+**B2-8**（3 句）
+- 分组依据：稻草人追问翡翠城/奥兹→Dorothy 反问→稻草人揭示"脑子里只有稻草"，3 句 2 次说话权切换（≤2 回合），同一话题推进（奥兹/稻草人认知）。s20→s21 非触发-转折因果链（无情绪方向反转），合并。
+- 原文：
+  1. "\"Where is the Emerald City?\" he asks, \"And who is the Wizard of Oz?\""
+     译："翡翠城在哪里？"他问，"奥兹魔法师是谁？"
+  2. "\"Don't you know?\" asks Dorothy."
+     译："你不知道吗？"多萝西问。
+  3. "\"No, I don't know anything,\" he says, \"I don't have a brain in my head: I only have straw.\""
+     译："不，我什么都不知道，"他说，"我脑袋里没有大脑：我只有稻草。"
+
+**B2-9**（3 句）
+- 分组依据：Dorothy 表示遗憾→稻草人表达愿望（想要脑子）→Dorothy 邀请同行，3 句 2 次说话权切换，同一情绪基调（同情→愿望→解决方案），合并。
+- 原文：
+  1. "\"I'm very sorry,\" says Dorothy."
+     译："我很遗憾，"多萝西说。
+  2. "\"I want a brain,\" says the Scarecrow, \"Can the Wizard of Oz give me a brain?\""
+     译："我想要一个大脑，"稻草人说，"奥兹魔法师能给我一个大脑吗？"
+  3. "\"I don't know,\" says Dorothy, \"But you can come with me and ask him.\""
+     译："我不知道，"多萝西说，"但你可以跟我一起去问他。"
+
+**B2-10**（2 句）
+- 分组依据：稻草人道谢接受邀请（s24 邀请→s25 接受，§4 条件 B 跨分镜已拆）→托托盯着稻草人叫（焦点切到托托），2 句视觉焦点有切换，合并为一镜用多格承载。
+- 原文：
+  1. "\"Thank you!\" says the Scarecrow."
+     译："谢谢！"稻草人说。
+  2. "Toto looks at the Scarecrow and starts barking."
+     译：托托盯着稻草人，开始叫了起来。
+
+**B2-11**（2 句）
+- 分组依据：超 4 句候选块（s27-s31）四维度扫描：Dorothy 说→稻草人说，视觉焦点切换，强制拆分。s27-s28 Dorothy 安慰 Toto 的话，同一说话方 2 句，独立成镜。
+- 原文：
+  1. "\"Don't be afraid of Toto."
+     译："别害怕托托。
+  2. "He's a good dog,\" says Dorothy."
+     译：他是一只好狗，"多萝西说。
+
+**B2-12**（3 句）
+- 分组依据：稻草人连续独白，宣称不怕任何东西→唯一例外是火→主动提出拿篮子/不会累，同一说话方连续陈述，3 句，无四维度切换，合并。
+- 原文：
+  1. "\"Oh, I'm not afraid of anything!"
+     译："哦，我什么都不怕！
+  2. "Well, I am afraid of fire,\" says the Scarecrow, \"Let me carry your basket."
+     译：好吧，我怕火，"稻草人说，"让我来拿你的篮子。
+  3. "I never get tired.\""
+     译：我从不会累。"

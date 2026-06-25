@@ -1,0 +1,30 @@
+{
+  "project": "小气财神",
+  "test_scene_base": "在维多利亚时代的小屋内，一个贫穷但温馨的工人家庭围坐在壁炉旁享用圣诞晚餐，桌上摆着烤鹅和布丁，孩子们笑着欢呼，父亲举起酒杯，窗外是飘雪的冬夜街道，室内烛光温暖",
+  "styles": [
+    {
+      "id": "A",
+      "name": "迪士尼圣诞经典动画风",
+      "description": "迪士尼经典圣诞特辑动画（《米奇圣诞颂歌》时期）的手绘风格，角色造型圆润可爱，圣诞红与松绿组成欢乐的节日色调；烛光与雪景以流畅的动画笔触呈现，整个画面洋溢出迪士尼式的节日温情与魔法感。",
+      "test_scene_prompt": "A poor but warm Victorian family sits around a fireplace for Christmas dinner, roast goose and pudding on table, children cheering, father raising a glass, snowy winter street through window, warm candlelight inside — Disney classic Christmas animation style like Mickey's Christmas Carol, rounded lovable character designs, festive Christmas red and pine green palette, warm glowing candlelight rendering, cheerful holiday atmosphere, fluid hand-drawn animation quality, wholesome family warmth, magical Christmas storybook feeling"
+    },
+    {
+      "id": "B",
+      "name": "维多利亚圣诞贺卡水彩风",
+      "description": "19世纪真实维多利亚圣诞贺卡的精美水彩插画风格，配色以深红、圣诞绿与金色为主，带装饰性花卉和冬青边框；画面精巧细致如一张古董贺卡，既有时代感又温馨可人。这是本故事最贴合历史背景的风格选择。",
+      "test_scene_prompt": "A poor but warm Victorian family sits around a fireplace for Christmas dinner, roast goose and pudding on table, children cheering, father raising a glass, snowy winter street through window, warm candlelight inside — authentic Victorian Christmas greeting card watercolor illustration style, rich crimson and Christmas green with gold accents, decorative holly and winter botanical border motifs, precious antique card aesthetic, warm intimate candlelit scene, delicate fine brushwork, nostalgic Victorian holiday charm"
+    },
+    {
+      "id": "C",
+      "name": "Beatrix Potter英式温馨绘本风",
+      "description": "Beatrix Potter（《彼得兔》作者）的英式水彩绘本风格，温柔细腻的笔触与自然的色调；场景如一个精巧的微型世界，每个人物都有独立的性格细节。这种风格将Cratchit一家描绘成英国读者心目中最亲切的家庭形象，温暖得让人想流泪。",
+      "test_scene_prompt": "A poor but warm Victorian family sits around a fireplace for Christmas dinner, roast goose and pudding on table, children cheering, father raising a glass, snowy winter street through window, warm candlelight inside — Beatrix Potter English watercolor picture book style, soft delicate brushwork with gentle natural colors, intimate miniature world detail, each character with distinct personality, warm earthy tones with soft candlelight, cozy domestic interior scene, quiet tender storytelling quality, beloved English children's book aesthetic"
+    },
+    {
+      "id": "D",
+      "name": "Rankin/Bass圣诞定格动画风",
+      "description": "经典美国圣诞定格动画（Rankin/Bass出品，如《鲁道夫红鼻驯鹿》）的毛绒玩具质感，角色如精雕木偶般可爱，有明显的手工制作温度；色彩以饱和圣诞色系为主，整体散发出经典圣诞特辑的怀旧温情，对儿童有强烈的情感感召力。",
+      "test_scene_prompt": "A poor but warm Victorian family sits around a fireplace for Christmas dinner, roast goose and pudding on table, children cheering, father raising a glass, snowy winter street through window, warm candlelight inside — Rankin Bass stop-motion Christmas special aesthetic, plush puppet-like character texture with handcrafted warmth, classic saturated Christmas color palette, vintage holiday special charm, warm fuzzy material quality, beloved nostalgic Christmas animation feeling, cozy puppet show intimacy"
+    }
+  ]
+}

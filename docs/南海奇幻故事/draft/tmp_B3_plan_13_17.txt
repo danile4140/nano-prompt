@@ -1,0 +1,77 @@
+**B3-13**（2 句）
+- 分组依据：同一节拍——科欧拉内心独白：悔恨离家、逃跑却到了魔法岛。这是一个心理独白节拍，情绪为悔恨/绝望，是B3-12认出女子后的直接心理反应，与B3-12共同构成"触发→内心崩溃"的因果链，但B3-12已独立，B3-13为独立心理节拍
+- 原文：
+  1. "'I've left my home, my wife Lehua and my friends in Molokai,' Keola thought sadly."
+     译："我已经离开了我在莫洛凯的家、妻子莱华和朋友，"科欧拉难过地想。
+  2. "'I've travelled far to escape from Kalamake, and now I'm on his magic island! This is terrible. Why didn't I stay in Molokai?'"
+     译："我千里逃离卡拉马克，结果却来到了他的魔法岛！太糟糕了。我为什么不留在莫洛凯？"
+
+**B3-14**（4 句）
+- 分组依据：同一节拍——科欧拉如何应对新处境：独居茅屋、少说话、不信任过于友善的人、只告诉他们名字和八岛之名。这是"科欧拉的防御性生存策略"节拍，连续状态描述，情绪基调统一（谨慎/防范）
+- 原文：
+  1. "Keola stayed in his hut near the lagoon and never went to the other side of the island."
+     译：科欧拉待在礁湖边的茅屋里，从不去岛的另一侧。
+  2. "He spoke very little."
+     译：他极少开口说话。
+  3. "He did not trust his new friends because they were too kind."
+     译：他不信任他的新朋友，因为他们太过热情。
+  4. "After his terrible experience with Kalamake he was very careful."
+     译：经历了与卡拉马克的那段可怕遭遇后，他变得十分谨慎。
+
+**B3-15**（2 句）
+- 分组依据：同一节拍——科欧拉只告诉他们名字、八岛和国王宫殿。连续"科欧拉向部落人透露的有限信息"，是B3-14的直接延续；但考虑B3-14已4句，这2句另立，属同一"谨慎策略"节拍的尾声
+- 原文：
+  1. "He told them nothing about himself, only his name and the name of his islands — the Eight Islands."
+     译：他对他们什么都不说，只告诉了他们自己的名字和他的岛屿名称——八岛。
+  2. "He also told them about the king's palace in Honolulu and that he was a friend of the king."
+     译：他还告诉了他们火奴鲁鲁国王宫殿的事，以及说他是国王的朋友。
+
+**B3-16**（4 句）
+- 分组依据：同一节拍——科欧拉向部落人打听、获知"声音之岛"的来历（属于部落、每年来一次、绿岛才是主要居住地）。这是一个"获取信息"节拍，时间推进但视觉焦点均为科欧拉与部落人的问答，情绪基调为好奇/探索
+- 原文：
+  1. "Keola asked the people of the tribe a lot of questions and learned a lot of new things."
+     译：科欧拉向部落里的人提了很多问题，学到了许多新东西。
+  2. "The island where he was living was called the Isle of Voices and it belonged to the tribe."
+     译：他所居住的这座岛叫做声音之岛，属于这个部落。
+  3. "However, they lived on another island called the Green Island most of the year."
+     译：然而，他们大多数时间住在另一座叫绿岛的地方。
+  4. "It was about three hours away by boat."
+     译：乘船大约需要三个小时。
+
+**B3-17**（4 句）
+- 分组依据：同一节拍——绿岛的描述（家园/农场/鸡猪）+ 每年来声音之岛的原因（绿岛鱼有毒）+ 大副的死讯（吃了毒鱼）。这是一个"获取信息延续"节拍，连续叙述，情绪有轻微转折（大副死讯是好消息），但均在"科欧拉了解岛情"的同一节拍内
+- 原文：
+  1. "They had their homes, gardens, chickens and pigs on the Green Island."
+     译：他们在绿岛上有自己的家园、菜园、鸡和猪。
+  2. "They travelled to the Isle of Voices once a year when the fish around the Green Island became poisonous."
+     译：他们每年来一次声音之岛，是因为绿岛附近的鱼会变得有毒。
+  3. "After Keola escaped from the ship, the captain and the mate sailed to the Green Island. The mate died there because he ate poisonous fish."
+     译：科欧拉从船上逃走后，船长和大副航行到了绿岛。大副在那里死了，因为他吃了有毒的鱼。
+  4. "The people of the island told him that the fish was poisonous, but he was stupid and did not listen to them. This was good news for Keola because he was afraid of the mate and did not want to see him again."
+     译：岛上的人告诉他鱼有毒，但他愚蠢地不听。这对科欧拉来说是好消息，因为他害怕大副，不想再见到他。
+
+---
+
+**最终汇总**：
+
+| 分镜ID | 句数 |
+|--------|------|
+| B3-1   | 4    |
+| B3-2   | 4    |
+| B3-3   | 4    |
+| B3-4   | 4    |
+| B3-5   | 3    |
+| B3-6   | 4    |
+| B3-7   | 3    |
+| B3-8   | 4    |
+| B3-9   | 3    |
+| B3-10  | 4    |
+| B3-11  | 4    |
+| B3-12  | 2    |
+| B3-13  | 2    |
+| B3-14  | 4    |
+| B3-15  | 2    |
+| B3-16  | 4    |
+| B3-17  | 4    |
+
+共 **17** 条分镜

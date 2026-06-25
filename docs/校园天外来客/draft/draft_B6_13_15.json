@@ -1,0 +1,54 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B6-13",
+      "character_refs": [
+        "C3",
+        "C13"
+      ],
+      "scene_refs": [
+        "S12"
+      ],
+      "covered_sentences": [
+        "Slowly, very slowly, I opened the door. Just a crack. It was Mr. Adams! He was typing a kind of code on the screen. Was it a password?",
+        "Then he took a small, plastic object from his pocket. It looked like a key. He inserted it in the diskette slot.",
+        "The screen blacked out. It flickered. Then something appeared: it was the face of an alien!!!!",
+        "The alien had a green head and big, red eyes. It didn't have hair and it didn't have a nose. Its mouth and ears were very small."
+      ],
+      "layout": "构图与镜头：2×2网格四格构图（连续4步行动链，条件C加密）；左上格：珍妮开门缝发现亚当斯输入代码（发现格）；右上格：亚当斯取出塑料物件插入磁盘槽（道具行动格）；左下格：屏幕黑屏闪烁（悬念格）；右下格：外星人脸出现（高潮揭晓格）。左上镜头：走廊门外，透过门缝斜侧30°平视，看向亚当斯（C3）在电脑前打字的中景，门框边缘前景；右上镜头：斜侧45°俯角，看向亚当斯（C3）从口袋取出钥匙插入磁盘槽的道具近景；左下镜头：正面平视屏幕，看向黑屏闪烁的电脑屏幕（无角色）；右下镜头：屏幕正面近景，看向出现在屏幕上的外星人脸（C13戈尔兹），屏幕发绿光。比例锚点：左上格：亚当斯（C3）坐于电脑桌，头顶约与显示器上缘齐，显示器约至坐姿胸口；右上格：亚当斯（C3）手持钥匙插入磁盘槽，手部近景，磁盘槽约为手指宽度2倍；左下格：屏幕特写，无角色；右下格：屏幕上外星人脸（C13），屏幕约占格子2/3。动作与关系：左上格：亚当斯（C3）背对门坐在电脑前，专注打字，表情看不见（背影+侧脸）；门框前景约占画面左侧1/5；无气泡（偷看视角）；右上格：亚当斯（C3）手从口袋取出小型塑料物（像钥匙），插入磁盘槽，手部动作为主，D级道具图标：透明塑料小钥匙简笔画；头旁B级符号：深蓝色问号（这是什么）；左下格：电脑屏幕黑屏后闪烁，无角色，只有屏幕画面为主（黑→闪烁图示），拟声词大字FLICKER（屏幕闪烁）；右下格：屏幕上出现外星人脸（戈尔兹，C13），绿色光头，大红色眼睛，无鼻子，极小嘴巴，屏幕发绿光；拟声词大字ALIEN!在右下格右上角；B级符号：橙红色感叹号+速度线（揭晓时的冲击感）。场景：学校计算机室（S12），夜晚；多排电脑桌，亚当斯坐于靠窗一台；门框可见；各格背景通过机位自然受限。【环境状态】物理场景：学校计算机室（S12），当前环境：夜晚，视觉覆盖：室内灯亮（电脑室灯光），冷白荧光，屏幕蓝白光，与走廊黑暗形成对比，原因：a light was on in the computer room。光影与色彩：计算机室冷白荧光；屏幕蓝白+右下格绿光（外星人脸出现时屏幕发绿色光）；左上格因门缝视角有暗框压边效果。主体与角色：逐格角色预算：左上1人（亚当斯C3，背影）；右上1人（亚当斯C3，手部近景）；左下0人（屏幕特写）；右下1人（戈尔兹C13，屏幕内外星人脸）；亚当斯（引用C3）和戈尔兹（引用C13）均可辨识。【情绪标记】强度：强，类型：惊吓，推荐视觉手段：右下格速度线+橙红色感叹号+绿色屏幕光。"
+    },
+    {
+      "id": "B6-14",
+      "character_refs": [
+        "C3b",
+        "C13"
+      ],
+      "scene_refs": [
+        "S12"
+      ],
+      "covered_sentences": [
+        "Then Mr. Adams put his hands on his head. He was pulling at his hair. It started to come apart! He was taking off his hair, and his face!",
+        "A green, bald head surfaced: I realised that he was identical to the alien on the screen!",
+        "He put his 'face' on the computer table."
+      ],
+      "layout": "构图与镜头：左右二分构图（前后对比，2:1比例，左格过程，右格结果）；左格：亚当斯摘除面具的过程（拉扯头发动作，前半脱除中）；右格：绿色光头真身浮现+与屏幕外星人对比（揭晓高潮）。左格镜头：计算机室内，斜侧30°平视，看向亚当斯（人类伪装）双手拉扯头发的近中景，屏幕在背景；右格镜头：低机位仰角20°，看向克莱格（C3b）绿色光头真身揭晓的近景+背景屏幕上戈尔兹（C13）的对应，强调一模一样。比例锚点：左格：亚当斯（C3）坐于电脑桌，双手拉发，头顶约与显示器上缘齐；右格：克莱格（C3b）绿色光头，坐姿，头顶约与显示器上缘齐，仰角仰拍，头顶约达格子2/3；屏幕内戈尔兹（C13）在背景右上角可见，约为格子1/4大小。动作与关系：左格：亚当斯/克莱格（C3）双手抓住金色头发往上拉，头发开始脱离（可用分格线或动感线表达脱落感），面具边缘隐约可见裂缝；无气泡（视觉震撼）；B级符号：橙红色感叹号（揭晓时的戏剧感）；右格：克莱格（C3b）已露出绿色光头，将人类面具放于电脑桌面，表情平静（无表情）；背景屏幕上戈尔兹（C13）的绿色光头大红色眼睛与克莱格真身一一对应（视觉echo）；右格道具：人类面具放在桌面（扁平面具状道具，皮肤色，放于桌面）；右格A级氛围：淡金色朦胧星屑炸开飘散，伴随细碎光斑漩涡，柔白光晕扩散（变身高潮AURA-MAGIC）。场景：学校计算机室（S12），夜晚；电脑桌、显示器、磁盘槽可见；右格背景屏幕上戈尔兹脸可见。光影与色彩：计算机室冷白荧光+屏幕绿光（外星人揭晓时绿光更强）；右格克莱格真身绿色肤色在冷白光下鲜明。主体与角色：逐格角色预算：左格1人（亚当斯C3，拉发过程中），右格1人（克莱格C3b，真身揭晓）+屏幕内戈尔兹（C13）作为背景画面可辨识；克莱格（引用C3b）和戈尔兹（引用C13）在右格均可辨识。【情绪标记】强度：强，类型：惊吓，推荐视觉手段：右格AURA-MAGIC+绿色光头特写+速度线。"
+    },
+    {
+      "id": "B6-15",
+      "character_refs": [
+        "C3b",
+        "C13"
+      ],
+      "scene_refs": [
+        "S12"
+      ],
+      "covered_sentences": [
+        "Then the false Mr. Adams started talking. 'Klyreg calls base. Klyreg here. Klyreg calls base.' 'ALTANK PILLEX, Klyreg. How is your mission proceeding?' said the alien on the screen with a mechanical voice.",
+        "'For now everything is OK. But I'm already tired of this mask, and I hate speaking this barbarian language!' 'English is not a barbarian language!' I thought angrily.",
+        "'I'm sorry, but your voice implant must stay inside you until the mission has finished. Then we can remove it. Tell me, does anyone suspect you?' 'No, I don't think so. I had a small problem with an old math teacher, but I was in disguise, and I tied her up in a closet. So, everything's fine.'",
+        "'Ha ha! You're wrong! I'm here now!' I thought."
+      ],
+      "layout": "构图与镜头：2×2网格四格构图（克莱格与屏幕外星人通话4个关键交换）；左上格：克莱格（C3b）呼叫基地+屏幕戈尔兹（C13）回应（通话建立）；右上格：克莱格抱怨面具和语言+珍妮内心愤怒（多声部）；左下格：戈尔兹询问任务进展+克莱格回答绑住程老师（任务揭晓）；右下格：珍妮内心嘲笑（你错了）。左上镜头：计算机室旁侧，斜侧30°，看向克莱格（C3b）面对屏幕说话，屏幕上戈尔兹（C13）可见；右上镜头：克莱格背后过肩，看向屏幕戈尔兹；左下镜头：斜侧30°平视，看向克莱格说话+屏幕戈尔兹回应；右下镜头：门缝视角，斜侧20°，看向隐约在门缝外的珍妮（C1）思维气泡（不可辨识入镜，仅思维气泡可见于门缝处）。比例锚点：各格：克莱格（C3b）坐于电脑桌，头顶约与显示器上缘齐；屏幕约占各格背景1/3；左上右下格：克莱格中近景，头部约占1/3；右下格：门缝处的珍妮思维气泡（不直接入镜）。动作与关系：左上格：克莱格（C3b）面对屏幕，手放桌上，机械说话姿态；头旁对白气泡（Klyreg!+感叹号，D1：星际通讯图标，D2：calls，D3：感叹号）；屏幕戈尔兹（C13）对白气泡（Mission!+深蓝色问号，D1：星球图标，D3：问号）；右上格：克莱格（C3b）皱眉（厌倦面具），头旁气泡（Mask!+叉号，D1：人类面具图标，D3：叉号）；旁侧小思维气泡（珍妮在外生气，用门缝边缘的愤怒线条暗示）；左下格：戈尔兹问+克莱格回答（绑住老数学老师），各人气泡：戈尔兹（Suspect?+问号，D3：问号），克莱格（Closet!+感叹号，D1：绑绳图标+程老师mini_icon——黑色短发亚裔女教师，方框眼镜，D3：感叹号）；右下格：门缝处可见珍妮思维气泡（外部可见的云状气泡从门缝飘出，内画珍妮愤怒表情+Ha ha图标，承载珍妮内心的暗自得意）。场景：学校计算机室（S12），夜晚，延续；各格通过机位受限；门缝在右下格画面边缘可见。光影与色彩：计算机室冷白荧光+屏幕绿光；右下格门缝边缘冷蓝（走廊侧）。主体与角色：逐格角色预算：各格1-2人（克莱格C3b+屏幕戈尔兹C13）；珍妮在右下格以思维气泡从门缝可见，不可辨识入镜；克莱格（引用C3b）和戈尔兹（引用C13）在各格均可辨识。"
+    }
+  ]
+}

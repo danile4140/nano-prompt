@@ -1,0 +1,65 @@
+**B7-1**（2 句）
+- 分组依据：时间标记（next morning）触发新节拍；句1空间进入，句2稻草人当即提问，同一场景同一焦点，无情绪反转，合并。
+- 原文：
+  1. "The next morning the four friends go to the Wizard's room."
+     译：第二天早晨，四位朋友去到巫师的房间。
+  2. "The Scarecrow asks, \"Is my brain ready?\""
+     译：稻草人问道："我的大脑准备好了吗？"
+
+---
+
+**B7-2**（3 句）
+- 分组依据：奥兹连续说话（同一说话方），告知坐下→说明手术步骤→命令不动，同一话题同一情绪基调，≤4句合并。
+- 原文：
+  1. "\"Please sit down,\" says Oz, \"First I must open your head."
+     译：奥兹说："请坐下，首先我得打开你的头。"
+  2. "Then I can put your brain in the right place."
+     译：然后我才能把你的大脑放到正确的位置。
+  3. "Now don't move.\""
+     译：现在不要动。"
+
+---
+
+**B7-3**（2 句）
+- 分组依据：奥兹打开脑盒→放入大脑，连续动作步骤，同一空间同一焦点（奥兹+稻草人），过渡性动作链，合并。
+- 原文：
+  1. "The little man opens a green box with the word \"brain\" on it."
+     译：这个小老头打开了一个写着"brain（大脑）"字样的绿色盒子。
+  2. "He slowly puts a brain into the Scarecrow's head."
+     译：他慢慢地把一个大脑放进了稻草人的头里。
+
+---
+
+**B7-4**（2 句）
+- 分组依据：条件B触发-转折因果链：奥兹宣告大脑已植入（触发/宣告）→稻草人感谢并欢呼（情绪反转/接受），说话方切换，必须分格；≤4句，双格同一分镜。
+- 原文：
+  1. "\"Now you have a brain you are a very clever Scarecrow,\" says Oz."
+     译：奥兹说："现在你有了大脑，你是一个非常聪明的稻草人了。"
+  2. "\"Oh, thank you!\" says the Scarecrow, \"I finally have a brain!\""
+     译：稻草人说："哦，谢谢你！我终于有大脑了！"
+
+---
+
+**B7-5**（3 句）
+- 分组依据：视角切换到铁皮樵夫（新角色成为叙事焦点）；句10-11状态描述（铁皮樵夫排队+兴奋），句12提问，同一角色同一情绪（期待），≤4句合并。
+- 原文：
+  1. "The Tin Woodman is next."
+     译：铁皮樵夫排在了下一个。
+  2. "He is excited."
+     译：他非常兴奋。
+  3. "\"Where is my heart?\" he asks."
+     译：他问道："我的心脏在哪里？"
+
+---
+
+**B7-6**（3 句）
+- 分组依据：奥兹取出心脏（关键道具首次出现），并连续说明（同一说话方），句13动作+句14-15台词，同一焦点（奥兹+红心道具），≤4句合并。
+- 原文：
+  1. "Oz goes to a big green box and takes out a beautiful heart."
+     译：奥兹走向一个大绿箱子，取出一颗漂亮的心脏。
+  2. "\"Here is a special red heart."
+     译：奥兹说："这是一颗特别的红心。
+  3. "Wear it all the time,\" says Oz."
+     译：要一直戴着它。"
+
+---

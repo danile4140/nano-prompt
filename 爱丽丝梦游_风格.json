@@ -1,0 +1,30 @@
+{
+  "project": "Alice in Wonderland",
+  "test_scene_base": "A girl and a man in a tall top hat, a rabbit in a waistcoat, and a sleepy dormouse sitting around a long outdoor table under a large tree, the table cluttered with teapots and teacups of all sizes",
+  "styles": [
+    {
+      "id": "A",
+      "name": "英式复古水彩",
+      "description": "灵感来自维多利亚时代英国绘本，精细黑色钢笔轮廓线搭配淡雅水彩晕染。色调以奶黄、茶褐、薰衣草、苔绿为主，笔触轻柔，水痕自然，带有泛黄纸张质感，优雅而细腻。",
+      "test_scene_prompt": "A girl and a man in a tall top hat, a rabbit in a waistcoat, and a sleepy dormouse sitting around a long outdoor table under a large tree, the table cluttered with teapots and teacups of all sizes. Fine black ink pen line art with delicate transparent watercolor wash, Victorian-era English picture book illustration style, antique palette of cream, sepia, lavender and sage green, natural watercolor blooms and soft wet edges on textured paper, elegant refined character design with expressive faces, nostalgic warm mood. No flat vector, no engraving crosshatch, no photography, no digital clean lines."
+    },
+    {
+      "id": "B",
+      "name": "日系软蜡笔可爱风",
+      "description": "角色造型圆润可爱、眼睛大而有神，采用软蜡笔与彩铅混合媒介。色彩粉嫩温柔，带有明显的蜡笔粗粒和彩铅线条质感，整体氛围轻松愉快，像日系儿童读物的封面插画。",
+      "test_scene_prompt": "A girl and a man in a tall top hat, a rabbit in a waistcoat, and a sleepy dormouse sitting around a long outdoor table under a large tree, the table cluttered with teapots and teacups of all sizes. Cute rounded chibi-style character designs with large sparkling eyes, soft pastel crayon and colored pencil mixed media, Japanese children picture book style, warm pastel palette of strawberry pink, mint green, butter yellow and baby blue, visible crayon grain and pencil stroke texture, cheerful cozy atmosphere, simple clean outlines with soft hand-colored fill. No flat vector, no engraving, no photography."
+    },
+    {
+      "id": "C",
+      "name": "水粉厚涂梦幻风",
+      "description": "使用水粉颜料厚涂技法，色彩鲜艳饱满，笔触大胆有力。无明显轮廓线，通过色块对比塑造形体，背景与角色自然融合，整体充满梦境般的超现实感，像当代艺术绘本。",
+      "test_scene_prompt": "A girl and a man in a tall top hat, a rabbit in a waistcoat, and a sleepy dormouse sitting around a long outdoor table under a large tree, the table cluttered with teapots and teacups of all sizes. Gouache opaque paint thick impasto style, vibrant saturated jewel tones, bold expressive visible brushstrokes, shapes defined purely by color contrast without ink outline, dreamlike surreal storybook atmosphere, rich palette of deep teal, warm ochre, magenta and forest green, visible pigment texture and painterly layers, contemporary picture book aesthetic. No flat vector, no engraving, no photography, no line art."
+    },
+    {
+      "id": "D",
+      "name": "剪纸拼贴混搭风",
+      "description": "以彩色纸张剪贴拼接为主要媒介，叠加简单手绘线条细节，具有明显的手工感和纸张层次质感。色彩大胆对比，形状简洁有趣，带有当代独立出版物的实验艺术气息。",
+      "test_scene_prompt": "A girl and a man in a tall top hat, a rabbit in a waistcoat, and a sleepy dormouse sitting around a long outdoor table under a large tree, the table cluttered with teapots and teacups of all sizes. Paper cut collage mixed media illustration, layered torn and cut colored paper with visible paper edges and tactile texture, bold contrasting color shapes, simple organic silhouettes with minimal hand-drawn line detail accents, warm earthy palette of terracotta, mustard yellow, deep moss green and cobalt blue, handmade craft quality, playful modern picture book style. No flat vector, no engraving, no photography."
+    }
+  ]
+}

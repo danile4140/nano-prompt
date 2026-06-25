@@ -1,0 +1,110 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B5-7",
+      "character_refs": [
+        "C1",
+        "C9"
+      ],
+      "scene_refs": [
+        "S11"
+      ],
+      "covered_sentences": [
+        "The funeral will be very cheap because only a few people will go, the fat man continued.",
+        "I will go if there is a big lunch, the red-faced man said.",
+        "Another laugh. And then the men went away."
+      ],
+      "layout": "构图与镜头：单格构图，中心聚焦组织（三商人嘲讽结束离去）。镜头位于广场侧方，中近景，看向三个不可辨识商人边笑边离去的背影；斯克鲁奇（引用C1）和圣诞将来之灵（引用C9）在画面左侧旁观（离画）。比例锚点：三个商人背影约占画面高度50%，广场石板路面为参照，建筑石柱在后景约为人物身高的4倍。\n\n动作与关系：三个不可辨识商人（背影）互相推挤嘲笑，渐渐走开；附D级物品图标：餐盘简笔画+叉勺，承载葬礼有大餐才去的讽刺；附B级符号：深灰色小乌云，传达整体嘲讽漠然；斯克鲁奇（引用C1）在左侧边缘旁观，面露困惑，附深蓝色问号。\n\n场景：伦敦交易所广场（引用S11），白天（未来），三商人离去节拍。\n\n光影与色彩：冷白天光，漠然气氛。\n\n主体与角色：逐格角色预算：主画面可辨识0人（三商人背影为不可辨识）；斯克鲁奇（引用C1）在左侧边缘离画，幽灵（引用C9）离画。"
+    },
+    {
+      "id": "B5-8",
+      "character_refs": [
+        "C1",
+        "C9"
+      ],
+      "scene_refs": [
+        "S8"
+      ],
+      "covered_sentences": [
+        "Scrooge looked at the Ghost. Who are they talking about? he asked.",
+        "But the Ghost said nothing. It went into the street and showed Scrooge two men. He knew them. They were rich and important businessmen.",
+        "First they said hallo. Then one of them said: Well, he is finally dead. Yes, I have heard, answered his companion. Cold, is not it? Very cold. But it is the right weather for Christmas. Would you like to come ice-skating? No, thank you. I am too busy. Good morning."
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例1:2（左格辅格：斯克鲁奇询问幽灵；右格主格：两个富商的漠然谈话）。左格：镜头位于斯克鲁奇正前方，中近景，平视，看向斯克鲁奇询问的面部；右格：镜头位于两个富商侧方，中近景，斜侧30度，看向两个不可辨识富商交谈。比例锚点：左格斯克鲁奇面部约占画面高度65%；右格两个不可辨识富商均约占画面高度55%，街道建筑为后景参照。\n\n动作与关系：左格：斯克鲁奇（引用C1）面露困惑，头顶对白气泡内容抽取talking（深蓝色问号+小人轮廓，承载Who are they talking about）；右格：两个不可辨识富商轮廓，互相道别并漠然聊起有人死了，附D级物品图标：深灰色向下箭头（dead）；一个头顶对白气泡内容抽取dead（深灰色向下箭头）；另一个头顶对白气泡内容抽取ice-skating（冰刀简笔画+深蓝色问号，承载邀请溜冰）；整体漠然态度用深灰色小乌云表达。\n\n场景：城市街道（引用S8），白天（未来），冬日寒冷。\n\n光影与色彩：冷白天光，寒冷街道。\n\n主体与角色：逐格角色预算：左格可辨识1人——斯克鲁奇（引用C1）；右格可辨识0人（两个富商为不可辨识轮廓）。"
+    },
+    {
+      "id": "B5-9",
+      "character_refs": [
+        "C1",
+        "C9"
+      ],
+      "scene_refs": [
+        "S8"
+      ],
+      "covered_sentences": [
+        "That was the end of their conversation.",
+        "Scrooge was surprised.",
+        "Who were they talking about? He could not think of anybody. Old Marley died seven years ago and this Ghost was showing him the future.",
+        "He decided to wait and see. He looked around but could not see himself anywhere. Was not he there in the future? Silent and black, the Ghost stood near him. He knew that it was watching him and he trembled."
+      ],
+      "layout": "构图与镜头：单格构图，心理/想象组织，主画面+思维气泡（斯克鲁奇内心困惑：找不到自己）。主画面：镜头位于斯克鲁奇左侧，中近景，平视，看向斯克鲁奇环顾四周找不到自己；圣诞将来之灵（引用C9）在画面右侧黑色剪影，沉默矗立；思维气泡在左上角，承载斯克鲁奇的困惑猜测。比例锚点：斯克鲁奇全身约占画面高度55%；圣诞将来之灵在右侧黑色剪影约占画面高度65%，沉默压迫；街道建筑为参照。\n\n动作与关系：斯克鲁奇（引用C1）转头环顾四周，面露困惑和预感，附B级符号：深蓝色问号+浅蓝色水滴；思维气泡（原文明确写could not think of anybody/decided to wait and see）：内画斯克鲁奇mini_icon（稀疏白发，高顶黑礼帽，深灰外套）+红色问号+红色叉号，承载找不到自己的预感；圣诞将来之灵（引用C9）黑色剪影静默矗立，骨感白手隐约可见，附B级符号：深灰色小乌云，承载slient and black watching感。\n\n场景：城市街道（引用S8），白天（未来），斯克鲁奇找不到自己的心理节拍。\n\n光影与色彩：冷白天光，斯克鲁奇面部冷灰调，圣诞将来之灵黑色剪影高对比。\n\n主体与角色：逐格角色预算：主画面可辨识2人——斯克鲁奇（引用C1）+圣诞将来之灵（引用C9），街道建筑约为人物身高的2倍。"
+    },
+    {
+      "id": "B5-10",
+      "character_refs": [
+        "C1",
+        "C9",
+        "C24"
+      ],
+      "scene_refs": [
+        "S12"
+      ],
+      "covered_sentences": [
+        "They went into a poor part of the city where the streets were dirty and narrow.",
+        "There were dark shops and houses, and the people looked ugly and miserable. A lot of them were drunk.",
+        "Rubbish was everywhere, and there were bad smells. The quarter was full of dangerous criminals.",
+        "Scrooge followed the Ghost into a small, dark shop.",
+        "It was full of dirty, old things—bottles, clothes, keys, chains. A man of about seventy with grey hair sat near a fire and smoked his pipe."
+      ],
+      "layout": "构图与镜头：左右二分构图，比例1:2（左格辅格：贫民区街道外景建立；右格主格：旧货铺内老乔近景）。左格：镜头位于贫民区街道侧方，中景斜侧30度，看向狭窄肮脏街道，斯克鲁奇（引用C1）和圣诞将来之灵（引用C9）走入；右格：镜头位于旧货铺内，中近景，斜侧30度，看向老乔（引用C24）坐于炉旁抽烟斗的场景，旧货堆满四周。比例锚点：左格斯克鲁奇全身约占画面高度50%，街道两侧建筑约为人物身高的2倍；右格老乔（引用C24）坐姿，头顶约与铺内旧货架等高，烟斗约在其嘴部，炉旁木椅约在其腰部。\n\n动作与关系：左格：斯克鲁奇（引用C1）和圣诞将来之灵（引用C9）走入贫民区，街道脏乱，不可辨识醉酒路人群体；附B级符号：深灰色小乌云，传达贫民区阴暗危险感；右格：老乔（引用C24）坐于铺内炉旁，灰白稀疏短发，蜡黄满皱老人，破旧深灰长外套，右手持长烟斗，炉火微光；旧货堆（瓶子、衣物、钥匙、铁链）在四周为场景锚点。\n\n场景：左格：贫民区狭窄街道，夜间（未来），肮脏危险；右格：贫民区旧货铺（引用S12），夜间，昏暗，炉火微光。【风格调整】触发原因：贫民区阴暗危险，旧货铺昏暗腐朽。调整方向：深灰黑色调，低饱和度，昏暗阴沉。调整范围：本镜。\n\n光影与色彩：深灰黑色调，左格街道无光，右格炉火微光，整体昏暗腐朽。\n\n主体与角色：逐格角色预算：左格可辨识2人——斯克鲁奇（引用C1）+圣诞将来之灵（引用C9）；右格可辨识1人——老乔（引用C24），约70岁，灰白稀发，蜡黄满皱，破旧深灰外套，右手持长烟斗，坐于炉旁。"
+    },
+    {
+      "id": "B5-11",
+      "character_refs": [
+        "C1",
+        "C9",
+        "C24",
+        "C25"
+      ],
+      "scene_refs": [
+        "S12"
+      ],
+      "covered_sentences": [
+        "Then a woman came in with a big, heavy box in her arms. She put it on the floor and sat down. Open it, Old Joe, she said, and give me the money.",
+        "The man opened the box. What are these? he said.",
+        "Bed-curtains! Did you take them while he was in bed?",
+        "Yes. Why not? There was nobody with him. There are blankets too."
+      ],
+      "layout": "构图与镜头：横排三格构图，等宽三格承载交易序列。左格：死者女仆进入旧货铺放下大箱子；中格：老乔打开箱子查看；右格：死者女仆回答拿走了床帘和毯子。左格：镜头位于铺内门口，中景，看向死者女仆（引用C25）进入，抱着大木箱放下；中格：镜头位于炉旁，中近景，看向老乔（引用C24）打开箱子，面露审视；右格：镜头位于铺内侧方，中景，看向死者女仆（引用C25）和老乔（引用C24）的对话，床帘道具可见。比例锚点：左格死者女仆（引用C25）全身约占画面高度60%，大木箱放在地面约在其腰部；中格老乔坐姿，头顶约与旧货架等高，箱子在地面；右格两人站立/坐，铺内门框高于站立的女仆；斯克鲁奇（引用C1）和圣诞将来之灵（引用C9）在格子边缘旁观（离画）。\n\n动作与关系：左格：死者女仆（引用C25）腋下夹大木箱，进门，灰棕后扎发，尖刻面容，深棕粗布裙；中格：老乔（引用C24）打开箱子，面露精明算计，头顶对白气泡内容抽取these（深蓝色问号+床帘轮廓简笔画）；右格：死者女仆头顶对白气泡内容抽取bed-curtains（床帘轮廓+橙红色感叹号）；老乔面露满足，附B级符号：黄色小灯泡（精打细算）。\n\n场景：贫民区旧货铺（引用S12），夜间，昏暗，交易节拍。\n\n光影与色彩：昏暗灰黑，炉火微光，阴暗算计气氛。\n\n主体与角色：逐格角色预算：左格可辨识1人——死者女仆（引用C25）；中格可辨识1人——老乔（引用C24）；右格可辨识2人——死者女仆（引用C25）+老乔（引用C24），铺内门框高于死者女仆约半头。"
+    },
+    {
+      "id": "B5-12",
+      "character_refs": [
+        "C1",
+        "C9",
+        "C24",
+        "C25"
+      ],
+      "scene_refs": [
+        "S12"
+      ],
+      "covered_sentences": [
+        "His blankets? Of course! He will not need them where he is going.",
+        "Here is a beautiful, expensive shirt too. He was wearing it for his funeral. I thought, What a pity! This is a very fine shirt but nobody will wear it again. So, I took it off him.",
+        "You did well, madam, laughed Old Joe. You are a clever woman and you will make a fortune one day.",
+        "I must think of myself, like him. He was a selfish old miser. I cleaned his rooms and his clothes. I worked very hard for him but he never gave me anything. I wanted to take more things but his housekeeper took them before me."
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例1:1。左格：镜头位于死者女仆正前方偏侧，中近景，平视，看向死者女仆面部；右格：镜头位于老乔正前方偏侧，中近景，平视，看向老乔面部。比例锚点：左格死者女仆面部约占画面高度65%；右格老乔面部约占画面高度60%，烟斗在其嘴边。\n\n动作与关系：左格：死者女仆（引用C25）面露无耻算计，展示从死者身上取下的衬衫，头顶对白气泡内容抽取shirt（衬衫轮廓图标+橙红色感叹号），编号图示单气泡内2行：①床帘轮廓②衬衫轮廓，承载拿走的物品；右格：老乔（引用C24）大笑，面露精明，头顶对白气泡内容抽取clever（黄色小灯泡+橙红色感叹号）；附B级符号：深灰色小乌云，传达整体无耻道德低落气氛；斯克鲁奇（引用C1）在格子边缘旁观（离画），面露震惊恐惧。\n\n场景：贫民区旧货铺（引用S12），夜间，昏暗，无耻算计节拍。\n\n光影与色彩：昏暗灰黑，两人面部炉火微光，阴险算计气氛。\n\n主体与角色：逐格角色预算：左格可辨识1人——死者女仆（引用C25）；右格可辨识1人——老乔（引用C24）；斯克鲁奇（引用C1）离画。"
+    }
+  ]
+}

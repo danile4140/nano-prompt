@@ -1,0 +1,45 @@
+**B6-13**（4 句）
+- 分组依据：4个角色分别陈述各自所见的"巫师"形象（条件A：多主体独立表态），4句→2×2网格
+- 原文：
+  1. "\"But the Wizard is a big head with no body,\" says Dorothy."
+     译：多萝西说："但是巫师是一个没有身体的大头啊。"
+  2. "\"No, it's a beautiful woman,\" says the Scarecrow."
+     译：稻草人说："不，他是一个美丽的女人。"
+  3. "\"You're wrong, it's a monster with five eyes, five arms and five legs,\" says the Tin Woodman."
+     译：铁皮樵夫说："你们错了，他是一个有五只眼睛、五条胳膊和五条腿的怪物。"
+  4. "\"No,\" says the Lion, \"The Wizard is a big ball of fire.\""
+     译：狮子说："不，巫师是一个大火球。"
+
+**B6-14**（2 句）
+- 分组依据：小老头坦白真相→朋友们震惊反应（条件B触发-转折因果链），2句2格
+- 原文：
+  1. "\"You're all wrong,\" says the little man quietly, \"I am the Wizard, but I'm not a real Wizard. I'm from Kansas too. I like traveling in hot-air balloons. That is why I'm here.\""
+     译：小老头轻声说："你们都错了。我是巫师，但我不是真正的巫师。我也来自堪萨斯。我喜欢乘热气球旅行，这就是我在这里的原因。"
+  2. "\"Oh!\" say the four friends and they look at each other."
+     译：四个朋友说："哦！"然后互相看着对方。
+
+**B6-15**（1 句）
+- 分组依据：小老头继续独自解释身份与处境，单独一句长陈述，句43已构成节拍边界，此句独立成镜
+- 原文：
+  1. "\"The people here think I'm a wizard because I come from the sky,\" says the little man, \"I live inside this Palace and never go out. No one must see me. Everyone must think I'm a real wizard.\""
+     译：小老头说："这里的人认为我是巫师，因为我从天空降临。我住在宫殿里从不出去。没有人可以见到我。所有人都必须以为我是真正的巫师。"
+
+**B6-16**（2 句）
+- 分组依据：稻草人揭破翡翠城绿色把戏→小老头承认并道歉，对话2句形成完整揭穿+承认节拍
+- 原文：
+  1. "The Scarecrow takes off his glasses and says, \"The Emerald City isn't green. It just looks green, because everyone wears green glasses. It's a trick! Everything here is a trick!\""
+     译：稻草人摘下眼镜说："翡翠城其实不是绿色的。它看起来是绿色的，只是因为所有人都戴着绿色眼镜。这是个把戏！这里所有东西都是把戏！"
+  2. "\"Yes, it's a trick,\" says the little man sadly, \"I'm very sorry, but I don't know any magic so I can't help you.\""
+     译：小老头悲伤地说："是的，这是个把戏。我非常抱歉，但我不懂任何魔法，所以我帮不了你们。"
+
+**B6-17**（4 句）
+- 分组依据：密室内，多萝西评价巫师→巫师辩解→稻草人再次要求兑现承诺→巫师推延，4句同一场景话题从评价切换到再次请求，情绪基调平稳，四维度无强制拆分点，保留4句
+- 原文：
+  1. "\"You're a bad man,\" says Dorothy."
+     译：多萝西说："你是个坏人。"
+  2. "\"No, I'm a good man, but I am a very bad wizard,' he says."
+     译：他说："不，我是个好人，但我是个非常糟糕的巫师。"
+  3. "\"Now the Wicked Witch of the West is dead,\" says the Scarecrow, \"You must keep your promise. I want a brain!\""
+     译：稻草人说："现在西方坏女巫死了，你必须遵守你的承诺。我要大脑！"
+  4. "\"You're right,\" says Oz, \"I must keep my promise. Come back tomorrow.\""
+     译：奥兹说："你说得对，我必须遵守承诺。明天再来。"

@@ -1,0 +1,67 @@
+**B6-1**（4 句）
+- 分组依据：同一节拍——科欧拉感到高兴莱华在旁，但仍害怕（树林的战斗），内心挣扎要鼓起勇气。这是"出发前的心理挣扎"节拍，延续上章末尾情绪，连续内心独白，四句均服务于"鼓起勇气出发"这一节拍
+- 原文：
+  1. "Keola was glad that Lehua was near him."
+     译：科欧拉很高兴莱华就在他身边。
+  2. "He knew he had to get the wizard's leaves and there was little time."
+     译：他知道他必须去取巫师的树叶，时间不多了。
+  3. "But he was afraid, very afraid."
+     译：但他很害怕，非常害怕。
+  4. "He thought about the battle in the woods and knew it was dangerous to be there."
+     译：他想到树林里的战斗，知道那里很危险。
+
+**B6-2**（2 句）
+- 分组依据：必拆充要条件B——科欧拉内心决定"我必须勇敢去"→行动出发。这是触发-行动节拍（从犹豫→决断），情绪从恐惧转向勇气，独立节拍
+- 原文：
+  1. "'I must be brave and go,' he thought. 'Lehua is waiting for me.'"
+     译："我必须鼓起勇气去，"他心想，"莱华在等我。"
+  2. "He ran back to the woods, got the leaves and returned to Lehua."
+     译：他跑回树林，取到树叶，返回莱华身边。
+
+**B6-3**（4 句）
+- 分组依据：同一节拍——莱华帮他站上草席、点火，战斗声不断传来。这是"仪式执行"节拍，视觉焦点从科欧拉取叶奔跑切换到草席上的仪式准备，独立节拍，四句均为仪式准备中的连续描述
+- 原文：
+  1. "She helped him put his feet on the mat and then she made the fire."
+     译：她帮他把脚站上草席，然后生起火来。
+  2. "As it was burning Keola heard the noise of the battle in the woods."
+     译：就在火燃烧时，科欧拉听见了树林中战斗的声音。
+  3. "The wizards and the cannibals were fighting desperately and screaming."
+     译：巫师们和食人族们在拼死战斗，大声叫喊。
+  4. "It was a long, terrible battle."
+     译：那是一场漫长而可怕的战斗。
+
+**B6-4**（4 句）
+- 分组依据：同一节拍——科欧拉站在原地听着、颤抖、目睹莱华隐形的手把树叶放入火中、火焰燃起差点烧手。这是"等待仪式完成的煎熬"节拍，视觉上是科欧拉在原地颤抖+隐形的莱华的手的奇异画面，连续紧张等待
+- 原文：
+  1. "And all this time Keola stood there and listened and trembled."
+     译：这整段时间科欧拉站在那里，听着，颤抖着。
+  2. "He watched as Lehua's invisible hands put the leaves in the fire."
+     译：他看着莱华隐形的双手把树叶放入火中。
+  3. "She worked quickly, the flames grew high and almost burnt his hands."
+     译：她动作迅速，火焰窜得很高，几乎烧到了他的双手。
+  4. "When the last leaf was burnt, Keola and Lehua were at home again on their island, Molokai."
+     译：当最后一片叶子烧尽，科欧拉和莱华再次回到了家园——莫洛凯岛。
+
+**B6-5**（4 句）
+- 分组依据：同一节拍——科欧拉看见莱华的欣喜、回到家的喜悦（看见妻子+吃到poi+从食人族逃出）。时间锚点切换（传送回家触发新节拍），这是"重聚与回家喜悦"情感高潮节拍（高潮加密D），四句均属该高潮节拍
+- 原文：
+  1. "Keola was very happy when he could finally see his wife Lehua."
+     译：科欧拉非常高兴终于能看见妻子莱华了。
+  2. "And he was pleased to be home again in Molokai, in front of a good bowl of poi: there was no poi on the ship or on the Isle of Voices."
+     译：他很高兴再次回到莫洛凯的家中，面前摆着一碗美味的波伊芋泥：船上和声音之岛上都没有波伊芋泥。
+  3. "But most of all he was happy because he escaped from the cannibals."
+     译：但最令他高兴的是，他逃脱了食人族的魔爪。
+  4. "However, Keola and Lehua were worried about another problem, and they talked about it all night."
+     译：然而，科欧拉和莱华为另一个问题感到担忧，他们整夜谈论此事。
+
+**B6-6**（4 句）
+- 分组依据：同一节拍——两人讨论卡拉马克是否还在声音之岛、如果他回来就危险、巫师能在深海行走。这是"夜间讨论威胁"节拍，连续对话，情绪从喜悦回家转向忧虑谋划，独立节拍（情绪反转触发）
+- 原文：
+  1. "Kalamake was still on the Isle of Voices."
+     译：卡拉马克还在声音之岛上。
+  2. "'If Kalamake stays on the Isle of Voices, we're safe and we can live happily,' said Keola. 'But if he returns to Molokai we're both in great danger.'"
+     译："如果卡拉马克留在声音之岛，我们就安全，可以幸福地生活，"科欧拉说，"但如果他���到莫洛凯，我们两个都面临巨大的危险。"
+  3. "'Remember, my father is a wizard and can grow big and he can walk in the deep sea,' said Lehua."
+     译："记住，我父亲是个巫师，能变得巨大，还能在深海中行走，"莱华说。
+  4. "'I know,' said Keola, 'but the Isle of Voices is far away. It's in the dangerous archipelago. Let's find it on a map.'"
+     译："我知道，"科欧拉说，"但声音之岛在很远的地方。它在危险群岛里。我们在地图上找找看。"

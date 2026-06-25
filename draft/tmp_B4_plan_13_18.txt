@@ -1,0 +1,65 @@
+**B4-13**（3 句）
+- 分组依据：叙事高潮 B 类（身份揭晓变体）——稻草人进入后看见的是美丽女人幻象（句 29），稻草人请求赐予脑子（句 30），奥兹提出条件（句 31），三句构成完整的"稻草人觐见"节拍块；与前一镜已通过条件 D 拆分，3 句内无新切换。
+- 原文：
+  1. "But the Scarecrow does not see a big head: he sees a beautiful woman."
+     译：但稻草人看见的不是大头颅，而是一位美丽的女人。
+  2. ""Oh, great Oz, please give me a brain," says the Scarecrow."
+     译：「伟大的奥兹啊，请赐给我一个脑子，」稻草人说。
+  3. ""First you must kill the Wicked Witch of the West," says Oz."
+     译：「首先你必须杀死西方邪恶女巫，」奥兹说。
+
+---
+
+**B4-14**（2 句）
+- 分组依据：叙事高潮 B 类（身份揭晓变体）——铁皮樵夫进入觐见室（句 32）、看见五眼怪物幻象（句 33），视角切换到新角色+新幻象揭晓，独立高潮定格，2 句。
+- 原文：
+  1. "The Tin Woodman enters the green room."
+     译：铁皮樵夫走进了绿色房间。
+  2. "He sees an ugly monster with five eyes, five arms and five legs."
+     译：他看见了一头丑陋的怪物，有五只眼睛、五条手臂和五条腿。
+
+---
+
+**B4-15**（2 句）
+- 分组依据：铁皮樵夫觐见对话——请求（句 34）→奥兹提条件（句 35），1 回合，同话题，2 句；与句 33 的幻象揭晓节拍已由视觉焦点切换（幻象→对话）分开。
+- 原文：
+  1. ""Oh, great Oz, please give me a heart," says the Tin Woodman."
+     译：「伟大的奥兹啊，请赐给我一颗心，」铁皮樵夫说。
+  2. ""First, you must help Dorothy and the Scarecrow kill the Wicked Witch of the West," says Oz."
+     译：「首先，你必须帮助多萝西和稻草人杀死西方邪恶女巫，」奥兹说。
+
+---
+
+**B4-16**（3 句）
+- 分组依据：叙事高潮 B 类（身份揭晓变体）——铁皮樵夫离开、狮子进入（句 36）、看见巨大火球幻象（句 37）、狮子害怕（句 38），三句构成"狮子觐见"的进场+揭晓+情绪反应节拍；情绪触发词："afraid"，强度：中。
+- 原文：
+  1. "The Tin Woodman leaves the room and the Lion goes in."
+     译：铁皮樵夫离开房间，狮子走了进去。
+  2. "He sees a big ball of fire."
+     译：他看见了一个巨大的火球。
+  3. "He is afraid!"
+     译：他吓坏了！
+
+---
+
+**B4-17**（2 句）
+- 分组依据：狮子觐见对话——请求勇气（句 39）→奥兹提条件（句 40），1 回合，同话题，2 句；与句 38 的情绪反应节拍已由焦点（恐惧反应→开口请求）分开作为本镜内格内多格处理，但考虑到节拍延续性，合并入本镜更合适（情绪由害怕→鼓起勇气请求，是同一节拍块内的渐进推进，无情绪反转）。
+- 原文：
+  1. ""Oh, great Oz, please give me courage," says the Lion."
+     译：「伟大的奥兹啊，请赐给我勇气，」狮子说。
+  2. ""I can only give you courage when the Wicked Witch of the West is dead.""
+     译：「只有当西方邪恶女巫死了，我才能赐给你勇气。」
+
+---
+
+**B4-18**（3 句）
+- 分组依据：群体汇合+决策节拍——四人汇合谈论奇异巫师（句 41）、多萝西宣布必须去找女巫（句 42）、大家齐声附和（句 43），同一场景同一话题（决定行动），情绪基调一致（坚定），3 句。
+- 原文：
+  1. "When the friends meet, they talk about the strange Wizard."
+     译：朋友们相聚后，谈起了那位神奇的巫师。
+  2. ""Now we must find the Wicked Witch of the West and kill her," says Dorothy."
+     译：「现在我们必须找到西方邪恶女巫并杀死她，」多萝西说。
+  3. ""Yes, we must!" they all say."
+     译：「是的，我们必须这样做！」大家都说。
+
+---

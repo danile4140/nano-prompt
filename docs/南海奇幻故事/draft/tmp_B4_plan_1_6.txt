@@ -1,0 +1,65 @@
+**B4-1**（4 句）
+- 分组依据：同一节拍——部落人介绍声音之岛来历：无形恶魔居住在沙滩、用陌生语言说话、小火苗忽隐忽现。这是一个"信息传授"节拍，时间跳跃（新章节开始）触发新节拍，连续叙述，情绪基调为神秘/惊异
+- 原文：
+  1. "The people of the tribe told Keola about the Isle of Voices."
+     译：部落里的人把声音之岛的来历告诉了科欧拉。
+  2. "The island got its name from the invisible devils that lived on the beach near the sea."
+     译：这座岛因居住在海边沙滩上的隐形恶魔而得名。
+  3. "These invisible devils talked to each other in strange languages."
+     译：这些隐形恶魔用陌生的语言互相交谈。
+  4. "Little fires appeared and disappeared on the beach day and night."
+     译：日日夜夜，沙滩上小火苗不断忽隐忽现。
+
+**B4-2**（2 句）
+- 分组依据：同一节拍——无人明白原因 + 科欧拉很惊讶。这两句是B4-1叙述的结语，情绪基调延续（神秘），与B4-1句数合计为6句，超过4句须拆分。B4-1已4句，B4-2为独立2句节拍（无人能解答+科欧拉的反应）
+- 原文：
+  1. "But no one understood why."
+     译：但没有人明白其中缘由。
+  2. "Keola was very surprised to hear this."
+     译：科欧拉听到这些感到非常惊讶。
+
+**B4-3**（4 句）
+- 分组依据：同一节拍——科欧拉询问绿岛是否有同样现象、部落人回答"只有这里才有"、并安慰说只要不去沙滩就不会受伤。这是一个≤2回合对话节拍，情绪基调为安慰/探询，视觉焦点切换（科欧拉问→部落人答），但属同一对话场景内，合并合理
+- 原文：
+  1. "'Does this happen on the Green Island too?' asked Keola."
+     译："绿岛上也有这种情况吗？"科欧拉问道。
+  2. "'No, never,' answered one man. 'It never happens on any other island, only here.'"
+     译："不，从来没有，"一个男人回答，"任何其他岛上都没有，只有这里。"
+  3. "'But you mustn't worry because the devils live on the beach near the sea and not at the lagoon.'"
+     译："但你不必担心，因为恶魔住在靠近大海的沙滩上，而不是礁湖这边。"
+  4. "'Remember, the devils won't hurt you if you leave them alone.'"
+     译："记住，只要你不打扰它们，恶魔就不会伤害你。"
+
+**B4-4**（4 句）
+- 分组依据：同一节拍——科欧拉虽知安全，但想主动解决恶魔问题，决定去找酋长。这是"主动决策"节拍，情绪从被安慰转向主动出击，视觉焦点切换（科欧拉内心→走向酋长），独立节拍
+- 原文：
+  1. "Keola knew he was safe at the lagoon, but he wanted to do something about the devils."
+     译：科欧拉知道在礁湖边是安全的，但他想对恶魔做些什么。
+  2. "One day he went to speak to the chief of the tribe."
+     译：有一天他去找部落酋长谈话。
+  3. "'There was an island that had problems with invisible devils,' Keola told the chief, 'and the people solved it.'"
+     译："有一座岛遇到了隐形恶魔的麻烦，"科欧拉告诉酋长，"而那里的人解决了问题。"
+  4. "'How did they do that?' asked the chief."
+     译："他们是怎么做到的？"酋长问道。
+
+**B4-5**（4 句）
+- 分组依据：同一节拍——科欧拉解释砍倒魔法树可以驱走恶魔，酋长和老人对计划感兴趣但酋长担忧有危险。这是"计划提出→质疑"节拍，连续对话，情绪为期待→警惕
+- 原文：
+  1. "'There was a tree growing in the woods that had magic leaves,' he said, 'and the devils came to get the leaves. So the people of the island cut it down and the devils went away.'"
+     译："树林里有一棵长着魔法叶子的树，"他说，"恶魔来取那些叶子。于是那座岛的人把树砍倒了，恶魔就离开了。"
+  2. "'What kind of tree was it?' asked the chief."
+     译："是什么样的树？"酋长问。
+  3. "Keola showed him the tree with the magic leaves that Kalamake used."
+     译：科欧拉把卡拉马克所用的那棵长着魔法叶子的树指给他看。
+  4. "The chief and other men seemed interested in his plan."
+     译：酋长和其他男人们看起来对他的计划很感兴趣。
+
+**B4-6**（3 句）
+- 分组依据：必拆充要条件B——夜晚老人们反复讨论→酋长引用先例（投长矛的酋长当夜摔死棕榈树）→众人决定放弃计划。触发-转折因果链（讨论→放弃），情绪从期待转向否决，独立节拍
+- 原文：
+  1. "Every night the chief and the old men of the tribe talked about his plan, but the chief was afraid."
+     译：每晚酋长和部落的老人们讨论他的计划，但酋长心存畏惧。
+  2. "'Remember,' said the chief to the other men, 'a chief once threw his spear at one of the voices and that night he fell out of a palm tree and was killed.'"
+     译："记住，"酋长对其他人说，"曾经有个酋长向一个声音投掷了他的长矛，那天夜里他从棕榈树上摔下来死了。"
+  3. "The men decided to forget Keola's plan."
+     译：男人们决定放弃科欧拉的计划。

@@ -1,0 +1,110 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B1-13",
+      "character_refs": [
+        "C1",
+        "C3"
+      ],
+      "scene_refs": [
+        "S1",
+        "S2"
+      ],
+      "covered_sentences": [
+        "The clerk in his little room clapped his hands happily and said, 'Yes, that's right!'",
+        "'Another word from you and you'll lose your job,' Scrooge said to him."
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例1:2（左格辅格鲍勃鼓掌赞同，右格主格斯克鲁奇威胁）。左格：镜头位于小隔间正面偏右15度，中近景，看向鲍勃面部，鲍勃双手击掌；右格：镜头位于斯克鲁奇左肩后，过肩视角，仰角5度，看向斯克鲁奇侧面，强调其威胁姿态，背景仅露主办公室一角。比例锚点：左格鲍勃面部占画面高度约65%，隔间木门边缘为背景锚点；右格斯克鲁奇面部和肩部占画面高度约75%。\n\n动作与关系：左格：鲍勃（引用C3）双手击掌，面露欢欣赞同，头顶对白气泡内容从covered_sentences抽取\"Yes!\"（橙红色感叹号）；右格：斯克鲁奇（引用C1）手握手杖指向鲍勃方向，面露威胁，头顶对白气泡内容从covered_sentences抽取\"job\"（D级物品图标：工作卷轴简笔画+红色叉号），表达要解雇威胁。\n\n场景：斯克鲁奇与马利的办公室（引用S1）+小书记员隔间（引用S2），平安夜，昏暗，隔间木门为两格的空间分界线。\n\n光影与色彩：左格鲍勃微暖光（短暂喜悦）；右格斯克鲁奇冷侧光（威胁态度）。\n\n主体与角色：逐格角色预算：左格可辨识1人——鲍勃·克拉奇特（引用C3）；右格可辨识1人——斯克鲁奇（引用C1）。条件B（触发-转折）：鲍勃鼓掌（触发）→斯克鲁奇威胁解雇（转折），两格必拆合法。【情绪标记】强度：中，类型：喜悦（左格）+愤怒（右格），推荐视觉手段：左格鲍勃眼睛弯起，右格斯克鲁奇眉间红色怒气筋。"
+    },
+    {
+      "id": "B1-14",
+      "character_refs": [
+        "C1",
+        "C4"
+      ],
+      "scene_refs": [
+        "S1"
+      ],
+      "covered_sentences": [
+        "'Don't be angry, uncle. Come and eat with us tomorrow,' said his nephew.",
+        "'No! Go away! I'm busy.'",
+        "'But why won't you come?'",
+        "'Why did you get married?' Scrooge asked.",
+        "'Because I fell in love.'",
+        "\"'Because you fell in love! Bah! That's more stupid than a merry Christmas.'\""
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例1:1。左格：镜头位于弗雷德右肩后，过肩视角，中近景，看向斯克鲁奇正面，背景仅露书桌一角；右格：镜头位于斯克鲁奇左肩后，反打视角，中近景，看向弗雷德正面，背景仅露门口一角。比例锚点：左格斯克鲁奇面部占画面高度约70%；右格弗雷德面部占画面高度约70%。\n\n动作与关系：左格：斯克鲁奇（引用C1）面露冷漠鄙夷，对白气泡内容从covered_sentences抽取\"No!\"（红色叉号）+\"Go away!\"；右格：弗雷德（引用C4）面露困惑，对白气泡内容从covered_sentences抽取\"love\"（D级物品图标：粉红色爱心）+\"fell in love!\"；斯克鲁奇一侧附关系图示：粉红色爱心+红色叉号（表达斯克鲁奇认为爱情是愚蠢的）。回合计数：3回合对话，情绪递进，1:1比例合法。\n\n场景：斯克鲁奇与马利的办公室（引用S1），平安夜，昏暗，过肩视角自然限制背景。\n\n光影与色彩：整体冷灰，双格均冷蓝侧光。\n\n主体与角色：逐格角色预算：左格可辨识1人——斯克鲁奇（引用C1）；右格可辨识1人——弗雷德（引用C4）。已扫描5对相邻句，四维度均无切换（同一话题：拒绝邀请+婚姻质问），保留。"
+    },
+    {
+      "id": "B1-15",
+      "character_refs": [
+        "C1",
+        "C4"
+      ],
+      "scene_refs": [
+        "S1"
+      ],
+      "covered_sentences": [
+        "'Good afternoon.'",
+        "'But why don't you ever come to see me, uncle?'",
+        "'Good afternoon,' said Scrooge.",
+        "'Can't we be friends?'",
+        "'Good afternoon,' said Scrooge.",
+        "'Well, I'm very sorry about this, but I wish you a merry Christmas with all my heart, uncle.'"
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例2:1（左格斯克鲁奇主格，重复冷漠拒绝；右格弗雷德辅格，诚恳恳求）。左格：镜头位于斯克鲁奇正前方偏右15度，中近景，正面偏侧，看向斯克鲁奇面部，背景近景保留参照：账本书桌侧面；右格：镜头位于弗雷德正前方偏左15度，中景，看向弗雷德面部，背景仅露门框一角。比例锚点：左格斯克鲁奇面部占画面高度约70%，桌面边缘在前景约为其腰部高度；右格弗雷德面部占画面高度约60%。\n\n动作与关系：左格：斯克鲁奇（引用C1）背对弗雷德，右手挥动示意离去，头顶对白气泡内容从covered_sentences抽取\"Good afternoon.\"（重复，用深灰色小乌云B级符号表达机械重复/冷漠）；右格：弗雷德（引用C4）面露诚恳遗憾，头顶对白气泡内容从covered_sentences抽取\"Merry Christmas!\"（橙红色感叹号）。已扫描5对相邻句，四维度均无切换（同一话题：拒绝往来），保留。\n\n场景：斯克鲁奇与马利的办公室（引用S1），平安夜，昏暗。\n\n光影与色彩：整体冷灰，斯克鲁奇背对增强拒绝感。\n\n主体与角色：逐格角色预算：左格可辨识1人——斯克鲁奇（引用C1）；右格可辨识1人——弗雷德（引用C4）。"
+    },
+    {
+      "id": "B1-16",
+      "character_refs": [
+        "C1",
+        "C4"
+      ],
+      "scene_refs": [
+        "S1"
+      ],
+      "covered_sentences": [
+        "'Good afternoon,' said Scrooge.",
+        "'And a happy new Year!'",
+        "'Good afternoon!' said Scrooge."
+      ],
+      "layout": "构图与镜头：单格构图，对话/回应镜头策略。镜头位于两人之间偏侧，中景斜侧30度，同时看向斯克鲁奇（左侧背面）和弗雷德（右侧正面），画面中央空白强调两人的距离感。比例锚点：斯克鲁奇站立时高顶礼帽约在画面高度70%处；弗雷德站立时头顶约在画面高度65%处；两人之间距离约为一个人身宽。\n\n动作与关系：斯克鲁奇（引用C1）右手挥向门口，面朝右（拒绝方向）；弗雷德（引用C4）面朝斯克鲁奇方向，面露无奈遗憾，手微微上扬道别；斯克鲁奇头顶对白气泡内容从covered_sentences抽取\"Good afternoon!\"（重复最终收束）；弗雷德头顶对白气泡内容从covered_sentences抽取\"Happy new Year!\"。\n\n场景：斯克鲁奇与马利的办公室（引用S1），平安夜，昏暗，门口可见。\n\n光影与色彩：整体冷灰，弗雷德一侧略暖，斯克鲁奇一侧冷蓝。\n\n主体与角色：逐格角色预算：主画面可辨识2人——斯克鲁奇（引用C1）背面+弗雷德（引用C4）正面，两人同框，斯克鲁奇头顶高于弗雷德约半头。"
+    },
+    {
+      "id": "B1-17",
+      "character_refs": [
+        "C1",
+        "C3",
+        "C4"
+      ],
+      "scene_refs": [
+        "S1",
+        "S2"
+      ],
+      "covered_sentences": [
+        "So his nephew went to the door and opened it.",
+        "But before he left, he said 'Merry Christmas!' to the clerk, who answered with a warm 'Happy Christmas!'",
+        "'Are you stupid too?' Scrooge said."
+      ],
+      "layout": "构图与镜头：横排三格构图，左格：弗雷德走向门口；中格：弗雷德与鲍勃道别互动；右格：斯克鲁奇讽刺评论。左格：镜头位于办公室侧方，斜侧30度，中景，看向弗雷德走向门口的动作（动作镜头：向门口方向移动，右方留白）；中格：镜头位于隔间门口正面，中近景，平视，看向弗雷德朝向隔间鲍勃的道别互动；右格：镜头位于斯克鲁奇正前方偏侧，中近景，仰角5度，看向斯克鲁奇面部鄙夷表情。比例锚点：左格弗雷德走向门口，身高约占画面高度70%，门框高于弗雷德头顶；中格弗雷德和鲍勃半身可见，鲍勃头顶约到弗雷德肩部（坐姿）；右格斯克鲁奇面部占画面高度约65%。\n\n动作与关系：左格：弗雷德（引用C4）朝向门口方向走动，右手推门；中格：弗雷德朝向隔间，鲍勃（引用C3）坐于隔间内仰头回应，两人互道圣诞快乐，中格两人各有对白气泡内容从covered_sentences抽取\"Merry Christmas!\"（弗雷德）+\"Happy Christmas!\"（鲍勃）；右格：斯克鲁奇（引用C1）独站，手握手杖，面露鄙夷，头顶对白气泡内容从covered_sentences抽取\"stupid?\"（深蓝色问号）。\n\n场景：斯克鲁奇与马利的办公室（引用S1）+小书记员隔间（引用S2），平安夜，弗雷德离去节拍。\n\n光影与色彩：整体冷灰，中格弗雷德和鲍勃互动有微暖光，右格斯克鲁奇冷侧光。\n\n主体与角色：逐格角色预算：左格可辨识1人——弗雷德（引用C4）；中格可辨识2人——弗雷德+鲍勃（引用C3），中格最高角色弗雷德站立，鲍勃坐于隔间，鲍勃头顶约到弗雷德肩部；右格可辨识1人——斯克鲁奇（引用C1）。"
+    },
+    {
+      "id": "B1-18",
+      "character_refs": [
+        "C1",
+        "C5",
+        "C6"
+      ],
+      "scene_refs": [
+        "S1"
+      ],
+      "covered_sentences": [
+        "At that moment two fat gentlemen came in.",
+        "'Excuse me, is this Scrooge and Marley's?' said one of them.",
+        "'May I ask if you are Mr Scrooge or Mr Marley?'",
+        "'Mr Marley is dead. He died on Christmas Eve seven years ago.'"
+      ],
+      "layout": "构图与镜头：横排三格构图，左格建立场景（两绅士进门）；中格两绅士询问；右格斯克鲁奇回应确认马利已死。左格：镜头位于办公室门口正面，中景斜侧30度，看向两位肥胖绅士推门进来；中格：镜头位于斯克鲁奇正面偏侧，中景，看向斯克鲁奇和两绅士的互动；右格：镜头位于绅士右肩后，过肩视角，中近景，看向斯克鲁奇面部。比例锚点：左格两绅士均为肥胖体型，头顶约与门框下缘等高，门框高于两人；中格三人站立，斯克鲁奇较瘦高，两绅士较矮胖，斯克鲁奇头顶约高于两绅士半头；右格斯克鲁奇面部占画面高度约70%。\n\n动作与关系：左格：两绅士（引用C5和C6）推门进来，圆脸肥胖；中格：绅士甲（引用C5）从口袋掏出钢笔，开口询问，绅士乙（引用C6）站侧方；绅士甲头顶对白气泡内容从covered_sentences抽取\"Scrooge and Marley?\"（深蓝色问号）；右格：斯克鲁奇（引用C1）面容冷漠，对白气泡内容从covered_sentences抽取\"Marley is dead.\"。\n\n场景：斯克鲁奇与马利的办公室（引用S1），平安夜，昏暗；门口可见，招牌一角可见。\n\n光影与色彩：整体冷灰，两绅士形象用微暖色对比，与昏暗办公室形成轻微对比。\n\n主体与角色：逐格角色预算：左格可辨识2人——绅士甲（引用C5）+绅士乙（引用C6）；中格可辨识3人——绅士甲、绅士乙、斯克鲁奇（引用C1），门框高于所有人物；右格可辨识1人——斯克鲁奇（引用C1）。"
+    }
+  ]
+}

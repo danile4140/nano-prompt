@@ -1,0 +1,67 @@
+第 8 章分镜规划（条目 13–18）
+
+**B8-13**（2 句）
+- 分组依据：珍妮到达保罗家（场景切换），保罗独自与猫在一起的画面（孤独情绪铺垫）
+- 原文：
+  1. "I took the bus and arrived at Paul's house. He was alone, as always."
+     译：我坐公交来到保罗家，他像往常一样一个人。
+  2. "He was in his room with his cat, Apollo, in his arms."
+     译：他在房间里，怀里抱着猫阿波罗。
+
+**B8-14**（3 句）
+- 分组依据：保罗宣告"我要去米特拉克斯"（冲击性宣告）→珍妮震惊质疑→保罗重复（条件B：宣告+珍妮的强烈反应），必须多格
+- 原文：
+  1. "'I want to go to Mitrax with Klyreg,' Paul said."
+     译："我想跟克莱格去米特拉克斯，"保罗说。
+  2. "'What?!!'"
+     译："什么？！！"
+  3. "'Yes, I want to go to Mitrax with Klyreg!' Paul repeated."
+     译："是的，我想跟克莱格去米特拉克斯！"保罗重复道。
+
+**B8-15**（4 句）
+- 分组依据：保罗解释原因（妈妈不爱他/爸爸不在意/学校没朋友/只有珍妮/不幸福），情感独白，同一主题（内心孤独），逐对四维度：情绪连贯，≤4句合并
+- 原文：
+  1. "'Are you kidding? You're crazy!' 'No, I'm not crazy. Look at my life. My mother doesn't love me. She went away and never wants to see me. How do you think I feel?'"
+     译："你在开玩笑吗？你疯了！""不，我没疯。看看我的生活，我妈妈不爱我，她走了，再也不想见我，你觉得我感受如何？"
+  2. "'My father is always working. He doesn't care if I'm here or in Timbuktu! He only cares about his young, blonde secretaries.'"
+     译："我爸爸总是在工作，他不在乎我在哪里！他只在乎他那些年轻的金发秘书。"
+  3. "'At school everyone thinks I'm strange; you're my only true friend in class. Jenny, I'm not happy here. Try to understand. This world isn't for me. I don't like my life.'"
+     译："学校里每个人都觉得我奇怪，你是我在班里唯一真正的朋友。珍妮，我在这里不快乐，试着理解我，这个世界不适合我，我不喜欢我的生活。"
+  4. "'I want to test my destiny and see what happens to me. Honestly, I really don't think that Klyreg wants to hurt us students.'"
+     译："我想测试我的命运，看看会发生什么。老实说，我真的不认为克莱格想伤害我们学生。"
+
+**B8-16**（4 句）
+- 分组依据：保罗解释相信外星人/对太空的热爱/梦想→珍妮开始理解但悲伤→珍妮提出反对意见（逃跑不是解决方案）；逐对四维度：情绪渐进（说服→悲伤→分歧），≤4句合并
+- 原文：
+  1. "'How do you know?' I asked angrily, shocked at what he was saying."
+     译："你怎么知道？"我愤怒地问，对他的话感到震惊。
+  2. "'He doesn't give me that impression. I'm sure the aliens just want to study us. I feel I can trust them. Also, you know I love space. I've always been interested in astronomy and alien life. This is a fantastic opportunity to see life on another planet, in another galaxy. This is my dream! This opportunity will never exist again.'"
+     译："他给我的印象不是那样。我相信外星人只是想研究我们，我觉得我可以信任他们。而且你知道我热爱太空，我一直对天文学和外星生命感兴趣，这是看到另一个星球、另一个星系生命的绝佳机会，这是我的梦想！这样的机会不会再有了。"
+  3. "Listening to Paul, I started to understand his point of view. But it was terrible to think that Paul didn't have anyone. No one really cared about him. I was very sad."
+     译：听着保罗说话，我开始理解他的观点，但想到保罗没有任何人真正关心他，我非常悲伤。
+  4. "'Running away to another planet isn't the right solution to your problems,' I said."
+     译："逃到另一个星球不是解决问题的正确方法，"我说。
+
+**B8-17**（4 句）
+- 分组依据：保罗回应（我尝试过和爸爸沟通），珍妮感到理解，说出"我会想念你"→保罗承诺会回来（情感高潮D类，连续告别情绪），逐对四维度：情绪渐进（争论→接受→伤感），≤4句合并
+- 原文：
+  1. "'But I've tried to talk to my father about my problems. I've tried many times. Nothing has changed. Listen, I want to go to Mitrax. I feel it's the right thing for me. Something inside is pushing me to go.'"
+     译："但我试过跟爸爸谈我的问题，试了很多次，没有任何改变。听着，我想去米特拉克斯，我感觉这对我来说是正确的，内心某种东西在推动我去。"
+  2. "Maybe going to Mitrax was the best thing for Paul, although I still couldn't believe it. 'If you're convinced... But I'll miss you, a lot. I'll never see you again,' I said."
+     译：也许去米特拉克斯对保罗来说确实是最好的，尽管我仍然无法相信。"如果你确定了……但我会非常想念你，我再也见不到你了，"我说。
+  3. "'Nothing is forever. You will see me again, I promise.' 'Don't make promises you can't keep,' I said, with tears in my eyes."
+     译："没有什么是永远的，你还会见到我的，我承诺。""不要许你无法实现的承诺，"我含泪说。
+  4. "'Believe me, Jenny. Sooner or later, when the next intergalactic door opens, I'll return. And I'll have many new things to tell you!'"
+     译："相信我，珍妮。迟早，当下一个星际之门打开时，我会回来，我会有很多新鲜的事告诉你！"
+
+**B8-18**（4 句）
+- 分组依据：保罗制定明天的计划（行动计划节拍：克莱格找不到喷雾→无法绑架→必须独自去机场）；连续计划说明，同一话题，≤4句合并
+- 原文：
+  1. "'Listen,' he continued, 'we must organise our plan for tomorrow evening! When Klyreg takes the two students to the science lab, he'll open the refrigerator but he won't find the spray.'"
+     译："听着，"他继续，"我们必须制定明天晚上的计划！当克莱格带两名学生去科学实验室，他会打开冰箱但找不到喷雾。"
+  2. "'At that point he won't be able to do anything, because he can't touch us. If he touches us, he'll electrocute us,' Paul explained."
+     译："到那时他什么也做不了，因为他无法触碰我们，如果碰了会电死我们，"保罗解释。
+  3. "'Then he won't be able to study us anymore!' I interrupted."
+     译："那他就再也无法研究我们了！"我打断道。
+  4. "'Exactly. So, when he sees that his mission has failed, the only thing he can do is go to the airfield and leave with his spaceship. He can't stay any longer because he can't miss his spaceship. And the spaceship can't wait for him. I won't come to the family-teachers' meeting; I'll wait for Mr. Adams at the airfield.'"
+     译："正是。所以当他发现任务失败，唯一能做的就是去机场乘飞船离开，他不能再留下来，飞船也不会等他。我不去参加家长教师会议；我要在机场等亚当斯先生。"

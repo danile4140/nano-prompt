@@ -1,0 +1,86 @@
+**B1-13**（2 句）
+- 分组依据：传送后的惊醒节拍——突然消失→出现在海滩，是场景跳变后第一个新节拍。科欧拉两次喊叫各为独立情绪爆发，但属同一"惊愕询问"节拍（情绪基调一致，均为困惑/惊恐，说话方相同）；前节拍（传送仪式）已在B1-12结束，B1-13从传送结果开始
+- 原文：
+  1. "Suddenly the mat and the living room disappeared."
+     译：突然间，草席和客厅消失了。
+  2. "A moment later Keola and the wizard were on the same mat, on a beach near the sea, under the hot sun."
+     译：片刻后，科欧拉和巫师同坐在一张草席上，置身海边沙滩，烈日当头。
+
+**B1-14**（2 句）
+- 分组依据：科欧拉的第一反应——惊叫询问"Why are we on this beach"，卡拉马克的回答"We're here now"，这是触发-回应对话节拍；但科欧拉立即又问"Where are we?"，卡拉马克回答"That's not important"——这些都属于同一"到了海滩后的第一轮惊慌问答"节拍，情绪均为困惑
+  - 但原文有6句对话（Q1→A1→Q2→A2→命令），超过4句限制，需做四维度拆分评估：视觉焦点未切换（均在草席上两人之间）、时间无推进、空间无位移、情绪：从困惑惊叫到卡拉马克发出指令——情绪基调有所转变（惊慌→被命令）。因此在"You must be home before the ship arrives."（命令）与之前问答之间存在话题转移和情绪节拍变化。
+  - 重新分配：B1-13=传送瞬间（2句）；B1-14=科欧拉惊叫+卡拉马克敷衍回答（4句）；多出的"Go to the woods…"部分进入B1-15
+  
+  重新整理，总体分镜数调整：
+  - B1-13补充第3、4句（科欧拉的首次惊叫 + 卡拉马克的第一个回答）
+  - B1-14为第二轮问答 + 发出命令
+
+**→ 重新整理B1-13和B1-14分配：**
+
+**B1-13**（4 句）— 更新
+- 分组依据：传送完成→科欧拉首次惊叫→卡拉马克首次回应，同一"传送后初始反应"节拍
+- 原文：
+  1. "Suddenly the mat and the living room disappeared."
+     译：突然间，草席和客厅消失了。
+  2. "A moment later Keola and the wizard were on the same mat, on a beach near the sea, under the hot sun."
+     译：片刻后，科欧拉和巫师同坐在草席上，置身海边沙滩，烈日当头。
+  3. "Keola was very surprised and did not know what to say."
+     译：科欧拉惊愕万分，不知该说什么。
+  4. "'What's happening?' cried Keola. 'Why are we on this beach and not in our living room?'"
+     译："怎么回事？"科欧拉喊道，"我们为什么在这片沙滩上而不是在客厅？"
+
+**B1-14**（4 句）— 更新
+- 分组依据：卡拉马克敷衍回答、科欧拉再问、卡拉马克下达命令——同一"初到海滩的对话+命令下达"节拍；情绪从惊慌转向被命令，但同处一个海滩对话节拍内，不超过4句
+- 原文：
+  1. "'Don't worry,' said Kalamake. 'Now we're here.'"
+     译："别担心，"卡拉马克说，"我们现在就在这儿。"
+  2. "'Where are we?' cried Keola."
+     译："我们在哪里？"科欧拉喊道。
+  3. "'That's not important,' said Kalamake. 'We're here now and that's the important thing.'"
+     译："那不重要，"卡拉马克说，"我们现在在这里，这才是最重要的。"
+  4. "'Go to the woods and bring me a lot of these special leaves. Be quick. We must be home before the ship arrives.'"
+     译："去树林里给我带回很多这种特别的叶子。快点。我们必须在货船到来前回家。"
+
+**B1-15**（4 句）
+- 分组依据：科欧拉独自走在海滩上探索的节拍——从草席起身、走在沙滩贝壳上、心中产生好奇，连续一人行动，同一空间（海滩），同一情绪基调（好奇探索）
+- 原文：
+  1. "Keola got up from the mat and started walking on the beach of bright sand and shiny shells."
+     译：科欧拉从草席上起身，走在亮白沙滩和闪亮贝壳上。
+  2. "'Why don't I know this beach?' Keola thought, looking around."
+     译："我为什么不认识这片沙滩？"科欧拉四处张望，心中想道。
+  3. "'This place doesn't look like Hawaii.'"
+     译："这地方看起来不像夏威夷。"
+  4. "'One day I'll come back here and take these beautiful shells.'"
+     译："改天我要回来带走这些美丽的贝壳。"
+
+**B1-16**（4 句）
+- 分组依据：科欧拉进入树林，遇见叶裙女子，女子被惊吓——新的戏剧性事件（遭遇陌生人），场景从海滩转移到树林边缘，视觉焦点从科欧拉转向女子，独立节拍
+- 原文：
+  1. "He soon found the special leaves he was looking for in the woods near the beach."
+     译：他很快在海滩附近的树林里找到了他要找的特别树叶。
+  2. "As he walked towards the trees, he saw a young woman with nothing on her body but some leaves."
+     译：当他朝树木走去时，看见一名身上只披着叶子的年轻女子。
+  3. "When she heard him walking she was very frightened and looked around but — strangely — she did not look at Keola."
+     译：她听到他的脚步声，非常惊恐地四处张望——但奇怪的是，她并没有看向科欧拉。
+  4. "'Good afternoon,' he said. 'Please don't be frightened...'"
+     译："下午好，"他说，"请别害怕……"
+
+**B1-17**（3 句）
+- 分组依据：女子逃跑、科欧拉跟随、回到卡拉马克身边——连续动作，结束了树林探索小插曲，回到主线
+- 原文：
+  1. "The young woman ran into the woods and he followed her."
+     译：年轻女子跑进了树林，他跟了上去。
+  2. "He saw other people running away and decided to go back to Kalamake with the special leaves."
+     译：他看见其他人也纷纷逃跑，便决定带着特别树叶回到卡拉马克身边。
+  3. "Keola told the wizard about his adventure in the woods."
+     译：科欧拉把他在树林里的经历告诉了巫师。
+
+**B1-18**（3 句）
+- 分组依据：卡拉马克揭秘"隐形"能力——对话节拍，主题从"树林经历"切换到"巫术解释"，两人在草席上/海滩边互动，情绪基调为惊奇得知真相
+- 原文：
+  1. "'All this is like a dream,' said Kalamake."
+     译："这一切都像一场梦，"卡拉马克说。
+  2. "'I don't think anyone saw me,' said Keola."
+     译："我觉得没有人看见我，"科欧拉说。
+  3. "'And no one did, because we're invisible thanks to my magic,' said the wizard. 'But they can hear us, so we must speak softly.'"
+     译："确实没有，因为靠着我的魔法我们是隐形的，"巫师说，"但他们能听见我们，所以我们必须轻声说话。"

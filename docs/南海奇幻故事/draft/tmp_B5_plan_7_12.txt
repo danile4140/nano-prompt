@@ -1,0 +1,63 @@
+**B5-7**（3 句）
+- 分组依据：同一节拍——愤怒的声音继续，但不是冲着科欧拉，科欧拉开始跟着声音跑。连续观察→行动节拍，情绪从困惑转向好奇跟随
+- 原文：
+  1. "'But the invisible voices continue talking, and their voices are angry.' He looked around."
+     译："但隐形的声音继续交谈，而且他们的声音很愤怒。"他四处张望。
+  2. "'They're not angry at me,' thought Keola, 'because they pass in front of me.'"
+     译："他们不是在对我愤怒，"科欧拉想，"因为他们从我面前经过。"
+  3. "Keola started running with the voices."
+     译：科欧拉开始随着声音奔跑。
+
+**B5-8**（4 句）
+- 分组依据：同一节拍——科欧拉奔跑穿越岛屿，到达魔法树集中的树林区域，听见巨大的砍伐声和叫喊声，猜测是否是砍树驱魔。这是"奔跑→到达发现"的动作节拍，连续行动，情绪从好奇跑动转向震惊发现
+- 原文：
+  1. "He ran from one part of the island to the other."
+     译：他从岛的一处跑向另一处。
+  2. "He remembered that the wizard's favourite trees grew together in one part of the woods."
+     译：他记得巫师钟爱的那种树集中生长在树林的某一区域。
+  3. "At that place there was a great noise of screaming men."
+     译：那个地方传来巨大的男人叫喊声。
+  4. "Soon he could hear the noise of axes and loud, screaming voices."
+     译：很快他就能听见斧头砍击声和响亮的叫喊声。
+
+**B5-9**（3 句）
+- 分组依据：同一节拍——科欧拉猜测是酋长决定砍树了、巫师恶魔愤怒护树、他想亲眼看看。连续"推理+决定前进"节拍，视觉焦点从远听到准备靠近，情绪从困惑推理转向冒险前进
+- 原文：
+  1. "'Perhaps the chief has decided to cut down the magic trees,' he thought, 'and now the wizards and the devils are angry and are trying to defend their trees.'"
+     译："也许酋长决定砍倒那些魔法树了，"他想，"现在巫师和恶魔在愤怒地守护他们的树。"
+  2. "He wanted to see what was happening."
+     译：他想去看看究竟发生了什么。
+  3. "He walked across the beach, got to the woods and stopped, he was amazed."
+     译：他穿过沙滩，走到树林边，停下来——他惊呆了。
+
+**B5-10**（4 句）
+- 分组依据：必拆充要条件C（计谋/计划执行链）+ 高潮加密C（物理冲突）——亲眼目睹奇异战斗的场景：树木一棵棵倒下、部落男人在战斗、尸体铺满地面、恐惧写在脸上。这是战斗场景的第一目击节拍，四句均属战斗场景建立
+- 原文：
+  1. "He saw one tree fall and then others started falling."
+     译：他看见一棵树倒下，然后其他的树也开始倒下。
+  2. "The men of the tribe were there fighting and bodies lay on the ground, covered with blood."
+     译：部落的男人们在那里战斗，尸体倒在地上，血迹斑斑。
+  3. "Fear was on their faces as they fought and screamed."
+     译：他们战斗并大声叫喊，脸上写满恐惧。
+  4. "'What a strange battle,' thought Keola."
+     译："真是场奇异的战斗，"科欧拉心想。
+
+**B5-11**（3 句）
+- 分组依据：同一节拍——部落人挥斧砍向无形之物、斧子在空中自行杀人（灵魂逃跑）。这是战斗奇异细节节拍，延续B5-10的战斗场��，视觉焦点切换（全景→奇异细节），独立节拍
+- 原文：
+  1. "The cannibals were fighting bravely but Keola did not see the enemy."
+     译：食人族们在勇猛地战斗，但科欧拉看不见敌人。
+  2. "They raised their axes high in the air and then hit something invisible."
+     译：他们高举斧头，然后击打着某些看不见的东西。
+  3. "And here and there Keola saw an axe without hands kill a man of the tribe, as his spirit ran away screaming."
+     译：而在这里那里，科欧拉看见无人握持的斧头杀死了部落里的一个人，那人的灵魂尖叫着逃离。
+
+**B5-12**（3 句）
+- 分组依据：必拆充要条件B——科欧拉观看到恐惧极点想逃→酋长发现科欧拉叫他的名字→全部落看向他（威胁）。触发-转折因果链（被发现→必须逃跑的紧迫），情绪从旁观恐惧转向被识破的极度危机，独立节拍
+- 原文：
+  1. "Keola looked at this terrible battle for some time, but then it frightened him too much and he wanted to run away."
+     译：科欧拉看着这场可怕的战斗，但随后被吓得想逃跑。
+  2. "Suddenly the high chief of the tribe saw him and called his name."
+     译：突然，部落大酋长看见了他，叫出了他的名字。
+  3. "The whole tribe looked at him and he saw their white teeth."
+     译：整个部落都看向他，他看见了他们口中那些白色的牙齿。

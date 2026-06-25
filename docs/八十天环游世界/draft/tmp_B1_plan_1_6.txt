@@ -1,0 +1,77 @@
+**B1-1**（4 句）
+- 分组依据：叙述者介绍 Phileas Fogg 的身份与外貌，同一叙述视角、同一主题，无场景跳变，无情绪切换。
+- 原文：
+  1. "Let me begin by introducing a mysterious English gentleman called Phileas Fogg."
+     译：让我先介绍一位神秘的英国绅士，名叫菲利斯·福格。
+  2. "Most people don't know very much about him, but because he does the same thing every day, some people think they know everything about him."
+     译：大多数人对他知之甚少，但因为他每天做着同样的事情，有些人以为自己对他了如指掌。
+  3. "He is very handsome and he is a true gentleman."
+     译：他相貌英俊，是一位真正的绅士。
+  4. "He is certainly rich, but no one knows how he made his money."
+     译：他显然很富有，但没有人知道他的财富从何而来。
+
+---
+
+**B1-2**（4 句）
+- 分组依据：关于 Fogg 是否曾旅行的推测，同一疑问话题、想象性叙述，无场景切换，情绪基调统一（谜团感）。
+- 原文：
+  1. "Has he ever been to another country?"
+     译：他曾去过其他国家吗？
+  2. "He can name a lot of countries on a world map and he knows the most incredible things about them."
+     译：他能在世界地图上说出许多国家，并了解它们最令人惊叹的事情。
+  3. "He probably travelled at one time, but some people insist that he has not left London for many years."
+     译：他大概曾经旅行过，但有些人坚持说他已多年未离开伦敦。
+  4. "Maybe he only travels in his head."
+     译：也许他只是在脑海中旅行。
+
+---
+
+**B1-3**（2 句）
+- 分组依据：描述 Fogg 的社交习惯——孤僻、只在改革俱乐部说话，视觉焦点为"私人性格"，与下一组"俱乐部打牌行为"存在场景/焦点切换，必须分镜。
+- 原文：
+  1. "He is a very private man and he does not have many friends."
+     译：他是一个非常低调的人，几乎没有朋友。
+  2. "The only time he speaks to other people is at the Reform Club, where he goes to read newspapers and play cards."
+     译：他唯一与人交谈的场合就是改革俱乐部，他去那里读报纸、打牌。
+
+---
+
+**B1-4**（5 句）
+- 分组依据：Fogg 在俱乐部打牌的行为细节，同一场景同一话题连续描述，无焦点/情绪/时间/空间切换。已扫描 4 对相邻句，四维度均无切换，保留 5 句豁免。
+- 原文：
+  1. "He does not play to win."
+     译：他打牌不是为了赢。
+  2. "He plays for the enjoyment of the game."
+     译：他享受的是游戏本身的乐趣。
+  3. "He often wins, but he does not keep the money."
+     译：他经常获胜，但他不留下那些钱。
+  4. "He gives it to charity."
+     译：他把钱捐给慈善机构。
+  5. "He likes to see his games as a challenge; a challenge that does not require any physical effort."
+     译：他喜欢把打牌视作一种挑战——一种不需要任何体力的挑战。
+
+---
+
+**B1-5**（4 句）
+- 分组依据：Fogg 每日固定日程的时间线叙述（午餐→回家→地址介绍→仆从忠诚要求），同一话题同一叙述节拍，无情绪切换。
+- 原文：
+  1. "He has lunch at the Reform Club every day, in the same room, at the same table."
+     译：他每天在改革俱乐部用午餐，在同一个房间，同一张桌子。
+  2. "He goes home at midnight."
+     译：他在午夜回家。
+  3. "He lives in his house in Savile Row, a good address in central London."
+     译：他住在萨维尔街的宅邸里，那是伦敦市中心的一个好地址。
+  4. "No one ever goes there, except his manservant, who must always be on time and be completely loyal to Phileas Fogg."
+     译：从没有人去那里，除了他的仆从——仆从必须分秒不差、对菲利斯·福格绝对忠诚。
+
+---
+
+**B1-6**（2 句）
+- 分组依据：仆从因热水被解雇是新的戏剧性事件，与上一组"日程规律描述"存在事件性切换（必拆条件 B：触发事件）；句 21 "And this is where our story begins" 是叙述者对读者的宣告，语义上紧随其后，无切换，合并。
+- 原文：
+  1. "In fact, this very morning, his manservant lost his job because the water he brought Phileas Fogg was too hot to shave with."
+     译：事实上，就在今天早上，他的仆从因为送来的洗脸水太烫而被解雇了。
+  2. "And this is where our story begins."
+     译：故事就从这里开始。
+
+---

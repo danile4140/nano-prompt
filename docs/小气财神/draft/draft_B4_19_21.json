@@ -1,0 +1,56 @@
+{
+  "storyboard_draft": [
+    {
+      "id": "B4-19",
+      "character_refs": [
+        "C1",
+        "C4",
+        "C8"
+      ],
+      "scene_refs": [
+        "S8",
+        "S10"
+      ],
+      "covered_sentences": [
+        "It was dark now, and snow was falling. Scrooge and the Ghost walked along the streets and saw great fires in the houses, where families and friends were enjoying Christmas together.",
+        "The Ghost was happy to see the celebrations. It laughed, and where it passed, people laughed too.",
+        "And then Scrooge heard a loud, happy laugh. It was his nephew.",
+        "He saw him in a bright, warm room. When his nephew laughed, the other people in the room laughed with him."
+      ],
+      "layout": "构图与镜头：左右二分构图，比例1:2（左格辅格：夜间街道行走+幽灵欢笑；右格主格：弗雷德温暖明亮的房间）。左格：镜头位于街道侧方，中景斜侧30度，看向斯克鲁奇（引用C1）和圣诞现在之灵（引用C8）在夜间街道行走，街道两侧房屋透出温暖灯光；右格：镜头位于弗雷德家窗外，中景，看向窗内明亮温暖的房间，弗雷德（引用C4）大笑，不可辨识其他人也跟着笑。比例锚点：左格斯克鲁奇全身约占画面高度55%，圣诞现在之灵头顶超出画面顶部（巨人高大），街道建筑约为人物身高的2倍；右格弗雷德（引用C4）全身约占画面高度60%，窗框在后景，房间温暖，门框高于弗雷德约半头。\n\n动作与关系：左格：斯克鲁奇（引用C1）和圣诞现在之灵（引用C8）沿路行走，圣诞现在之灵面露欢喜，不可辨识路人群体受到影响也笑了；附B级符号：粉红色爱心+橙红色感叹号；右格：弗雷德（引用C4）大笑，深棕卷发，红润圆脸，深红外套，格纹围巾；不可辨识其他宾客在旁也跟着笑；附A级氛围：AURA-BEAUTY-1（细碎鎏金星芒光点），承载弗雷德快乐感染力；斯克鲁奇在右格下方边缘旁观（离画）。\n\n场景：左格：城市街道（引用S8），圣诞夜间，雪花飘落；右格：外甥弗雷德的餐厅兼客厅（引用S10），圣诞夜，明亮温暖。【环境状态】物理场景左格：街道，当前环境：夜间雪花飘落，视觉覆盖：夜间深蓝，雪花，街道两侧房屋橙黄透光，原因：It was dark now, and snow was falling。\n\n光影与色彩：左格：夜间深蓝黑，街道两侧房屋橙黄温暖透光；右格：明亮橙黄温暖室内光，AURA-BEAUTY-1效果。\n\n主体与角色：逐格角色预算：左格可辨识2人——斯克鲁奇（引用C1）+圣诞现在之灵（引用C8），圣诞现在之灵高大超出画面顶部；右格可辨识1人——弗雷德（引用C4），不可辨识宾客群体；门框高于弗雷德约半头。"
+    },
+    {
+      "id": "B4-20",
+      "character_refs": [
+        "C4",
+        "C23"
+      ],
+      "scene_refs": [
+        "S10"
+      ],
+      "covered_sentences": [
+        "He said that Christmas was a humbug! the nephew laughed. And he believed it too!",
+        "He is stupid and bad, Fred, said his wife.",
+        "Well, he is a strange man, and he is not very happy.",
+        "But he is very rich, Fred.",
+        "Yes, my dear, but he does not do anything with his money. He does not help others, and he lives like a poor man.",
+        "Nobody likes him. I do not like him. He makes me angry."
+      ],
+      "layout": "构图与镜头：对话双格构图，左右两格，比例2:1（左格弗雷德主格，为斯克鲁奇辩护；右格弗雷德妻子辅格，批评）。左格：镜头位于弗雷德右肩后，过肩视角，中近景，看向弗雷德正面，背景仅露弗雷德家壁炉一角；右格：镜头位于弗雷德妻子正前方，中近景，平视，看向弗雷德妻子面部。比例锚点：左格弗雷德面部约占画面高度65%；右格弗雷德妻子（引用C23）面部约占画面高度60%。\n\n动作与关系：左格：弗雷德（引用C4）面露笑容和感慨，头顶对白气泡内容抽取humbug（D级物品图标：斯克鲁奇mini_icon+红色叉号，承载he said Christmas was humbug）；右格��弗雷德妻子（引用C23）面露不满，头顶对白气泡内容抽取angry（B级符号：红色折线怒气筋）；已扫描5对相邻句，四维度均无切换（同一话题：评价斯克鲁奇），保留。\n\n场景：外甥弗雷德的餐厅兼客厅（引用S10），圣诞夜，温暖明亮，过肩视角自然限制背景。\n\n光影与色彩：整体温暖橙黄，对话双格温和对比。\n\n主体与角色：逐格角色预算：左格可辨识1人——弗雷德（引用C4）；右格可辨识1人——弗雷德妻子（引用C23），浅棕色卷发半扎，深蓝绿色长裙。"
+    },
+    {
+      "id": "B4-21",
+      "character_refs": [
+        "C4"
+      ],
+      "scene_refs": [
+        "S10"
+      ],
+      "covered_sentences": [
+        "I am not angry with him. I feel sorry for him because he does not enjoy his life. He never laughs. He did not want to eat with us today, but I am going to ask him every year. I will say, How are you, Uncle Scrooge? Come and eat with us.",
+        "Then they played some music and sang. After that, there were games."
+      ],
+      "layout": "构图与镜头：左右二分构图，比例2:1（左格弗雷德主格，宽容宣告；右格小插图：众人玩乐）。左格：镜头位于弗雷德正前方偏侧，中近景，略仰角，看向弗雷德面部，面露宽容和同情；右格：镜头位于弗雷德家内，中景，看向众人弹琴唱歌玩游戏（不可辨识群体）。条件D（阶段性场景边界）：弗雷德宣告→玩乐场景，两个不同叙事阶段。比例锚点：左格弗雷德（引用C4）面部约占画面高度70%；右格不可辨识群体约占画面高度40%，壁炉约在成人胸口高度。\n\n动作与关系：左格：弗雷德（引用C4）面露宽容同情，头顶对白气泡内容抽取sorry（D级物品图标：斯克鲁奇mini_icon头像+浅蓝色水滴，承载为斯克鲁奇感到难过）；附B级符号：粉红色爱心，表达宽容；右格：不可辨识群体弹琴唱歌玩游戏，欢快气氛，附D级物品图标：音符轮廓+扑克牌轮廓，承载played music and games语义。\n\n场景：外甥弗雷德的餐厅兼客厅（引用S10），圣诞夜，温暖明亮。\n\n光影与色彩：整体温暖橙黄，欢快节日。\n\n主体与角色：逐格角色预算：左格可辨识1人——弗雷德（引用C4）；右格可辨识0人（不可辨识群体）。"
+    }
+  ]
+}

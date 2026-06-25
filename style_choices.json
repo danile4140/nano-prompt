@@ -1,0 +1,34 @@
+{
+  "project": "The Isle Of Voices",
+  "test_scene_base": "Two figures sit cross-legged on a woven mat on a sun-drenched tropical beach, smoke rising between them from smoldering leaves in a small pan; iridescent shells scatter the bright sand; dense jungle fringes the shore behind them; the ocean shimmers in the distance under a blazing tropical sky",
+  "styles": [
+    {
+      "id": "A",
+      "name": "水彩热带传说风",
+      "description": "饱满热带色彩，精细轮廓线搭配水彩晕染，带有波利尼西亚传统纹饰质感。珊瑚红、孔雀绿与金黄交织，画面温暖明亮，充满异域岛屿传说氛围，适合呈现夏威夷民间故事的温暖基调。",
+      "test_scene_prompt": "Two figures sit cross-legged on a woven mat on a sun-drenched tropical beach, smoke rising between them from smoldering leaves in a small pan; iridescent shells scatter the bright sand; dense jungle fringes the shore behind them; the ocean shimmers in the distance under a blazing tropical sky. Watercolor children's book illustration, clean ink outlines with lush watercolor washes on textured paper, tropical palette of coral red and peacock green and warm gold, Polynesian-inspired decorative motifs in border details, luminous translucent color layers, expressive readable character faces, warm inviting atmosphere.",
+      "test_scene_prompt_zh": "两个人物盘腿坐在热带阳光海滩的编织草垫上，二人之间小陶盘里的叶子正在阴燃冒烟；彩虹色贝壳散落在明亮沙滩上；茂密丛林衬托海岸背景；远处海洋在烈日下波光粼粼。水彩儿童绘本插画风格，细腻墨线勾轮廓搭配丰富水彩晕染于纹理纸面，热带色彩——珊瑚红、孔雀绿与暖金黄，边框饰有波利尼西亚纹饰细节，色彩层次透明发光，角色表情生动可读，画面温暖亲切。"
+    },
+    {
+      "id": "B",
+      "name": "水粉鲜彩绘本风",
+      "description": "不透明水粉颜料，高饱和鲜亮色彩，轮廓线清晰利落。天蓝、翠绿与明黄构成欢快的热带配色，人物造型可爱生动，整体明朗活泼，接近经典欧美儿童图画书的亲切质感，适合5岁以上小朋友阅读。",
+      "test_scene_prompt": "Two figures sit cross-legged on a woven mat on a sun-drenched tropical beach, smoke rising between them from smoldering leaves in a small pan; iridescent shells scatter the bright sand; dense jungle fringes the shore behind them; the ocean shimmers in the distance under a blazing tropical sky. Gouache children's picture book illustration, opaque flat gouache paint with clean sharp outlines, vivid cheerful palette of sky blue and bright green and sunny yellow, charming expressive character designs with large expressive eyes, clean readable compositions, classic European picture book aesthetic reminiscent of mid-century illustration, joyful and friendly atmosphere.",
+      "test_scene_prompt_zh": "两个人物盘腿坐在热带阳光海滩的编织草垫上，二人之间小陶盘里的叶子正在阴燃冒烟；彩虹色贝壳散落在明亮沙滩上；茂密丛林衬托海岸背景；远处海洋在烈日下波光粼粼。水粉儿童图画书插画风格，不透明水粉平涂搭配清晰利落轮廓线，鲜亮欢快色彩——天蓝、鲜绿与明黄，角色造型可爱生动、大眼睛表情丰富，构图清晰易读，经典欧美中世纪绘本插画美感，氛围活泼亲切。"
+    },
+    {
+      "id": "C",
+      "name": "油画棒温柔手绘风",
+      "description": "蜡笔与油画棒质感，笔触厚实柔和，色彩明亮但不刺眼。奶油黄、海洋绿与珊瑚粉构成温柔热带色调，人物造型简洁亲切，带有孩子手绘的温馨感，特别适合低龄段（5-8岁）小朋友，充满安全感与温暖。",
+      "test_scene_prompt": "Two figures sit cross-legged on a woven mat on a sun-drenched tropical beach, smoke rising between them from smoldering leaves in a small pan; iridescent shells scatter the bright sand; dense jungle fringes the shore behind them; the ocean shimmers in the distance under a blazing tropical sky. Oil pastel and wax crayon children's illustration, thick soft strokes with visible crayon texture on paper, gentle warm palette of cream yellow and sea green and soft coral pink, simple friendly character designs with natural proportions, cozy handmade picture book feel, warm safe and comforting atmosphere suitable for young children.",
+      "test_scene_prompt_zh": "两个人物盘腿坐在热带阳光海滩的编织草垫上，二人之间小陶盘里的叶子正在阴燃冒烟；彩虹色贝壳散落在明亮沙滩上；茂密丛林衬托海岸背景；远处海洋在烈日下波光粼粼。油画棒与蜡笔儿童插画风格，厚实柔和笔触，纸面可见蜡笔肌理，色彩温柔——奶油黄、海洋绿与柔和珊瑚粉，角色造型简洁亲切、比例自然，手工绘本的温馨亲手感，温暖安全的氛围，适合低龄小朋友。"
+    },
+    {
+      "id": "D",
+      "name": "现代动画概念风",
+      "description": "数字软渲染，光感细腻，类似动画电影概念设计风格。色彩饱满有层次，热带阳光打出丰富的光影，人物造型时尚流畅，兼具儿童友好与视觉精致感。适合8-12岁审美更挑剔的大龄读者，整体感觉明亮奇幻。",
+      "test_scene_prompt": "Two figures sit cross-legged on a woven mat on a sun-drenched tropical beach, smoke rising between them from smoldering leaves in a small pan; iridescent shells scatter the bright sand; dense jungle fringes the shore behind them; the ocean shimmers in the distance under a blazing tropical sky. Digital animation concept art illustration, soft cel-shading with smooth color gradients and glowing light effects, vibrant saturated tropical colors with rich sunlight and dappled shadow, stylized character designs in the style of animated feature films, clean appealing character faces, luminous magical atmosphere, polished and cinematic yet child-friendly.",
+      "test_scene_prompt_zh": "两个人物盘腿坐在热带阳光海滩的编织草垫上，二人之间小陶盘里的叶子正在阴燃冒烟；彩虹色贝壳散落在明亮沙滩上；茂密丛林衬托海岸背景；远处海洋在烈日下波光粼粼。数字动画概念插画风格，柔和赛璐璐着色搭配平滑渐变与发光效果，饱满鲜艳的热带色彩，丰富阳光照射与光影变化，角色造型时尚流畅似动画长片风格，面部清晰亲切，画面明亮奇幻，精致而适合儿童阅读。"
+    }
+  ]
+}
