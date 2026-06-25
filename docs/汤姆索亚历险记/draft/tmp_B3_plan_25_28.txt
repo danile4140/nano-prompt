@@ -1,0 +1,35 @@
+B3-25 | character_refs: ["C1", "C6"] | scene_refs: ["S3"] | 预估格数: ?
+- They arrived at an old house and decided to hide there.
+  译：他们来到一所旧屋子，决定藏在那里。
+- "What are we going to do?" asked Tom, "We saw everything.
+  译：「我们该怎么办？」汤姆问道，「我们什么都看见了。
+- Injun Joe killed the doctor."
+  译：印第安乔杀死了医生。」
+
+---
+
+B3-26 | character_refs: ["C1", "C6"] | scene_refs: ["S3"] | 预估格数: ?
+- "What can we do?
+  译：「我们能怎么办？
+- We can't tell anyone," said Huck, "Injun Joe is dangerous.
+  译：我们不能告诉任何人，」赫克说，「印第安乔很危险。
+- I'm afraid of him.
+  译：我怕他。
+- Do you want a knife in your heart?"
+  译：你想要一把刀插进你的心脏吗？」
+
+---
+
+B3-27 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- "I'm afraid of Injun Joe, too," said Tom, "You're right, we can't tell anyone about Injun Joe."
+  译：「我也怕印第安乔，」汤姆说，「你说得对，我们不能把印第安乔的事告诉任何人。」
+
+---
+
+B3-28 | character_refs: ["C1", "C6"] | scene_refs: ["S3"] | 预估格数: ?
+- "Promise not to tell anyone!" said Huck.
+  译：「发誓不告诉任何人！」赫克说。
+- "I promise," said Tom.
+  译：「我发誓，」汤姆说。
+
+---

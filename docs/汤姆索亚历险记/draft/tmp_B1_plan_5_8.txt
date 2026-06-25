@@ -1,0 +1,45 @@
+B1-5 | character_refs: ["C2"] | scene_refs: ["S1"] | 预估格数: ?
+- Tomorrow is Saturday and there's no school.
+  译：明天是星期六，不用上学。
+- But Tom must work tomorrow.
+  译：但汤姆明天必须干活。
+- He hates work but he must do it.
+  译：他最讨厌干活，但他必须干。」
+
+---
+
+B1-6 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- Tom lived in the small village of St Petersburg with his Aunt Polly, his brother Sid and his sister Mary.
+  译：汤姆和波莉姨妈、兄弟锡德以及姐妹玛丽住在圣彼得堡这个小村庄里。
+- The summer evenings were long, and in the evenings Tom liked walking around the village.
+  译：夏天的傍晚日落很晚，汤姆喜欢在傍晚时分在村子里到处溜达。
+
+---
+
+B1-7 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- One evening he saw a big boy in front of him.
+  译：一天傍晚，他看见前方站着一个大男孩。
+- The boy was a stranger.
+  译：那个男孩是个陌生人。
+- Tom was surprised because he did not see new people often.
+  译：汤姆感到很惊讶，因为他很少见到陌生人。
+- This boy had very nice, expensive clothes.
+  译：这个男孩穿着非常漂亮、昂贵的衣服。
+- "He's got shoes, a new shirt and a tie.
+  译：「他穿着鞋，还有一件新衬衫，系着领带。
+- And it's not Sunday," Tom thought.
+  译：而且今天又不是星期天，」汤姆心想。
+
+---
+
+B1-8 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- "My clothes are old and ugly."
+  译：「我的衣服又旧又难看。」
+- Tom looked at him and the big boy looked at Tom.
+  译：汤姆打量着他，那个大男孩也打量着汤姆。
+- Tom did not like him.
+  译：汤姆不喜欢他。
+- Finally he said, "I can beat you!"
+  译：终于，汤姆开口了：「我可以揍你！」
+
+---

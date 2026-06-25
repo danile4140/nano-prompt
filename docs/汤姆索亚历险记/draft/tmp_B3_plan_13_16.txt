@@ -1,0 +1,41 @@
+B3-13 | character_refs: ["C9", "C11"] | scene_refs: ["S7"] | 预估格数: ?
+- Everything happened very quickly.
+  译：一切都发生得非常快。
+- Dr Robinson hit Muff Potter on the head.
+  译：罗宾逊医生打中了马夫·波特的头部。
+- Muff fell to the ground.
+  译：马夫倒在了地上。
+
+---
+
+B3-14 | character_refs: ["C9", "C10", "C11"] | scene_refs: ["S7"] | 预估格数: ?
+- Injun Joe took Muff's knife.
+  译：印第安乔拿起了马夫的刀。
+- He saw Muff on the ground and he killed Dr Robinson with the knife.
+  译：他看见马夫倒在地上，便用刀杀死了罗宾逊医生。
+- The doctor fell on top of Muff and covered him with blood.
+  译：医生倒在了马夫身上，鲜血染红了马夫。
+
+---
+
+B3-15 | character_refs: ["C10", "C9", "C11"] | scene_refs: ["S7"] | 预估格数: ?
+- Injun Joe looked at the two men on the ground.
+  译：印第安乔看着倒在地上的两个人。
+- First he robbed the dead doctor.
+  译：首先，他搜刮了死去的医生。
+- Then he put the bloody knife into Muff's right hand.
+  译：然后，他把沾血的刀放进了马夫的右手里。
+
+---
+
+B3-16 | character_refs: ["C9", "C11"] | scene_refs: ["S7"] | 预估格数: ?
+- A few minutes passed and Muff moved a little and opened his eyes.
+  译：过了几分钟，马夫微微动了动，睁开了眼睛。
+- He pushed the doctor's body away.
+  译：他把医生的尸体推开。
+- He looked at the knife in his hand.
+  译：他低头看着自己手中的刀。
+- "What — what happened, Joe?" he asked slowly.
+  译：「什—什么情况，乔？」他缓缓地问道。
+
+---

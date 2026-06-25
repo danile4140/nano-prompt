@@ -1,0 +1,35 @@
+B1-25 | character_refs: ["C1", "C5"] | scene_refs: ["S2"] | 预估格数: ?
+- Tom was happy but he did not smile.
+  译：汤姆心里乐开了花，但他面上却没有笑。
+- He gave Ben the brush and sat down to eat the apple.
+  译：他把刷子递给本，自己坐下来啃苹果。
+
+---
+
+B1-26 | character_refs: ["C1"] | scene_refs: ["S2"] | 预估格数: ?
+- Tom's other friends came by.
+  译：汤姆的其他朋友也陆续路过。
+- At first they laughed at him.
+  译：起初，他们都嘲笑他。
+- But soon they all wanted to paint the fence.
+  译：但没过多久，他们全都想来刷栅栏了。
+
+---
+
+B1-27 | character_refs: ["C1", "C5", "C17", "C18"] | scene_refs: ["S2"] | 预估格数: ?
+- Billy Fisher gave Tom a kite and Johnny Miller brought him a dead rat.
+  译：比利·费希尔送给汤姆一只风筝，约翰尼·米勒带来了一只死老鼠。
+- His other friends gave him an old knife, a cat with one eye, an old blue bottle, an old key and other interesting things.
+  译：他的其他朋友送来了旧小刀、一只独眼猫、旧蓝瓶子、旧钥匙以及其他各种有趣的东西。
+- His friends painted the fence and Tom now had a lot of interesting things.
+  译：朋友们粉刷着栅栏，而汤姆收获了一大堆好玩的东西。
+- He went back home.
+  译：他回家去了。
+
+---
+
+B1-28 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: ?
+- "Aunt Polly, can I go to play now?"
+  译：「波莉姨妈，我现在可以去玩了吗？」
+
+---

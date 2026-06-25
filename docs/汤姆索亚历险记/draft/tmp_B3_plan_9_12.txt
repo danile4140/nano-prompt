@@ -1,0 +1,37 @@
+B3-9 | character_refs: ["C11"] | scene_refs: ["S7"] | 预估格数: ?
+- "What!" said Dr Robinson angrily, "I paid you this morning.
+  译：「什么！」罗宾逊医生愤怒地说，「我今天早上已经付过钱了。
+- I'm not giving you more money!"
+  译：我不会再给你们更多钱！」
+
+---
+
+B3-10 | character_refs: ["C10", "C11"] | scene_refs: ["S7"] | 预估格数: ?
+- "I want more money, Doctor," said Injun Joe, "Five years ago I came to your father's house.
+  译：「我要更多钱，医生，」印第安乔说，「五年前我来到您父亲家。
+- I asked you for something to eat.
+  译：我向您讨要食物。
+- You gave me nothing.
+  译：您什么也没给我。
+- I still remember that.
+  译：我至今还记得那件事。
+- Now you must give me more money."
+  译：现在您必须给我更多钱。」
+
+---
+
+B3-11 | character_refs: ["C10", "C11"] | scene_refs: ["S7"] | 预估格数: ?
+- Injun Joe took the doctor's arm and the doctor hit him.
+  译：印第安乔抓住了医生的手臂，医生打了他。
+- Injun Joe fell to the ground.
+  译：印第安乔倒在了地上。
+
+---
+
+B3-12 | character_refs: ["C9", "C10", "C11"] | scene_refs: ["S7"] | 预估格数: ?
+- "Don't hit my friend!" cried Muff Potter.
+  译：「别打我的朋友！」马夫·波特叫道。
+- Muff and Dr Robinson started fighting.
+  译：马夫和罗宾逊医生打了起来。
+
+---

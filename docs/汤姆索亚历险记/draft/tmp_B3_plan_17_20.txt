@@ -1,0 +1,47 @@
+B3-17 | character_refs: ["C10"] | scene_refs: ["S7"] | 预估格数: ?
+- Injun Joe said, "Something very bad, Muff.
+  译：印第安乔说，「出了很糟糕的事，马夫。
+- Why did you kill him?"
+  译：你为什么要杀他？」
+
+---
+
+B3-18 | character_refs: ["C9"] | scene_refs: ["S7"] | 预估格数: ?
+- "I didn't kill him!" said Muff.
+  译：「我没有杀他！」马夫说。
+- He was very confused, "I drank too much whisky last night.
+  译：他非常困惑，「我昨晚喝了太多威士忌。
+- I don't remember anything!
+  译：我什么都不记得了！
+- Tell me, Joe.
+  译：告诉我，乔。
+- What happened?"
+  译：发生了什么事？」
+
+---
+
+B3-19 | character_refs: ["C10"] | scene_refs: ["S7"] | 预估格数: ?
+- "You fought with the doctor.
+  译：「你和医生打架了。
+- He hit you on the head and you fell to the ground.
+  译：他打中了你的头，你倒在了地上。
+- Then you got up, took your knife and killed him," said Injun Joe.
+  译：然后你爬起来，拿起你的刀杀死了他，」印第安乔说。
+
+---
+
+B3-20 | character_refs: ["C9"] | scene_refs: ["S7"] | 预估格数: ?
+- "I don't understand, Joe.
+  译：「我不明白，乔。
+- I never fight with a knife.
+  译：我从来不用刀打架。
+- I didn't want to kill Dr Robinson.
+  译：我不想杀罗宾逊医生。
+- He was young and he had a future.
+  译：他还年轻，他有大好前途。
+- Oh, this is terrible!
+  译：哦，这太可怕了！
+- It was the whisky," cried Muff, "Joe, don't tell anyone, please."
+  译：都是威士忌害的，」马夫哭喊道，「乔，请不要告诉任何人。」
+
+---

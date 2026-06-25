@@ -1,0 +1,37 @@
+B3-5 | character_refs: ["C1", "C6"] | scene_refs: ["S7"] | 预估格数: ?
+- "They're grave robbers.
+  译：「他们是盗墓贼。
+- They want to rob a grave.
+  译：他们想盗一座坟墓。
+- The doctor wants a dead body," said Huck.
+  译：那个医生想要一具尸体，」赫克说。
+
+---
+
+B3-6 | character_refs: ["C1", "C6"] | scene_refs: ["S7"] | 预估格数: ?
+- "But why?" asked Tom.
+  译：「但为什么？」汤姆问道。
+- "He cuts bodies and studies them.
+  译：「他解剖尸体来研究它们。
+- My father told me about Dr Robinson," said Huck.
+  译：我父亲告诉过我罗宾逊医生的事，」赫克说。
+
+---
+
+B3-7 | character_refs: ["C9", "C10", "C11"] | scene_refs: ["S7"] | 预估格数: ?
+- The three men were at Hoss Williams's grave.
+  译：三个人来到霍斯·威廉斯的坟前。
+- Injun Joe and Muff Potter started digging.
+  译：印第安乔和马夫·波特开始挖掘。
+- Soon the grave was open.
+  译：很快，坟墓被挖开了。
+- They found the dead body and pulled it out of the ground.
+  译：他们找到了尸体，并将它从地里拖了出来。
+
+---
+
+B3-8 | character_refs: ["C9", "C10", "C11"] | scene_refs: ["S7"] | 预估格数: ?
+- "Well, doctor, do you want us to take the body to your house?" said Muff, "You must give us five dollars."
+  译：「好吧，医生，您想让我们把尸体送到您家吗？」马夫说，「您得给我们五美元。」
+
+---

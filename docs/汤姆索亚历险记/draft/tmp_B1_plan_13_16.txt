@@ -1,0 +1,41 @@
+B1-13 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: ?
+- Tom arrived home late and he was very dirty.
+  译：汤姆很晚才回到家，身上弄得脏兮兮的。
+- When Aunt Polly saw his dirty clothes, she thought, "What can I do with this boy?
+  译：波莉姨妈看到他那一身脏衣服，心想：「我拿这孩子能有什么办法呢？
+- Well, tomorrow is Saturday, and he must work."
+  译：算了，明天是星期六，让他干活去吧。」
+
+---
+
+B1-14 | character_refs: ["C1"] | scene_refs: ["S2"] | 预估格数: ?
+- Saturday morning was beautiful and sunny.
+  译：星期六的早晨阳光灿烂，美丽宜人。
+- It was summer and the world was happy.
+  译：正值夏日，整个世界都欢欣鼓舞。
+- Tom sat in front of the fence and looked at it.
+  译：汤姆坐在栅栏前，盯着它发呆。
+- It was thirty yards long and nine feet high.
+  译：栅栏有三十码长、九英尺高。
+- He was very unhappy.
+  译：他心情糟透了。
+
+---
+
+B1-15 | character_refs: ["C1"] | scene_refs: ["S2"] | 预估格数: ?
+- "It's Saturday and I must paint this long fence.
+  译：「今天是星期六，我却得来粉刷这么长的栅栏。
+- All my friends will laugh at me," he thought.
+  译：我的朋友们一定会嘲笑我的，」他心想。
+
+---
+
+B1-16 | character_refs: ["C1"] | scene_refs: ["S2"] | 预估格数: ?
+- He put his long brush in the white paint and started painting.
+  译：他把长刷子蘸上白漆，开始粉刷。
+- He stopped and looked at his work.
+  译：他停下来看了看自己刷的地方。
+- Then he continued painting.
+  译：然后他又继续刷了下去。
+
+---

@@ -1,0 +1,35 @@
+B3-21 | character_refs: ["C10"] | scene_refs: ["S7"] | 预估格数: ?
+- "I won't tell anyone, Muff.
+  译：「我不会告诉任何人的，马夫。
+- But now you must leave this graveyard quickly.
+  译：但现在你必须立刻离开这座墓地。
+- Go!" said Injun Joe.
+  译：快走！」印第安乔说。
+
+---
+
+B3-22 | character_refs: ["C9"] | scene_refs: ["S7"] | 预估格数: ?
+- "Thank you, Joe," said Muff, "You're a friend."
+  译：「谢谢你，乔，」马夫说，「你是个好朋友。」
+
+---
+
+B3-23 | character_refs: ["C9", "C10"] | scene_refs: ["S7"] | 预估格数: ?
+- Muff Potter ran away and Injun Joe watched him.
+  译：马夫·波特跑走了，印第安乔注视着他。
+- Then he carefully put Muff's knife near the doctor's body and left the graveyard.
+  译：然后，他小心翼翼地把马夫的刀放在医生尸体旁边，离开了墓地。
+
+---
+
+B3-24 | character_refs: ["C1", "C6"] | scene_refs: ["S7"] | 预估格数: ?
+- Tom and Huck were terrified.
+  译：汤姆和赫克被吓坏了。
+- It was a terrible scene.
+  译：那是一幕可怕的景象。
+- They silently moved away from the trees.
+  译：他们悄悄地离开了树旁。
+- Then they ran out of the graveyard and back to the village.
+  译：然后，他们跑出了墓地，跑回了村子。
+
+---
