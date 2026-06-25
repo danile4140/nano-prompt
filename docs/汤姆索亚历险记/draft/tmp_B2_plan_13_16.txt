@@ -1,0 +1,39 @@
+B2-13 | character_refs: ["C1", "C6"] | scene_refs: ["S6"] | 预估格数: ?
+- "Afraid of ghosts!
+  译："怕鬼！
+- Of course not!" said Tom, "Come and call me at my window at eleven o'clock tonight."
+  译：当然不怕！"汤姆说，"今晚十一点来我窗子底下叫我。"
+
+---
+
+B2-14 | character_refs: ["C1"] | scene_refs: ["S5"] | 预估格数: ?
+- Tom was late for school.
+  译：汤姆上学迟到了。
+- The teacher was angry and said, "Thomas Sawyer!
+  译：老师很生气，说道："托马斯·索亚！
+- Why are you late again?"
+  译：你为什么又迟到了？"
+
+---
+
+B2-15 | character_refs: ["C1", "C7"] | scene_refs: ["S5"] | 预估格数: ?
+- Suddenly Tom saw a new girl in the classroom.
+  译：突然，汤姆看见教室里有一个新来的女孩。
+- She had blue eyes and long blonde hair.
+  译：她有着蓝色的眼睛和金色的长发。
+- She was very beautiful.
+  译：她非常漂亮。
+- Tom looked at her.
+  译：汤姆盯着她看。
+- He was in love!
+  译：他爱上她了！
+
+---
+
+B2-16 | character_refs: ["C1", "C7"] | scene_refs: ["S5"] | 预估格数: ?
+- There was a free chair next to her and Tom wanted to sit there.
+  译：她旁边有一个空位，汤姆很想坐过去。
+- But how?
+  译：但怎么才能坐过去呢？
+
+---

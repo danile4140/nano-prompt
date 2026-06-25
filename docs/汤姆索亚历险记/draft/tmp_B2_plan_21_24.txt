@@ -1,0 +1,43 @@
+B2-21 | character_refs: ["C1", "C7"] | scene_refs: ["S5"] | 预估格数: ?
+- "Becky Thatcher.
+  译："贝基·萨切尔。
+- I know your name.
+  译：我知道你的名字。
+- It's Tom Sawyer."
+  译：你是汤姆·索亚。"
+
+---
+
+B2-22 | character_refs: ["C1", "C3"] | scene_refs: ["S1"] | 预估格数: ?
+- That night Tom and Sid were in bed at half past nine.
+  译：那天晚上，汤姆和锡德在九点半就上床睡觉了。
+- Sid was soon asleep but Tom was not.
+  译：锡德很快睡着了，但汤姆没有睡。
+- At eleven o'clock he heard Huck meow.
+  译：十一点钟，他听到哈克学猫叫的声音。
+- He dressed quickly and went out of the bedroom window.
+  译：他迅速穿好衣服，从卧室窗户爬了出去。
+
+---
+
+B2-23 | character_refs: ["C1", "C6"] | scene_refs: ["S3"] | 预估格数: ?
+- "Let's go!" whispered Huck.
+  译："走吧！"哈克低声说。
+- He had his dead cat.
+  译：他拿着那只死猫。
+- Tom and Huck walked down the dark road.
+  译：汤姆和哈克沿着漆黑的道路走去。
+- They walked for about half an hour.
+  译：他们走了大约半个小时。
+
+---
+
+B2-24 | character_refs: ["C1", "C6"] | scene_refs: ["S7"] | 预估格数: ?
+- The graveyard was on a hill.
+  译：墓地在一座山丘上。
+- There were a lot of trees and a lot of graves; everything was dark and scary.
+  译：到处是大树和坟墓，一切都黑暗而可怕。
+- The wind made strange noises and dark clouds covered the moon.
+  译：风发出奇怪的声音，乌云遮住了月亮。
+
+---
