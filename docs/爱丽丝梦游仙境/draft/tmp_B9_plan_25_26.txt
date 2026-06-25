@@ -1,0 +1,19 @@
+B9-25 | character_refs: [C18, C12] | scene_refs: [S13] | 预估格数: ?
+- 'That's right.
+  译：「好的。
+- Well, let's see, what are tarts made of?' asked the King.
+  译：那么，让我想想，馅饼是用什么做的？」国王问道。
+- 'Pepper, of course,' answered the cook.
+  译：「当然是胡椒，」厨师回答道。
+
+---
+
+B9-26 | character_refs: [C18, C3] | scene_refs: [S13] | 预估格数: ?
+- 'Next witness!' said the King.
+  译：「下一位证人！」国王说。
+- The White Rabbit looked at his paper and read out the name:
+  译：白兔看了看他的纸，大声念出了名字：
+- 'ALICE!'
+  译：「爱丽丝！」
+
+---

@@ -1,0 +1,35 @@
+B9-9 | character_refs: [C15, C14, C16] | scene_refs: [S13] | 预估格数: ?
+- 'March the fourteenth, I think,' answered the Hatter.
+  译：「我想是三月十四日，」帽匠回答。
+- 'The fifteenth,' said the March Hare.
+  译：「是十五日，」三月野兔说。
+- 'The sixteenth,' added the Dormouse.
+  译：「是十六日，」睡鼠补充道。
+
+---
+
+B9-10 | character_refs: [C18, C15] | scene_refs: [S13] | 预估格数: ?
+- 'Write that down!' said the King, 'and take off your hat.'
+  译：「把那个记下来！」国王说，「还有摘掉你的帽子。」
+- 'It isn't mine,' said the Hatter.
+  译：「那不是我的帽子，」帽匠说。
+
+---
+
+B9-11 | character_refs: [C18, C15] | scene_refs: [S13] | 预估格数: ?
+- 'You stole it, didn't you?' inquired the King.
+  译：「你偷了它，不是吗？」国王追问道。
+- 'No, your Majesty, I didn't,' replied the Hatter.
+  译：「没有，陛下，我没有，」帽匠回答。
+- He was very frightened.
+  译：他非常害怕。
+
+---
+
+B9-12 | character_refs: [C15] | scene_refs: [S13] | 预估格数: ?
+- 'I sell hats, you see.
+  译：「您看，我是卖帽子的。
+- I'm a Hatter,' he said.
+  译：我是个帽匠，」他说。
+
+---

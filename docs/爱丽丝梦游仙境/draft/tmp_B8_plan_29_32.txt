@@ -1,0 +1,37 @@
+B8-29 | character_refs: [C18] | scene_refs: [S12] | 预估格数: ?
+- The King didn't agree.
+译：国王不赞同。
+- 'It has a head so you must cut it off!' he insisted.
+译："它有脑袋，所以你们就必须砍掉它！"他坚持道。
+
+---
+
+---
+
+B8-30 | character_refs: [C17] | scene_refs: [S12] | 预估格数: ?
+- 'I will cut off all your heads if you don't cut this head off immediately!' threatened the Queen.
+译："如果你们不立刻砍掉这颗脑袋，我就把你们所有人的脑袋都砍掉！"女王威胁道。
+
+---
+
+---
+
+B8-31 | character_refs: [C1] | scene_refs: [S12] | 预估格数: ?
+- 'You should ask the Duchess. It's her cat,' said Alice.
+译："你们应该去问公爵夫人，这是她的猫，"爱丽丝说。
+
+---
+
+---
+
+B8-32 | character_refs: [C1, C17] | scene_refs: [S12] | 预估格数: ?
+- 'The Duchess is in prison because she boxed the Queen's ears.
+译："公爵夫人在监狱里，因为她打了女王的耳光。
+- Don't you know?' said the Queen.
+译：你不知道吗？"女王说。
+- Then she added, 'Bring her here!'
+译：随后她补充道："把她带来！"
+
+---
+
+---

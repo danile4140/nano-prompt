@@ -1,0 +1,70 @@
+B8-33 | character_refs: [C13] | scene_refs: [S12] | 预估格数: ?
+- The soldier followed the Queen's order and left.
+译：士兵遵从女王的命令离开了。
+- Just then the Cat's ears disappeared, then the mouth, eyes, head, teeth ... It was gone!
+译：就在这时，猫的耳朵消失了，然后是嘴巴、眼睛、脑袋、牙齿……它就这样消失了！
+
+---
+
+---
+
+B8-34 | character_refs: [] | scene_refs: [S12] | 预估格数: ?
+- Suddenly a cry was heard in the distance.
+译：突然，远处传来一声叫喊。
+- 'The trial's beginning! The trial's beginning!'
+译："审判开始了！审判开始了！"
+
+---
+
+---
+
+B8-35 | character_refs: [C1] | scene_refs: [S12] | 预估格数: ?
+- 'Whose trial is it?' asked Alice.
+译："审的是谁？"爱丽丝问道。
+- But nobody answered because they were all leaving.
+译：但没有人回答，因为所有人都已经离开了。
+
+---
+
+**自检：未覆盖句数 = 0**
+
+句子总数统计：
+- B8-1：4句（S1-S4）
+- B8-2：4句（S5-S8）
+- B8-3：1句（S9）
+- B8-4：1句（S10）
+- B8-5：3句（S11-S13）
+- B8-6：2句（S14-S15）
+- B8-7：2句（S16-S17）
+- B8-8：1句（S18）
+- B8-9：2句（S19-S20）
+- B8-10：3句（S21-S23）
+- B8-11：1句（S24）
+- B8-12：1句（S25）
+- B8-13：2句（S26-S27）
+- B8-14：3句（S28-S30）
+- B8-15：2句（S31-S32）
+- B8-16：2句（S33-S34）
+- B8-17：5句（S35-S39）
+- B8-18：2句（S40-S41）
+- B8-19：1句（S42）
+- B8-20：2句（S43-S44）
+- B8-21：2句（S45-S46）
+- B8-22：4句（S47-S50）
+- B8-23：2句（S51-S52）
+- B8-24：2句（S53-S54）
+- B8-25：3句（S55-S57）
+- B8-26：3句（S58-S60）
+- B8-27：2句（S61-S62）
+- B8-28：3句（S63-S65）
+- B8-29：2句（S66-S67）
+- B8-30：1句（S68）
+- B8-31：1句（S69）
+- B8-32：3句（S70-S72）
+- B8-33：2句（S73-S74）
+- B8-34：2句（S75-S76）
+- B8-35：2句（S77-S78）
+
+合计：78句，全部覆盖，未覆盖句数 = 0。
+
+---

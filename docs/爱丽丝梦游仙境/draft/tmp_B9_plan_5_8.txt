@@ -1,0 +1,29 @@
+B9-5 | character_refs: [C17] | scene_refs: [S13] | 预估格数: ?
+- 'Off with his head!' cried the Queen.
+  译：「砍掉他的头！」王后叫喊道。
+
+---
+
+B9-6 | character_refs: [C3, C18] | scene_refs: [S13] | 预估格数: ?
+- 'But we must have some witness first!' cried the White Rabbit.
+  译：「但我们必须先传唤证人！」白兔喊道。
+- 'Call the first witness!' said the King.
+  译：「传唤第一位证人！」国王说。
+
+---
+
+B9-7 | character_refs: [C15] | scene_refs: [S13] | 预估格数: ?
+- The first witness was the Hatter.
+  译：第一位证人是帽匠。
+- He had his tea in one hand and bread and butter in the other hand.
+  译：他一手拿着茶杯，另一手拿着涂了黄油的面包。
+
+---
+
+B9-8 | character_refs: [C15, C18] | scene_refs: [S13] | 预估格数: ?
+- 'I am sorry about this but I was having my tea when they called me,' said the Hatter.
+  译：「我很抱歉，但他们叫我来的时候我正在喝茶，」帽匠说。
+- 'When did you begin your tea?' asked the King.
+  译：「你什么时候开始喝茶的？」国王问道。
+
+---

@@ -1,0 +1,31 @@
+B10-9 | character_refs: [C1, C3, C17, C19] | scene_refs: [S13] | 预估格数: ?
+- 'Cut off his head!' said the Queen pointing at the Knave of Hearts.
+  译：「砍掉他的头！」皇后说，手指着红心杰克。
+- 'Sentence first and then verdict,' protested the White Rabbit.
+  译：「先判决，再裁决，」白兔抗议道。
+- 'You should ask him if he's guilty first,' suggested Alice.
+  译：「你们应该先问他是否有罪，」爱丽丝建议道。
+
+---
+
+B10-10 | character_refs: [C1, C17] | scene_refs: [S13] | 预估格数: ?
+- 'Keep quiet!' said the Queen.
+  译：「住口！」皇后说。
+- 'I won't! You're just a pack of cards!' replied Alice.
+  译：「我不！你们不过是一副纸牌！」爱丽丝反驳道。
+
+---
+
+B10-11 | character_refs: [C1] | scene_refs: [S13] | 预估格数: ?
+- When Alice said this, the cards flew up into the air and then down upon her.
+  译：当爱丽丝说出这句话时，纸牌们一起飞上了空中，然后纷纷扑落在她身上。
+
+---
+
+B10-12 | character_refs: [C1, C2] | scene_refs: [S1] | 预估格数: ?
+- 'Wake up, Alice!'
+  译：「醒醒，爱丽丝！」
+- Alice opened her eyes and saw her sister's face, the river and the green fields.
+  译：爱丽丝睁开眼睛，看见了姐姐的脸、河流和绿色的田野。
+
+---

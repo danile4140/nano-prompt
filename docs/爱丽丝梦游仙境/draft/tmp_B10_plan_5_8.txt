@@ -1,0 +1,39 @@
+B10-5 | character_refs: [C18] | scene_refs: [S13] | 预估格数: ?
+- After a while he shouted: 'Silence! I have an important rule for you. Listen!'
+  译：过了一会儿，他大声喊道：「安静！我有一条重要规则要告诉你们。听着！」
+- Everybody was silent.
+  译：所有人都沉默了。
+
+---
+
+B10-6 | character_refs: [C1, C18] | scene_refs: [S13] | 预估格数: ?
+- 'Rule Forty-two: All people more than a mile tall must leave the courtroom,' declared the King.
+  译：「第四十二条规则：所有身高超过一英里的人必须离开法庭，」国王宣布道。
+- Everybody looked at Alice.
+  译：所有人都看向了爱丽丝。
+
+---
+
+B10-7 | character_refs: [C1, C17, C18] | scene_refs: [S13] | 预估格数: ?
+- 'I'm not that tall,' said Alice.
+  译：「我没那么高，」爱丽丝说。
+- 'Of course you are,' said the King.
+  译：「你当然是，」国王说。
+- 'You're more than two miles tall,' added the Queen.
+  译：「你身高超过两英里，」皇后补充道。
+- 'I won't leave. It's not a real rule. You've just invented it,' protested Alice.
+  译：「我不会离开。这不是真正的规则。你们只是临时编的，」爱丽丝抗议道。
+- 'It's the oldest rule in the book,' said the King.
+  译：「这是规则书里最古老的规则，」国王说。
+- 'Then it should be Number one and not Number Forty-two,' replied Alice.
+  译：「那它应该是第一条而不是第四十二条，」爱丽丝反驳道。
+
+---
+
+B10-8 | character_refs: [C18] | scene_refs: [S13] | 预估格数: ?
+- The King didn't know what to say.
+  译：国王不知道该说什么了。
+- He looked at the jury and asked: 'What do you think?'
+  译：他看向陪审团，问道：「你们怎么看？」
+
+---

@@ -1,0 +1,43 @@
+B8-17 | character_refs: [C1] | scene_refs: [S12] | 预估格数: ?
+- 'What a funny game,' thought Alice.
+译："真是一场奇怪的游戏，"爱丽丝心想。
+- 'When I play at home we use croquet balls but here they have these little animals: hedgehogs.
+译："在家里打槌球用的是球，但这里用的是小动物：刺猬。
+- In England we use mallets but I can't see any here.
+译：在英国我们用槌子，但我在这里一根也看不到。
+- They use birds with long legs: flamingos.
+译：他们用长腿的鸟：火烈鸟。
+- It's so difficult to play.'
+译：这球根本没法打。"
+
+---
+
+---
+
+B8-18 | character_refs: [C1] | scene_refs: [S12] | 预估格数: ?
+- 'You're my mallet, come here!' shouted Alice to a running flamingo.
+译："你是我的槌子，过来！"爱丽丝对着一只跑开的火烈鸟大喊。
+- 'Nobody follows the rules and the Queen seems so angry,' thought Alice.
+译："没有人遵守规则，女王看起来非常愤怒，"爱丽丝心想。
+
+---
+
+---
+
+B8-19 | character_refs: [C17] | scene_refs: [S12] | 预估格数: ?
+- 'Off with his head! Off with her head!' shouted the Queen.
+译："砍掉他的脑袋！砍掉她的脑袋！"女王大喊道。
+
+---
+
+---
+
+B8-20 | character_refs: [C1] | scene_refs: [S12] | 预估格数: ?
+- 'Poor me,' thought Alice, 'they like cutting people's heads off down here.
+译："可怜的我，"爱丽丝心想，"他们在这里真喜欢砍人脑袋。
+- What will happen to my poor head?' she wondered.
+译：我可怜的脑袋会怎样呢？"她暗自担忧。
+
+---
+
+---

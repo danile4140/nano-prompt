@@ -1,0 +1,41 @@
+B8-13 | character_refs: [C1, C23, C24, C25] | scene_refs: [S12] | 预估格数: ?
+- The gardeners were very frightened.
+译：园丁们吓得瑟瑟发抖。
+- They shouted: 'Alice! Alice, help us!'
+译：他们大喊："爱丽丝！爱丽丝，快救救我们！"
+
+---
+
+---
+
+B8-14 | character_refs: [C1, C17] | scene_refs: [S12] | 预估格数: ?
+- 'Come here!' said Alice and she put them in a flower pot.
+译："过来！"爱丽丝说，然后把他们藏进了一个花盆里。
+- 'Don't worry. I'm here,' Alice whispered, 'Are their heads off?' inquired the Queen.
+译："别担心，我在这儿，"爱丽丝低声安慰道。"他们的脑袋砍掉了吗？"女王问道。
+- 'Certainly, your Majesty,' answered the soldiers.
+译："当然，陛下，"士兵们回答。
+
+---
+
+---
+
+B8-15 | character_refs: [C1, C17] | scene_refs: [S12] | 预估格数: ?
+- 'Good! Let's play croquet!' said the Queen, 'Can you play croquet, my dear?' she asked.
+译："好！我们来打槌球！"女王说，"你会打槌球吗，亲爱的？"她问道。
+- 'Of course!' answered Alice.
+译："当然会！"爱丽丝回答。
+
+---
+
+---
+
+B8-16 | character_refs: [C1, C17] | scene_refs: [S12] | 预估格数: ?
+- 'Go to your places!' ordered the Queen.
+译："各就各位！"女王命令道。
+- The players took their places and the game started.
+译：参与者们各就各位，游戏开始了。
+
+---
+
+---

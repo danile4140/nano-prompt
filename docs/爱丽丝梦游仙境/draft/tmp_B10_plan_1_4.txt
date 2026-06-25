@@ -1,0 +1,37 @@
+B10-1 | character_refs: [C1] | scene_refs: [S13] | 预估格数: ?
+- 'Here I am!' cried Alice.
+  译：「我在这里！」爱丽丝喊道。
+- She stood up in such a hurry that she knocked over the jury box.
+  译：她猛地站起来，慌忙中撞翻了陪审席的箱子。
+- 'I'm very sorry!' said Alice picking up the jury animals as quickly as she could.
+  译：「非常抱歉！」爱丽丝说，一边尽可能快地把陪审席上的动物们捡起来。
+
+---
+
+B10-2 | character_refs: [C1, C18] | scene_refs: [S13] | 预估格数: ?
+- 'What can you tell us about this?' asked the King.
+  译：「关于这件事你能告诉我们什么？」国王问道。
+- 'Nothing,' answered Alice.
+  译：「什么都没有，」爱丽丝回答。
+
+---
+
+B10-3 | character_refs: [C1, C3, C18] | scene_refs: [S13] | 预估格数: ?
+- 'That's very important,' said the King.
+  译：「那非常重要，」国王说。
+- 'You mean unimportant, your Majesty,' said the White Rabbit.
+  译：「您的意思是不重要，陛下，」白兔说。
+- 'Of course, that's what I meant ... unimportant,' replied the King.
+  译：「当然，我就是那个意思……不重要，」国王回答。
+
+---
+
+B10-4 | character_refs: [C18] | scene_refs: [S13] | 预估格数: ?
+- The jury was very busy writing down what the witness said.
+  译：陪审团正忙着把证人所说的话记录下来。
+- Some of them wrote 'unimportant' others wrote 'important'.
+  译：其中有些写下的是「不重要」，另一些写的是「重要」。
+- The King was writing in his book, too.
+  译：国王也在他的本子上写着。
+
+---
