@@ -1,47 +1,32 @@
-B6-9 | character_refs: ["C4", "C2"] | scene_refs: ["S10"] | 预估格数: 2
+B6-9 | character_refs: ["C5", "C2"] | scene_refs: ["S10"] | 预估格数: ?
+- here is a drink for you hamlet if you're thirsty.
+  译：克劳狄斯说："哈姆雷特，如果你渴了，这杯酒是为你准备的。"
+- good辣条.
+  译：（众人）"好！"
 - I have bet six horses that you will win.
   译：王后说："我押了六匹马赌你会赢。"
+
+---
+B6-10 | character_refs: ["C2", "C4", "C5"] | scene_refs: ["S10"] | 预估格数: ?
 - hamlet fights well and scores the first points.
   译：哈姆雷特表现出色，率先得分。
 - the queen is very happy.
   译：王后非常高兴。
-- she picks up the cup of poison claudius tries to stop her drinking.
-  译：她拿起那杯毒酒，克劳狄斯想要阻止她喝下去。
+- she picks up the cup of poison claudius, tries to stop her drinking.
+  译：王后拿起那杯毒酒；克劳狄斯想要阻止她喝下去。
 
 ---
-
----
-
-B6-10 | character_refs: ["C5", "C4"] | scene_refs: ["S10"] | 预估格数: 2
+B6-11 | character_refs: ["C5", "C4"] | scene_refs: ["S10"] | 预估格数: ?
 - but it is too late.
   译：但已经太迟了。
 - no good truth, do not drink.
-  译："不，不行，不要喝！"
+  译：克劳狄斯说："不，不行，不要喝！"
 - i drink to hamlet.
   译：王后说："我为哈姆雷特干杯。"
 
 ---
-
----
-
-B6-11 | character_refs: ["C7", "C2"] | scene_refs: ["S10"] | 预估格数: 2
+B6-12 | character_refs: ["C7", "C2"] | scene_refs: ["S10"] | 预估格数: ?
 - ler t's wounds hamlet with the poisoned sword.
   译：莱阿提斯用涂毒的剑刺伤了哈姆雷特。
-
----
-
----
-
-B6-12 | character_refs: ["C2", "C7", "C4"] | scene_refs: ["S10"] | 预估格数: 4
-- later in the confusion, they exchanged swords and hamlet wounds lerties AH.
-  译：混乱中，两人互换了剑，哈姆雷特刺伤了莱阿提斯。
-- the poison enters their blood.
-  译：毒素进入了他们的血液。
-- suddenly the queen screams in pain hahaha.
-  译：突然，王后痛苦地尖叫起来。
-- laity's falls to the ground and hamlet begins to feel weak.
-  译：莱阿提斯倒地，哈姆雷特也开始感到虚弱。
-- the poison is working.
-  译：毒药正在发作。
 
 ---

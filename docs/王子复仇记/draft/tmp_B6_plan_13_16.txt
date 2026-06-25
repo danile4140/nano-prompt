@@ -1,45 +1,30 @@
-B6-13 | character_refs: ["C2", "C7"] | scene_refs: ["S10"] | 预估格数: 3
-- help me, I am dying.
-  译：莱阿提斯说："救救我，我快死了。"
-- we are all going to die the sword and the drink were poisoned.
-  译："我们都快死了，剑和酒都被下了毒。"
+B6-13 | character_refs: ["C2", "C7"] | scene_refs: ["S10"] | 预估格数: ?
+- later in the confusion, they exchanged swords and hamlet wounds lerties AH.
+  译：混乱中，两人互换了剑，哈姆雷特刺伤了莱阿提斯。
+- the poison enters their blood.
+  译：毒素进入了他们两人的血液。
+
+---
+B6-14 | character_refs: ["C4", "C7", "C2"] | scene_refs: ["S10"] | 预估格数: ?
+- suddenly the queen screams in pain hahaha laity's falls to the ground and hamlet begins to feel weak.
+  译：突然，王后痛苦地尖叫，莱阿提斯倒地，哈姆雷特也开始感到虚弱。
+- the poison is working.
+  译：毒药正在发作。
+
+---
+B6-15 | character_refs: ["C7", "C2"] | scene_refs: ["S10"] | 预估格数: ?
+- help me, I am dying we are all going to die the sword and the drink were poisoned.
+  译：莱阿提斯说："救救我，我快死了——我们都快死了，剑和酒都被下了毒。"
 - the king is to blame.
   译："要怪就怪国王。"
-
----
-
----
-
-B6-14 | character_refs: ["C2", "C5"] | scene_refs: ["S10"] | 预估格数: 2
 - then before i die, I shall have my revenge.
   译：哈姆雷特说："那么在我死之前，我要报仇。"
+
+---
+B6-16 | character_refs: ["C2", "C5"] | scene_refs: ["S10"] | 预估格数: ?
 - this is for my father's murder.
-  译："这是为我父亲被谋杀而报！"
-
----
-
----
-
-B6-15 | character_refs: ["C2", "C3"] | scene_refs: ["S10"] | 预估格数: 2
-- hamlet is dying.
-  译：哈姆雷特奄奄一息。
-- polonius aphelia lair ties, gertrude and claudius are all dead.
-  译：波洛涅斯、奥菲莉亚、莱阿提斯、葛特鲁德和克劳狄斯全都死了。
-
----
-
----
-
-B6-16 | character_refs: ["C2", "C3"] | scene_refs: ["S10"] | 预估格数: 3
-- it is time for a new beginning in Denmark.
-  译：哈姆雷特说："丹麦迎来了新的开始。"
-- I shall kill myself too.
-  译：霍雷肖说："我也要随你而去。"
-- no horatio, you must live.
-  译：哈姆雷特说："不，霍雷肖，你必须活下去。"
-- tell the truth to the world after I am dead.
-  译："在我死后，将真相告诉这个世界。"
-- tell my story.
-  译："讲述我的故事。"
+  译：哈姆雷特说："这是为我父亲被谋杀而报！"
+- 追赞，追赞.
+  译：（克劳狄斯倒下，众人惊呼）
 
 ---

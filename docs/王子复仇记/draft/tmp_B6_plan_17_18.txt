@@ -1,59 +1,20 @@
-B6-17 | character_refs: ["C3"] | scene_refs: ["S10"] | 预估格数: 1
-- good night.
-  译：霍雷肖说："晚安。"
-- sweet prince.
-  译："善良的王子。"
-- and flights of angels sing thee to thy rest.
-  译："愿天使的歌声伴你安息。"
+B6-17 | character_refs: ["C2", "C3"] | scene_refs: ["S10"] | 预估格数: ?
+- hamlet is dying.
+  译：哈姆雷特奄奄一息。
+- polonius aphelia lair ties, gertrude and claudius are all dead.
+  译：波洛涅斯、奥菲莉亚、莱阿提斯、葛特鲁德和克劳狄斯全都死了。
+- it is time for a new beginning in Denmark.
+  译：哈姆雷特说："丹麦迎来了新的开始。"
 
 ---
+B6-18 | character_refs: ["C2", "C3"] | scene_refs: ["S10"] | 预估格数: ?
+- I shall kill myself too.
+  译：霍雷肖说："我也要随你而去。"
+- no horatio, you must live.
+  译：哈姆雷特说："不，霍雷肖，你必须活下去。"
+- tell the truth to the world after I am dead.
+  译："在我死后，将真相告诉这个世界。"
+- tell my story.
+  译："讲述我的故事。"
 
 ---
-
-B6-18 | character_refs: ["C2", "C1", "C3", "C6", "C11"] | scene_refs: ["S9", "S10", "S6", "S5"] | 预估格数: 4
-- frailty.
-  译：（回声）"脆弱……"
-- thy name is woman.
-  译：（回声）"你的名字叫女人。"
-- something is rotten in the state of Denmark.
-  译：（回声）"丹麦国中有什么腐烂了。"
-- and you? adju. adieu.
-  译：（回声）"而你？再见。再见。"
-- remember me.
-  译：（回声）"记住我。"
-- one May smile and smile, and be a villain.
-  译：（回声）"一个人可以面带微笑，仍然是个恶棍。"
-- the play's the thing wherein i'll catch the conscience of the king.
-  译：（回声）"戏剧才是捕捉国王良心的工具。"
-- to be.
-  译：（回声）"生存，"
-- or not to be.
-  译：（回声）"还是毁灭，"
-- that is the question.
-  译：（回声）"这是个问题。"
-- madness in great ones must not UN watch'd go.
-  译：（回声）"大人物的疯狂不能不加监视。"
-- suit the action to the word, the word to the action.
-  译：（回声）"让行动配合语言，语言配合行动。"
-- my words fly up.
-  译：（回声）"我的话语飞上去，"
-- my thoughts remain below.
-  译：（回声）"我的思想留在下面。"
-- words without thoughts never to heaven go.
-  译：（回声）"没有思想的话语永远到不了天堂。"
-- how no war at. dead for a duck ET dead.
-  译：（回声）"……一命呜呼。"
-- thou turn'st my eyes into my very soul.
-  译：（回声）"你把我的眼睛转向我自己的灵魂深处。"
-- sweet ladies, good night. good night. alas.
-  译：（回声）"善良的女士们，晚安。晚安。唉。"
-- poor yorick.
-  译：（回声）"可怜的约里克。"
-- I knew him horatio.
-  译：（回声）"我认识他，霍雷肖。"
-- there's a divinity that shapes our ends.
-  译：（回声）"有一种神明在主宰着我们的命运。"
-- the rest.
-  译：（回声）"其余的……"
-- is silence.
-  译：（回声）"是沉默。"
