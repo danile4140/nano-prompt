@@ -1,0 +1,28 @@
+B2-17 | character_refs: ["C3"] | scene_refs: ["S1"] | 预估格数: 2
+- Raoul moved away from the door.
+- He was suffering very badly.
+- Suddenly he decided that he wanted to see the man that Christine loved.
+- He waited in the corridor.
+（4句，拉乌尔痛苦→决心转变，序列条或左右二分表达情绪前后对比）
+
+B2-18 | character_refs: ["C2", "C3"] | scene_refs: ["S1", "S7"] | 预估格数: 3
+- After a few minutes the singer came out of the dressing room.
+- The corridor was dark, and she did not see him.
+- Raoul pushed open the door and looked inside.
+- The room was empty!
+（4句，克里斯汀出门→黑暗中拉乌尔未被看见→拉乌尔推门→房间空了！戏剧高潮E类，叙事节拍含空间跨度：走廊+化妆室内部）
+
+B2-19 | character_refs: ["C10", "C11"] | scene_refs: ["S4"] | 预估格数: 1
+- Monsieur Debienne and Monsieur Poligny were the two managers who were retiring from the Opera.
+- They had attended the gala performance, and they were now having dinner with some of the staff.
+- The room was a large one, and there were many people around the table.
+- The conversation was lively and joyful.
+（4句，场景建立，宴会厅，同一场景同一平和基调，连续铺叙）
+
+B2-20 | character_refs: ["C1"] | scene_refs: ["S4"] | 预估格数: 3
+- Suddenly people at the table began to whisper excitedly to each other, and to point at a strange figure who was standing at one end of the table.
+- He was wearing a dress-suit, and his face was yellow and thin.
+- It looked like a skull.
+- 'The Opera ghost!' people were whispering to each other.
+- 'It's the Phantom of the Opera!'
+（5句，幽灵突然现身，逐对扫描：①宾客指→外貌描述无切换；②外貌→骷髅脸无切换；③骷髅脸→宾客私语无切换；④→"幽灵！"无切换。四维度均无切换：同一宴会厅场景，同一震惊基调，同一焦点（奇异人物），无时间推进，无空间位移。已扫描4对相邻句，四维度均无切换，保留。）

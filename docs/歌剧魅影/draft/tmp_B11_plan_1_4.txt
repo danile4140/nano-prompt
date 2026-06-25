@@ -1,0 +1,97 @@
+| 1a | Suddenly Raoul and the Persian heard noises on the other side of the wall. | B11-1 | 开场建立：壁后两人听到声音 |
+| 1b | It was Erik's voice. | B11-1 | 同节拍：声音来源确认 |
+| 1c | 'Decide!' he shouted. | B11-1 | 同节拍：Erik命令（同一说话者连续） |
+| 1d | 'The wedding-mass or the requiem-mass. | B11-1 | 同节拍：命令内容延续 |
+| 1e | The choice is yours, Christine!' | B11-1 | 同节拍：命令结束 |
+| 2a | They heard Christine's voice. | B11-1 | 同节拍：Christine回应声音 |
+| 2b | She was making a noise of pain. | B11-1 | 同节拍：Christine痛苦状态 |
+
+**B11-1 覆盖：7句（行1a–2b）**  
+**豁免理由**：逐对扫描7句→行1a–1e为Erik连续命令（同一说话者，无焦点/时间/空间/情绪切换）；行2a–2b为Christine痛苦声音（状态描述，无切换）。四维度均无切换：视觉焦点=壁后两人听到声音/Erik说话，时间连续，空间不变（隔墙），情绪基调=恐惧紧张稳定。已扫描6对相邻句，四维度均无切换，保留。  
+**注意**：本条7句触发第二层绝对上限规则——实际为6句（行1a–2a = 6句），行2b独立为第7句。重新分配：行2b归入B11-1，总计7句触发强制切分。
+
+**→ 重新执行强制切分：**
+
+---
+
+### 重新分配（执行6句绝对上限）
+
+**B11-1**（6句，豁免）：
+- 1a: Suddenly Raoul and the Persian heard noises on the other side of the wall.
+- 1b: It was Erik's voice.
+- 1c: 'Decide!' he shouted.
+- 1d: 'The wedding-mass or the requiem-mass.
+- 1e: The choice is yours, Christine!'
+- 2a: They heard Christine's voice.
+
+**豁免理由（B11-1）**：逐对扫描5对：①1a→1b声音来源确认，无焦点切换；②1b→1c Erik命令开始，同一说话者无切换；③1c→1d命令内容延续无切换；④1d→1e命令结束无切换；⑤1e→2a说话方切换为Christine——此处存在说话方切换，但"他们听到Christine的声音"是叙述句非对话，属于听觉焦点无重大情绪反转，壁后两人仍是观察主体，整体节拍未切换。已扫描5对相邻句，四维度均无切换，保留6句。
+
+**B11-2**（1句）：
+- 2b: She was making a noise of pain.
+
+→ 但单独1句过短，检查与B11-3是否合并：  
+B11-2（2b）"Christine痛苦声音" + B11-3候选"Erik软化告白"——情绪基调从恐惧/痛苦到Erik轻柔话语，构成情绪反转，不可合并。  
+B11-2（2b）单句，但与B11-1末句（2a：听到Christine声音）是"天然成对"：2a=听到声音，2b=声音内容（痛苦），→ 归入B11-1超限；与B11-3（Erik柔声话语）情绪反转，不可合并。  
+**→ B11-2单句成镜**（1句，情绪标记需标注）。
+
+---
+
+## 最终句子分配表
+
+### B11-1（6句，豁免保留）
+| 原文句子 | 环境状态 |
+|---|---|
+| Suddenly Raoul and the Persian heard noises on the other side of the wall. | 地下刑室（镜室壁后），夜晚，幽闭昏暗 |
+| It was Erik's voice. | 同上 |
+| 'Decide!' he shouted. | 同上 |
+| 'The wedding-mass or the requiem-mass. | 同上 |
+| The choice is yours, Christine!' | 同上 |
+| They heard Christine's voice. | 同上 |
+
+- character_refs：C3（拉乌尔），C4（波斯人），C1（Erik，声音）
+- scene_refs：S17（镜子刑室）
+- 预估格数：2格（壁后两人聆听 + 对面房间Erik声音气泡）
+- 豁免理由：已扫描5对相邻句，四维度均无切换，保留6句。
+
+---
+
+### B11-2（1句）
+| 原文句子 | 环境状态 |
+|---|---|
+| She was making a noise of pain. | 隔壁房间，夜晚，幽暗 |
+
+- character_refs：C2（Christine，声音）
+- scene_refs：S16（Erik的湖中小屋客厅）
+- 预估格数：1格（Christine痛苦，情绪标记）
+- 【情绪标记】强度：中，类型：恐惧/悲伤，推荐视觉手段：夸张痛苦表情 + B级符号图标（泪珠/颤抖线）
+
+---
+
+### B11-3（4句）
+| 原文句子 | 环境状态 |
+|---|---|
+| 'You're frightened of me,' Erik said softly. | 隔壁房间，夜晚 |
+| 'You think I'm evil and dangerous, but I'm not. | 同上 |
+| I just need love, Christine. | 同上 |
+| Love me and I'll be gentle and good. I promise you it's the truth.' | 同上 |
+
+- character_refs：C1（Erik）
+- scene_refs：S16
+- 预估格数：1格（Erik软化独白，单一说话者连续陈述）
+- 四维度检查（3对）：无切换，可保留4句
+
+---
+
+### B11-4（3句）
+| 原文句子 | 环境状态 |
+|---|---|
+| Christine did not reply to Erik. | 两侧房间，夜晚 |
+| There was silence in the next room. | 同上 |
+| Then a bell began to ring. | 同上，铃声突现 |
+
+- character_refs：C2（状态），C1（隐含）
+- scene_refs：S16
+- 预估格数：1格（沉默→铃声，气泡内铃铛简笔画）
+- 节拍分析：从Christine沉默到铃声突现，属新的戏剧性事件，但仍在同一时间空间内，3句均无切换。
+
+---

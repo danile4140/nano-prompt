@@ -1,0 +1,53 @@
+### B11-21（2句）
+| 原文句子 | 环境状态 |
+|---|---|
+| 'What an evil plan!' the Persian said. | 刑室，夜晚 |
+| 'If she turns the grasshopper, she'll make the gunpowder in the cellar explode. We'll all die, and so will everyone in the Opera House.' | 同上 |
+
+- character_refs：C4（波斯人），C3（拉乌尔）
+- scene_refs：S17
+- 预估格数：1格（波斯人连续解析，同一说话者，气泡内爆炸+剧院轮廓简笔画）
+- 【情绪标记】强度：强，类型：恐惧，推荐视觉手段：速度线 + 近景 + 声音效果语义
+
+---
+
+### B11-22（2句）
+| 原文句子 | 环境状态 |
+|---|---|
+| 'I don't know what to do!' Christine cried in despair. | 隔壁房间，夜晚 |
+| A few minutes passed, and then Erik returned to Christine. | 同上，时间推进 |
+
+- character_refs：C2（Christine），C1b（Erik）
+- scene_refs：S16
+- 预估格数：2格（Christine绝望呼喊 + 时间推进Erik返回，条件D：阶段性边界，Christine独自等待→Erik归来为新阶段入场条件）
+- 【情绪标记】强度：强，类型：悲伤/绝望，推荐视觉手段：速度线/泪线 + 近景特写 + 声音效果语义
+
+---
+
+### B11-23（3句）
+| 原文句子 | 环境状态 |
+|---|---|
+| 'Well, my love,' he asked, 'what are you going to do? | 隔壁房间，夜晚 |
+| Will it be the grasshopper or the scorpion?' | 同上 |
+| Christine hesitated, and then she turned the figure of the scorpion. | 同上，情感高潮 |
+
+- character_refs：C1b（Erik），C2（Christine）
+- scene_refs：S16
+- 预估格数：3格（Erik催促 + Christine犹豫 + Christine转蝎子关键时刻，情感高潮D类，高潮加密≥2个视觉承载点）
+- 【情绪标记】强度：强，类型：恐惧/感动，推荐视觉手段：中心聚焦组织 + 道具特写 + 近景特写Christine表情
+
+---
+
+### B11-24（3句）
+| 原文句子 | 环境状态 |
+|---|---|
+| Raoul and the Persian waited to see what would happen. | 刑室，夜晚 |
+| They heard a strange noise far below them. | 同上 |
+| 'Water!' the Persian cried. 'He's flooding the cellar!' | 同上 |
+
+- character_refs：C3（拉乌尔），C4（波斯人）
+- scene_refs：S17
+- 预估格数：2格（等待听声 + 波斯人大叫发现，说话方切换，情绪突变）
+- 【情绪标记】强度：强，类型：惊吓，推荐视觉手段：速度线/爆裂线 + 近景 + 声音效果语义
+
+---

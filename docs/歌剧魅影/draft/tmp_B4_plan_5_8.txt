@@ -1,0 +1,32 @@
+## B4-5 | character_refs: [C2, C18] | scene_refs: [] | 格数: 2（左格：大卫先生介绍；右格：父女表演）
+
+- He remembered Mr Daae and Christine.
+- Mr Daae, who came from Sweden, had been a very good musician, a violinist.
+- He lived for his music, and he taught Christine to sing.
+- The father and daughter went from village to village, playing for people.
+
+---
+
+## B4-6 | character_refs: [C3, C2, C18] | scene_refs: [] | 格数: 1（拉乌尔初见克里斯汀，中心聚焦单格）
+
+- One day Raoul heard them play.
+- He saw Christine and fell in love with her immediately.
+
+---
+
+## B4-7 | character_refs: [C3, C2] | scene_refs: [] | 格数: 2（左格：丝巾随波浪飘走；右格：拉乌尔从水中取回）
+
+触发-转折因果链（条件B）：丝巾事件触发→拉乌尔入水结果
+
+- He followed them, and Christine stopped near the sea.
+- The wind blew suddenly, and her scarf was carried away by the waves.
+- Raoul went into the water and brought it back to her.
+
+---
+
+## B4-8 | character_refs: [C3, C2, C18] | scene_refs: [] | 格数: 1（三人友谊确立，单格）
+
+- They had been friends from that day onwards.
+- Mr Daae liked Raoul, and he taught him to play the violin.
+
+---

@@ -1,0 +1,56 @@
+### B11-13（2句）
+| 原文句子 | 环境状态 |
+|---|---|
+| He broke open one of the barrels and looked inside. | 地窖，夜晚 |
+| The barrel was full of gunpowder! | 同上，关键道具揭晓 |
+
+- character_refs：C4（波斯人）
+- scene_refs：S18
+- 预估格数：2格（打开木桶动作 + 火药特写画中画，条件B：发现事件，关键道具首次揭晓，需圆形画中画）
+- 【情绪标记】强度：强，类型：惊吓，推荐视觉手段：速度线/爆裂线 + 近景特写 + 感叹号拟声词语义
+
+---
+
+### B11-14（3句）
+| 原文句子 | 环境状态 |
+|---|---|
+| 'Now I understand!' the Persian cried. | 地窖，夜晚 |
+| 'Erik told Christine that everybody would be dead if she didn't agree to marry him. | 同上 |
+| He's going to blow up the Opera House — we've got to warn her!' | 同上 |
+
+- character_refs：C4（波斯人）
+- scene_refs：S18
+- 预估格数：1格（波斯人连续独白揭秘，同一说话者，气泡内爆炸简笔画）
+- 【情绪标记】强度：强，类型：惊吓/恐惧，推荐视觉手段：速度线 + 近景中近景 + 声音效果语义
+
+---
+
+### B11-15（3句）
+| 原文句子 | 环境状态 |
+|---|---|
+| They ran back up the stairs into the torture chamber. | 通道→刑室，夜晚 |
+| 'Christine! Christine!' Raoul shouted. | 刑室，夜晚 |
+| 'I'm still here,' Christine called back. | 隔壁，夜晚 |
+
+- character_refs：C3（拉乌尔），C4（波斯人），C2（Christine，声音）
+- scene_refs：S17，S16
+- 预估格数：2格（奔跑返回刑室 + 隔墙呼喊回应，空间跨度触发多格）
+- 【情绪标记】强度：中，类型：惊吓/紧张，推荐视觉手段：动作速度线 + 夸张呼喊表情
+
+---
+
+### B11-16（4句）
+| 原文句子 | 环境状态 |
+|---|---|
+| 'Erik came in a few minutes ago. | 隔壁房间，夜晚 |
+| He said the visitor was dead. | 同上 |
+| I think ... I think he killed him, Raoul! | 同上 |
+| I'm frightened.' | 同上 |
+
+- character_refs：C2（Christine）
+- scene_refs：S16
+- 预估格数：1格（Christine连续陈述，同一说话者，含情绪标记）
+- 四维度检查（3对）：同一说话者连续陈述，无切换，4句可保留
+- 【情绪标记】强度：强，类型：恐惧，推荐视觉手段：速度线/颤抖线 + 近景特写 + 声音效果语义
+
+---

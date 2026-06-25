@@ -1,0 +1,54 @@
+### B11-5（3句）
+| 原文句子 | 环境状态 |
+|---|---|
+| 'We have a visitor!' Erik cried angrily. | 隔壁房间，夜晚 |
+| 'Who has the courage to come near my house? | 同上 |
+| Wait for me here, Christine.' He walked out of the room. | 同上，Erik离场 |
+
+- character_refs：C1（Erik），C2（Christine）
+- scene_refs：S16
+- 预估格数：2格（Erik愤怒宣告 + 离场动作，条件B：命令→执行）
+- 【情绪标记】强度：中，类型：愤怒，推荐视觉手段：夸张愤怒表情 + 速度线 + 声音效果语义
+
+---
+
+### B11-6（3句）
+| 原文句子 | 环境状态 |
+|---|---|
+| 'Now is our chance!' Raoul said to the Persian. | 刑室壁后，夜晚 |
+| 'Maybe Christine will be able to free us if we call out to her.' | 同上 |
+| Raoul called her name softly, two or three times. | 同上 |
+
+- character_refs：C3（拉乌尔），C4（波斯人）
+- scene_refs：S17
+- 预估格数：1格（Raoul对波斯人低语+呼喊动作，同一节拍）
+
+---
+
+### B11-7（4句）
+| 原文句子 | 环境状态 |
+|---|---|
+| 'Raoul!' she called back. | 隔壁，夜晚 |
+| 'Is it really you? | 同上 |
+| Where are you?' | 同上 |
+| 'We're trapped in the room next to you,' Raoul called. | 刑室，夜晚 |
+
+- character_refs：C2（Christine），C3（拉乌尔）
+- scene_refs：S16，S17
+- 预估格数：2格（Christine惊喜回应 + Raoul回答，对话双格，说话方切换触发）
+- 四维度检查（3对）：说话方切换（Christine→Raoul），空间跨度（隔壁↔刑室），需多格。
+
+---
+
+### B11-8（2句，条件B）
+| 原文句子 | 环境状态 |
+|---|---|
+| 'Can you let us out?' | 刑室，夜晚 |
+| 'I can't move,' Christine told him. 'He has tied me up.' | 隔壁，夜晚 |
+
+- character_refs：C3（拉乌尔），C2（Christine）
+- scene_refs：S17，S16
+- 预估格数：2格（请求 + 拒绝/无法帮忙，触发条件B：请求被拒绝，禁止同格）
+- 节拍分析：条件B，Raoul请求（触发）→Christine无法帮忙（转折结果），必须分格。
+
+---

@@ -1,0 +1,56 @@
+### B11-29（4句）
+| 原文句子 | 环境状态 |
+|---|---|
+| A few days later the Persian was resting in his apartment. | 波斯人公寓，白天 |
+| He had read the Paris newspapers. | 同上 |
+| He knew that Raoul's brother was dead. | 同上 |
+| Someone had found his body near the underground lake. 'Erik's last visitor,' the Persian thought sadly. | 同上 |
+
+- character_refs：C4（波斯人）
+- scene_refs：S21
+- 预估格数：2格（波斯人公寓休息 + 报纸/死讯画中画，心理/独白类，云气泡承载回忆死亡信息）
+- 环境状态：时间跳跃（days later），从地下黑暗→公寓白天，完全环境切换
+
+---
+
+### B11-30（4句）
+| 原文句子 | 环境状态 |
+|---|---|
+| He also knew that Christine and Raoul had disappeared. | 波斯人公寓，白天 |
+| The newspapers had long articles about the missing couple. | 同上 |
+| The Persian's servant came into the room to say that there was a visitor. | 同上，有人来访 |
+| A few minutes later he showed Erik into the room. | 同上，Erik进场 |
+
+- character_refs：C4（波斯人），C1（Erik，带骷髅脸，未戴面具，虚弱状态）
+- scene_refs：S21
+- 预估格数：2格（报纸/失踪消息 + Erik突然现身，条件D：阶段性边界，独处回忆→对抗性对话前夕）
+- 四维度检查（3对）：①失踪消息→报纸长文（同话题，无切换）；②报纸→仆人来报（焦点切换：心理→物理事件）→有切边界，但对话即将开始，可在同一分镜用2格处理
+
+---
+
+### B11-31（2句，条件B）
+| 原文句子 | 环境状态 |
+|---|---|
+| 'Murderer!' the Persian cried. | 波斯人公寓，白天 |
+| 'Why did you kill Raoul's brother? And what have you done with Christine and Raoul?' | 同上 |
+
+- character_refs：C4（波斯人），C1（Erik）
+- scene_refs：S21
+- 预估格数：2格（波斯人愤怒指控 + Erik被指控，对话双格，条件B：强烈情绪对峙）
+- 【情绪标记】强度：强，类型：愤怒，推荐视觉手段：速度线/爆裂线 + 近景特写 + 声音效果语义
+
+---
+
+### B11-32（3句）
+| 原文句子 | 环境状态 |
+|---|---|
+| Erik put his hand on his head. | 波斯人公寓，白天 |
+| He looked ill and tired. | 同上 |
+| 'I am dying,' he said. 'I came here to see you for the last time, my old friend. I want to tell you what happened.' | 同上 |
+
+- character_refs：C1（Erik，骷髅脸，虚弱状态）
+- scene_refs：S21
+- 预估格数：1格（Erik虚弱自白，情感高潮D类，单格中心聚焦组织，卫星格加反应特写）
+- 【情绪标记】强度：强，类型：悲伤，推荐视觉手段：比例压迫/弱势镜头 + 近景特写Erik虚弱面容
+
+---

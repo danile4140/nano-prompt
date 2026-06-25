@@ -1,0 +1,20 @@
+B2-5 | character_refs: ["C3", "C14"] | scene_refs: ["S11"] | 预估格数: 2
+- 'She never sang like that before,' Raoul said quietly to his brother.
+- 'But she looks so ill!'
+（注：2句，同一说话者连续台词，同场景同情绪基调，无四维度切换；但含对话+听者反应，用对话双格处理）
+
+B2-6 | character_refs: ["C3"] | scene_refs: ["S1"] | 预估格数: 2
+- Raoul went backstage after the performance.
+- He made his way to Christine Daae's dressing room.
+- He knocked and entered the room.
+（3句，连续移动动作链，S11→S1→S7路径，但均为同一人物连续行动节拍，用序列条或路径动线）
+
+B2-7 | character_refs: ["C2", "C3"] | scene_refs: ["S7"] | 预估格数: 2
+- The singer looked at him with a strange expression on her face.
+- She did not look well.
+（视觉焦点从拉乌尔动作切换到克里斯汀表情，2句同一时刻）
+
+B2-8 | character_refs: ["C2", "C3"] | scene_refs: ["S7"] | 预估格数: 2
+- 'Monsieur,' she said very quietly, 'who are you?'
+- Raoul went over to the singer's sofa and kissed her hand.
+（克里斯汀问话+拉乌尔走近吻手，触发-回应，2句对话节拍）

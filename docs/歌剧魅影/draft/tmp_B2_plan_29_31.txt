@@ -1,0 +1,18 @@
+B2-29 | character_refs: ["C12", "C13"] | scene_refs: ["S5"] | 预估格数: 2
+- A few days later they received a very surprising letter in the post.
+- The handwriting was childlike, and the letter was written in red ink.
+- （信件内容：若想平静生活，请归还5号包厢——"Opera Ghost"落款。）
+（3句含信件内容，时间跳跃"a few days later"触发新节拍，信件视觉化为道具特写）
+
+B2-30 | character_refs: ["C12", "C13"] | scene_refs: ["S5"] | 预估格数: 1
+- The next day the managers received another letter from the ghost.
+- There was the same childlike handwriting and the same red ink.
+- This time he demanded his monthly payment of 20,000 francs.
+（3句，时间跳跃"the next day"，第二封信描述，同一场景同一叙事节拍）
+
+B2-31 | character_refs: ["C12"] | scene_refs: ["S5"] | 预估格数: 2
+- 'It's just Debienne and Poligny,' Monsieur Richard told his colleague.
+- 'They've started this stupid joke about the ghost, and they're continuing with it.
+- We'll ignore it, that's all.'
+- The two managers decided to sell Box 5.
+（4句，理查德连续独白+两人共同决定，同一说话者+叙事结果，连续节拍）

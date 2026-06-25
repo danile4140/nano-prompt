@@ -1,0 +1,17 @@
+B2-9 | character_refs: ["C3", "C2"] | scene_refs: ["S7"] | 预估格数: 2
+- 'I am the little boy who went into the sea for your scarf,' he said softly.
+（拉乌尔自报往事，1句，可与前后合并；但此处单独标注，因含独立回忆意象，用主画面+云状气泡承载童年记忆）
+
+B2-10 | character_refs: ["C2"] | scene_refs: ["S7"] | 预估格数: 1
+- Christine began to laugh at his words.
+（克里斯汀笑，1句，情绪触发点，必须独立标注——这是条件B的"触发"方，拉乌尔的愤怒是"转折结果"）
+
+B2-11 | character_refs: ["C3"] | scene_refs: ["S7"] | 预估格数: 1
+- Raoul became red with anger and stood up.
+- 'I can see that you do not want to remember me,' he said coldly.
+- 'But I have something important to tell you — very important.'
+（拉乌尔愤怒起身+连续独白，3句，同一说话者连续表达，无切换，合为1格单格中近景）
+
+B2-12 | character_refs: ["C2", "C3"] | scene_refs: ["S7"] | 预估格数: 2
+- 'Please come back when I am better,' Christine said.
+（克里斯汀说话方切换，1句，构成拒绝——与B2-11的请求构成触发-转折对，条件B适用，必须独立分镜；对话双格展现双方表情）

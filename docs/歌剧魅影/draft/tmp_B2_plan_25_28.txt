@@ -1,0 +1,25 @@
+B2-25 | character_refs: ["C11", "C12"] | scene_refs: ["S5"] | 预估格数: 2
+- 'It's simple really,' Monsieur Poligny replied.
+- He showed the two new managers a document.
+- 'It's all written down here.'
+（3句，波利尼回应+拿出文件，说话方切换+关键道具首次出现，对话+道具特写）
+
+B2-26 | character_refs: ["C12", "C13"] | scene_refs: ["S5"] | 预估格数: 2
+- Monsieur Richard looked at the document.
+- It was the lease for the Opera House.
+- He passed it to Monsieur Moncharmin and they read it together.
+- （租约文字：经理每月须付幽灵2万法郎；须为每场演出保留5号包厢。）
+（4句含租约内容，阅读文件+租约视觉化，主画面+文件画中画特写）
+
+B2-27 | character_refs: ["C10", "C11", "C12", "C13"] | scene_refs: ["S5"] | 预估格数: 2
+- 'That's why we're leaving,' Monsieur Debienne explained.
+- 'We can't bear the ghost.'
+- 'That's right,' Monsieur Poligny agreed.
+- 'It's hard enough managing the Opera — but it's impossible with the ghost here!'
+（4句，两位退休经理各自表态，多主体对话，对话双格；含强调"impossible"情绪词）
+
+B2-28 | character_refs: ["C12", "C13"] | scene_refs: ["S5"] | 预估格数: 1
+- The new managers were convinced that all the talk of the ghost was simply a joke.
+- They smiled politely.
+- They were soon very busy with their new responsibilities, and they forgot about the ghost.
+（3句，新经理态度：不信→礼貌笑→忘记，连续心理状态，同场景同基调，3句四维度均无切换）

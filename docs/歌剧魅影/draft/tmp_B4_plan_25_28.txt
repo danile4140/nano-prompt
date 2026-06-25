@@ -1,0 +1,44 @@
+## B4-25 | character_refs: [C3, C2] | scene_refs: [S9] | 格数: 2（左格：克里斯汀深夜离开客栈/拉乌尔跟随；右格：墓地跪祷）
+
+【环境状态】物理场景：乡村教堂墓地，当前环境：夜晚，视觉覆盖：月光/黑暗，原因："Late that night"/"in the darkness"
+
+- Late that night Raoul saw Christine leave the little village inn.
+- He followed her in the darkness.
+- She walked to the churchyard where her father's grave was.
+- She knelt by the grave and began to pray.
+
+---
+
+## B4-26 | character_refs: [C3] | scene_refs: [S9] | 格数: 1（拉乌尔听到神秘音乐，比例压迫/中心聚焦单格）
+
+豁免：已扫描4对相邻句（81-82, 82-83, 83-84, 84-85），四维度均无切换（同一场景夜晚墓地/同一主体拉乌尔/同一情绪惊叹/无空间位移），保留5句。
+
+- Raoul could hear music playing.
+- It seemed to be coming from the sky.
+- The music was from The Resurrection of Lazarus.
+- It had been Mr Daae's favourite piece of music.
+- Raoul listened in amazement to the beautiful music.
+
+---
+
+## B4-27 | character_refs: [C3] | scene_refs: [S9] | 格数: 1（拉乌尔上前/骷髅滚来/看见斗篷人影，对角线组织）
+
+【情绪标记】强度：强，类型：恐惧，推荐视觉手段：速度线/对角线构图 + 骷髅骨滚动特写 + 景别上调至中近景
+
+- He moved forward to see who was playing.
+- Suddenly there was a noise, and some skulls came rolling across the ground towards him.
+- He looked up, and saw a figure in front of him in the darkness - a figure wearing a long cloak.
+
+---
+
+## B4-28 | character_refs: [C3, C1] | scene_refs: [S9] | 格数: 2（左格：拉乌尔抓住斗篷/人影转身；右格：骷髅脸特写/拉乌尔昏倒）
+
+叙事高潮：物理冲突/身份揭晓（B+C类），触发-转折因果链（条件B）
+
+【情绪标记】强度：强，类型：惊吓/恐惧，推荐视觉手段：速度线/爆裂线 + 骷髅脸近景特写 + 景别中近景至特写
+
+- Raoul took hold of the cloak, and the figure turned to face him.
+- Raoul stared in horror —he was looking at a skull with terrible eyes.
+- He fainted and fell to the ground.
+
+---

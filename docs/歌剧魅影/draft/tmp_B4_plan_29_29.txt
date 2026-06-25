@@ -1,0 +1,5 @@
+## B4-29 | character_refs: [C3] | scene_refs: [S9] | 格数: 1（次日清晨醒来，单格，建立新时间状态）
+
+【环境状态】物理场景：乡村教堂墓地，当前环境：清晨，视觉覆盖：清晨柔光，原因："the next morning"
+
+- He woke up in the churchyard the next morning.

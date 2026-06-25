@@ -1,0 +1,39 @@
+## B4-13 | character_refs: [C3] | scene_refs: [S11] | 格数: 2（左格：内心状态/无法娶她；右格：歌剧院重见）
+
+- He never forgot Christine, but he knew that he could never marry her.
+- He was an aristocrat, and she was a singer.
+- Then one day he had seen her at the Opera, and all his old love for her returned.
+- After this he started going to the opera more often.
+
+---
+
+## B4-14 | character_refs: [C3, C2] | scene_refs: [S8] | 格数: 1（夜晚到达客栈，建立空间，单格）
+
+【环境状态】物理场景：乡村客栈，当前环境：夜晚，视觉覆盖：室内烛光昏黄，窗外夜色，原因："It was dark when Raoul arrived"
+
+- It was dark when Raoul arrived at the little village in the country.
+- He went to the inn immediately.
+- Christine was waiting for him.
+
+---
+
+## B4-15 | character_refs: [C3, C2] | scene_refs: [S8] | 格数: 2（左格：克里斯汀打招呼/拉乌尔质问；右格：克里斯汀沉默）
+
+触发-转折因果链（条件B）：拉乌尔质问→克里斯汀沉默，禁止同格
+
+- 'I'm happy you've come,' she said.
+- 'Why did you pretend that you didn't know me when I came to your dressing room?' Raoul asked.
+- 'Why did you laugh when I mentioned your scarf?'
+- Christine was silent.
+
+---
+
+## B4-16 | character_refs: [C3] | scene_refs: [S8] | 格数: 1（拉乌尔愤怒独白，单格）
+
+【情绪标记】强度：中，类型：愤怒，推荐视觉手段：夸张表情 + B级符号图标 + 声音效果语义
+
+- 'I know why!' Raoul cried angrily.
+- 'There was someone else in the room that evening, wasn't there?'
+- 'There was a man—I heard his voice.'
+
+---
