@@ -1,0 +1,23 @@
+B7-25 | character_refs: ["C10", "C20"] | scene_refs: ["S16"] | 预估格数: ?
+- Suddenly there was a loud shot.
+  译：突然，一声巨响传来。
+- Injun Joe and his friend escaped, but the widow was not hurt.
+  译：印第安乔和他的同伙逃跑了，但寡妇没有受到伤害。
+
+B7-26 | character_refs: ["C6"] | scene_refs: ["S17"] | 预估格数: ?
+- The next morning Huck returned to see Mr Welsh.
+  译：第二天早上，哈克回来看望威尔士先生。
+
+B7-27 | character_refs: ["C14", "C6"] | scene_refs: ["S17"] | 预估格数: ?
+- "You're a courageous boy, Huck," said Mr Welsh, "You saved the widow's life.
+  译："你是个勇敢的孩子，哈克，"威尔士先生说，"你救了寡妇的命。
+- The two men escaped but we'll find them.
+  译：那两个男人逃跑了，但我们会找到他们的。
+- Sit down and have breakfast with us!"
+  译：坐下来和我们一起吃早饭吧！"
+
+B7-28 | character_refs: ["C6"] | scene_refs: ["S17"] | 预估格数: ?
+- Huck was happy because he saved the widow's life.
+  译：哈克很高兴，因为他救了寡妇的命。
+- And now he had new friends, Mr Welsh and his family.
+  译：而且现在他有了新朋友——威尔士先生和他的家人。

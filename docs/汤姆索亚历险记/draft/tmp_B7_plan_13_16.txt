@@ -1,0 +1,31 @@
+B7-13 | character_refs: ["C6"] | scene_refs: ["S9"] | 预估格数: ?
+- Huck saw the boat but he did not know about the picnic.
+  译：哈克看见了船，但他不知道野餐的事。
+- The mothers of St Petersburg did not like him.
+  译：圣彼得堡的妈妈们都不喜欢他。
+- They never invited him to birthday picnics.
+  译：她们从来不邀请他参加生日野餐。
+
+B7-14 | character_refs: ["C6"] | scene_refs: ["S8"] | 预估格数: ?
+- But tonight Huck was not interested in birthday picnics.
+  译：但今晚哈克对生日野餐毫无兴趣。
+- He was interested in Injun Joe's treasure.
+  译：他感兴趣的是印第安乔的宝藏。
+- He hid behind a tree and watched an old house.
+  译：他藏在一棵树后面，注视着那栋旧房子。
+
+B7-15 | character_refs: ["C6"] | scene_refs: ["S8"] | 预估格数: ?
+- "Injun Joe's in that old house," he thought, "I'll stay here and wait.
+  译："印第安乔就在那栋旧屋里，"他心想，"我就待在这里等着。
+- When he comes out I'll follow him and I'll find the treasure."
+  译：等他出来我就跟着他，然后我就能找到宝藏了。"
+- It was late and very dark.
+  译：夜已深了，四周一片漆黑。
+
+B7-16 | character_refs: ["C6", "C10", "C20"] | scene_refs: ["S8"] | 预估格数: ?
+- Soon two men came out.
+  译：不一会儿，两个男人走了出来。
+- It was Injun Joe and his friend.
+  译：正是印第安乔和他的同伙。
+- Huck followed them quietly.
+  译：哈克悄悄地跟在他们后面。

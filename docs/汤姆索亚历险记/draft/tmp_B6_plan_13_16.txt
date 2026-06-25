@@ -1,0 +1,33 @@
+B6-13 | character_refs: ["C10b", "C20"] | scene_refs: ["S8"] | 预估格数: ?
+- The small, dirty man moved a big stone in the fireplace and pulled out a bag.
+  译：那个肮脏的小个子男人移开壁炉里的一块大石头，拉出一个袋子。
+- He took some money from the bag.
+  译：他从袋子里取出一些钱。
+- Injun Joe started digging near the fireplace with his knife.
+  译：印第安乔拿出刀，开始在壁炉旁挖土。
+
+B6-14 | character_refs: ["C1", "C6"] | scene_refs: ["S8"] | 预估格数: ?
+- Tom and Huck watched with excitement.
+  译：汤姆和哈克兴奋地看着这一切。
+- There was a real treasure downstairs!
+  译：楼下真的有宝藏！
+- Six hundred dollars was a wonderful treasure for two young boys!
+  译：六百美元对两个小男孩来说是一笔了不起的财富！
+
+B6-15 | character_refs: ["C10b", "C20"] | scene_refs: ["S8"] | 预估格数: ?
+- Suddenly Injun Joe stopped digging.
+  译：突然，印第安乔停下了挖掘。
+- "There's something here! I think it's a box," he said.
+  译："这里有东西！我想是个箱子，"他说。
+- He found an old box and opened it.
+  译：他找到一个旧箱子，打开了它。
+
+B6-16 | character_refs: ["C10b", "C20", "C1", "C6"] | scene_refs: ["S8"] | 预估格数: ?
+- "It's money!" cried Injun Joe, "Look! There are lots of gold coins!"
+  译："是钱！"印第安乔叫道，"看！好多金币！"
+- The two men looked at the coins and smiled.
+  译：两个男人看着金币，都笑了。
+- The box was full of gold coins!
+  译：箱子里装满了金币！
+- Tom and Huck smiled too.
+  译：汤姆和哈克也笑了。

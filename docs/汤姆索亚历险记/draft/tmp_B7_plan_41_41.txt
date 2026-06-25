@@ -1,0 +1,5 @@
+B7-41 | character_refs: ["C1"] | scene_refs: ["S15"] | 预估格数: ?
+- "I'm going to see.
+  译："我去看看。
+- You stay here, Becky!" said Tom.
+  译：你待在这里，贝基！"汤姆说道。

@@ -1,0 +1,19 @@
+B7-1 | character_refs: ["C7"] | scene_refs: ["S3"] | 预估格数: ?
+- It was Becky Thatcher's birthday on Saturday and all of Becky's friends were happy and excited.
+  译：那天是贝基·萨切尔的生日，贝基所有的朋友都欢天喜地、兴奋不已。
+
+B7-2 | character_refs: ["C7", "C1"] | scene_refs: ["S3"] | 预估格数: ?
+- "I'm having a big picnic near the river," said Becky to Tom, "After the picnic we can visit McDougal's Cave."
+  译："我要在河边举办一场盛大的野餐，"贝基对汤姆说，"野餐之后我们可以去参观麦克杜格尔山洞。"
+
+B7-3 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- "It'll be great fun!" said Tom.
+  译："那一定会非常有趣！"汤姆说道。
+- He liked Becky a lot.
+  译：他非常喜欢贝基。
+
+B7-4 | character_refs: ["C7", "C1"] | scene_refs: ["S9"] | 预估格数: ?
+- On Saturday morning a big boat took Becky, Tom and their friends down the river.
+  译：周六早上，一艘大船载着贝基、汤姆和他们的朋友们顺河而下。
+- There were no mothers and fathers, but a few boys and girls were eighteen years old.
+  译：没有父母随行，但有几个年满十八岁的男孩和女孩同行。

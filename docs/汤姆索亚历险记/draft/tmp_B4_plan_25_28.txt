@@ -1,0 +1,35 @@
+B4-25 | character_refs: ["C1", "C12", "C6"] | scene_refs: ["S10"] | 预估格数: ?
+- After a few minutes Huck said, "Look!
+  译：过了一会儿，哈克说："你看！
+- Tom's swimming in the river.
+  译：汤姆在河里游泳呢。
+- He's coming to the island."
+  译：他正游回岛上来了。"
+- Tom told them his story.
+  译：汤姆向他们讲了自己的经历。
+
+B4-26 | character_refs: ["C1"] | scene_refs: ["S1"] | 预估格数: ?
+- "Last night I couldn't sleep.
+  译："昨晚我睡不着。
+- I thought about Aunt Polly.
+  译：我想起了波莉姨妈。
+- So I went home but no one saw me.
+  译：于是我回了家，但没人看见我。
+
+B4-27 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: ?
+- I saw Aunt Polly and your mother, Joe.
+  译：我看见了波莉姨妈和你妈妈，乔。
+- Poor Aunt Polly cried a lot.
+  译：可怜的波莉姨妈哭了好久。
+- And your mother was very sad too.
+  译：你妈妈也很伤心。
+- Everyone thinks we're dead.
+  译：大家都以为我们死了。
+- I heard some interesting things."
+  译：我听到了一些有意思的事。"
+
+B4-28 | character_refs: ["C1", "C12", "C6"] | scene_refs: ["S10"] | 预估格数: ?
+- "What did you hear?" asked Huck.
+  译："你听到了什么？"哈克问道。
+- "Well, there will be a funeral for us on Sunday at the church," said Tom.
+  译："这个嘛，星期天教堂要给我们举行葬礼，"汤姆说。

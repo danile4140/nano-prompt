@@ -1,0 +1,37 @@
+B5-9 | character_refs: ["C9", "C10"] | scene_refs: ["S12"] | 预估格数: ?
+- S18: Everyone in the village went to Muff Potter's trial.
+  译：村里的每个人都去参加了马夫·波特的审判。
+- S19: Muff looked old, tired and unhappy.
+  译：马夫看起来又老又疲惫，很不开心。
+- S20: Injun Joe was at the trial too.
+  译：印第安乔也在审判现场。
+
+---
+
+B5-10 | character_refs: ["C9", "C10", "C1"] | scene_refs: ["S12"] | 预估格数: ?
+- S21: During the trial there were many questions and answers.
+  译：审判期间有许多问答。
+- S22: All the answers were against old Muff.
+  译：所有的回答都对老马夫不利。
+- S23: Then the lawyer said, "Call Thomas Sawyer!"
+  译：然后律师说："传托马斯·索亚出庭！"
+
+---
+
+B5-11 | character_refs: ["C1"] | scene_refs: ["S12"] | 预估格数: ?
+- S24: Everyone was surprised and looked at Tom.
+  译：每个人都很惊讶，都看向汤姆。
+- S25: Why did the lawyer call Tom Sawyer?
+  译：为什么律师要传唤汤姆·索亚呢？
+
+---
+
+B5-12 | character_refs: ["C1", "C10"] | scene_refs: ["S12"] | 预估格数: ?
+- S26: "Thomas Sawyer, where were you on June 17 at midnight?"
+  译："托马斯·索亚，六月十七日午夜你在哪里？"
+- S27: Tom looked quickly at Injun Joe.
+  译：汤姆迅速看了一眼印第安乔。
+- S28: He waited a few moments and then said, "I was in the graveyard."
+  译：他等了片刻，然后说："我在墓地。"
+
+---

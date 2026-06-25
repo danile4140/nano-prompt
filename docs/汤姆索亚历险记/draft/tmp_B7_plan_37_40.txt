@@ -1,0 +1,30 @@
+B7-37 | character_refs: ["C1", "C7"] | scene_refs: ["S15"] | 预估格数: ?
+- Everything was dark.
+  译：四周一片黑暗。
+- What time was it?
+  译：现在是几点？
+- What day was it?
+  译：今天是星期几？
+- They didn't know.
+  译：他们不知道。
+- They were tired and slept.
+  译：他们太累了，就睡着了。
+（已扫描4对相邻句，四维度均无切换，保留5句）
+
+B7-38 | character_refs: ["C1", "C7"] | scene_refs: ["S15"] | 预估格数: ?
+- When they woke up they were very hungry.
+  译：当他们醒来时，肚子饿极了。
+- Suddenly, Tom heard a noise.
+  译：突然，汤姆听到了一个声音。
+
+B7-39 | character_refs: ["C1"] | scene_refs: ["S15"] | 预估格数: ?
+- "Listen, Becky!
+  译："听，贝基！
+- Did you hear a noise?
+  译：你听到声音了吗？
+- Someone is looking for us!
+  译：有人在找我们！
+
+B7-40 | character_refs: ["C7"] | scene_refs: ["S15"] | 预估格数: ?
+- Becky looked at Tom and smiled.
+  译：贝基望向汤姆，微微一笑。

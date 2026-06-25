@@ -1,0 +1,33 @@
+B5-1 | character_refs: ["C1", "C6"] | scene_refs: ["S3"] | 预估格数: ?
+- S01: Some weeks later it was time for Muff Potter's trial.
+  译：几周后，到了马夫·波特受审的时候了。
+- S02: Everyone in the village talked about it.
+  译：村子里的每个人都在谈论这件事。
+- S03: Tom and Huck were worried.
+  译：汤姆和哈克都很担心。
+
+---
+
+B5-2 | character_refs: ["C1", "C6"] | scene_refs: ["S3"] | 预估格数: ?
+- S04: "Huck, did you tell anyone about — that?" asked Tom.
+  译："哈克，你有没有把那件事——告诉别人？"汤姆问道。
+- S05: "About what?" answered Huck.
+  译："什么事？"哈克回答道。
+- S06: "You know what," said Tom.
+  译："你知道是什么。"汤姆说。
+- S07: "Oh, of course not," said Huck.
+  译："哦，当然没有，"哈克说。
+
+---
+
+B5-3 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- S08: "Poor old Muff. Fm very sorry for him. People say he's a killer. But it's not true. And they'll hang him!" said Tom.
+  译："可怜的老马夫。我非常为他难过。大家都说他是凶手。但那不是真的。而且他们还要绞死他！"汤姆说道。
+
+---
+
+B5-4 | character_refs: ["C6"] | scene_refs: ["S3"] | 预估格数: ?
+- S09: "I'm sorry for Muff too. But we can't tell anyone about Injun Joe," said Huck, "Poor Muff is a kind man. Once he gave me half a fish."
+  译："我也为马夫难过。但我们不能把印第安乔的事告诉任何人，"哈克说，"可怜的马夫是个好人。他曾经给过我半条鱼。"
+
+---

@@ -1,0 +1,39 @@
+B4-33 | character_refs: ["C1", "C12", "C6", "C8"] | scene_refs: ["S4"] | 预估格数: ?
+- Suddenly there was a noise at the church door.
+  译：突然，教堂门口传来一阵声响。
+- The Reverend looked up and stopped speaking.
+  译：牧师抬起头，停止了讲话。
+- Everyone in the church turned around and looked.
+  译：教堂里所有人都转过身去张望。
+- Their mouths opened.
+  译：他们的嘴巴都张大了。
+- The three dead boys slowly walked into the church.
+  译：三个"死去"的男孩慢慢地走进了教堂。
+- Tom was first, then Joe and then Huck.
+  译：汤姆走在最前面，然后是乔，最后是哈克。
+
+B4-34 | character_refs: ["C1", "C12", "C2", "C4"] | scene_refs: ["S4"] | 预估格数: ?
+- There was great silence for a moment.
+  译：片刻之间，全场一片寂静。
+- Then Aunt Polly, Mary and Joe's mother ran to the boys.
+  译：随即，波莉姨妈、玛丽和乔的妈妈跑向男孩们。
+- They kissed Tom and Joe.
+  译：她们亲吻着汤姆和乔。
+- Aunt Polly cried and then she laughed.
+  译：波莉姨妈先哭后笑。
+
+B4-35 | character_refs: ["C1", "C6"] | scene_refs: ["S4"] | 预估格数: ?
+- Poor Huck did not know what to do.
+  译：可怜的哈克不知道该怎么办。
+- No one kissed him.
+  译：没有人来亲吻他。
+- He started moving away but Tom stopped him.
+  译：他开始往后退，但汤姆拦住了他。
+
+B4-36 | character_refs: ["C1", "C2", "C6"] | scene_refs: ["S4"] | 预估格数: ?
+- "Aunt Polly, it's not right.
+  译："波莉姨妈，这样不对。
+- Somebody must be happy to see Huck," said Tom.
+  译：应该有人为见到哈克感到高兴，"汤姆说。
+- "Oh, you're right Tom!" cried Aunt Polly and she kissed Huck.
+  译："哦，你说得对，汤姆！"波莉姨妈喊道，随即亲吻了哈克。

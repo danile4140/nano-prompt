@@ -1,0 +1,37 @@
+B5-13 | character_refs: ["C1"] | scene_refs: ["S12"] | 预估格数: ?
+- S29: "Were you near Hoss Williams's grave?" asked the lawyer.
+  译："你是否在霍斯·威廉姆斯的墓旁？"律师问道。
+- S30: "Yes, sir," said Tom.
+  译："是的，先生，"汤姆回答。
+- S31: "Why were you there?" asked the lawyer.
+  译："你为什么在那里？"律师问。
+- S32: "I went there to see ghosts, with a — a dead cat."
+  译："我去那里看鬼，带着一——一只死猫。"
+
+---
+
+B5-14 | character_refs: ["C1"] | scene_refs: ["S12"] | 预估格数: ?
+- S33: Everyone laughed.
+  译：所有人都笑了。
+- S34: "What did you see in the graveyard? Tell us what happened," said the lawyer.
+  译："你在墓地看到了什么？告诉我们发生了什么，"律师说道。
+
+---
+
+B5-15 | character_refs: ["C1"] | scene_refs: ["S12"] | 预估格数: ?
+- S35: Tom told his story and the people of St Petersburg listened to him.
+  译：汤姆讲述了他的故事，圣彼得堡的人们都在认真听。
+- S36: They were very surprised.
+  译：他们都非常惊讶。
+- S37: "...and then Muff Potter fell to the ground and Injun Joe took Muff's knife and - "
+  译："……然后马夫·波特倒在了地上，印第安乔拿起了马夫的刀——"
+
+---
+
+B5-16 | character_refs: ["C1", "C10"] | scene_refs: ["S12"] | 预估格数: ?
+- S38: Tom suddenly heard a very loud noise.
+  译：汤姆突然听到一声巨响。
+- S39: Injun Joe jumped out of the window and disappeared!
+  译：印第安乔跳出了窗户，消失不见了！
+
+---

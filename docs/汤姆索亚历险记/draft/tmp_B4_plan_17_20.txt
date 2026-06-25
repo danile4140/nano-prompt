@@ -1,0 +1,31 @@
+B4-17 | character_refs: ["C1", "C12", "C6"] | scene_refs: ["S10"] | 预估格数: ?
+- Suddenly Tom said, "Can you hear a strange noise?
+  译：突然汤姆说："你们听见那个奇怪的声音了吗？
+- Listen!"
+  译：听！"
+- "What is it?" asked Joe.
+  译："是什么？"乔问道。
+- "Let's go and see," said Huck.
+  译："我们去看看，"哈克说。
+
+B4-18 | character_refs: ["C1", "C12", "C6"] | scene_refs: ["S10"] | 预估格数: ?
+- They ran to the river.
+  译：他们跑向河边。
+- They saw a steamboat and a lot of small boats near it.
+  译：他们看见一艘蒸汽船，旁边还有许多小船。
+
+B4-19 | character_refs: ["C1", "C12", "C6"] | scene_refs: ["S10"] | 预估格数: ?
+- "Every boat from St Petersburg is out on the river," said Joe, "What's happening?"
+  译："圣彼得堡所有的船都出来了，"乔说，"发生什么了？"
+- "They're looking for a dead body," said Huck, "The same thing happened last summer when Bill Turner fell into the river and drowned."
+  译："他们在打捞尸体，"哈克说，"去年夏天比尔·特纳掉进河里溺死的时候也是这样。"
+- "Who are they looking for this time?" asked Joe.
+  译："这次他们在找谁？"乔问。
+
+B4-20 | character_refs: ["C1", "C12", "C6"] | scene_refs: ["S10"] | 预估格数: ?
+- Tom thought for a moment and said, "I know!
+  译：汤姆想了一下，说："我知道！
+- It's US!
+  译：是我们！
+- They think we drowned!"
+  译：他们以为我们淹死了！"

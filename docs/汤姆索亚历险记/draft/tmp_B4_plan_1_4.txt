@@ -1,0 +1,35 @@
+B4-1 | character_refs: ["C9", "C1", "C6"] | scene_refs: ["S3", "S11"] | 预估格数: ?
+- The next day everyone knew about poor Dr Robinson.
+  译：第二天，人人都知道了可怜的罗宾逊医生的遭遇。
+- The sheriff found Muff Potter's knife near the body of the doctor.
+  译：警长在医生的尸体旁发现了马夫·波特的刀。
+- He put Muff in St Petersburg's small jail.
+  译：他把马夫关进了圣彼得堡的小监狱。
+
+B4-2 | character_refs: ["C1", "C6"] | scene_refs: ["S3"] | 预估格数: ?
+- Tom and Huck looked at each other.
+  译：汤姆和哈克对视了一眼。
+- "We saw Injun Joe kill the doctor," said Tom, "Muff didn't kill him.
+  译："我们亲眼看见印第安乔杀了医生，"汤姆说，"不是马夫干的。
+- Poor Muff!"
+  译：可怜的马夫！"
+
+B4-3 | character_refs: ["C1", "C6"] | scene_refs: ["S3"] | 预估格数: ?
+- "I know," said Huck, "But we mustn't say anything.
+  译："我知道，"哈克说，"但我们不能说出去。
+- Remember, Injun Joe is dangerous - very dangerous.
+  译：记住，印第安乔很危险——非常危险。
+- I'm sorry for Muff Potter, too."
+  译：我也替马夫·波特感到难过。"
+- The two boys were afraid.
+  译：两个男孩都很害怕。
+- "We must keep this secret," said Tom sadly.
+  译："我们必须保守这个秘密，"汤姆悲伤地说。
+
+B4-4 | character_refs: ["C1"] | scene_refs: [] | 预估格数: ?
+- Tom could not forget.
+  译：汤姆忘不掉这件事。
+- At night he had bad dreams about Injun Joe and Muff Potter.
+  译：夜里他总是梦见印第安乔和马夫·波特。
+- He kept the terrible secret but he was very unhappy.
+  译：他守着这个可怕的秘密，却过得非常痛苦。

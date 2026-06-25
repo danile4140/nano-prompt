@@ -1,0 +1,33 @@
+B6-5 | character_refs: ["C1", "C6"] | scene_refs: ["S13"] | 预估格数: ?
+- "I'm hot and tired," said Tom, "Let's go to the haunted house. Nobody lives there."
+  译："我又热又累，"汤姆说，"我们去鬼屋吧，那里没有人住。"
+
+B6-6 | character_refs: ["C1", "C6"] | scene_refs: ["S13"] | 预估格数: ?
+- "But haunted houses have ghosts," said Huck.
+  译："可是鬼屋里有鬼，"哈克说。
+- "Ghosts only come out at night. It's daytime now," said Tom.
+  译："鬼只在晚上出来，现在是白天，"汤姆说。
+- "Well, alright," said Huck.
+  译："好吧，行，"哈克说。
+
+B6-7 | character_refs: ["C1", "C6"] | scene_refs: ["S8"] | 预估格数: ?
+- They went to the haunted house.
+  译：他们来到了鬼屋。
+- It was an old, lonely place.
+  译：那是一座古老而荒凉的地方。
+- There was silence all around.
+  译：四周一片寂静。
+- They were both afraid of this strange place.
+  译：他们俩都有些害怕这个奇怪的地方。
+
+B6-8 | character_refs: ["C1", "C6"] | scene_refs: ["S8"] | 预估格数: ?
+- They entered quietly and looked around.
+  译：他们悄悄地走了进去，四处张望。
+- Everything was old and broken.
+  译：屋里的一切都又旧又破。
+- No one lived there.
+  译：根本没有人住在这里。
+- They looked in all the rooms downstairs and upstairs.
+  译：他们把楼下和楼上所有的房间都看了一遍。
+- But there was no treasure and there were no ghosts.
+  译：但既没有宝藏，也没有鬼。

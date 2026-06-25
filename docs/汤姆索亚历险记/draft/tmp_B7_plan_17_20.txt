@@ -1,0 +1,30 @@
+B7-17 | character_refs: ["C6"] | scene_refs: ["S3"] | 预估格数: ?
+- "They're going to Widow Douglas's house," thought Huck, "But why?"
+  译："他们要去道格拉斯寡妇家，"哈克心想，"但是为什么呢？"
+
+B7-18 | character_refs: ["C10", "C20"] | scene_refs: ["S16"] | 预估格数: ?
+- Suddenly the two men stopped.
+  译：突然，两个男人停下了脚步。
+- Injun Joe said, "Many years ago Widow Douglas's husband was very cruel to me.
+  译：印第安乔说："许多年前，道格拉斯寡妇的丈夫对我非常残忍。
+- Now I want to hurt the widow.
+  译：现在我想要伤害那个寡妇。
+- I want to cut her face, her nose and her ears.
+  译：我要割掉她的脸、她的鼻子和她的耳朵。
+- And you must help me."
+  译：而且你必须帮我。"
+（已扫描4对相邻句，四维度均无切换，保留5句）
+
+B7-19 | character_refs: ["C20", "C10"] | scene_refs: ["S16"] | 预估格数: ?
+- "Oh, please don't kill her," said his friend.
+  译："哦，请不要杀她，"他的同伙说道。
+- Injun Joe laughed.
+  译：印第安乔大笑起来。
+
+B7-20 | character_refs: ["C6"] | scene_refs: ["S16"] | 预估格数: ?
+- Huck heard this and wanted to run away.
+  译：哈克听到这些，想要逃跑。
+- But he remembered that Widow Douglas was kind to him.
+  译：但他想起了道格拉斯寡妇对他一直很好。
+- "I must help her," thought Huck, "These men want to kill the poor old woman!"
+  译："我必须帮助她，"哈克心想，"这些人想要杀死那个可怜的老女人！"

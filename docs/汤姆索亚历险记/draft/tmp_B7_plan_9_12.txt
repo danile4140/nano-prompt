@@ -1,0 +1,29 @@
+B7-9 | character_refs: ["C7", "C1"] | scene_refs: ["S15"] | 预估格数: ?
+- The children played and ran in the tunnels and in the rooms.
+  译：孩子们在隧道和房间里奔跑玩耍。
+- But they always played near the entrance.
+  译：但他们始终在入口附近玩耍。
+- They did not want to get lost.
+  译：他们不想迷路。
+
+B7-10 | character_refs: ["C1", "C7"] | scene_refs: ["S15"] | 预估格数: ?
+- Tom and Becky wanted to find a new tunnel.
+  译：汤姆和贝基想要找到一条新的隧道。
+- They walked and walked and soon they were alone.
+  译：他们走啊走，很快就只剩下他们两个人了。
+
+B7-11 | character_refs: ["C1", "C7"] | scene_refs: ["S15"] | 预估格数: ?
+- Where were the other children?
+  译：其他孩子在哪里？
+- They were lost!
+  译：他们迷路了！
+
+B7-12 | character_refs: [] | scene_refs: ["S9"] | 预估格数: ?
+- In the evening the other children returned to the boat.
+  译：傍晚时分，其他孩子们返回了船上。
+- They laughed and talked, but they were very tired.
+  译：他们有说有笑，但已经非常疲惫。
+- They did not see that Tom and Becky were not there.
+  译：他们没有发现汤姆和贝基不在其中。
+- The boat took them back to St Petersburg.
+  译：船把他们带回了圣彼得堡。
