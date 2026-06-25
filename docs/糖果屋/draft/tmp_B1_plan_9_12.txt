@@ -1,0 +1,50 @@
+B1-9 | character_refs: ["C4", "C1", "C2", "C3"] | scene_refs: ["S3"] | 预估格数: 2
+- At daybreak, even before the sun was up, the woman came and woke the two children: "Get up, you sleepy heads, we're all going to the forest to fetch wood."
+  译：天刚蒙蒙亮，太阳还没升起，继母就来把两个孩子叫醒："起来，睡懒虫，我们都要去森林里打柴。"
+- She gave them each a bit of bread and said: "There's something for your lunch, but don't you eat it up before lunch time, because it's all you'll get."
+  译：她各给了他们一小片面包，说道："这是你们的午饭，但别在午饭前就吃完，因为这就是你们全部的食物了。"
+- Grettel took the bread under her apron, as Hansel had the stones in his pocket.
+  译：格蕾特尔把面包藏在围裙下，就像汉泽尔把石头装在口袋里一样。
+
+【节拍分析】时间跳跃到次日清晨（S3场景）。继母叫醒→发面包两个动作是继母主导的连续指令，属同一节拍（指令链）。S17（孩子藏好各自的东西）是对结果的简洁陈述，情绪未切换，话题同一（出发准备）。三句总量≤4，且叙事为"清晨被叫醒、分面包、各自藏好"的单一准备节拍。
+需要两格：左格（继母叫醒+发面包，继母主导）；右格（格蕾特尔藏面包、汉泽尔有石子，孩子们的对比动作）。§4条件A：继母的指令与孩子们秘密的应对是两个独立表态，需分格对比。
+
+---
+
+---
+
+B1-10 | character_refs: ["C3", "C1", "C4", "C2"] | scene_refs: ["S4"] | 预估格数: 1
+- Then they all set out together on the way to the forest.
+  译：然后他们一起踏上了前往森林的路。
+- After they had walked for a little, Hansel stood still and looked back at the house, and all the while he kept on holding back again and again.
+  译：走了一段路后，汉泽尔停下脚步向家的方向回望，他一次又一次地停留往后看。
+- His father observed him, and said: "Hansel, what are you gazing at there, and why do you always remain behind? Take care, and don't lose your way."
+  译：父亲注意到了他，说道："汉泽尔，你在那儿看什么？为什么总是落在后面？小心点，别迷路了。"
+
+【节拍分析】场景切换到前往森林的小路（S4）。三句为同一行进节拍：出发→汉泽尔反复停步回头→父亲问询。视觉焦点同一（一家人行走小路），情绪同一（普通行进，父亲轻度疑惑），无重大节拍切换。三句≤4句，满足合并条件。单格路径动线组织（众人沿路行进，汉泽尔回头）。
+
+---
+
+---
+
+B1-11 | character_refs: ["C1", "C4"] | scene_refs: ["S4"] | 预估格数: 2
+- "Oh! father," said Hansel, "I am looking back at my white kitten, which is sitting on the roof, waving me bye-bye."
+  译：汉泽尔说："哦！父亲，我在看我的小白猫，它坐在屋顶上向我挥手道别呢。"
+- The woman exclaimed: "What a donkey you are! That isn't your kitten, that's the morning sun shining on the chimney."
+  译：妇人大声说："你真是个蠢驴！那不是你的小猫，那是早晨的太阳照在烟囱上。"
+
+【节拍分析】两句为对话交锋：汉泽尔撒谎解释→继母愤怒揭穿。§4条件B：汉泽尔的"说谎解释"（触发）→继母"愤怒驳斥"（情绪反转结果），必须分格。此外为2回合对话（汉泽尔→继母），对话双格。左格：汉泽尔回头解释（他是被问方，需表达"说谎"表情）；右格：继母愤怒反驳（主导方）。对话双格2:1（继母主导，占大格）。
+
+---
+
+---
+
+B1-12 | character_refs: ["C1"] | scene_refs: ["S4"] | 预估格数: 1
+- But Hansel had not looked back at his kitten, but each time he stopped, he had dropped one of the white pebbles out of his pocket to mark the way back home.
+  译：但汉泽尔根本没有回头看小猫，他每次停下来，都是从口袋里掉落一颗白色鹅卵石来标记回家的路。
+- So that he and little Grettel could not get lost in the woods.
+  译：这样他和小格蕾特尔就不会在森林里迷路了。
+
+【节拍分析】叙述者揭晓真相——汉泽尔实则在丢石子。这是§5高潮节点E的信息揭晓（身份/意图揭晓），需要视觉承载点突出"秘密"。两句为同一叙述揭晓，无时间空间切换，合并为单格（汉泽尔弯腰丢石子的秘密动作特写，近景中心聚焦）。
+
+---

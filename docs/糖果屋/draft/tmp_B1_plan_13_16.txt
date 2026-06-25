@@ -1,0 +1,49 @@
+B1-13 | character_refs: ["C3", "C1", "C2", "C4"] | scene_refs: ["S5"] | 预估格数: 2
+- When they had reached the middle of the forest, the father said: "Now, children, go and fetch a lot of wood, and I'll light a fire that you may not feel cold."
+  译：当他们到达森林中央时，父亲说："孩子们，去捡很多柴木，我来生火，让你们不会觉得冷。"
+- Hansel and Grettel heaped up brushwood till they had made a pile nearly the size of a small hill.
+  译：汉泽尔和格蕾特尔堆积灌木，直到堆成了一座小山般的柴堆。
+- The brushwood was set fire to, and when the flames leaped high the woman said: "Now lie down at the fire, children, and rest yourselves: we are going into the forest to cut down wood; when we've finished we'll come back and fetch you."
+  译：柴堆被点燃，火焰蹿得很高，妇人说："孩子们，躺在火边休息吧：我们去森林里砍柴，完事后回来接你们。"
+
+【节拍分析】场景到达森林深处空地（S5），三句连续但包含两个节拍：（1）父亲吩咐+孩子堆柴（同一指令执行链），（2）生起火后继母下达"留下"指令（新的重要叙事动作）。继母的指令是叙事转折点（表面上的安慰，实则是丢弃孩子的时刻）。两格：左格（到达+父亲说话+孩子堆柴，全景建立）；右格（火焰蹿高+继母说"留下"，近景/中景，强调谎言）。§4条件B：父亲"吩咐"（善意指令）→继母"留下命令"（实则遗弃），情绪方向相反。
+
+---
+
+---
+
+B1-14 | character_refs: ["C3", "C4"] | scene_refs: ["S4"] | 预估格数: 1
+- But instead the old parents crept back to their cottage leaving the children behind.
+  译：但父母二人却悄悄溜回了他们的小屋，把孩子们留在了身后。
+
+【节拍分析】叙述者视角：父母离去。§4条件D：此句标志"遗弃行动"阶段开始，与上一条"指令/谎言"阶段构成阶段性场景边界（前：下达假命令；后：真正离去）。单独成镜，单格（父母背影沿小路离去，孩子们在远处火边的对比构图）。实际物理场景应是从S5回往S4（小路），scene_refs取S4。
+
+---
+
+---
+
+B1-15 | character_refs: ["C1", "C2"] | scene_refs: ["S5"] | 预估格数: 2
+- Hansel and Grettel sat down beside the fire, and at midday ate their little bits of bread.
+  译：汉泽尔和格蕾特尔坐在火堆旁，中午吃了各自的那一小片面包。
+- And when they had sat for a long time their eyes closed with tiredness, and they fell fast asleep.
+  译：坐了很久之后，他们的眼睛因疲倦而合上了，沉沉睡去。
+- When they awoke at last it was pitch dark.
+  译：当他们终于醒来时，四周已是漆黑一片。
+
+【节拍分析】三句连续时间跨度：坐着吃面包（午间）→睡着（傍晚）→醒来（天黑）。有时间推进，§3b第一层触发：时间跳跃明确（中午→睡着→天黑），需要多格。两格：左格（坐着吃面包，午间温暖火边）；右格（两人睡着，已是黑夜，漆黑环境）。前后对比构图，环境从白天火光→黑夜漆黑。
+
+---
+
+---
+
+B1-16 | character_refs: ["C2", "C1"] | scene_refs: ["S5"] | 预估格数: 2
+- Grettel began to cry, and said: "How are we ever go to get out of the wood?"
+  译：格蕾特尔开始哭泣，说道："我们怎么能走出这片森林呢？"
+- But Hansel comforted her.
+  译：但汉泽尔安慰了她。
+- "Wait a bit," he said, "till the moon is up, and then we'll find our way sure enough."
+  译：他说："等一下，等月亮升起来，我们肯定能找到路的。"
+
+【节拍分析】§4条件A：格蕾特尔哭泣表态（绝望）↔汉泽尔安慰表态（希望），两个主体独立表态，情绪基调相反。必须分格。两格：左格（格蕾特尔哭泣特写）；右格（汉泽尔安慰+说话，充满信心）。
+
+---

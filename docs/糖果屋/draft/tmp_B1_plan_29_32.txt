@@ -1,0 +1,53 @@
+B1-29 | character_refs: ["C1", "C2"] | scene_refs: ["S6"] | 预估格数: 1
+- And Hansel in particular had rather bad manners.
+  译：汉泽尔尤其没什么规矩。
+- He was thoroughly enjoy eating the roof, and tore down a big bit of it, while Grettel pushed out a whole round window-pane, and sat down the better to enjoy it.
+  译：他吃得十分尽兴，扯下了一大块屋顶，而格蕾特尔则推出了一整块圆形窗玻璃，坐下来更舒适地享用。
+
+【节拍分析】两句连续描述孩子们大肆吃糖果屋的场景，同一时刻同一焦点，无情绪/空间/时间切换。单格横向构图（两人各在屋顶/窗户，比例压迫或中景呈现贪吃状）。
+
+---
+
+---
+
+B1-30 | character_refs: ["C5", "C1", "C2"] | scene_refs: ["S6"] | 预估格数: 3
+- Suddenly the door opened, and an ancient woman was leaning on a stick hobbled out.
+  译：突然，门开了，一个拄着拐杖的老妇人蹒跚走了出来。
+- Hansel and Grettel were so terrified that they let what they had in their hands fall.
+  译：汉泽尔和格蕾特尔吓得将手中的东西掉落在地。
+- But the old woman shook her head and said: "Oh, ho! you dear children, who led you here? Just come in and stay with me, no harm shall happen to you."
+  译：但老妇人摇了摇头说："哦哟！你们这些可爱的孩子，是谁带你们来这儿的？进来跟我住吧，不会有人伤害你们的。"
+
+【节拍分析】§4条件A + §5高潮节点（身份相关）：老女巫初次出现（新戏剧性事件），孩子惊恐（表态一），老妇人"善意"邀请（表态二）。三个独立节拍：（1）老妇出现；（2）孩子惊恐掉落食物；（3）老妇摇头安慰邀请。三格：左格（门开，老妇蹒跚而出，正面低机位仰角突显老妇形象）；中格（孩子惊恐掉落，表情特写，情绪标记）；右格（老妇摇头说话，邀请表情）。
+
+【情绪标记】强度：强，类型：惊吓，推荐视觉手段：速度线/爆裂线（孩子掌心松开物品瞬间）+ 眼睛睁大特写 + 高级氛围装饰方向。
+
+---
+
+---
+
+B1-31 | character_refs: ["C5", "C1", "C2"] | scene_refs: ["S7"] | 预估格数: 2
+- She took them both by the hand and let them into the house, and laid a most delicious dinner before them-milk and sugared pancakes, with apples and nuts.
+  译：她牵起他们两人的手，带他们进了屋，为他们摆上了最美味的晚餐——牛奶和加糖煎饼，还有苹果和坚果。
+- After they had finished, two beautiful little white beds were prepared for them, and when Hansel and Grettel lay down in them they felt as if they had got into heaven.
+  译：吃完后，为他们准备了两张漂亮的小白床，汉泽尔和格蕾特尔躺上去，感觉自己仿佛进了天堂。
+- The old woman appeared to be most friendly, but she was really an old witch who had steal children, and had only built the little bread house in order to lure them in.
+  译：老妇人看上去十分友善，但她实际上是一个专门偷盗孩子的老女巫，建造那座面包屋不过是为了诱骗孩子上门。
+- When anyone came into her power she killed, cooked, and ate him or her, and held a regular feast-day for the occasion.
+  译：任何落入她掌控的人，她都会杀死、烹饪并吃掉，把这当作一个节日来庆祝。
+
+【节拍分析】4句：（1）带入屋，摆上晚餐；（2）睡上白床如入天堂；（3-4）叙述者揭晓女巫真面目。逐对四维度扫描：S79→S80：时间连续（晚餐→就寝），同一情绪（被款待）；S80→S81：叙述者视角切换揭晓真相，情绪基调骤变（天堂感→黑暗揭示），视觉焦点从"孩子们"切换到"叙述者评论女巫"，触发拆分。切点：S80→S81。两格：左格（女巫款待孩子，摆晚餐+白床，温馨画面，S79-S80）；右格（叙述者揭晓：女巫独自的邪恶面目近景，黑暗光线，S81-S82）。
+
+---
+
+---
+
+B1-32 | character_refs: ["C5"] | scene_refs: ["S7"] | 预估格数: 1
+- Now witches have red eyes, and cannot see far, but, like beasts, they have a keen sense of smell, and know when human beings pass by.
+  译：女巫的眼睛是红色的，看不远，但像野兽一样，嗅觉极其灵敏，能知道人类经过。
+- When Hansel and Grettel fell into her hands she laughed wickedly, and said jeeringly: "I've got them now; they shan't escape me."
+  译：当汉泽尔和格蕾特尔落入她手中时，她邪恶地大笑，嘲讽地说："我已经得到他们了，他们逃不掉了。"
+
+【节拍分析】叙述者介绍女巫本质+女巫独白宣告。两句属同一叙事节拍（揭示女巫邪恶本质），视觉焦点为女巫独自的恶意近景。单格，女巫独白，中心聚焦组织。
+
+---
