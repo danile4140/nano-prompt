@@ -1,0 +1,36 @@
+B5-13 | character_refs: [C1] | scene_refs: [S8] | 预估格数: ?
+- She eats a little piece and there she is ... smaller and smaller so she takes another piece of the mushroom and her neck becomes very long.
+  译：她吃了一小块，结果……越来越小，于是她又取了一块蘑菇，她的脖子变得非常长。
+- She eats some more mushroom and she is back to her normal height.
+  译：她又多吃了些蘑菇，身高恢复到了正常。
+
+---
+B5-14 | character_refs: [C1] | scene_refs: [S8] | 预估格数: ?
+- 'Now I want to find that beautiful garden,' she says.
+  译："现在我想去找那个美丽的花园，"她说。
+
+---
+B5-15 | character_refs: [C1] | scene_refs: [S10] | 预估格数: ?
+- Alice walks in the wood.
+  译：爱丽丝在树林里行走。
+- She sees a small house.
+  译：她看见了一座小房子。
+
+---
+B5-16 | character_refs: [C1] | scene_refs: [S10] | 预估格数: ?
+- 'I'm too big.
+  译："我太大了。
+- I can't get in the house.
+  译：我进不了房子。
+- I'll eat some mushroom and I'll eat become smaller,' thinks Alice.
+  译：我要吃点蘑菇，我要吃得变小一点，"爱丽丝想。
+
+---
+
+**阶段一自检：**
+- 原文总句数：36
+- 已分配句数：36
+- 未覆盖句数：0
+- 等式成立，可进入阶段二。
+
+---

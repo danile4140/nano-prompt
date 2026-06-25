@@ -1,0 +1,30 @@
+B3-5 | character_refs: [C6] | scene_refs: [S5] | 预估格数: ?
+- The Dodo is not sure.
+  译：渡渡鸟不确定。
+- He sits for a long time with his hand on his head.
+  译：他用手托着头坐了很久。
+
+---
+B3-6 | character_refs: [C6, C4, C1] | scene_refs: [S5] | 预估格数: ?
+- At last he says: 'Everybody is the winner and everybody must have a prize'.
+  译：最后他说：「每个人都是赢家，每个人都必须得到一份奖品。」
+- The Mouse and the other animals ask: 'Who's giving the prizes?'
+  译：老鼠和其他动物问道：「谁来颁奖呢？」
+
+---
+B3-7 | character_refs: [C6, C1, C4, C5, C7, C8] | scene_refs: [S5] | 预估格数: ?
+- 'She is,' answers the Dodo looking at Alice.
+  译：「是她，」渡渡鸟看着爱丽丝回答道。
+- 'Prizes! Prizes!' they all cry.
+  译：「奖品！奖品！」大家都欢呼起来。
+
+---
+B3-8 | character_refs: [C1] | scene_refs: [S5] | 预估格数: ?
+- Alice doesn't know what to do.
+  译：爱丽丝不知道该怎么办。
+- She puts her hand in her pocket and finds a small box of sweets in it.
+  译：她把手伸进口袋，发现里面有一小盒糖果。
+- There is one sweet for each of the birds and animals.
+  译：每只鸟和动物正好各有一颗糖。
+
+---

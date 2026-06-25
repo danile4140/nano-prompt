@@ -1,0 +1,34 @@
+B2-1 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- 'Curiouser and curiouser. I'm growing again,' cries Alice, who is forgetting how to speak English correctly.
+  译：越来越奇怪了，我又在长大了，爱丽丝喊道，她已经开始说不好英语了。
+- She is very big; her head is hitting the ceiling.
+  译：她已经非常高大，头顶都快碰到天花板了。
+
+---
+B2-2 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- 'Now I can take the key on the table,' Alice thinks.
+  译：现在我可以拿到桌上的钥匙了，爱丽丝想道。
+- She takes the little golden key and runs to the door.
+  译：她取了那把小金钥匙，跑向那扇门。
+- Unfortunately Alice can't go into the garden.
+  译：可惜爱丽丝进不了花园。
+- She is too big.
+  译：她太大了。
+
+---
+B2-3 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- She sits down and starts to cry again.
+  译：她坐了下来，又开始哭泣。
+- Her tears are so big that they make a big pool.
+  译：她的眼泪如此之大，汇成了一大片水池。
+
+---
+B2-4 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- 'What a silly girl,' she says to herself,' to cry like this.
+  译：真是个傻姑娘，她对自己说，这样哭哭啼啼的。
+- A big girl like you. Stop crying!'
+  译：你这么大的女孩了，别哭了！
+- Alice tells herself but she can't stop.
+  译：爱丽丝这样告诫自己，但就是停不下来。
+
+---

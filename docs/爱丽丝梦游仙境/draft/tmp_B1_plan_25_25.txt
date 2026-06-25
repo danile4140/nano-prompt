@@ -1,0 +1,7 @@
+B1-25 | character_refs: [C1] | scene_refs: [S3] | 预估格数: ?
+- Alice eats the cake but nothing happens this time.
+  译：爱丽丝吃了蛋糕，但这次什么都没发生。
+- She stays the same size; so she finishes the cake.
+  译：她的个子没有变化，于是她把蛋糕吃完了。
+
+---

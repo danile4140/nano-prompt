@@ -1,0 +1,34 @@
+B1-21 | character_refs: [C1] | scene_refs: [S3] | 预估格数: ?
+- Poor Alice!
+  译：可怜的爱丽丝！
+- What a day!
+  译：真是糟糕的一天！
+- She is very sad.
+  译：她非常伤心。
+- She starts to cry.
+  译：她开始哭泣。
+
+---
+B1-22 | character_refs: [C1] | scene_refs: [S3] | 预估格数: ?
+- 'Stop crying, little Alice.
+  译：「别哭了，小爱丽丝。
+- What's the use of crying?' Alice says to herself.
+  译：哭有什么用呢？」爱丽丝对自己说。
+
+---
+B1-23 | character_refs: [C1] | scene_refs: [S3] | 预估格数: ?
+- Then she sees a little glass box under the table.
+  译：然后她看见桌子下面有一个小玻璃盒子。
+- She opens the box.
+  译：她打开盒子。
+- Inside there is a small cake and the words 'EAT ME' on the cake.
+  译：里面有一块小蛋糕，蛋糕上写着「吃我」。
+
+---
+B1-24 | character_refs: [C1] | scene_refs: [S3] | 预估格数: ?
+- 'Well, I'll eat it,' says Alice, 'and if it makes me taller I can take the key off the table and if it makes me shorter I can get under the door.
+  译：「好吧，我就吃了它，」爱丽丝说，「如果它让我变高，我就能把钥匙从桌上拿下来；如果它让我变矮，我就能从门缝钻进去。
+- I will get into the garden one way or another.'
+  译：不管怎样，我都要进那个花园。」
+
+---

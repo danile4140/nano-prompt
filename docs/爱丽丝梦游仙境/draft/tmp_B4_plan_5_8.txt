@@ -1,0 +1,28 @@
+B4-5 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: ?
+- Alice drinks. She is growing very quickly. She puts her arm out of the window and her foot inside the fireplace. 'I'm glad there isn't a fire,' she thinks.
+  译：爱丽丝喝下去了。她长得非常快。她把手臂伸出窗外，一只脚塞进了壁炉里。「幸好没生火，」她心想。
+- After drinking Alice is so big that she can't move.
+  译：喝完之后，爱丽丝长得太大了，完全动弹不得。
+
+---
+B4-6 | character_refs: ["C3"] | scene_refs: ["S6"] | 预估格数: ?
+- 'Mary Ann! Mary Ann! Where are you? Where are my gloves?' the White Rabbit asks.
+  译：「玛丽·安！玛丽·安！你在哪儿？我的手套呢？」白兔问道。
+- He is in the garden. He is waiting for his gloves and fan.
+  译：他在花园里，等待着手套和扇子的到来。
+- He tries to open the door of the room, but he can't move it because Alice's elbow is pressed against it.
+  译：他试图推开那间房间的门，却怎么也推不动，因为爱丽丝的手肘顶着门。
+
+---
+B4-7 | character_refs: ["C1", "C3"] | scene_refs: ["S7"] | 预估格数: ?
+- 'Then I'll go and get in at the window,' he says.
+  译：「那我就从窗户进去，」他说。
+- 'Oh, no ... you won't!' Alice thinks.
+  译：「哦，不……你才不行！」爱丽丝心想。
+
+---
+B4-8 | character_refs: ["C3"] | scene_refs: ["S6"] | 预估格数: ?
+- 'Help! Help!' cries the White Rabbit.
+  译：「救命！救命！」白兔大叫道。
+
+---

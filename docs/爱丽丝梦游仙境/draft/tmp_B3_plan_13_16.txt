@@ -1,0 +1,30 @@
+B3-13 | character_refs: [C7, C1] | scene_refs: [S5] | 预估格数: ?
+- 'Who is Dinah?' asks the Parrot.
+  译：「黛娜是谁？」鹦鹉问道。
+- 'Dinah is our cat.
+  译：「黛娜是我们家的猫。
+- She's very good at catching mice and she eats birds too.'
+  译：她非常擅长捉老鼠，她也吃鸟。」
+
+---
+B3-14 | character_refs: [C1, C4, C5, C7, C8] | scene_refs: [S5] | 预估格数: ?
+- Everybody is quiet.
+  译：大家都沉默了。
+- One by one the birds run away.
+  译：鸟儿们一只接一只地跑掉了。
+- Alice is alone again.
+  译：爱丽丝又一个人了。
+
+---
+B3-15 | character_refs: [C1] | scene_refs: [S5] | 预估格数: ?
+- 'Nobody likes Dinah down here but she's so dear to me!' Alice begins to cry.
+  译：「这里没有人喜欢黛娜，但她对我来说太珍贵了！」爱丽丝开始哭泣。
+
+---
+B3-16 | character_refs: [C1] | scene_refs: [S5] | 预估格数: ?
+- After a while she hears someone coming towards her.
+  译：过了一会儿，她听到有人朝她走来。
+- 'Perhaps it's the Mouse,' she thinks.
+  译：「也许是那只老鼠，」她心想。
+
+---

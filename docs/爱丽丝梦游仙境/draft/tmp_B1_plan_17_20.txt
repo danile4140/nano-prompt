@@ -1,0 +1,36 @@
+B1-17 | character_refs: [C1] | scene_refs: [S3] | 预估格数: ?
+- There is a bottle on the table.
+  译：桌上有一个瓶子。
+- 'I'm sure it wasn't there before,' Alice thinks.
+  译：「我确定之前没有这个瓶子，」爱丽丝心想。
+- There is a label round the bottle.
+  译：瓶子上绕着一张标签。
+- It says: 'Drink Me'.
+  译：标签上写着：「喝我」。
+
+---
+B1-18 | character_refs: [C1] | scene_refs: [S3] | 预估格数: ?
+- 'Perhaps it's dangerous, ' Alice says.
+  译：「也许很危险，」爱丽丝说。
+- So she tastes a little and she likes it.
+  译：于是她尝了一小口，发现很好喝。
+- She decides to drink it all.
+  译：她决定把它全部喝掉。
+
+---
+B1-19 | character_refs: [C1] | scene_refs: [S3] | 预估格数: ?
+- 'What a strange feeling!' Alice says, 'I'm getting smaller and smaller.
+  译：「多奇妙的感觉啊！」爱丽丝说，「我越变越小了。
+- I'm shutting up like a telescope.'
+  译：我像望远镜一样往里缩。」
+- And after a few minutes she is only 25 cm tall.
+  译：几分钟后，她只有25厘米高了。
+
+---
+B1-20 | character_refs: [C1] | scene_refs: [S3] | 预估格数: ?
+- 'Now I can go into the garden,' thinks Alice, but the door is locked and the key is on the table.
+  译：「现在我可以进花园了，」爱丽丝心想，但门是锁着的，钥匙还在桌上。
+- Now she can't reach it.
+  译：现在她够不到钥匙了。
+
+---

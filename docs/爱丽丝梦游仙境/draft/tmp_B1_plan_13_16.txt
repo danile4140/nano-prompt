@@ -1,0 +1,34 @@
+B1-13 | character_refs: [C1] | scene_refs: [S3] | 预估格数: ?
+- Alice notices a table with three legs in the middle of the hall.
+  译：爱丽丝注意到大厅中央有一张三腿桌子。
+- It is made of glass.
+  译：桌子是用玻璃做的。
+- There is a small, golden key on it.
+  译：桌上放着一把小小的金色钥匙。
+
+---
+B1-14 | character_refs: [C1] | scene_refs: [S3] | 预估格数: ?
+- Alice takes the key and tries to open the doors, but no luck.
+  译：爱丽丝拿起钥匙，试着去开那些门，但都没能成功。
+
+---
+B1-15 | character_refs: [C1] | scene_refs: [S3] | 预估格数: ?
+- Then she looks around and notices a little door behind a curtain.
+  译：然后她环顾四周，发现窗帘后面藏着一扇小门。
+- She tries the key and opens the door.
+  译：她试了试钥匙，把门打开了。
+- She looks inside and sees a beautiful garden.
+  译：她往里面看，看到了一座美丽的花园。
+
+---
+B1-16 | character_refs: [C1] | scene_refs: [S3] | 预估格数: ?
+- 'I would like to go into that garden,' thinks Alice, but she is too big.
+  译：「我想进那个花园，」爱丽丝心想，但她太大了。
+- She can't get through the door.
+  译：她没法穿过那扇门。
+- 'I would like to be smaller, but how?'
+  译：「我想变小一点，可怎么变呢？」
+- She locks the little door and puts the key back on the table.
+  译：她把小门重新锁上，把钥匙放回桌上。
+
+---

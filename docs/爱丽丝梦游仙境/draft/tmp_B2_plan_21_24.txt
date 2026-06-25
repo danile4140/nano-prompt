@@ -1,0 +1,24 @@
+B2-21 | character_refs: ["C4"] | scene_refs: ["S4"] | 预估格数: ?
+- 'No, we won't!' says the Mouse, 'my family hates cats!'
+  译：对，我们不提！老鼠说，我们全家都恨猫！
+
+---
+B2-22 | character_refs: ["C1", "C4"] | scene_refs: ["S4"] | 预估格数: ?
+- Alice wants to talk about something else. She asks the Mouse: 'Do you like dogs?'
+  译：爱丽丝想换个话题，便问老鼠：你喜欢狗吗？
+
+---
+B2-23 | character_refs: ["C1", "C4"] | scene_refs: ["S4"] | 预估格数: ?
+- The Mouse doesn't answer so Alice goes on: 'There's a nice dog near our house. He likes playing with children. He lives on a farm and is very good at catching m ... oh, sorry!'
+  译：老鼠不回答，爱丽丝便继续说：我们家附近有一条很友善的狗，它喜欢和孩子玩，住在农场里，特别擅长抓……哦，对不起！
+
+---
+B2-24 | character_refs: ["C1", "C4"] | scene_refs: ["S4"] | 预估格数: ?
+- The Mouse is very angry.
+  译：老鼠非常愤怒。
+- He goes out of the water.
+  译：它从水里爬了出去。
+- Alice follows him.
+  译：爱丽丝跟着它。
+
+---

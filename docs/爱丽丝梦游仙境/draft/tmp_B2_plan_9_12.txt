@@ -1,0 +1,30 @@
+B2-9 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- Alice picks up the gloves and the fan.
+  译：爱丽丝捡起了手套和扇子。
+- It is very hot in the hall so she starts to fan herself.
+  译：走廊里很热，她便开始用扇子给自己扇风。
+
+---
+B2-10 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- She feels more confused: 'Oh dear, dear! How strange are things today! I was myself yesterday, but things are not the same today. If I'm not me, who am I?'
+  译：她感到越来越困惑：哎呀，哎呀！今天的事情多么奇怪！昨天我还是我，可今天一切都变了。如果我不是我，那我是谁呢？
+
+---
+B2-11 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- Just then she looks at her hands and there it is: the Rabbit's glove.
+  译：就在这时，她低头看看自己的手，发现了一只白兔的手套。
+- Alice is wearing it.
+  译：爱丽丝正戴着它。
+- 'I'm growing small again,' she thinks.
+  译：我又在缩小了，她心想。
+
+---
+B2-12 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- She tries to open the door but it is locked.
+  译：她试着去开门，但门是锁着的。
+- The key is on the table and Alice is too small to take it.
+  译：钥匙在桌上，而爱丽丝已经小得够不到了。
+- Alice is growing smaller.
+  译：爱丽丝还在继续缩小。
+
+---

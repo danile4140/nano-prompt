@@ -1,0 +1,50 @@
+B6-17 | character_refs: ["C1", "C13"] | scene_refs: ["S10"] | 预估格数: ?
+- The Cheshire Cat appeared.
+- 译：柴郡猫出现了。
+- 'Cheshire Cat, dear,' she said in a kind voice.
+- 译："柴郡猫，亲爱的，"她用温柔的声音说。
+- The grin grew bigger.
+- 译：那个笑容变得更大了。
+- 'He's pleased,' thought Alice.
+- 译："它很高兴，"爱丽丝想。
+
+---
+
+---
+B6-18 | character_refs: ["C1", "C13"] | scene_refs: ["S10"] | 预估格数: ?
+- 'Do you know which way I must go?' asked Alice.
+- 译："你知道我该往哪边走吗？"爱丽丝问。
+- 'It depends on where you want to go,' answered the Cat.
+- 译："这要看你想去哪里，"猫回答。
+- 'Well, I don't know,' said Alice.
+- 译："嗯，我不知道，"爱丽丝说。
+
+---
+
+---
+B6-19 | character_refs: ["C13"] | scene_refs: ["S10"] | 预估格数: ?
+- 'Then you can go that way and you'll get to the Hatter's house.
+- 译："那么你可以往那边走，就能到帽匠的家。
+- Hatters make hats, you know.
+- 译：制帽师是做帽子的，你知道吧。
+- Or you can go that way to the March Hare's house.
+- 译：或者你可以往那边走，去三月野兔的家。
+- They are both mad.'
+- 译：他们都是疯子。"
+
+---
+
+---
+B6-20 | character_refs: ["C1", "C13"] | scene_refs: ["S10"] | 预估格数: ?
+- 'But I don't want to meet mad people,' said Alice.
+- 译："但我不想遇到疯子，"爱丽丝说。
+- 'You're in the wrong place, then.
+- 译："那你来错地方了。
+- We're all mad in Wonderland.
+- 译：在仙境里，我们大家都是疯子。
+- You're mad, too,' replied the Cheshire Cat.
+- 译：你也是疯子，"柴郡猫回答。
+
+---
+
+---

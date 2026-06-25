@@ -1,0 +1,28 @@
+B4-9 | character_refs: ["C3", "C9"] | scene_refs: ["S6"] | 预估格数: ?
+- 'What's that, Pat?' asks the White Rabbit.
+  译：「那是什么，帕特？」白兔问道。
+- 'It's an arm,' says Pat, the White Rabbit's gardener. Alice moves her arm. She can hear more cries and a lot of noise.
+  译：「是一只手臂，」白兔的园丁帕特说道。爱丽丝动了动她的手臂。她能听到更多的叫喊声和一片嘈杂。
+
+---
+B4-10 | character_refs: ["C1", "C3"] | scene_refs: ["S7"] | 预估格数: ?
+- 'We must burn the house down!' says the White Rabbit.
+  译：「我们得把房子烧掉！」白兔说。
+- Alice shouts: 'If you burn the house down, I'll ask Dinah to catch you.'
+  译：爱丽丝大喊道：「如果你们烧掉房子，我就让黛娜来抓你们。」
+
+---
+B4-11 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: ?
+- All the animals are silent.
+  译：所有动物都沉默了。
+- 'What will they do next?' Alice asks herself.
+  译：「他们接下来会怎么做？」爱丽丝问自己。
+
+---
+B4-12 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: ?
+- The animals take some stones and throw them at Alice.
+  译：动物们捡起石头朝爱丽丝扔去。
+- Quite suddenly all the stones become little cakes.
+  译：突然间，所有的石头都变成了小蛋糕。
+
+---

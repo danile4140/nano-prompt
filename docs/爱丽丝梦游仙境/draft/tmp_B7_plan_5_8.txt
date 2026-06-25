@@ -1,0 +1,40 @@
+B7-5 | character_refs: [C15, C14] | scene_refs: [S11] | 预估格数: ?
+- 'It's Friday by my watch,' the Hatter told the March Hare.
+译："我的表上是星期五，"帽匠告诉三月野兔。
+- 'The butter wasn't good for the watch ... I told you!'
+译："黄油对表有害……我早就告诉你了！"
+- 'It was the best butter,' replied the March Hare.
+译："那是最好的黄油，"三月野兔反驳道。
+
+---
+
+---
+B7-6 | character_refs: [C15, C14] | scene_refs: [S11] | 预估格数: ?
+- 'Yes, but you put it in with the bread knife.
+译："是的，但你用面包刀把它塞进去了。
+- Some bread got in, perhaps.'
+译：也许还带进了一些面包屑。"
+
+---
+
+---
+B7-7 | character_refs: [C14, C15] | scene_refs: [S11] | 预估格数: ?
+- The March Hare took the watch and put it in his tea.
+译：三月野兔拿过怀表，把它浸入茶杯里。
+- Then he took it out and looked at it.
+译：然后他把表取出来，仔细看了看。
+- He said, 'It was the best butter.'
+译：他说："那是最好的黄油。"
+
+---
+
+---
+B7-8 | character_refs: [C1, C14] | scene_refs: [S11] | 预估格数: ?
+- Alice looked at the watch.
+译：爱丽丝看了看那块怀表。
+- 'It tells the day but it doesn't tell you the time of day,' she said.
+译："它能告诉你今天是星期几，但不能告诉你现在是几点，"她说。
+
+---
+
+---

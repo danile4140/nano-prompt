@@ -1,0 +1,26 @@
+B2-17 | character_refs: ["C1"] | scene_refs: ["S4"] | 预估格数: ?
+- 'Perhaps he doesn't speak English,' thinks Alice.
+  译：也许它不会说英语，爱丽丝想道。
+- 'Is it a French mouse?' Alice wonders, so she tries with some words from her French grammar book.
+  译：它是法国老鼠吗？爱丽丝纳闷，于是便试着用法语语法书上的几个词。
+
+---
+B2-18 | character_refs: ["C1", "C4"] | scene_refs: ["S4"] | 预估格数: ?
+- 'Ou est ma chatte? ' The Mouse jumps out of the water.
+  译：我的猫在哪里？老鼠从水中猛地跳了起来。
+- He is very frightened.
+  译：它非常害怕。
+- 'Oh sorry,' says Alice, 'you don't like cats.'
+  译：哦，对不起，爱丽丝说，你不喜欢猫。
+
+---
+B2-19 | character_refs: ["C4"] | scene_refs: ["S4"] | 预估格数: ?
+- 'Don't like cats ... Of course I don't like cats! I'm a mouse!' answers the Mouse.
+  译：不喜欢猫……我当然不喜欢猫！我是老鼠！老鼠回答道。
+
+---
+B2-20 | character_refs: ["C1"] | scene_refs: ["S4"] | 预估格数: ?
+- 'Of course not, but I think you'll like Dinah. She is very good. She catches all the mice! Oh, sorry, sorry. We won't talk about her any more,' says Alice.
+  译：当然当然，但我想你会喜欢黛娜的，她非常厉害，能抓住所有老鼠！哦，对不起，对不起，我们不提她了，爱丽丝说。
+
+---

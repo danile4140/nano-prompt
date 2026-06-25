@@ -1,0 +1,30 @@
+B1-9 | character_refs: [C1] | scene_refs: [S2] | 预估格数: ?
+- Suddenly she stops falling.
+  译：她突然停止了坠落。
+- She stands up quickly.
+  译：她迅速站了起来。
+
+---
+B1-10 | character_refs: [C1, C3] | scene_refs: [S2] | 预估格数: ?
+- There is a long passage before her.
+  译：她面前有一条长长的通道。
+- The Rabbit is hurrying down it.
+  译：白兔正在沿着通道急匆匆地赶路。
+- 'Oh my ears and whiskers! It's getting so late!'
+  译：「哎呀我的耳朵和胡须！时间越来越晚了！」
+
+---
+B1-11 | character_refs: [C1, C3] | scene_refs: [S2] | 预估格数: ?
+- The Rabbit disappears around a corner.
+  译：白兔转过拐角消失了。
+- Alice follows him.
+  译：爱丽丝跟了上去。
+
+---
+B1-12 | character_refs: [C1] | scene_refs: [S3] | 预估格数: ?
+- Suddenly Alice is standing in a long hall.
+  译：突然爱丽丝站在了一个长长的大厅里。
+- There are lots of lamps and doors all round the hall, but the doors are locked.
+  译：大厅四周有很多盏灯和许多扇门，但所有的门都锁着。
+
+---
