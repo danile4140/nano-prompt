@@ -1,0 +1,31 @@
+B3-9 | character_refs: ["C5", "C4"] | scene_refs: ["S5"] | 预估格数: 1
+- that night, claudius and gertrude watched the play.
+  译：那天晚上，克劳迪斯和葛特鲁德观看了演出。
+
+---
+
+B3-10 | character_refs: [] | scene_refs: ["S5"] | 预估格数: 1
+- there are three characters.
+  译：剧中有三个角色。
+- the player king, the player queen and lucianus, the queen's lover.
+  译：戏中国王、戏中王后，以及王后的情人卢西安斯。
+- 怎么着了？
+  译：（剧中对白：）发生什么了？
+
+---
+
+B3-11 | character_refs: [] | scene_refs: ["S5"] | 预估格数: 2
+- I shall always love you.
+  译：我会永远爱你。
+- but if i die, you will marry again.
+  译：但如果我死了，你还会再嫁的。
+- no, never.
+  译：不，绝不。
+
+---
+
+B3-12 | character_refs: ["C2", "C4"] | scene_refs: ["S5"] | 预估格数: 2
+- do you like the play mother?
+  译：你喜欢这出戏吗，母亲？
+- the lady speaks too much about love.
+  译：那个女人把爱情说得太多了。

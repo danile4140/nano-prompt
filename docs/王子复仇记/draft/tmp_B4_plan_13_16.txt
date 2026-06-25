@@ -1,0 +1,64 @@
+B4-16（6句）：已扫描5对相邻句，四维度均无切换（克劳狄斯单一说话者连续决策独白，同一空间/时间/情绪基调），保留。
+
+---
+
+## 句子分配表
+
+---
+
+---
+
+B4-13 | character_refs: ["C2", "C4"] | scene_refs: ["S7"] | 预估格数: 2（主导格+卫星格：展示父亲画像）
+- no,I'm not mad mother.
+- 译：不，我没有疯，母亲。
+- look at this portrait of my father.
+- 译：看看这幅我父亲的画像。
+- he was a good,brave,handsome慢.
+- 译：他是一个善良、勇敢、英俊的人。
+- remember him and stay away from claudius.
+- 译：记住他，远离克劳狄斯。
+
+---
+
+---
+
+B4-14 | character_refs: ["C2", "C4"] | scene_refs: ["S7"] | 预估格数: 2（对话双格，§4条件B：警告-承诺因果链）
+- I will sweet hamlet.
+- 译：我答应你，亲爱的哈姆雷特。
+- but as soon as claudius kisses you,you will forget everything and tell him my secrets.
+- 译：但只要克劳狄斯一吻你，你就会忘掉一切，将我的秘密告诉他。
+- no,i promise not to betray you.
+- 译：不，我承诺不会出卖你。
+- I am glad mother.
+- 译：我很高兴，母亲。
+
+---
+
+---
+
+B4-15 | character_refs: ["C2", "C4"] | scene_refs: ["S7"] | 预估格数: 1
+- now I must take away polonius's body.
+- 译：现在我必须把波洛涅斯的尸体带走。
+- good night.
+- 译：晚安。
+
+---
+
+---
+
+B4-16 | character_refs: ["C5"] | scene_refs: ["S2"] | 预估格数: 2（叙事阶段边界§4条件D，新场景：叔父决策）
+- when claudius hears that hamlet has killed polonius.
+- 译：当克劳狄斯听说哈姆雷特杀死了波洛涅斯。
+- he decides to send the prince away.
+- 译：他决定将王子送走。
+- hamlet is dangerous.
+- 译：哈姆雷特太危险了。
+- I shall send him to england.
+- 译：我要将他送往英格兰。
+- perhaps he will recover from his madness in a different country.
+- 译：也许换个地方他的疯病会好转。
+- rose ncransonguildenstern go with him and look after him.
+- 译：罗森克兰茨和吉尔登斯吞陪同前往，照料他。
+【已扫描5对相邻句，四维度均无切换（同一说话者克劳狄斯连续决策独白），保留6句】
+
+---

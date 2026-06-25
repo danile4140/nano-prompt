@@ -1,0 +1,29 @@
+B2-9 | character_refs: ["C8", "C6"] | scene_refs: ["S4"] | 预估格数: 1
+- "Ophelia，you must help us find out the truth about prince Hamlet's madness."
+- 译："奥菲利亚，你必须帮我们查清哈姆雷特王子发疯的真相。"
+
+---
+
+---
+
+B2-10 | character_refs: ["C6", "C8", "C2"] | scene_refs: ["S4"] | 预估格数: 2
+- "I shall obey you father quickly here,he comes.pretend that you are reading."
+- 译："我会服从您的，父亲——快，他来了，假装你在读书。"
+
+---
+
+---
+
+B2-11 | character_refs: ["C2"] | scene_refs: ["S4"] | 预估格数: 1
+- hamlet is thinking deeply.he wants to escape from his problems by committing suicide.his mind is full of questions.
+- 译：哈姆雷特陷入沉思，他想通过自杀逃离困境，脑海中充满了疑问。
+
+---
+
+---
+
+B2-12 | character_refs: ["C2"] | scene_refs: ["S4"] | 预估格数: 1
+- "to be.or not to be.that is the question.is it better to live?or die.but what happens after we die?nobody knows.I am stupid."
+- 译："生存还是毁灭，这是一个问题。活着好，还是死去好？死后会发生什么？没人知道。我真蠢。"
+
+---

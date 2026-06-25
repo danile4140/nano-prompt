@@ -1,0 +1,55 @@
+B4-3（6句）：已扫描5对相邻句，四维度均无切换（同一说话者Hamlet连续独白，同一空间/时间/情绪），保留。
+-
+
+---
+
+B4-1 | character_refs: [] | scene_refs: ["S7"] | 预估格数: 1
+- four murder and exile.
+- 译：第四章——谋杀与流放。
+- it is the middle of the night,the time for witches and ghosts.
+- 译：此刻是深夜，是女巫与鬼魂出没的时刻。
+
+---
+
+---
+
+B4-2 | character_refs: ["C2", "C4"] | scene_refs: ["S7"] | 预估格数: 1（比例压迫/路径动线）
+- hamlet goes to see his mother in her bedroom.
+- 译：哈姆雷特前往母亲的寝室去见她。
+- he does not know that someone is hiding behind the curtain and listening to everything.
+- 译：他不知道有人藏在帘子后面，偷听一切。
+
+---
+
+---
+
+B4-3 | character_refs: ["C2", "C4"] | scene_refs: ["S7"] | 预估格数: 2（对话双格，Hamlet主导）
+- hamlet,why did you offend the king?
+- 译：哈姆雷特，你为什么要冒犯国王？
+- 妈的.
+- 译：（原文残缺/噪音字符）
+- why did you betray my father?
+- 译：你为什么要背叛我的父亲？
+- don't move.
+- 译：不许动。
+- I want to talk to you.
+- 译：我要和你谈谈。
+- I want to make you look into the mirror of your soul.
+- 译：我要让你看看你灵魂深处的镜子。
+【已扫描5对相邻句，四维度均无切换，保留6句】
+
+---
+
+---
+
+B4-4 | character_refs: ["C2", "C4"] | scene_refs: ["S7"] | 预估格数: 3（横排三格：王后惊叫→奸细喊救→哈姆雷特行动）
+- the queen is afraid of hamlet and she begins to scream.
+- 译：王后对哈姆雷特感到恐惧，开始尖叫。
+- the spy behind the curtain shouts for help.
+- 译：藏在帘子后面的奸细大声呼救。
+- hamlet turns round quickly.
+- 译：哈姆雷特迅速转身。
+- and without thinking kills the listener.
+- 译：未加思索便杀死了那个偷听者。
+
+---

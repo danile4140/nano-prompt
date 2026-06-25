@@ -1,0 +1,35 @@
+B1-13 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- hamlet sees the ghost of his father.
+  译：哈姆雷特看见了他父亲的幽灵。
+- it signals him to follow.
+  译：幽灵示意他跟上来。
+- I am your father's spirit.
+  译：我是你父亲的灵魂。
+
+---
+
+B1-14 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2-3
+- if you ever loved me ribbon my murder.
+  译：如果你曾爱过我，就为我的被杀而复仇。
+- 没得。my wife gertrude was unfaithful to me.
+  译：我的妻子葛特露德对我不忠。
+- my brother claudius murdered me.
+  译：我的兄弟克劳狄斯谋杀了我。
+- while I was sleeping in my garden.
+  译：在我于花园中熟睡之时。
+- he poured poison in my ear.
+  译：他将毒药灌进了我的耳中。
+
+---
+
+B1-15 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 1
+- the sun is rising,I must go hamlet remember me.
+  译：太阳升起来了，我必须离去，哈姆雷特，记住我。
+
+---
+
+B1-16 | character_refs: ["C2"] | scene_refs: ["S1"] | 预估格数: 1
+- hamlet does not know what to do.
+  译：哈姆雷特不知道该怎么办。
+- perhaps the ghost is telling lies.
+  译：也许那个幽灵在说谎。

@@ -1,0 +1,37 @@
+B1-1 | character_refs: ["C1", "C13"] | scene_refs: ["S1"] | 预估格数: 1-2
+- one,the ghost.
+  译：一，鬼魂。
+- one night at elsinore castle in Denmark,two gods see a ghost.
+  译：一天夜晚，在丹麦艾尔西诺城堡，两名卫兵看见了一个幽灵。
+- it looks like king hamlet.
+  译：它看起来像哈姆雷特国王。
+
+---
+
+B1-2 | character_refs: ["C13"] | scene_refs: ["S1"] | 预估格数: 1
+- but he can't be king hamlet instead.
+  译：但那不可能是哈姆雷特国王本人。
+- we must tell horatio prince hamlet's friend.
+  译：我们必须去告诉霍雷肖，王子哈姆雷特的朋友。
+- perhaps the ghost wants to give a message to the prince.
+  译：也许这个幽灵想给王子传递什么信息。
+
+---
+
+B1-3 | character_refs: ["C1", "C3", "C13"] | scene_refs: ["S1"] | 预估格数: 1-2
+- the next night,horatio stays to watch with the gods.
+  译：第二天夜晚，霍雷肖留下来与卫兵们一同守望。
+- the ghost appears again.
+  译：幽灵再次出现了。
+- it is wearing the same armour as the old king.
+  译：它穿着与老国王相同的铠甲。
+
+---
+
+B1-4 | character_refs: ["C1", "C3", "C13"] | scene_refs: ["S1"] | 预估格数: 2
+- what do you want?
+  译：你想要什么？
+- speak to US.
+  译：对我们说话。
+- it refuses to speak.
+  译：它拒绝开口说话。

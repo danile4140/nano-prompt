@@ -1,0 +1,9 @@
+B4-21 | character_refs: ["C2", "C9", "C10"] | scene_refs: ["S8"] | 预估格数: 2（左右二分：计划完成+思考回丹麦，前后状态变化）
+- when rosencrantz and guild en stern arrive in england,he thought the english king will execute them.
+- 译：等罗森克兰茨和吉尔登斯吞抵达英格兰，他心想，英格兰国王会处决他们。
+- but how am I going to return to Denmark?
+- 译：但我怎么回丹麦呢？
+- the next morning.
+- 译：第二天清晨。
+- rosencrantz and guild en stern woke up without realizing that the letter had been changed.
+- 译：罗森克兰茨和吉尔登斯吞醒来，毫不知情那封信已被掉包。

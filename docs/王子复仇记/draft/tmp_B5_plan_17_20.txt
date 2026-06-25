@@ -1,0 +1,33 @@
+B5-17 | character_refs: ["C7"] | scene_refs: ["S2"] | 预估格数: 1
+- I'm glad.
+  译：我很高兴。
+- I will kill him.
+  译：我要杀了他。
+
+---
+
+B5-18 | character_refs: ["C5"] | scene_refs: ["S2"] | 预估格数: 1
+- I have a better plan.
+  译：我有一个更好的计划。
+
+---
+
+B5-19 | character_refs: ["C4", "C5", "C7"] | scene_refs: ["S2"] | 预估格数: 2
+- The Queen comes in.
+  译：王后走了进来。
+- I have bad news, Laertes.
+  译：莱阿提斯，我有坏消息。
+- Ophelia is dead.
+  译：奥菲莉亚死了。
+
+---
+
+B5-20 | character_refs: ["C4"] | scene_refs: ["S11"] | 预估格数: 2
+- She wanted to put flowers on the willow tree.
+  译：她想把花挂在柳树上。
+- While she was climbing, she slipped and fell into the river.
+  译：当她爬树时，她滑倒并落入了河中。
+- She floated there, singing.
+  译：她漂浮在那里，唱着歌。
+- Then she drowned.
+  译：然后她溺死了。

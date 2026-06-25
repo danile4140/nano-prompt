@@ -1,0 +1,17 @@
+B2-21 | character_refs: ["C2", "C8"] | scene_refs: ["S4"] | 预估格数: 3
+- "No,I think it looks like a weasel. "
+- 译："不，我觉得它像黄鼠狼。"
+- "yes,my lord."
+- 译："是的，殿下。"
+- "or perhaps.it looks like a Whale. "
+- 译："或者，也许它看起来像一条鲸鱼。"
+- "yes,my lord."
+- 译："是的，殿下。"
+
+---
+
+---
+
+B2-22 | character_refs: ["C2", "C8"] | scene_refs: ["S4"] | 预估格数: 1
+- "goodbye,you foolish old man."
+- 译："再见，你这愚蠢的老头。"

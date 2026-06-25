@@ -1,0 +1,33 @@
+B2-1 | character_refs: ["C2", "C6"] | scene_refs: ["S2"] | 预估格数: 1
+- two Hamlet and Ophelia.
+- 译：哈姆雷特与奥菲利亚，两人相识。
+- Ophelia lives at the castle.she has a brother Lairtiz who is studying in Paris.Ophelia is in love with hamlet.
+- 译：奥菲利亚住在城堡里，她有一个兄弟莱阿提斯正在巴黎求学，奥菲利亚爱上了哈姆雷特。
+
+---
+
+---
+
+B2-2 | character_refs: ["C2", "C6"] | scene_refs: ["S3"] | 预估格数: 2
+- one day.while she is sewing,hamlet comes to her room.later,she tells her father Polonius a foolish old lord about hamlet's visit.
+- 译：某天，奥菲利亚正在缝纫，哈姆雷特来到她的房间；随后，她把哈姆雷特来访之事告诉了父亲波洛涅斯——一个愚蠢的老贵族。
+
+---
+
+---
+
+B2-3 | character_refs: ["C6", "C8"] | scene_refs: ["S4"] | 预估格数: 1
+- "he looked so sad.he was only half dressed.he stared at me.and then he left.without saying a word."
+- 译："他看起来非常悲伤，衣衫不整，一直盯着我看，然后就离开了，一句话也没说。"
+
+---
+
+---
+
+B2-4 | character_refs: ["C6", "C8"] | scene_refs: ["S4"] | 预估格数: 2
+- "is he mad for your love?"
+- 译："他是为爱你而发疯了吗？"
+- "i don't know.but I think so."
+- 译："我不知道，但我想是的。"
+
+---

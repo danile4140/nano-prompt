@@ -1,0 +1,35 @@
+B5-9 | character_refs: ["C3"] | scene_refs: ["S4"] | 预估格数: 1
+- A sailor brings the letter to Horatio.
+  译：一位水手将信件带给霍雷肖。
+- When he opens it, he discovers that it is from Hamlet.
+  译：当他打开信时，他发现这是来自哈姆雷特的。
+
+---
+
+B5-10 | character_refs: ["C2"] | scene_refs: ["S8"] | 预估格数: 2
+- Horatio, I am in Denmark.
+  译：霍雷肖，我在丹麦。
+- Some pirates attacked our ship.
+  译：一些海盗袭击了我们的船。
+- While everybody was fighting, I jumped onto their ship.
+  译：当大家都在战斗时，我跳上了他们的船。
+- I paid them and they brought me home to Denmark.
+  译：我付了钱，他们把我带回了丹麦。
+
+---
+
+B5-11 | character_refs: ["C2"] | scene_refs: ["S8"] | 预估格数: 2
+- Rosencrantz and Guildenstern have continued to England.
+  译：罗森克兰茨和吉尔登斯吞继续前往英格兰了。
+- I shall tell you more about them when I see you.
+  译：见面时我会告诉你更多关于他们的事。
+- Meet me in the graveyard.
+  译：在墓地见我。
+
+---
+
+B5-12 | character_refs: ["C3"] | scene_refs: ["S4"] | 预估格数: 1
+- I shall go to him immediately.
+  译：我要立刻去找他。
+- I am glad he is safe.
+  译：我很高兴他平安无事。

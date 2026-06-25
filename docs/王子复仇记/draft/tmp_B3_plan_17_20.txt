@@ -1,0 +1,29 @@
+B3-17 | character_refs: ["C5"] | scene_refs: ["S5"] | 预估格数: 2
+- everybody follows him.
+  译：所有人都跟着他出去了。
+- the actors do not know what the problem is.
+  译：演员们不知道发生了什么。
+- lights, lights stop the play.
+  译：（呼喊声：）灯光！灯光！停止演出！
+
+---
+
+B3-18 | character_refs: ["C2", "C3"] | scene_refs: ["S5"] | 预估格数: 2
+- did you see that horatio the king is frightened.
+  译：霍雷肖，你看到了吗，国王被吓到了。
+- the ghost's story is true?
+  译：鬼魂说的故事是真的吗？
+
+---
+
+B3-19 | character_refs: ["C5", "C2"] | scene_refs: ["S6"] | 预估格数: 2
+- after the play, claudius feels very guilty, so he goes to pray in the chapel.
+  译：演出结束后，克劳迪斯感到极度愧疚，于是去礼拜堂祈祷。
+- hamlet finds him there.
+  译：哈姆雷特在那里发现了他。
+
+---
+
+B3-20 | character_refs: ["C5"] | scene_refs: ["S6"] | 预估格数: 1
+- I want god to forgive me for my brother's murder, perhaps if i pray he will help me.
+  译：我想让上帝原谅我杀死兄弟的罪行，也许如果我祈祷，他会帮助我。

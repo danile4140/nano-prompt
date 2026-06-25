@@ -1,0 +1,39 @@
+B1-9 | character_refs: ["C2"] | scene_refs: ["S2"] | 预估格数: 1
+- my father was a better慢than claudius.
+  译：我的父亲比克劳狄斯好得多。
+- my mother was weak and foolish to marry my uncle.
+  译：我的母亲软弱而愚蠢，竟然嫁给了我的叔父。
+
+---
+
+B1-10 | character_refs: ["C2", "C3"] | scene_refs: ["S4"] | 预估格数: 1
+- horatio comes to tell hamlet about the ghost.
+  译：霍雷肖来告诉哈姆雷特关于幽灵的事。
+- horatio has studied for many years with the prince at university.
+  译：霍雷肖曾与王子在大学一同求学多年。
+- he is hamlet's best friend and the prince trust him completely.
+  译：他是哈姆雷特最好的朋友，王子完全信任他。
+
+---
+
+B1-11 | character_refs: ["C2", "C3"] | scene_refs: ["S4"] | 预估格数: 1
+- I hate this place horatio.
+  译：我厌恶这个地方，霍雷肖。
+- my uncle and my mother are so happy.
+  译：我的叔父和我的母亲是那么快乐。
+- how can they forget my father so soon?
+  译：他们怎么能这么快就忘记了我的父亲？
+
+---
+
+B1-12 | character_refs: ["C2", "C3"] | scene_refs: ["S4"] | 预估格数: 2
+- my lord.
+  译：我的王子。
+- I saw your father last night.
+  译：昨晚我看见了您的父亲。
+- what do you mean?
+  译：你是什么意思？
+- come to the castle walls at midnight of the cliff.
+  译：午夜时分来到城堡城墙上吧。
+- then you'll understand.
+  译：那时你就会明白了。
