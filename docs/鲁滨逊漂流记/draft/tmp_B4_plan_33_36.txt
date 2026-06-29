@@ -1,0 +1,47 @@
+B4-33 | character_refs: ["C1b"] | scene_refs: ["S12"] | 预估格数: 1
+- This could only be done by killing all the other savages, and my heart trembled at the thought.
+  译：这只能通过杀死所有其他野人来实现，一想到这里，我的心就颤抖了。
+- However, my desire to escape was so strong that finally I decided to watch out for the savages again.
+  译：然而，我逃跑的渴望如此强烈，以至于我最终决定再次守望野人。
+- For about a year and a half, I watched.
+  译：大约一年半，我一直在守望。
+- No one came to the island in all that time.
+  译：在这段时间里，没有人来到这座岛。
+
+B4-34 | character_refs: ["C1b"] | scene_refs: ["S22"] | 预估格数: 2
+- Then one morning I saw five canoes on the shore.
+  译：然后，一天早晨我看到岸边有五艘独木舟。
+- I climbed the hill, hid myself in the grass and watched them with my perspective glass.
+  译：我爬上山丘，藏在草丛中，用望远镜观察他们。
+- There were about thirty of them.
+  译：他们大约有三十人。
+- They had built a fire and were dancing around it.
+  译：他们生了一堆火，围着火跳舞。
+
+B4-35 | character_refs: ["C1b", "C14"] | scene_refs: ["S23"] | 预估格数: 3
+- As I watched, they brought two prisoners from the boats to be killed.
+  译：在我观察的过程中，他们从船上带来了两个俘虏准备杀掉。
+- One of the prisoners fell down and the savages began cutting him up for their feast.
+  译：其中一个俘虏倒下了，野人们开始把他切开作为他们的盛宴。
+- At that moment the other prisoner began to run.
+  译：就在那一刻，另一个俘虏开始逃跑。
+- He ran with amazing speed along the shore towards my house.
+  译：他以惊人的速度沿着海岸朝我的房屋方向跑去。
+- I was terribly frightened when I saw him running towards me.
+  译：看到他朝我跑来时，我感到万分惊恐。
+- I thought that all the others would follow him.
+  译：我以为所有其他的野人都会跟着他来。
+
+B4-36 | character_refs: ["C1b", "C14"] | scene_refs: ["S20"] | 预估格数: 3
+- My dream seemed to be coming true when I saw that only three men were pursuing him, I felt less frightened.
+  译：当我看到只有三个人在追赶他时，我的梦似乎正在成真，我感到没那么害怕了。
+- The prisoner came to the river, jumped in, and swam across.
+  译：那个俘虏来到河边，跳入水中，游了过去。
+- When his pursuers came to the river, one of them stopped and turned back, for clearly he could not swim.
+  译：当他的追赶者来到河边时，其中一个停了下来掉头回去，显然他不会游泳。
+- The others swam across the river, but not so quickly as the prisoner had done.
+  译：其他人游过了河，但没有俘虏游得快。
+- I thought that god was calling me to save this poor creature's life.
+  译：我想上帝是在召唤我去拯救这个可怜生命的性命。
+- I thought that by saving his life I would get a servant and perhaps a companion.
+  译：我想通过救他的命，我会得到一个仆人，也许还是一个伴侣。

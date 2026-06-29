@@ -1,0 +1,47 @@
+B8-17 | character_refs: ["C10", "C2", "C1b"] | scene_refs: ["S11"] | 预估格数: 3
+- Papa said portia, Henry doesn't want your job
+  译：爸爸，波西亚说，亨利不想要您的工作。
+- I feel very hurt, darling.
+  译：我感到很受伤，亲爱的。
+- Is that your father I asked.
+  译：那是您的父亲吗？我问道。
+- Yes, he's my stepfather, a dear man.
+  译：是的，他是我的继父，一位可亲的人。
+- Now do you understand why I laughed when you told me your story, my dearest
+  译：现在你明白了吗，当你向我讲述你的故事时我为什么笑，我最亲爱的。
+
+---
+
+B8-18 | character_refs: ["C1b", "C2"] | scene_refs: ["S11"] | 预估格数: 2
+- Sir I said.
+  译：先生，我说道。
+- I want to take back what I said
+  译：我想收回我刚才说的话。
+- there is a job that I want
+  译：有一份工作是我想要的。
+- tell me
+  译：说来听听。
+- I want the job of son in law
+  译：我想要的工作是成为您的女婿。
+
+---
+
+B8-19 | character_refs: ["C1b", "C2"] | scene_refs: ["S11"] | 预估格数: 2
+- well, well, well, but you were never a son in law before
+  译：哦，好好好，但你从来没当过女婿。
+- do you know how to do this job?
+  译：你知道怎么做这份工作吗？
+- Try me, please
+  译：请给我一个机会试试吧。
+- try me for thirty or forty years and if all right, take a were portion and I happy there aren't enough words in the dictionary to describe our happiness.
+  译：给我三四十年来试试看，如果一切顺利，与波西亚在一起，我是如此幸福——字典里没有足够的词语来形容我们的幸福。
+
+---
+
+B8-20 | character_refs: ["C1b", "C10"] | scene_refs: ["S2"] | 预估格数: 2
+- When the Londoners heard the whole story of my adventures with the bank note, they talked of nothing else.
+  译：当伦敦人听说了我与百万英镑的全部冒险故事，他们谈论的除此之外什么都没有。
+- Portia's father took the banknote back to the bank of England and cashed it.
+  译：波西亚的父亲把钞票带回英格兰银行兑了现。
+
+---

@@ -1,0 +1,47 @@
+B11-13 | character_refs: ["C3b", "C7"] | scene_refs: ["S7"] | 预估格数: 3
+- Open the window, Nelly, and let me breathe the fresh air, let me breathe the air from the moors."
+  译："打开窗子，内莉，让我呼吸新鲜空气，让我呼吸荒野上的风。"
+- "It's cold, madam. You should stay warm in bed and try to sleep."
+  译："天冷，夫人，您应该暖和地躺在床上试着睡觉。"
+- "If you won't open it, I will!" she cried, and before I could stop her she opened the window wide and leaned out into the icy wind.
+  译："你不开的话，我来开！"她喊道，我还没来得及阻止，她就把窗子大大地推开，探身出去迎着冰冷的寒风。
+- I begged her to close the window and get back into bed.
+  译：我恳求她关上窗子回到床上。
+- I tried to pull her away from the window, but she was delirious.
+  译：我试图把她从窗边拉开，但她已经神志不清了。
+- I knew that now, and it gave her a strength far greater than mine.
+  译：我这才意识到这一点，而这给了她远比我更大的力气。
+
+B11-14 | character_refs: ["C3b", "C7"] | scene_refs: ["S7", "S9", "S3"] | 预估格数: 3
+- "Last night, Nelly, I thought I was lying in my old oak case bed at Wuthering Heights, the tree was tapping on the window, and I was crying because Hindley had separated me from Heathcliff.
+  译："昨晚，内莉，我以为我躺在呼啸山庄那张旧橡木箱床上，树枝敲打着窗子，我在哭，因为辛德利把我和希斯克利夫分开了。
+- I lay alone for the first time, crying my heart out.
+  译：我第一次独自躺着，哭得心都碎了。
+- Then I put my hand out, expecting to touch the window sill, but I touched the table instead.
+  译：然后我伸出手，以为能摸到窗台，却摸到了桌子。
+- I knew that I was here at Thrushcross Grange.
+  译：我才知道我是在画眉田庄。
+- Oh Nelly, I wish I were a girl again, half savage and brave and free.
+  译：哦，内莉，我希望自己还是个小姑娘，半野蛮又勇敢又自由。
+- Why have I changed so much?
+  译：我为什么变化了这么多？
+
+B11-15 | character_refs: ["C3b", "C7", "C10"] | scene_refs: ["S7"] | 预估格数: 2
+- I'm sure I would be myself again if I could walk on the moor, open the window." Just then my master came in.
+  译：我确信如果能在荒野上漫步、把窗户打开，我就能做回自己了。"就在这时，我的主人走进来了。
+- "Oh, sir," said I, "my poor mistress is ill, please come and help me to keep her in her bed."
+  译："哦，先生，"我说，"我可怜的女主人病了，请来帮我把她留在床上吧。"
+
+B11-16 | character_refs: ["C10", "C3b", "C7"] | scene_refs: ["S7"] | 预估格数: 3
+- "Catherine, Nelly, why was I not told?" he asked, shocked at the sight of her thin, pale face.
+  译："凯瑟琳，内莉，为什么没人告诉我？"他看到她消瘦苍白的脸，震惊地问道。
+- "She would not let anyone into her room until this evening, sir, so I didn't know myself how ill she was."
+  译："直到今晚，夫人都不让任何人进她的房间，先生，所以我自己也不知道她病得有多重。"
+- "But it is nothing, it is nothing, is it, Ellen Dean?" said my master sternly.
+  译："但没什么大碍，没什么大碍，对吗，艾伦·迪恩？"我的主人严肃地说。
+- He took his wife in his arms and looked at her with anguish.
+  译：他把妻子揽入怀中，痛苦地看着她。
+- "It is all your fault! You told me about Heathcliff, you caused our argument."
+  译："这全都是你的错！是你告诉了我希斯克利夫的事，是你挑起了我们的争吵。"
+- "I was just doing my duty as a faithful servant," said I.
+  译："我只是在尽一个忠实仆人的职责，"我说。

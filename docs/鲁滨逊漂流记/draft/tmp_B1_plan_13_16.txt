@@ -1,0 +1,45 @@
+B1-13 | character_refs: ["C1", "C6"] | scene_refs: ["S3"] | 预估格数: 2
+- Thus on the first of September sixteen fifty one I went on board a ship for the first time.
+  译：于是，在一六五一年九月一日，我第一次登上了帆船。
+- As soon as the ship was at sea, the wind began to blow.
+  译：船刚驶入海面，风就开始刮了起来。
+- I felt very sick and frightened.
+  译：我感到非常恶心，十分害怕。
+- I thought that god was punishing me for leaving my father's house.
+  译：我觉得上帝在惩罚我离家出走。
+- The storm grew worse, although it was not as bad as many I have seen since.
+  译：风暴越来越猛烈，虽然不如我此后见过的许多暴风雨那么可怕。
+- It was not even as bad as the storm I saw just a few days later, but it frightened me then.
+  译：甚至还不如几天后我所经历的那场风暴，但那时它已经把我吓坏了。
+
+B1-14 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: 2
+- I thought the sea would swallow us.
+  译：我以为大海会把我们吞没。
+- I swore to god that if I lived, I would return to my father's house and never go to sea again.
+  译：我向上帝发誓，如果能活下来，我一定回到父亲家中，再也不出海了。
+- The next day the sea grew calm and the sun shone.
+  译：次日，海面风平浪静，阳光明媚。
+- I no longer felt sick or frightened.
+  译：我不再感到恶心或害怕。
+
+B1-15 | character_refs: ["C1", "C6"] | scene_refs: ["S3"] | 预估格数: 2
+- My friend said.
+  译：我的朋友说道。
+- Well, Bob, how do you feel?
+  译：嗯，鲍勃，你感觉怎样？
+- Were you afraid it was a terrible storm said I do you call that a storm said he, that was nothing.
+  译：你害怕了吗？那真是一场可怕的风暴——我说道。你叫那叫风暴？——他说，那算什么，什么都不是。
+- Let's drink some rum and forget about it.
+  译：咱们喝点朗姆酒，把它忘掉吧。
+- We drank the rum and I forgot my promise to god.
+  译：我们喝了朗姆酒，我忘记了对上帝许下的诺言。
+
+B1-16 | character_refs: ["C1", "C6"] | scene_refs: ["S3"] | 预估格数: 2
+- A few days later there was a really terrible storm.
+  译：几天后，一场真正可怕的风暴来临了。
+- The waves were as high as mountains.
+  译：海浪高如山岳。
+- I was very frightened.
+  译：我非常恐惧。
+- I feel sorry that I had forgotten my promise to god.
+  译：我懊悔自己忘记了对上帝许下的诺言。

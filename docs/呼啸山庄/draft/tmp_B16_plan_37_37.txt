@@ -1,0 +1,13 @@
+B16-37 | character_refs: ["C7", "C5"] | scene_refs: ["S11"] | 预估格数: 2
+- We were imprisoned and there was nothing we could do.
+  译：我们被囚禁了，什么也做不了。
+- The next morning Heathcliff opened the door and took Catherine away.
+  译：第二天早晨，希斯克利夫打开门带走了凯瑟琳。
+- Then he locked the door again.
+  译：然后他又把门锁上了。
+- I was left alone in that room for five days.
+  译：我独自被关在那个房间里五天。
+- The only person I saw in all that time was Hareton, who brought me food but said nothing.
+  译：在那段时间里，我见到的唯一一个人是哈顿，他给我送来食物但一言不发。
+- I was left alone to wonder about what was happening to my young mistress and how my poor master would bear it when he heard all.
+  译：我被独自留下，满心猜想年轻女主人身上发生着什么，以及我那可怜的主人听到这一切后将如何承受。

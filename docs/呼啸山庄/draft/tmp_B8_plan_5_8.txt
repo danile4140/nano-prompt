@@ -1,0 +1,35 @@
+B8-5 | character_refs: ["C4", "C5", "C7"] | scene_refs: ["S1"] | 预估格数: 3
+- Hindley saw him too, dropped the knife, and grabbed the child, who only cried all the louder.
+  译：辛德利也看见了，扔掉刀，抓起孩子，孩子哭得更响了。
+- "What's wrong with him? Doesn't he love his father? What an unnatural child!" cried Hindley.
+  译："他怎么了？难道他不爱自己的父亲？真是个不正常的孩子！"辛德利喊道。
+- But the child kept screaming.
+  译：但孩子仍在哭嚎。
+- Hindley ran upstairs and held little Hareton over the banister.
+  译：辛德利跑上楼，把小哈顿悬在楼梯扶手之上。
+
+B8-6 | character_refs: ["C4", "C5", "C7"] | scene_refs: ["S1"] | 预估格数: 3
+- "Be quiet and kiss your father, or I'll drop you!" cried Hindley.
+  译："安静下来吻你父亲，否则我就把你扔下去！"辛德利喊道。
+- I rushed up to save the child, but as I reached the top, I saw Hindley bend forward over the banister.
+  译：我冲上去救孩子，但刚到楼梯顶端，就看见辛德利身体前倾，越过了扶手。
+- "Who is that coming in?" he asked vaguely, and Hareton wriggled out of his grasp and fell.
+  译："那是谁进来了？"他茫然地问道，哈顿从他手中挣脱，跌落下去。
+
+B8-7 | character_refs: ["C1", "C4", "C5", "C7"] | scene_refs: ["S1"] | 预估格数: 3
+- There was hardly time to feel a thrill of horror when we saw that the child was safe.
+  译：我们几乎还没来得及感到恐惧，就发现孩子平安无事。
+- Heathcliff, whose step we had heard, arrived below, and instinctively caught the child in his arms.
+  译：希斯克利夫——我们听见的脚步声正是他的——出现在楼下，本能地伸手接住了孩子。
+- But when he looked up and saw that it was Hindley who had let Hareton drop, his face showed clearly that he regretted having caught the child.
+  译：但当他抬头看见是辛德利让哈顿滑落时，他的表情清楚地显示出他后悔接住了孩子。
+- His vengeful heart would have enjoyed watching the drunken father weep for the son he had accidentally killed.
+  译：他那颗复仇的心，本可以享受看着这个醉鬼父亲为自己误杀的儿子痛哭流涕。
+
+B8-8 | character_refs: ["C4", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- Hindley came downstairs and poured himself a glass of brandy.
+  译：辛德利走下楼，给自己倒了一杯白兰地。
+- "Oh, sir, you've had more than enough already!" I cried, trying to take the glass from his hand.
+  译："哦，先生，您已经喝得够多了！"我喊道，试图夺走他手中的酒杯。
+- "Have mercy on this unfortunate child, if you have none on your own soul."
+  译："就算您不怜惜自己的灵魂，也请怜惜这个可怜的孩子吧。"

@@ -1,0 +1,39 @@
+B6-33 | character_refs: ["C1b", "C17"] | scene_refs: ["S17"] | 预估格数: 3
+- They went into the woods towards the sleeping man.
+  译：他们进入树林，向那些睡着的人摸去。
+- One awoke and cried out to the others.
+  译：其中一人醒来，大声呼叫同伴。
+- The captain's two companions fired their guns.
+  译：船长的两名同伴开枪射击。
+- They killed the two rebel leaders and took two prisoners.
+  译：他们击毙了两名叛乱头目，俘虏了两人。
+- The others then begged for a mercy.
+  译：其余人随即跪地求饶。
+
+B6-34 | character_refs: ["C1b", "C17"] | scene_refs: ["S24"] | 预估格数: 2
+- With this re in the men, the captain went in the boat to the ship.
+  译：招募了这些人手后，船长乘小艇赶往大船。
+- Since the rebel leaders were now dead, the man on the ship decided to obey him once more.
+  译：由于叛乱头目已死，船上的人决定重新服从他的命令。
+- He then returned to the island and said to me, my.
+  译：他随后回到岛上，对我说："我的……"
+
+B6-35 | character_refs: ["C1b", "C17"] | scene_refs: ["S7"] | 预估格数: 2
+- Good friend, there is your ship
+  译："好朋友，您的船在那里！"
+- these words affected me greatly.
+  译：这番话深深打动了我。
+- I sat down upon the ground with the tears in my eyes.
+  译：我含泪跌坐在地上。
+- I did not forget to give thanks to god for delivering me.
+  译：我没有忘记向上帝致谢，感恩他将我解救。
+
+B6-36 | character_refs: ["C1b", "C17"] | scene_refs: ["S7", "S12"] | 预估格数: 2
+- We asked the two rebel prisoners if they wished to be left on the island or to return to England where they would be punished.
+  译：我们询问两名叛乱俘虏，是愿意留在岛上还是回英格兰受罚。
+- They said they wished to stay on the island.
+  译：他们说希望留在岛上。
+- Therefore I showed them my house, my goats, my grain plantation, my goods.
+  译：于是我向他们展示了我的住所、山羊、粮食种植地和各种物资。
+- I gave them guns and powder, and I wished them a good fortune.
+  译：我给了他们枪和火药，并祝他们一切顺利。

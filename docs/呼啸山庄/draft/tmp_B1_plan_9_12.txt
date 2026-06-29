@@ -1,0 +1,41 @@
+B1-9 | character_refs: ["C2"] | scene_refs: ["S1"] | 预估格数: 1
+- No, perhaps I'm assuming too much.
+  译：不，或许我想得太多了。
+- Perhaps the reason for Mr. Heathcliff's reserve is different from my own.
+  译：也许希斯克利夫先生内敛的原因与我截然不同。
+- Let us hope that there is no one else quite like me.
+  译：但愿世上没有第二个像我这样的人。
+- My dear mother used to say that I would never have a comfortable home.
+  译：我亲爱的母亲常说，我这辈子不会有一个舒适的家。
+- And only last summer I proved myself perfectly unworthy of one.
+  译：而就在去年夏天，我彻底证明了自己配不上一个安稳的家。
+
+B1-10 | character_refs: ["C2"] | scene_refs: [] | 预估格数: 3
+- Well, enjoying a month of fine weather at the seacoast, I met a fascinating young lady and fell in love with her.
+  译：那时，我在海滨享受一个月的好天气，遇见了一位迷人的年轻女子，并爱上了她。
+- I never told her that I loved her, but I suppose she guessed it from the way I looked at her.
+  译：我从未告诉她我爱她，但我猜她从我望她的眼神中猜到了。
+- She began to look lovingly at me.
+  译：她开始用深情的目光看着我。
+- And what did I do?
+  译：而我做了什么？
+- I confess with shame that I became cold and distant.
+  译：我惭愧地承认，我变得冷淡而疏远。
+- I retired into my shell like a snail.
+  译：我像蜗牛一样缩回了自己的壳里。
+
+B1-11 | character_refs: ["C2"] | scene_refs: [] | 预估格数: 2
+- The young lady thought that she had made a terrible mistake.
+  译：那位年轻女子以为自己犯了一个可怕的错误。
+- She was confused and embarrassed, so she left the place immediately.
+  译：她感到困惑和难堪，于是立即离开了那个地方。
+- Behavior such as this has given me a reputation for heartlessness, but I am not heartless.
+  译：这样的行为让我落了个冷漠无情的名声，但我并非无情。
+
+B1-12 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- I took a seat by Mr. Heathcliff's fireplace.
+  译：我在希斯克利夫先生的壁炉旁坐下。
+- He sat opposite me.
+  译：他坐在我对面。
+- I tried to stroke the hunting dog, but she growled at me.
+  译：我试着去抚摸那只猎犬，但她朝我低声咆哮。

@@ -1,0 +1,43 @@
+B3-13 | character_refs: ["C2"] | scene_refs: ["S3"] | 预估格数: 2
+- I began to feel sleepy once more, and my eye wandered from manuscript to print.
+  译：我再次感到困倦，目光从手写字迹漫游到印刷文字。
+- At the top of the page it said "Seventy times seven, and the first of the seventy-first.
+  译：页面顶端写着："七十个七次，加上第七十一次的第一次。
+- A pious discourse by the Reverend J. B. S. Branderham."
+  译：贾比兹·布兰德勒汉姆牧师的虔诚讲道。"
+- I must have fallen asleep then.
+  译：那时我一定是睡着了。
+- What can explain the terrible dream I had?
+  译：如何解释我做的那个可怕的梦？
+- It must have been the result of poor digestion or bad temper.
+  译：那一定是消化不良或心情不好惹的祸。
+
+B3-14 | character_refs: ["C2", "C8"] | scene_refs: ["S9"] | 预估格数: 2
+- I dreamt that it was morning and I was going home through the snow with Joseph as my guide.
+  译：我梦见那是早晨，我在约瑟夫的引领下踏雪回家。
+- He kept telling me that I should have brought a pilgrim's staff, that I would never get into the house without one.
+  译：他一直告诉我应该带根朝圣者的手杖，没有它我就进不了屋子。
+- He waved his thick walking stick at me proudly, and so I understood that was what he meant by pilgrim's staff.
+  译：他骄傲地向我挥舞他那根粗手杖，于是我明白了他所说的朝圣者手杖就是这个。
+
+B3-15 | character_refs: ["C2", "C8"] | scene_refs: ["S13"] | 预估格数: 2
+- At first I thought it absurd that I should need such a weapon to get into my own house, but then I realized that we were going to hear the famous J. B. S. Branderham preach a sermon on the seventy times seven.
+  译：起初我觉得荒唐，进自己家门还需要这样一件武器，但随后我意识到我们是要去听那位大名鼎鼎的J.B.S.布兰德勒汉姆布道，主题正是"七十个七次"。
+- We came to the chapel.
+  译：我们来到了礼拜堂。
+- I have passed it really in my walks.
+  译：我在散步时确实路过过那里。
+- It is a damp, gloomy, dilapidated place.
+  译：那是个潮湿、阴暗、破败的地方。
+
+B3-16 | character_refs: ["C2", "C16"] | scene_refs: ["S13"] | 预估格数: 2
+- However, in my dream Jabez preached.
+  译：然而在梦中，贾比兹开始布道。
+- Good God, what a sermon.
+  译：天哪，那是怎样的一场布道啊。
+- It was divided into four hundred and ninety parts, each as long as a normal sermon, and each discussing a different sin.
+  译：布道被分成了四百九十个部分，每部分都和一场普通布道一样长，每个部分讨论一种不同的罪孽。
+- Some of these were sins I had never thought about before.
+  译：其中有些罪孽是我从未想过的。
+- In my dream, I was terribly tired and bored by the sermon.
+  译：在梦中，我被这场布道弄得疲惫不堪、昏昏欲睡。

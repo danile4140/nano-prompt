@@ -1,0 +1,7 @@
+B1-13 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: 1
+- I want to tell the reader that the two gentlemen had made a bet several days before.
+  译：我要告诉读者，这两位绅士几天前打了一个赌。
+- I knew nothing about the bet until later.
+  译：当时我对这个赌注一无所知，后来才了解到真相。
+- Let me tell you what happened.
+  译：且听我慢慢道来。

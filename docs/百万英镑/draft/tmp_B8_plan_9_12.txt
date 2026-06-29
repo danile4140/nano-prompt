@@ -1,0 +1,49 @@
+B8-9 | character_refs: ["C2", "C3"] | scene_refs: ["S11"] | 预估格数: 2
+- Now what do you say, abel
+  译：亚伯，你现在怎么说？
+- I say, he survived, and I lost twenty thousand pounds.
+  译：我说，他活下来了，我输了两万英镑。
+- I can't believe it.
+  译：我简直不敢相信。
+
+---
+
+B8-10 | character_refs: ["C1b", "C2", "C3"] | scene_refs: ["S11"] | 预估格数: 3
+- I have more to tell you I said.
+  译：我还有更多要告诉您们的，我说道。
+- But it's a long story.
+  译：但这是个很长的故事。
+- I'll tell you another time
+  译：我改天再告诉您们。
+- for now, look at this!
+  译：现在，请看这个！
+- What?
+  译：什么？
+- A certificate of deposit for two hundred thousand pounds!
+  译：一张二十万英镑的存款证明！
+
+---
+
+B8-11 | character_refs: ["C1b", "C2", "C3"] | scene_refs: ["S11"] | 预估格数: 3
+- Is it yours?
+  译：这是你的吗？
+- It's mine!
+  译：是我的！
+- I earned it by using the banknote you lent me for a month!
+  译：我用你们借给我的钞票一个月赚来的！
+- This is astonishing!
+  译：这太令人惊叹了！
+- I can't believe it!
+  译：我不敢相信！
+
+---
+
+B8-12 | character_refs: ["C1b", "C10"] | scene_refs: ["S11"] | 预估格数: 2
+- Portia looked at me with surprise and said,
+  译：波西亚惊讶地看着我，说道：
+- Henry, is that really your money?
+  译：亨利，那真的是你的钱吗？
+- You didn't tell me the truth
+  译：你没有告诉我实情。
+
+---

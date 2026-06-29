@@ -1,0 +1,33 @@
+B2-5 | character_refs: ["C2", "C5"] | scene_refs: ["S2"] | 预估格数: 2
+- The snow was falling thickly by this time.
+  译：此时雪已越下越密。
+- I tried to open the door, but it did not move.
+  译：我试着推门，门纹丝不动。
+- Then a young man with a pitchfork on his shoulder appeared in the yard.
+  译：这时庭院里出现了一个肩扛干草叉的年轻人。
+- He beckoned to me, and I followed him around the house to another door.
+  译：他向我招手，我跟着他绕过房屋来到另一扇门前。
+
+B2-6 | character_refs: ["C2", "C6b"] | scene_refs: ["S1"] | 预估格数: 1
+- Finally, I reached the huge, warm, cheerful sitting room.
+  译：终于，我走进了那间宽敞、温暖、热闹的客厅。
+- There was an immense fire in the fireplace, the table was laid for the evening meal, and near the table sat the mistress.
+  译：壁炉里燃着熊熊大火，桌上已摆好晚餐，女主人就坐在桌旁。
+
+B2-7 | character_refs: ["C2", "C6b", "C5"] | scene_refs: ["S1"] | 预估格数: 2
+- I bowed and waited, thinking she would ask me to sit down, but she just looked at me in silence.
+  译：我鞠了一躬等候着，以为她会请我坐下，她却只是默默地看着我。
+- "Rough weather," I remarked.
+  译：「天气真恶劣，」我评论道。
+- She did not reply.
+  译：她没有回答。
+- I stared at her and she at me.
+  译：我盯着她，她也盯着我。
+- I felt very uncomfortable.
+  译：我感到非常不自在。
+
+B2-8 | character_refs: ["C5", "C2"] | scene_refs: ["S1"] | 预估格数: 1
+- "Sit down," said the young man gruffly, "he'll be in soon."
+  译：「坐下，」那年轻人粗声粗气地说，「他马上就来。」
+- The female hunting dog, whose name was Juno, moved the tip of her tail as if to greet me.
+  译：那只名叫朱诺的雌猎犬轻轻摇了摇尾巴，似乎在欢迎我。

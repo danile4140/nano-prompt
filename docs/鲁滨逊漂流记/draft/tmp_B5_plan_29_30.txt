@@ -1,0 +1,21 @@
+B5-29 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 3
+- A hatchet.
+  译：一把斧头。
+- He gave it to me and said, kill me why must I kill you I asked in amazement.
+  译：他把斧头递给我说，杀了我吧。为什么我要杀你？我惊讶地问道。
+- Why do you want to send me away?
+  译：你为什么要把我赶走？
+- Do not send me away, it is better to kill me he spoke very sincerely and his eyes were full of tears.
+  译：不要赶我走，还不如杀了我。他说得非常诚恳，眼睛里充满了泪水。
+- I saw clearly that he loved me and would never leave me.
+  译：我清楚地看出他是真心爱我，永远不会离开我。
+- I told him that I would never send him away from me if he was willing to stay.
+  译：我告诉他，如果他愿意留下，我永远不会把他赶走。
+
+B5-30 | character_refs: ["C1", "C14b"] | scene_refs: ["S19"] | 预估格数: 2
+- We started building a boat large enough for the two of us and all our goods.
+  译：我们开始建造一艘足够容纳我们两人和所有物品的大船。
+- The rainy season came before we finished the boat.
+  译：雨季来临时，船还没造完。
+- Therefore, we brought it into the river to keep it safe until the weather was calm.
+  译：于是我们把船拖入河中保存，等待天气平静下来。

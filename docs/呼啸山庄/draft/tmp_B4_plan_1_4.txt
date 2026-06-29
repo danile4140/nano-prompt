@@ -1,0 +1,25 @@
+B4-1 | character_refs: ["C1", "C2"] | scene_refs: ["S9"] | 预估格数: 2
+- Four. The next morning, Heathcliff walked with me to the gate of Thrushcross Grange.
+  译：第二天早上，希斯克利夫陪我走到了画眉田庄的大门口。
+- From there it was only two miles to the house, but I managed to get lost among the trees, and more than once I fell in the snow.
+  译：从那里到庄园只有两英里，但我却在树林中迷了路，还不止一次地摔倒在雪地里。
+
+B4-2 | character_refs: ["C2", "C7"] | scene_refs: ["S12"] | 预估格数: 2
+- When finally I reached the house, I was cold and wet.
+  译：当我终于到达庄园时，又冷又湿。
+- My housekeeper, Mrs. Dean, met me at the door and told me that dry clothes and a fire were awaiting me in my room.
+  译：我的管家迪恩太太在门口迎接我，告诉我换洗衣物和火炉都已在房间里等着我了。
+
+B4-3 | character_refs: ["C2"] | scene_refs: ["S8"] | 预估格数: 1
+- All that day I stayed in my room alone, and I confess I felt rather lonely, even though I had deliberately chosen the place for its solitude.
+  译：整整一天我独自待在房间里，我承认我感到相当孤独，尽管我选择这个地方本就是为了清静。
+- When Mrs. Dean brought me my supper, I asked her to keep me company while I ate it.
+  译：当迪恩太太送来晚餐时，我请她陪我一起坐着。
+- I sincerely hope that she was a talkative woman.
+  译：我真心希望她是个健谈的女人。
+
+B4-4 | character_refs: ["C2", "C7"] | scene_refs: ["S8"] | 预估格数: 2
+- "How long have you lived at Thrushcross Grange, Mrs. Dean?"
+  译：「迪恩太太，您在画眉田庄住了多久了？」
+- "Eighteen years, sir. Came when the mistress married."
+  译：「十八年了，先生。是女主人结婚的时候来的。」

@@ -1,0 +1,39 @@
+B9-1 | character_refs: ["C2", "C1"] | scene_refs: ["S7"] | 预估格数: 2
+- I was very ill for four weeks.
+  译：我病了整整四个星期。
+- The first day that I was strong enough to see anybody, Mr. Heathcliff came with gifts of meat and wine.
+  译：第一天我终于有力气见人，希斯克利夫先生便带着肉食和葡萄酒前来探望。
+- He sat by my bedside for an hour and talked to me.
+  译：他在我床边坐了一个小时，与我交谈。
+
+B9-2 | character_refs: ["C2"] | scene_refs: ["S7"] | 预估格数: 1
+- I wanted to say to him, "Scoundrel.
+  译：我心里想对他说："无赖！
+- This is all your fault!
+  译：这全都是你的错！
+- If I had not passed that terrible night at your house, I would never have got ill like this."
+  译：若不是在你那宅子里度过了那可怕的一夜，我决不会病成这样。"
+- But I said nothing.
+  译：但我什么也没说。
+- I was grateful for his company.
+  译：我感激他的陪伴。
+
+B9-3 | character_refs: ["C2", "C7"] | scene_refs: ["S7"] | 预估格数: 2
+- I am feeling much better today.
+  译：我今天感觉好多了。
+- I think I will ask Mrs. Dean to come and sit by my bedside and finish her tale.
+  译：我想请迪恩太太来坐在床边，把她的故事讲完。
+- Miss Dean came.
+  译：迪恩小姐来了。
+- "Please continue with your story, Miss Dean," said I.
+  译："请继续讲您的故事，迪恩小姐，"我说。
+
+B9-4 | character_refs: ["C2", "C7"] | scene_refs: ["S7"] | 预估格数: 1
+- "This Cathy was engaged to Edgar Linton.
+  译："这个凯西已与埃德加·林顿订婚了。
+- Heathcliff had run away.
+  译：希斯克利夫已经逃走了。
+- What happened then?"
+  译：然后发生了什么？"
+- Mrs. Dean brought out her sewing and continued her narrative.
+  译：迪恩太太拿出她的针线活，继续讲述。

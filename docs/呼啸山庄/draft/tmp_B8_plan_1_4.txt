@@ -1,0 +1,33 @@
+B8-1 | character_refs: ["C4", "C7", "C5"] | scene_refs: ["S1"] | 预估格数: 2
+- Edgar had left by the time Hindley came in, drunk and swearing at the top of his voice.
+  译：埃德加离开后，辛德利醉醺醺地闯进来，大声咒骂。
+- I put Hareton in the kitchen cupboard to keep him safe from his father.
+  译：我把哈顿藏进厨房橱柜，让他远离父亲的魔爪。
+- The poor little thing remained perfectly quiet wherever I chose to put him.
+  译：可怜的小东西，无论我把他放到哪里，都乖乖保持沉默。
+
+B8-2 | character_refs: ["C4", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- "Where's my son?" shouted Hindley, grabbing me by the back of the neck as if I were a dog.
+  译："我儿子在哪里？"辛德利大吼，像拎狗一样抓住我的后颈。
+- "I'll kill you, Nelly, if you don't tell me where he is.
+  译："你要是不说他在哪儿，我就杀了你，内莉。
+- I'll stick this carving knife down your throat."
+  译：我要把这把切肉刀插进你的喉咙。"
+
+B8-3 | character_refs: ["C4", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- "I don't like the carving knife, Mr. Hindley," said I.
+  译："我不喜欢那把切肉刀，辛德利先生，"我说。
+- "I have been cutting fish with it, and it smells.
+  译："我一直用它切鱼，上面有腥味。
+- I prefer to be shot. Please."
+  译：我宁愿被枪毙。求你了。"
+- "You prefer to be damned? Open your mouth."
+  译："你宁愿下地狱？把嘴张开。"
+
+B8-4 | character_refs: ["C4", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- He pushed the point of the knife between my teeth.
+  译：他把刀尖捅进我的齿缝之间。
+- I spat it out and said it tasted awful.
+  译：我把刀吐出来，说味道极其难闻。
+- Just then I saw Hareton standing at the door, crying pitifully.
+  译：就在这时，我看见哈顿站在门口，哭得可怜兮兮的。

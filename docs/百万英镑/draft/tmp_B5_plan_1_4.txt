@@ -1,0 +1,29 @@
+B5-1 | character_refs: ["C1b"] | scene_refs: ["S2"] | 预估格数: 2
+- The impossible happened.
+  译：不可能的事发生了。
+- I bought everything I wanted without money.
+  译：我没有花一分钱，却买到了我想要的一切。
+- I showed my bank note and asked for change, but every time the same thing happened: no one was able to change it.
+  译：我拿出钞票请人找零，但每次都是同一结果：没有人能找得开。
+- I bought all that I needed and all the luxuries that I wanted.
+  译：我买下了所有必需品，以及我想要的所有奢侈品。
+
+B5-2 | character_refs: ["C1b"] | scene_refs: ["S9", "S4"] | 预估格数: 2
+- I stayed at an expensive hotel in hanover square.
+  译：我住在汉诺威广场的一家昂贵酒店里。
+- I always had dinner at the hotel, but I preferred having breakfast at Harris's simple eating place.
+  译：晚餐我总在酒店用，但早餐我更喜欢去哈里斯的简朴小餐馆。
+
+B5-3 | character_refs: ["C1b", "C6"] | scene_refs: ["S4"] | 预估格数: 2
+- Harris was the first place where I had a good meal with my million pound note.
+  译：哈里斯的餐馆是我第一次用那张百万英镑钞票吃上一顿饱饭的地方。
+- That's where it all started.
+  译：一切都从那里开始。
+- The news about me and my banknote was all over London.
+  译：关于我和那张钞票的消息传遍了伦敦。
+
+B5-4 | character_refs: ["C6"] | scene_refs: ["S4"] | 预估格数: 1
+- Harris eating place became famous because I had breakfast there.
+  译：哈里斯餐馆因为我在那里吃早饭而声名大噪。
+- Harris was happy with all his new customers.
+  译：哈里斯对蜂拥而至的新顾客感到十分高兴。

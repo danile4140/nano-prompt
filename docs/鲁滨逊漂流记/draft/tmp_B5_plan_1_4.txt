@@ -1,0 +1,35 @@
+B5-1 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 2
+- Friday learned to speak quickly.
+  译：星期五学说话学得很快。
+- He was very pleased when he understood me or could make me understand him.
+  译：每当他听懂我说的话，或者让我听懂他的意思，他就非常高兴。
+- It was good to talk to him now.
+  译：现在和他交谈感觉真好。
+- My life was easy.
+  译：我的生活变得轻松了。
+
+B5-2 | character_refs: ["C1", "C14b"] | scene_refs: ["S17"] | 预估格数: 3
+- I took Friday out with me to shoot a goat.
+  译：我带着星期五出去猎山羊。
+- When I fired my gun, Friday trembled and tore open his jacket to see if he was wounded.
+  译：当我开枪时，星期五吓得浑身发抖，撕开自己的上衣查看是否中弹。
+- He knelt on the ground and said many things I did not understand.
+  译：他跪倒在地，说了许多我听不懂的话。
+- I think he was begging me not to kill him.
+  译：我想他是在求我不要杀他。
+
+B5-3 | character_refs: ["C1", "C14b"] | scene_refs: ["S17"] | 预估格数: 2
+- I took him by hand and laughed at him, then pointed it to the goat I had shot.
+  译：我拉起他的手，笑着指向我打中的那只山羊。
+- He was amazed.
+  译：他惊呆了。
+- I believe that if I had let him, he would have worshipped me and my gun for days afterwards.
+  译：我相信如果我允许的话，他会连续好几天崇拜我和我的枪。
+
+B5-4 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 2
+- He would not touch the gun, but he often spoke to it, begging it not to kill him that night, I roasted some meat and gave it to Friday.
+  译：他不敢碰那把枪，却常常对着枪说话求它不要杀他；那天晚上，我烤了些肉给星期五吃。
+- He enjoyed it so much that he told me he would never again eat man's flesh.
+  译：他吃得非常开心，告诉我他再也不吃人肉了。
+- I was very glad to hear that.
+  译：听到这话我非常高兴。

@@ -1,0 +1,43 @@
+B10-21 | character_refs: ["C3b", "C1"] | scene_refs: ["S5"] | 预估格数: 2
+- When the door had closed behind Isabella, "But you were not speaking the truth, were you?"
+  译：当伊莎贝拉的身影随着门关上而消失时，"但你刚才说的不是真话，对吧？"
+- "Indeed I was," said Catherine.
+  译："的确是真话，"凯瑟琳说。
+- "How strange!
+  译："真奇怪！
+- If I lived alone with that pale, insipid face, I would turn those blue eyes black before long, and pin her face the colors of the rainbow."
+  译：若我和那张苍白乏味的脸独处，用不了多久，我会把那双蓝眼睛打成黑的，把她的脸变成彩虹的颜色。"
+
+B10-22 | character_refs: ["C1", "C3b"] | scene_refs: ["S5"] | 预估格数: 2
+- He fell silent and looked thoughtful for a while, and then he said, "She is her brother's heir, is she not?"
+  译：他沉默下来，沉思了片刻，然后说道："她是她哥哥的继承人，不是吗？"
+- "Not for long!
+  译："不会太久的！
+- Soon I will have sons to be my husband's heirs!"
+  译：我很快就会有儿子成为我丈夫的继承人！"
+- "You covet your neighbor's goods too much, Heathcliff.
+  译："你太贪图邻人之物了，希斯克利夫。
+- Remember, this neighbor's goods are mine."
+  译：记住，这邻人的财产是我的。"
+
+B10-23 | character_refs: ["C7", "C1"] | scene_refs: ["S5"] | 预估格数: 2
+- From that day onwards, I watched Heathcliff closely.
+  译：从那天起，我开始密切留意希斯克利夫。
+- My heart was with my master's interests more than with Catherine's.
+  译：我的心更倾向于主人的利益，而非凯瑟琳的。
+- He was kind, trustful, and honorable.
+  译：他（埃德加）善良、信任人、品德高尚。
+- And she—she could not be called the opposite, yet she seemed to allow herself such wild latitude.
+  译：而她——她倒也算不上与此相反，却似乎给自己放了太多放纵的余地。
+- I had little faith in her principles and less sympathy for her feelings.
+  译：我对她的操守缺乏信心，对她的感情也缺乏同情。
+
+B10-24 | character_refs: ["C7", "C1", "C4"] | scene_refs: ["S1", "S5"] | 预估格数: 2
+- I wished that Heathcliff would go away again.
+  译：我希望希斯克利夫能再次离去。
+- His visits to the Grange were a continual nightmare to me, and, I suspected, to my master too.
+  译：他对田庄的拜访对我而言是一场持续不断的噩梦，我猜对主人也是如此。
+- I hated to think of Heathcliff living at Wuthering Heights.
+  译：我不愿去想希斯克利夫住在呼啸山庄的情形。
+- I felt that Hindley was like a stray sheep, forsaken by his good shepherd, and Heathcliff was like an evil beast prowling close by, awaiting the right moment to spring and destroy.
+  译：我觉得辛德利就像一只迷途的羔羊，被善牧者遗弃，而希斯克利夫就像一头恶兽在附近徘徊，等待时机纵身扑去，将其摧毁。

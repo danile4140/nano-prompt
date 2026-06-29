@@ -1,0 +1,37 @@
+B16-17 | character_refs: ["C6", "C7"] | scene_refs: ["S7"] | 预估格数: 2
+- I confronted Cathy and made her promise to write no more letters to her cousin.
+  译：我当面质问凯西，让她承诺不再给表兄写信。
+- I threatened to tell her father, and she promised that she would not write again.
+  译：我威胁说要告诉她父亲，她答应不再写了。
+- For some time after that she was very sad, and spent hours crying alone in her room.
+  译：此后一段时间她非常伤心，独自在房间里哭了好几个小时。
+
+B16-18 | character_refs: ["C6", "C7", "C10"] | scene_refs: ["S7"] | 预估格数: 2
+- Then a letter arrived for her from Heathcliff.
+  译：然后一封来自希斯克利夫的信寄到了。
+- In it he said that Linton had fallen ill because he was so unhappy that Catherine did not write to him any more.
+  译：信中说林顿已经生病了，因为凯瑟琳不再给他写信让他十分痛苦。
+- Heathcliff said that he was going away for a week.
+  译：希斯克利夫说他要离家一周。
+- Surely, he said, she would come and visit her cousin while he, Heathcliff, was away.
+  译：他说，趁他不在，她肯定会来探望她的表兄的。
+- It was winter then, and my master had been ill for some months.
+  译：那时是冬天，我的主人已经病了好几个月。
+- At first the doctor had said it was just a bad cold.
+  译：起初医生说只是重感冒。
+
+B16-19 | character_refs: ["C10", "C7"] | scene_refs: ["S7"] | 预估格数: 1
+- But then my master seemed to get weaker, and I feared that he would die in January.
+  译：但后来主人似乎越来越虚弱，我担心他会在一月里去世。
+- I too fell ill with a fever.
+  译：我自己也发烧病倒了。
+- Just about the time that Cathy received Heathcliff's letter, I thought that she must have been very lonely for those weeks when both her father and I were ill in our beds.
+  译：就在凯西收到希斯克利夫信件前后，我想她在父亲和我都病倒在床的那几周里一定非常孤独。
+
+B16-20 | character_refs: ["C6", "C7"] | scene_refs: ["S7"] | 预估格数: 2
+- Later, however, I discovered that she had not been entirely alone.
+  译：然而后来，我发现她并不是完全孤独的。
+- A few days after I felt better, I went to her room to see if she wanted something to eat, but she was not there.
+  译：在我好转后几天，我去她房间看她是否想吃点东西，但她不在那里。
+- I waited by her bedroom window and after another hour I saw her return from the moors on her pony.
+  译：我在她卧室窗边等着，又过了一个小时，我看见她骑着小马从沼地归来。

@@ -1,0 +1,41 @@
+B15-1 | character_refs: ["C6", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- The twelve years that followed that dismal period were the happiest in my life.
+  译：那段悲惨岁月之后的十二年，是我一生中最快乐的时光。
+- I took care of young Catherine and watched her grow.
+  译：我照料着小凯瑟琳，看着她慢慢长大。
+- She was such a little beauty that she seemed to bring sunshine into the house.
+  译：她是那样一个小美人，仿佛把阳光带进了整座宅子。
+
+B15-2 | character_refs: ["C6"] | scene_refs: ["S5"] | 预估格数: 2
+- Her eyes were dark like her mother's, but her skin was pale, and her hair was yellow and curling like the Lintons'.
+  译：她的眼睛像母亲一样深邃，但皮肤雪白，头发金黄卷曲，像林顿家的人。
+- She was lively but not rough, a very affectionate child, as her mother had been.
+  译：她活泼却不粗鲁，是个极为温情的孩子，正如她的母亲当年一样。
+- But not really like her mother.
+  译：但又和她母亲不完全相同。
+- Young Catherine could be soft and mild as a dove.
+  译：小凯瑟琳可以温柔如鸽。
+- She had a gentle voice and a pensive expression.
+  译：她声音轻柔，神情若有所思。
+
+B15-3 | character_refs: ["C6"] | scene_refs: ["S9"] | 预估格数: 2
+- Her anger was never furious, her love never fierce.
+  译：她的怒从不猛烈，她的爱也从不激烈。
+- For the first twelve years of her life she lived at Thrushcross Grange, hardly ever leaving the grounds.
+  译：她生命中最初的十二年都住在画眉田庄，几乎从不踏出庄园。
+- She knew nothing of Heathcliff and Wuthering Heights.
+  译：她对希斯克利夫和呼啸山庄一无所知。
+- Sometimes she looked at the hills beyond the park and asked me what they were like and whether I had been there.
+  译：她有时望着园外的山丘，问我那里是什么样子，我是否去过。
+- She wanted very much to go beyond the gates of the park and wander on those hills with her little horse.
+  译：她非常想越过园门，骑着小马在那些山丘上漫游。
+
+B15-4 | character_refs: ["C6", "C10", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- However, her father did not want her to know about Heathcliff and Wuthering Heights.
+  译：然而，她父亲不想让她知道希斯克利夫和呼啸山庄的事。
+- He told her she could go when she was older.
+  译：他告诉她等大些再去。
+- That year Isabella fell ill.
+  译：那年，伊莎贝拉病倒了。
+- She wrote to Edgar and asked him to come to her.
+  译：她写信给埃德加，请他来探望。

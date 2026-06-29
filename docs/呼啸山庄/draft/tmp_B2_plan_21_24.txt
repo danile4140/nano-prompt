@@ -1,0 +1,47 @@
+B2-21 | character_refs: ["C2", "C1", "C6b", "C5"] | scene_refs: ["S1"] | 预估格数: 2
+- I realized that I had made a mistake, and I tried to correct it.
+  译：我意识到自己说错了话，试图补救。
+- I should have seen that there was too great a difference of age between them.
+  译：我本该看出他们之间年龄差距太大。
+- He was about forty, she looked no more than seventeen.
+  译：他大约四十岁，而她看起来不超过十七岁。
+- At forty a man does not think that a girl would marry him for love.
+  译：四十岁的男人不会指望一个女孩因爱与他成婚。
+- That dream is the comfort of our old age.
+  译：那种梦想是我们晚年的慰藉。
+
+B2-22 | character_refs: ["C2", "C5", "C6b"] | scene_refs: ["S1"] | 预估格数: 2
+- I suddenly thought that the clown beside me, who was drinking his tea out of a bowl and eating with unwashed hands, might be her husband.
+  译：我忽然想到，坐在我身旁那个用碗喝茶、不洗手就吃东西的粗汉，也许就是她的丈夫。
+- He might be Heathcliff junior!
+  译：他可能是小希斯克利夫！
+- What a pity!
+  译：真是可惜！
+- She must have married him out of ignorance that better men existed.
+  译：她嫁给他，一定是因为不知道世上还有更好的男人。
+- I thought I must be careful not to make her regret her choice.
+  译：我想我得小心，别让她对自己的选择感到后悔。
+
+B2-23 | character_refs: ["C1", "C6b"] | scene_refs: ["S1"] | 预估格数: 2
+- The last reflection may seem conceited. It was not.
+  译：这最后一个念头也许显得自负，但并非如此。
+- The young man seemed to me almost repulsive.
+  译：那年轻人在我看来几乎令人生厌。
+- I knew through experience that I was quite attractive.
+  译：我凭经验知道自己相当具有魅力。
+- "Mrs. Heathcliff is my daughter-in-law," said Heathcliff.
+  译：「希斯克利夫太太是我的儿媳，」希斯克利夫说。
+- He looked at her with a peculiar expression on his face; he seemed to hate her.
+  译：他用一种奇特的表情看着她，仿佛对她充满了憎恨。
+
+B2-24 | character_refs: ["C2", "C5", "C1"] | scene_refs: ["S1"] | 预估格数: 3
+- "Ah, certainly, I see now. You are the happy husband of the amiable lady," I said, turning to the young man.
+  译：「啊，原来如此，我明白了。您就是那位可爱太太幸福的丈夫，」我转向那年轻人说道。
+- This was worse than before.
+  译：这比之前更糟糕。
+- The youth blushed a deep red and clenched his fist as though he were about to hit me.
+  译：那年轻人涨红了脸，攥紧拳头，仿佛要打我一拳。
+- "Neither of us is married to her. Her husband is dead," said Heathcliff.
+  译：「我们两个都没有娶她。她的丈夫已经死了，」希斯克利夫说。
+- "She was married to my son, and this young man is certainly not my son." Heathcliff smiled.
+  译：「她嫁的是我的儿子，而这个年轻人绝对不是我的儿子。」希斯克利夫微微一笑。

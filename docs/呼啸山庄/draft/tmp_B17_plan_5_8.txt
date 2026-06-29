@@ -1,0 +1,41 @@
+B17-5 | character_refs: ["C7"] | scene_refs: ["S1", "S5"] | 预估格数: 2
+- "What!" I cried.
+  译："什么！"我叫道。
+- "Is my master dying?" "The doctors say so," said Linton.
+  译："我的主人快死了？""医生是这么说的，"林顿说。
+- I thought it best to leave Wuthering Heights before Heathcliff returned.
+  译：我认为最好在希斯克利夫回来之前离开呼啸山庄。
+- Then I could send a group of men from the Grange to rescue my young lady.
+  译：然后我可以从田庄派一队人来解救我的年轻女主人。
+- When I arrived at Thrushcross Grange, I ran straight to my master's room.
+  译：当我到达画眉田庄时，我直接跑进了主人的房间。
+
+B17-6 | character_refs: ["C7", "C10"] | scene_refs: ["S7"] | 预估格数: 2
+- How changed he was!
+  译：他变化多大啊！
+- Even in those few days he was very pale and thin.
+  译：就在这短短几天里，他已经非常苍白消瘦了。
+- I told him that Heathcliff had forced us to stay at Wuthering Heights, and that Catherine was now married to Linton.
+  译：我告诉他，希斯克利夫强迫我们留在呼啸山庄，凯瑟琳现在已经嫁给了林顿。
+- I did not tell him the worst details, because I did not want to distress him more than necessary.
+  译：我没有告诉他最糟糕的细节，因为我不想让他过度悲痛。
+
+B17-7 | character_refs: ["C7", "C6b", "C10"] | scene_refs: ["S7"] | 预估格数: 2
+- That evening Catherine came to Thrushcross Grange.
+  译：那天傍晚，凯瑟琳来到了画眉田庄。
+- She had persuaded Linton to unlock her door and had run all the way from Wuthering Heights.
+  译：她说服林顿打开了她的房门，然后一路跑来自呼啸山庄。
+- By the time she arrived, however, her father was very weak indeed.
+  译：但等她到达时，她父亲已经非常虚弱了。
+- He gazed at her with loving eyes and said that he was going to join her mother.
+  译：他用充满爱意的眼神凝视着她，说他即将去和她的母亲相聚。
+
+B17-8 | character_refs: ["C7", "C10"] | scene_refs: ["S10"] | 预估格数: 2
+- He died peacefully a few hours later.
+  译：几小时后，他安详地去世了。
+- The next day my master was buried beside his wife in the churchyard on the moor.
+  译：第二天，我的主人被安葬在荒野教堂墓地里，紧靠他妻子的墓旁。
+- The following evening Heathcliff came to Thrushcross Grange.
+  译：第二天傍晚，希斯克利夫来到了画眉田庄。
+- He walked in without knocking at the door.
+  译：他不敲门就走了进来。

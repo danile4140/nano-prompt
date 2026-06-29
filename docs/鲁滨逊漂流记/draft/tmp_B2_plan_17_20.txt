@@ -1,0 +1,35 @@
+B2-17 | character_refs: ["C1"] | scene_refs: ["S8"] | 预估格数: 1
+- I will leave you here.
+  译：我要把你留在这里。
+- You are a creature whose life is not worth saving however, on second thoughts, I took it away.
+  译：你是个不值得拯救的东西——不过，再想想，我还是把它带走了。
+
+（注：B2-16与B2-17拆分依据：B2-16为"发现钱并嘲弄其无用"，B2-17为"决定留下→反转带走"，存在触发-转折因果链，符合必拆条件B。）
+
+B2-18 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- Then clouds covered the sky and the wind began to blow.
+  译：随后乌云遮天，狂风大作。
+- I went home to my tent where I lay with all my wealth around me, very secure.
+  译：我回到帐篷，带着我所有的财物躺下，感到十分安全。
+- There was a bad storm that night.
+  译：那夜有一场猛烈的暴风雨。
+
+B2-19 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: 2
+- In the morning the ship was gone.
+  译：清晨，那艘船消失了。
+- I now began to think about protecting myself from savages and wild animals.
+  译：我开始思考如何保护自己免受野蛮人和野兽的袭击。
+
+B2-20 | character_refs: ["C1"] | scene_refs: ["S7", "S10"] | 预估格数: 2
+- I wanted to build my house in a place that was near a fresh water supply.
+  译：我想把房子建在靠近淡水水源的地方。
+- It should be sheltered from the sun, it should be safe from attack.
+  译：它应该能遮阳，应该能防御袭击。
+- Finally, it should face the sea.
+  译：最后，它应该面朝大海。
+- So that I could see any ship that came near the island.
+  译：这样我就能看见任何靠近岛屿的船只。
+- I still hoped to be rescued.
+  译：我仍然希望能获救。
+
+（四维度扫描：①视觉焦点始终为鲁滨逊的心理规划；②无时间跳跃；③空间在同一场景内思考；④情绪基调为持续的求生规划，无反转。总句数5句，已扫描4对相邻句，四维度均无切换，保留。）

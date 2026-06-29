@@ -1,0 +1,35 @@
+B15-5 | character_refs: ["C10", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- She said that she was going to die and she wished to arrange everything for her son Linton.
+  译：她说自己快死了，希望为儿子林顿安排好一切。
+- She asked Edgar to take her son to live with us at Thrushcross Grange after she was dead.
+  译：她请求埃德加在她死后将儿子接到画眉田庄来住。
+- Edgar went to see her as soon as he received this letter.
+  译：埃德加收到信后立即动身前往探望。
+- He told me to take good care of Catherine while he was gone and to make sure she did not leave the grounds of Thrushcross Grange.
+  译：他嘱咐我趁他不在好好照看凯瑟琳，务必让她待在庄园内。
+- He was gone for three weeks.
+  译：他一去便是三个星期。
+
+B15-6 | character_refs: ["C6", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- At first Catherine played in the house, but then she got bored and asked if she could ride around the park on her pony.
+  译：起初凯瑟琳在屋里玩耍，后来觉得无聊，便请求骑小马绕园子转。
+- I let her go, and for several days she enjoyed herself wandering around the extensive grounds of Thrushcross Grange.
+  译：我答应了她，接下来好几天她都在广阔的庄园里自在漫游，玩得十分开心。
+
+B15-7 | character_refs: ["C7"] | scene_refs: ["S5"] | 预估格数: 2
+- One day, however, she was not back by tea time.
+  译：然而有一天，到了下午茶时分她仍未回来。
+- I sent the servants to look for her, but she was nowhere to be found.
+  译：我派仆人去寻她，却遍寻不着。
+- In panic, I went to look for her myself.
+  译：我慌了神，亲自出去寻找。
+- Clearly she had left the park.
+  译：显然她已经离开了园子。
+
+B15-8 | character_refs: ["C7"] | scene_refs: ["S9"] | 预估格数: 1
+- I remembered her questions about the hills and felt sure she had gone there.
+  译：我想起她曾问起山丘的事，断定她一定去了那里。
+- So I walked out of the park, across the moor and up the hill as quickly as I could.
+  译：于是我快步走出园门，穿过沼地，爬上山丘。
+- When I came to Wuthering Heights, I saw a woman in the yard.
+  译：当我来到呼啸山庄时，看见院子里站着一个女人。

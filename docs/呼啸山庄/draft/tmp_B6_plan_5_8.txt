@@ -1,0 +1,35 @@
+B6-5 | character_refs: ["C1", "C3b"] | scene_refs: ["S1"] | 预估格数: 2
+- "How very black and angry you look," she said, "and funny and grim!"
+  译："你看起来多么黑、多么生气，"她说，"又滑稽又严肃！"
+- "That's because I'm used to looking at Edgar and Isabella Linton."
+  译："那是因为我习惯看埃德加和伊莎贝拉·林顿了。"
+- "Well, Heathcliff, have you forgotten me?"
+  译："好了，希斯克利夫，你忘了我吗？"
+- Shame and pride had made him gloomy and unresponsive.
+  译：羞耻与自尊使他沉默阴郁、不作回应。
+
+B6-6 | character_refs: ["C1", "C3b", "C4"] | scene_refs: ["S1"] | 预估格数: 3
+- "Go on, Heathcliff," said Hindley, condescendingly, "you are allowed to shake her hand."
+  译："去啊，希斯克利夫，"辛德利居高临下地说，"你可以和她握手。"
+- "I will not!" cried Heathcliff at last.
+  译："我不！"希斯克利夫终于喊道。
+- "I will not be laughed at."
+  译："我不要被人嘲笑。"
+
+B6-7 | character_refs: ["C1", "C3b"] | scene_refs: ["S1"] | 预估格数: 2
+- "I did not mean to laugh at you, Heathcliff," said Cathy.
+  译："我不是有意要嘲笑你，希斯克利夫，"凯茜说。
+- "It was only that you looked strange. If you wash your face and brush your hair, you will be all right, but you are so dirty."
+  译："只是你看起来很奇怪。你要是洗洗脸、梳梳头，就会好多了，但你太脏了。"
+- "I like to be dirty!" cried Heathcliff, and he left the room.
+  译："我就喜欢脏！"希斯克利夫喊道，随即离开了房间。
+
+B6-8 | character_refs: ["C1", "C3b", "C4", "C9"] | scene_refs: ["S1"] | 预估格数: 2
+- Hindley and Frances were very amused by this scene, but Cathy was deeply disturbed by it.
+  译：辛德利和弗朗西丝对这一幕觉得非常好笑，但凯茜却深感不安。
+- She did not know what she had said to upset him so.
+  译：她不知道自己说了什么话让他如此难过。
+- Hindley and Frances took Cathy off to the drawing room to show her the presents they had bought for the young Lintons.
+  译：辛德利和弗朗西丝把凯茜带去客厅，给她看他们为林顿家孩子们买的礼物。
+- Edgar and Isabella had been invited to Wuthering Heights the following morning, and their mother had agreed that they could come on condition they were kept away from that gypsy boy.
+  译：埃德加和伊莎贝拉被邀请第二天早上来呼啸山庄，他们的母亲同意了，但条件是要让他们远离那个吉普赛男孩。

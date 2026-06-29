@@ -1,0 +1,33 @@
+B9-5 | character_refs: ["C3", "C1"] | scene_refs: ["S9"] | 预估格数: 2
+- "That night Miss Catherine spent many hours walking in the rain on the moors looking for Heathcliff.
+  译："那天夜里，凯瑟琳小姐在雨中的荒野上徘徊了数个小时，四处寻找希斯克利夫。
+- She never found him.
+  译：她始终没有找到他。
+- And when she came home, she was shivering with a fever.
+  译：当她回到家时，已浑身发抖，高烧不退。
+
+B9-6 | character_refs: ["C3", "C10", "C11"] | scene_refs: ["S5"] | 预估格数: 2
+- When Mr. and Mrs. Linton heard of her illness, they very kindly invited her to stay with them until she was healthy again.
+  译：当林顿先生和夫人听说她病了，便非常好心地邀请她住在他们那里，直到她康复。
+- Unfortunately, both Mr. and Mrs. Linton caught a fever from her, and both died shortly afterwards.
+  译：不幸的是，林顿先生和夫人都被她传染了发烧，不久后相继去世。
+
+B9-7 | character_refs: ["C3b", "C7", "C10"] | scene_refs: ["S5"] | 预估格数: 2
+- Miss Catherine married Edgar Linton, and she and I moved to Thrushcross Grange.
+  译：凯瑟琳小姐嫁给了埃德加·林顿，我和她一起搬到了画眉田庄。
+- To my surprise, she behaved well there.
+  译：出乎我的意料，她在那里表现得很好。
+- She seemed to love Mr. Linton almost too much and was very affectionate to his sister.
+  译：她似乎对林顿先生爱得过于深沉，对他的妹妹也十分亲切体贴。
+- They did all they could to make her happy.
+  译：他们竭尽所能让她开心。
+
+B9-8 | character_refs: ["C7", "C10", "C3b"] | scene_refs: ["S5"] | 预估格数: 2
+- I noticed that Mr. Linton was very much afraid of her anger.
+  译：我注意到林顿先生非常害怕她发怒。
+- He talked to me once when I had given a sharp answer to one of her imperious orders.
+  译：有一次我对她某个专横的命令作了生硬的回答，他便来找我谈话。
+- 'Nelly, for my sake, do not anger her.
+  译："内莉，看在我的份上，别惹她生气。
+- Nothing hurts me so much as to see her displeased.'
+  译：没有什么比看到她不高兴更让我痛苦的了。"

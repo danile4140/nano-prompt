@@ -1,0 +1,45 @@
+B13-17 | character_refs: ["C1", "C7", "C10"] | scene_refs: ["S7"] | 预估格数: 3
+- Just then I saw the servants and my master returning from church.
+  译：就在此时，我看见仆人们和主人从教堂归来。
+- "You must go, Mr. Heathcliff," I cried.
+  译："您必须离开，希斯克利夫先生，"我喊道。
+- "He will be here in a minute."
+  译："他马上就到了。"
+- "Catherine, I must go," said Heathcliff, trying to extricate himself from her embrace.
+  译："凯瑟琳，我必须走了，"希斯克利夫说，试图从她的拥抱中挣脱。
+- "No, you must not go," she replied, holding him tightly.
+  译："不，你不能走，"她回答，紧紧抱住他。
+- "Don't go! This is the last time – I shall die."
+  译："不要走！这是最后一次了——我要死了。"
+
+B13-18 | character_refs: ["C1", "C7", "C10"] | scene_refs: ["S7"] | 预估格数: 2
+- Heathcliff sat down again and stroked her hair, whispering, "Hush, my darling, I'll stay. Don't worry."
+  译：希斯克利夫重新坐下，抚摸着她的头发，低声说："嘘，我的爱，我留下。别担心。"
+- But she was limp in his arms and her eyes were shut.
+  译：但她软软地倒在他怀里，双眼紧闭。
+- I thought she had either fainted or died.
+  译：我以为她不是晕厥就是已经死了。
+- It would be better, I thought, if she had died.
+  译：我心想，若是已经死了，反倒是一种解脱。
+
+B13-19 | character_refs: ["C1", "C7", "C10"] | scene_refs: ["S7"] | 预估格数: 3
+- I heard my master coming up the stairs.
+  译：我听见主人上楼的脚步声。
+- There was cold sweat on my forehead.
+  译：我额头上渗出了冷汗。
+- I was horrified.
+  译：我惊骇不已。
+- When he saw Heathcliff, Edgar went white with rage, but Heathcliff stood and said, "Take care of her first. You can talk to me later."
+  译：当埃德加看见希斯克利夫时，他气得脸色煞白，但希斯克利夫站起来说："先照顾她。之后你再找我说话。"
+- And he left the house.
+  译：然后他离开了宅子。
+
+B13-20 | character_refs: ["C7", "C10"] | scene_refs: ["S7"] | 预估格数: 2
+- At midnight that night, the Catherine you saw at Wuthering Heights was born.
+  译：当天午夜，你在呼啸山庄见到的那个凯瑟琳出生了。
+- Two hours later, her mother died.
+  译：两小时后，她的母亲去世了。
+- Linton's grief was too painful to describe.
+  译：林顿的悲痛难以言表。
+- I believe it was made even worse by the fact that he had no heir.
+  译：我相信，他没有继承人这一事实使他的悲痛更加深重。

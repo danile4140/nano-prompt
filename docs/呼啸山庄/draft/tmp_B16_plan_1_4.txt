@@ -1,0 +1,37 @@
+B16-1 | character_refs: ["C6", "C7"] | scene_refs: ["S9"] | 预估格数: 1
+- So the cousins grew up separately: Cathy at the Grange and Linton at the Heights.
+  译：两个表兄妹各自成长：凯西在画眉田庄，林顿在呼啸山庄。
+- And they never saw each other, though she asked about him often.
+  译：他们从未见面，尽管她常常打听他的消息。
+- One day, when Cathy was sixteen years old, she asked her father if she could go walking on the moors with me.
+  译：一天，凯西十六岁时，她请求父亲让她和我一起去沼地散步。
+
+B16-2 | character_refs: ["C6", "C7"] | scene_refs: ["S9"] | 预估格数: 2
+- He said that she could, but that we must not go far.
+  译：他说可以，但我们不能走远。
+- Cathy ran ahead of me as soon as we were beyond the park gate.
+  译：我们刚过了公园大门，凯西便跑到我前面去了。
+- "Miss Cathy, slow down!" I cried.
+  译："凯西小姐，慢下来！"我喊道。
+- But it was no use.
+  译：但毫无用处。
+
+B16-3 | character_refs: ["C6", "C7"] | scene_refs: ["S9"] | 预估格数: 2
+- She ran laughing, and I had to run after her.
+  译：她笑着跑开，我只得追在后面。
+- "Miss Cathy, that's far enough.
+  译："凯西小姐，够远了。
+- We must turn back home now," I cried when I saw that she was going too far and in the direction of Wuthering Heights.
+  译：我们必须现在回家了，"当我看到她走得太远、方向朝着呼啸山庄时，我喊道。
+- "Oh, just let's go a little further, Nelly," she called back to me, and she continued to run.
+  译："哦，让我们再走远一点吧，内莉，"她回头喊着，继续跑去。
+
+B16-4 | character_refs: ["C6", "C7", "C1"] | scene_refs: ["S9"] | 预估格数: 2
+- When I got to the top of the next hill, I saw her far below me talking to someone.
+  译：当我爬上下一个山顶，看见她在山下远处正与某人说话。
+- We were now on the edge of Heathcliff's property, and I recognized the tall figure by her as Heathcliff.
+  译：我们已到了希斯克利夫地产的边界，我认出站在她身旁的高大身影正是希斯克利夫。
+- "Miss Cathy, come away!
+  译："凯西小姐，快离开！
+- Go back now!" I cried, but she ignored me, and I had to run down the hill after her.
+  译：快回去！"我喊道，但她不理我，我只得追着她跑下山坡。

@@ -1,0 +1,41 @@
+B17-17 | character_refs: ["C1", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- "You are very wicked, Mr. Heathcliff," I cried.
+  译："你真的很邪恶，希斯克利夫先生，"我叫道。
+- "Were you not ashamed to disturb the dead?"
+  译："你难道不为打扰死者而感到羞耻吗？"
+- "I have not disturbed her.
+  译："我没有打扰她。
+- She disturbs me.
+  译：她才是打扰我的人。
+- I have a strange faith in ghosts.
+  译：我对鬼魂有一种奇异的信念。
+- I am convinced that they can and do exist among us.
+  译：我相信他们能够并且确实存在于我们之间。
+
+B17-18 | character_refs: ["C1", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- Every night for eighteen years she has disturbed me, until last night.
+  译：十八年来，每个夜晚她都来打扰我，直到昨晚。
+- Last night I dreamed that I was tranquil, lying dead beside her with my cheek frozen against hers.
+  译：昨晚我梦到自己平静地死在她身旁，脸颊贴着她冰冷的脸颊。
+- The first time she came to me was the night after she was buried.
+  译：她第一次来找我是在她下葬的那个夜晚。
+- I went to the graveyard.
+  译：我去了墓地。
+
+B17-19 | character_refs: ["C1", "C7"] | scene_refs: ["S10"] | 预估格数: 2
+- It was snowing.
+  译：那时正在下雪。
+- I dug down to her coffin in a rage, filled with the desire to have her in my arms again.
+  译：我愤怒地挖下去，直到触到她的棺木，满心渴望再次把她揽入怀中。
+- But just as I was pulling at that coffin lid, I heard a sigh from the edge of the grave, and I knew that her spirit was there.
+  译：就在我拉着那棺盖的时候，我听到了从墓穴边缘传来的一声叹息，我知道她的灵魂就在那里。
+
+B17-20 | character_refs: ["C1", "C7"] | scene_refs: ["S10"] | 预估格数: 2
+- Not below me, but on the earth.
+  译：不是在我下方，而是在地面上。
+- I felt consoled at once and I stopped tearing at the coffin lid.
+  译：我立刻感到了安慰，停止了撕扯棺盖。
+- I climbed out of the grave and filled it in with the earth.
+  译：我从墓穴里爬出来，把土重新填了回去。
+- Since then I have often felt her presence, but I have never seen her.
+  译：从那以后，我经常感受到她的存在，但从未见过她。

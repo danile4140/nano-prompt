@@ -1,0 +1,37 @@
+B9-21 | character_refs: ["C3b", "C1", "C10"] | scene_refs: ["S5"] | 预估格数: 1
+- They were too absorbed in their own pleasure to think of anyone else.
+  译：他们沉浸在彼此的喜悦中，无暇顾及他人。
+- Edgar watched them with a pale face.
+  译：埃德加面色苍白地注视着他们。
+
+B9-22 | character_refs: ["C3b", "C1"] | scene_refs: ["S5"] | 预估格数: 2
+- At one point, Cathy jumped up and grasped Heathcliff's hands, laughing.
+  译：某一刻，凯西猛地站起来，笑着抓住了希斯克利夫的双手。
+- 'I shall think it is a dream tomorrow,' she said.
+  译："明天我一定会以为这是一场梦，"她说。
+- 'I can't believe I have seen, touched, and spoken to you once more.
+  译："我简直不敢相信我又一次见到你、触碰你、与你说话了。
+- And yet, cruel Heathcliff, you don't deserve this welcome.
+  译：然而，残忍的希斯克利夫，你并不值得这样的欢迎。
+- You stayed away three years and never thought of me.'
+  译：你离开了三年，从未想过我。"
+
+B9-23 | character_refs: ["C1", "C3b"] | scene_refs: ["S5"] | 预估格数: 2
+- 'I heard of your marriage, Cathy, and so I thought I would come back one more time.
+  译："我听说了你结婚的消息，凯西，于是我想再回来一次。
+- I would have a glimpse of your face.
+  译：我想看你一眼。
+- You would look surprised and pretend to look pleased, then I would go and kill Hindley.
+  译：你会露出惊讶的神色，假装高兴，然后我就去杀掉辛德利。
+- I would get my revenge at last, and then I would kill myself before the law did so.
+  译：我终于得偿复仇，然后在法律处置我之前自我了结。
+- That was my plan.
+  译：那是我的计划。
+- But now that you have welcomed me so warmly, I have changed my mind.
+  译：但如今你这样热情地欢迎我，我改变主意了。
+
+B9-24 | character_refs: ["C1", "C3b"] | scene_refs: ["S5"] | 预估格数: 1
+- I will not go away again!
+  译：我不会再离开了！
+- I've had a hard life since you last saw me, and I struggled only for you.'
+  译：自从你上次见到我，我的生活充满了艰辛，而我挣扎着活下来，只为了你。"

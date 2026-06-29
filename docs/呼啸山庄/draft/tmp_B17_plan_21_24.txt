@@ -1,0 +1,39 @@
+B17-21 | character_refs: ["C1", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- It is an intolerable torture to know she is near, but not to see her.
+  译：知道她就在附近却看不见她，这是一种难以忍受的折磨。
+- She has been a devil to me these eighteen years, killing me slowly, torturing me to death."
+  译：这十八年来她一直是我的魔鬼，慢慢地折磨我，把我折磨至死。"
+- Mr. Heathcliff fell silent and wiped the sweat from his forehead.
+  译：希斯克利夫先生沉默了下来，擦去额头的汗水。
+- Then I heard my young lady coming down the stairs with her bags.
+  译：然后我听到我的年轻女主人拎着行李下楼的声音。
+
+B17-22 | character_refs: ["C6b", "C1", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- "Goodbye, Ellen," she said and kissed my cheek.
+  译："再见，艾伦，"她说，吻了吻我的脸颊。
+- Her lips felt as cold as ice.
+  译：她的嘴唇冰冷如冰。
+- "Come and see me soon!"
+  译："快来看我！"
+- "Mrs. Dean cannot come to see you," said Heathcliff sternly.
+  译："迪恩太太不能来看你，"希斯克利夫严厉地说。
+- "She will be busy here taking care of my tenant.
+  译："她在这里照料我的租客会很忙的。
+
+B17-23 | character_refs: ["C1", "C7"] | scene_refs: ["S5", "S2"] | 预估格数: 2
+- Do not come to Wuthering Heights, Ellen.
+  译：不要来呼啸山庄，艾伦。
+- If I want to talk to you, I will come here."
+  译：如果我想和你说话，我会来这里。"
+- Then he let Catherine out of the house and off to Wuthering Heights.
+  译：然后他让凯瑟琳离开了房子，前往呼啸山庄。
+- I have not seen my young lady since that day.
+  译：从那天起我就再没见过我的年轻女主人了。
+
+B17-24 | character_refs: ["C7", "C13"] | scene_refs: ["S9"] | 预估格数: 2
+- All I knew of life at Wuthering Heights is what Zillah tells me when I meet her in the village.
+  译：我所知道的关于呼啸山庄生活的一切，都是我在村子里遇见齐拉时她告诉我的。
+- Zillah told me that the morning after she came to the house, Catherine asked Heathcliff to send for the doctor because Linton was dying.
+  译：齐拉告诉我，凯瑟琳到家的第二天早上，她请求希斯克利夫叫来医生，因为林顿快死了。
+- Heathcliff said he did not care and would not spend money on doctors for Linton.
+  译：希斯克利夫说他不在乎，也不会为林顿花钱请医生。

@@ -1,0 +1,31 @@
+B4-1 | character_refs: ["C1"] | scene_refs: ["S2"] | 预估格数: 2
+- Every time I passed in front of a tailor's I wanted to enter and buy some new clothes, but I had no money to pay for them.
+  译：每次经过裁缝店门口，我都想进去买几件新衣服，但我身无分文，根本无力支付。
+- The one million pound bank note in my pocket was useless.
+  译：口袋里那张一百万英镑的钞票毫无用处。
+
+B4-2 | character_refs: ["C1", "C7"] | scene_refs: ["S2", "S7"] | 预估格数: 2
+- I passed in front of the same tailors six times.
+  译：我在这家裁缝店门口来回走了六次。
+- At last I entered.
+  译：最终我走了进去。
+- I quietly asked if they had an old unattractive suit that no one wanted to buy.
+  译：我低声问他们是否有件没人要的旧款丑套装。
+
+B4-3 | character_refs: ["C1", "C7"] | scene_refs: ["S7"] | 预估格数: 2
+- The man I spoke to nodded his head, but he didn't speak.
+  译：我搭话的那个店员点了点头，却一言不发。
+- Then another man looked at me and nodded his head.
+  译：随后另一个男人打量了我一眼，也点了点头。
+
+B4-4 | character_refs: ["C1", "C7"] | scene_refs: ["S7", "S8"] | 预估格数: 2
+- I went to him and he said, one moment, please
+  译：我走向他，他说：请稍等一下。
+- after some time, he took me to a back room.
+  译：片刻之后，他把我带到了后间。
+- He looked at several ugly suits that no one wanted.
+  译：他翻看了几套没人要的丑套装。
+- He chose the worst for me.
+  译：他为我挑出了其中最差的一套。
+- I really wanted a suit so I said nothing.
+  译：我实在太需要一套衣服了，于是一声未吭。

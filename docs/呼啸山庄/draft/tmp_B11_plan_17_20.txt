@@ -1,0 +1,43 @@
+B11-17 | character_refs: ["C7", "C11"] | scene_refs: ["S12"] | 预估格数: 2
+- I left the house to go to the village and find the doctor.
+  译：我离开家去村里找医生。
+- On my way out I saw Miss Isabella's little dog hanging by a rope from a tree in the garden.
+  译：出门时我看见伊莎贝拉小姐的小狗被绳子吊在花园的一棵树上。
+- The poor dog was nearly dead when I cut the rope and released it.
+  译：当我割断绳子放开它时，这可怜的狗几乎已经死了。
+- I wondered who could have done such a thing and why.
+  译：我不禁想，谁会做这种事，又是为什么。
+
+B11-18 | character_refs: ["C7", "C2"] | scene_refs: ["S9"] | 预估格数: 2
+- But I had no time to think about that.
+  译：但我没有时间去想这些。
+- I ran to the village as fast as I could.
+  译：我尽可能快地跑向村子。
+- When the doctor heard that Catherine Linton was ill, he came back to the Grange with me immediately.
+  译：医生听说凯瑟琳·林顿病了，立刻和我一起回到庄园。
+- "Has her illness anything to do with this business of Mr. Heathcliff and Mrs. Isabella?" he asked, much to my surprise.
+  译："她的病和希斯克利夫先生与伊莎贝拉太太那件事有关吗？"他问道，令我大吃一惊。
+
+B11-19 | character_refs: ["C7", "C2"] | scene_refs: ["S9", "S11"] | 预估格数: 3
+- "Why doctor, how do you know about that?" "Well, they were seen riding by a few hours ago. Some people in the village saw Mr. Heathcliff riding by, and Mrs. Isabella on the horse behind."
+  译："大夫，您怎么知道这件事的？""嗯，几个小时前有人看见他们骑马经过。村里有些人看见希斯克利夫先生骑马路过，伊莎贝拉太太坐在马后面。"
+- "Good Lord!" I cried.
+  译："天哪！"我喊道。
+- When we got to the house I ran to Isabella's room, but she was gone.
+  译：我们到了家，我跑去伊莎贝拉的房间，但她已经不见了。
+- What could I do?
+  译：我能怎么办？
+- I could not pursue them, and I could not tell my master about it.
+  译：我既不能去追他们，也不能把这件事告诉我的主人。
+- The poor man was absorbed in the calamity of his wife's illness.
+  译：这可怜的人正深陷于妻子病重的灾难之中。
+
+B11-20 | character_refs: ["C7", "C10"] | scene_refs: ["S5", "S11"] | 预估格数: 2
+- How could I tell him of a second calamity now?
+  译：我怎么能现在又告诉他第二个噩耗呢？
+- I decided to say nothing.
+  译：我决定什么都不说。
+- The next morning, however, one of the servants came back from the village and told him everything.
+  译：然而，第二天早上，一个仆人从村里回来，把一切都告诉了他。
+- At first he could not believe it, but when we showed him Isabella's empty room he said, "She had a right to go if she wanted to. Trouble me no more about her."
+  译：起初他不相信，但当我们让他看了伊莎贝拉空荡荡的房间后，他说："她想走就走，这是她的权利。别再来烦我了。"

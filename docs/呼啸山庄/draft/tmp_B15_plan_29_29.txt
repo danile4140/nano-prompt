@@ -1,0 +1,5 @@
+B15-29 | character_refs: ["C7"] | scene_refs: ["S9"] | 预估格数: 1
+- As I rode back alone to Thrushcross Grange, I felt sorry for the boy.
+  译：当我独自骑马返回画眉田庄时，心中为那孩子感到一阵难过。
+- But at least, I thought, Heathcliff's selfishness will make him treat the boy well.
+  译：但至少，我想，希斯克利夫的自私会使他善待那孩子的。

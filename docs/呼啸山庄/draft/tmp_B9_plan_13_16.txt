@@ -1,0 +1,41 @@
+B9-13 | character_refs: ["C1", "C7"] | scene_refs: ["S6"] | 预估格数: 2
+- 'Are they at home, Nelly?' he asked.
+  译："他们在家吗，内莉？"他问。
+- 'Where is she?
+  译："她在哪里？
+- I must speak with her.
+  译：我必须和她说话。
+- Go and tell her a person from the village wants to speak to her.'
+  译：去告诉她有个村里来的人想见她。"
+
+B9-14 | character_refs: ["C7", "C1"] | scene_refs: ["S6"] | 预估格数: 2
+- 'How will she take it?' I exclaimed.
+  译："她会怎么反应？"我惊呼。
+- 'What will she do?
+  译："她会怎么样？
+- The surprise will drive her mad.
+  译：这个惊喜会让她发疯的。
+- You are Heathcliff!
+  译：你是希斯克利夫！
+- But different, changed.
+  译：但变了，变了。
+- What have you been doing all these years?'
+  译：这些年来你都去哪儿了，做了什么？"
+
+B9-15 | character_refs: ["C1", "C7"] | scene_refs: ["S6"] | 预估格数: 1
+- 'Go and give her my message.
+  译："去把我的话传给她。
+- I'm in hell until you do.'
+  译：在你去告诉她之前，我如在地狱。"
+
+B9-16 | character_refs: ["C7", "C10", "C3b"] | scene_refs: ["S5"] | 预估格数: 2
+- I went into the drawing room where Mr. and Mrs. Linton were sitting so peacefully.
+  译：我走进客厅，林顿先生和夫人正静静地坐在那里。
+- I felt reluctant to deliver the message.
+  译：我有些不情愿转达这个消息。
+- After lighting the candles, I muttered:
+  译：点燃蜡烛后，我低声说道：
+- 'There is a person from the village who wishes to see you, madam.'
+  译："夫人，有个村里来的人想见您。"
+- When she had left the room, Mr. Edgar asked me who it was, and I told him.
+  译：当她离开房间后，埃德加先生问我来人是谁，我告诉了他。

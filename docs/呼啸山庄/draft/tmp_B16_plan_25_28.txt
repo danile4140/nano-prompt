@@ -1,0 +1,47 @@
+B16-25 | character_refs: ["C6", "C7", "C12"] | scene_refs: ["S9"] | 预估格数: 2
+- He was too weak to walk or ride, and he fell asleep for some of the time we were together.
+  译：他虚弱得无法行走或骑马，我们在一起时他睡着了一段时间。
+- He often coughed.
+  译：他时常咳嗽。
+- At once I saw blood on his lips.
+  译：我立刻看到他嘴唇上有血迹。
+- I was certain that he was lying about his health, and I could not imagine why he would do so.
+  译：我确信他在掩盖自己的病情，我无法想象他为何要这样做。
+
+B16-26 | character_refs: ["C6", "C7", "C12"] | scene_refs: ["S9"] | 预估格数: 2
+- However, just before we left him, he said something that seemed to explain his strange behavior.
+  译：然而，就在我们要离开他之前，他说了一句似乎解释了他奇怪行为的话。
+- "Miss Catherine, if you see my father and he asks you how I was, please do not tell him that I slept or that I was silent and stupid," he begged anxiously.
+  译："凯瑟琳小姐，如果您见到我父亲，他问您我的情况，请不要告诉他我睡着了或者我沉默发呆，"他焦急地恳求道。
+- "Is your father unkind to you, Master Linton?" I asked.
+  译："您的父亲对您不好吗，林顿少爷？"我问道。
+- "He would be angry, and I am afraid of making him angry," said the poor weakling.
+  译："他会生气的，我害怕惹他生气，"这个可怜的懦弱少年说。
+- "And do please come again next Thursday.
+  译："而且请下周四再来。
+- Please come to see me here again."
+  译：请再来看我。"
+
+B16-27 | character_refs: ["C6", "C7", "C12"] | scene_refs: ["S9"] | 预估格数: 2
+- As we rode away Catherine looked anxious and disappointed.
+  译：当我们骑马离去时，凯瑟琳面色焦虑而失望。
+- "Nelly, he acts as if he only wants to see me to stop his father from being angry with him," she said at last.
+  译："内莉，他表现得好像见我只是为了不让他父亲对他生气，"她最终说道。
+- The following Thursday we went to the same place.
+  译：下周四我们去了同一个地方。
+- Linton was waiting there, looking paler than ever.
+  译：林顿在那里等候，脸色比以往更加苍白。
+
+B16-28 | character_refs: ["C6", "C12"] | scene_refs: ["S9"] | 预估格数: 2
+- "Linton," said Catherine sternly.
+  译："林顿，"凯瑟琳严肃地说。
+- "I know that you do not really wish to see me.
+  译："我知道你并不真心想见我。
+- Why do you make me come here if you do not wish it?
+  译：如果你不想见我，为什么还让我来？
+- My father is dying.
+  译：我父亲快要死了。
+- I want to spend every moment by his bedside.
+  译：我想时刻守在他床边。
+- I will not come here again."
+  译：我不会再来了。"

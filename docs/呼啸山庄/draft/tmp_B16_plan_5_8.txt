@@ -1,0 +1,47 @@
+B16-5 | character_refs: ["C1", "C7", "C6"] | scene_refs: ["S9"] | 预估格数: 2
+- "Hullo, Nelly," said Heathcliff.
+  译："你好，内莉，"希斯克利夫说。
+- "Come to the Heights for a little while.
+  译："来呼啸山庄待一会儿吧。
+- I want young Catherine to meet Linton."
+  译：我想让小凯瑟琳和林顿见个面。"
+- "Oh no! Her father will be very angry with me if I let her go to the Heights!
+  译："哦，不行！如果我让她去呼啸山庄，她父亲会非常生气的！
+- Please, Miss Cathy, come home now."
+  译：求您了，凯西小姐，现在回家吧。"
+- Heathcliff took hold of my arm and pulled me along towards Wuthering Heights.
+  译：希斯克利夫抓住我的胳膊，拉着我往呼啸山庄方向走去。
+
+B16-6 | character_refs: ["C1", "C7"] | scene_refs: ["S9"] | 预估格数: 2
+- "Don't be silly, Nelly," he said.
+  译："别犯傻了，内莉，"他说。
+- "What harm can it do?"
+  译："能有什么坏处呢？"
+- "I'm sure that you have a bad reason for inviting her," said I.
+  译："我肯定您邀请她是别有用心，"我说。
+- "Nonsense," said he.
+  译："胡说，"他说。
+- "I'll tell you my reason.
+  译："我告诉你我的理由。
+- I want the two cousins to fall in love and marry.
+  译：我想让这两个表兄妹相爱成婚。
+
+B16-7 | character_refs: ["C1", "C7"] | scene_refs: ["S9"] | 预估格数: 2
+- You know that young Catherine will have nothing when her father dies.
+  译：你知道，小凯瑟琳她父亲死后她将一无所有。
+- If she marries Linton, she will be the mistress of Thrushcross Grange."
+  译：如果她嫁给林顿，她就会成为画眉田庄的女主人。"
+- "Perhaps he will not live long enough to marry," said I.
+  译："也许他活不到结婚的时候，"我说。
+- "And if he dies, young Catherine will inherit the Grange."
+  译："而且如果他死了，小凯瑟琳就会继承庄园。"
+
+B16-8 | character_refs: ["C1", "C7"] | scene_refs: ["S9"] | 预估格数: 2
+- "You are wrong there, Nelly.
+  译："你说错了，内莉。
+- If Linton dies, I shall inherit the Grange.
+  译：如果林顿死了，我将继承这座庄园。
+- I am his closest relative.
+  译：我是他最近的亲属。
+- No, it would be far better if they married."
+  译：不，他们结婚才是最好的。"

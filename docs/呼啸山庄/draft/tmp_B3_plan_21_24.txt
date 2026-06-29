@@ -1,0 +1,47 @@
+B3-21 | character_refs: ["C2"] | scene_refs: ["S3"] | 预估格数: 3
+- "I've come home. I was lost on the moor."
+  译："我回家了。我在荒野上迷路了。"
+- In the darkness, I could see a child's face looking through the window.
+  译：在黑暗中，我能看见一张孩子的脸从窗户往里张望。
+- Terror made me cruel, and since I could not free my arm from its grip, I pulled its wrist onto the broken glass of the window and rubbed it back and forth until blood ran down and soaked the bedclothes.
+  译：恐惧让我变得残忍，既然无法挣脱它的抓握，我便把它的手腕拉到窗户碎玻璃上来回摩擦，直到鲜血流淌下来、浸透了床单。
+- Still it cried, "Let me in!" and maintained its grip.
+  译：它仍然哭喊着："让我进去！"并紧紧抓住不放。
+
+B3-22 | character_refs: ["C2"] | scene_refs: ["S3"] | 预估格数: 2
+- "How can I? Let me go if you want me to let you in."
+  译："我怎么能？你要我让你进来就先放开我。"
+- The fingers relaxed.
+  译：那些手指松开了。
+- I snatched my hand back through the hole, piled the books up in front of it, and stopped my ears so that I would not hear those dreadful cries.
+  译：我将手从破洞里抽回，把书堆在它前面，捂住耳朵不让自己听到那可怕的哭喊。
+- "Go away!" I shouted. "I will not let you in, not if you beg for twenty years."
+  译："走开！"我喊道。"我不会让你进来的，哪怕你乞求二十年。"
+- "It is twenty years," cried the voice. "I've been a lost child for twenty years."
+  译："就是二十年，"那声音哭道。"我已经做了二十年的迷途孩子了。"
+
+B3-23 | character_refs: ["C2", "C1"] | scene_refs: ["S3"] | 预估格数: 3
+- Then I heard a faint scratching outside, and the pile of books moved forwards as though pushed from behind.
+  译：随后我听见外面有轻微的爪抓声，那堆书向前移动，好像从后面被推动一般。
+- I screamed aloud, "Oh!"
+  译：我大声尖叫："哦！"
+- Unfortunately, the scream was real.
+  译：不幸的是，那声尖叫是真实的。
+- Someone ran into my bedroom.
+  译：有人跑进了我的卧室。
+- I saw his light flickering, but he could not see me.
+  译：我看见他的灯光在闪烁，但他看不到我。
+- "Is anyone here?" he whispered.
+  译："这里有人吗？"他低声问道。
+
+B3-24 | character_refs: ["C2", "C1"] | scene_refs: ["S3"] | 预估格数: 3
+- I recognized Heathcliff's voice, and thought it best to confess my presence at once, so I opened the door of the oak case to get out.
+  译：我认出了希斯克利夫的声音，觉得最好立刻表明自己在场，于是打开橡木箱的门走了出来。
+- The first creak of the door opening startled him like an electric shock.
+  译：门打开时的第一声嘎吱响把他吓得如遭电击。
+- He dropped his candle and had difficulty picking it up again.
+  译：他把蜡烛掉在地上，手抖得很难再把它捡起来。
+- "It is only your guest, sir," I said, wishing to spare him the humiliation of showing his cowardice further.
+  译："只是您的客人，先生，"我说道，想让他免于进一步展示懦弱的羞耻。
+- "I had a terrible nightmare, and screamed in my sleep. I'm sorry I disturbed you."
+  译："我做了个可怕的噩梦，在睡梦中尖叫了出来。很抱歉打扰了您。"

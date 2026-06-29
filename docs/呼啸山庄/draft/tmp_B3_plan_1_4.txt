@@ -1,0 +1,43 @@
+B3-1 | character_refs: ["C2", "C13"] | scene_refs: ["S3"] | 预估格数: 2
+- As she led me upstairs to the room she had chosen for me, Zillah told me to be very quiet and hide the candle, because her master never let anyone stay in that room.
+  译：齐拉带我上楼去她为我选好的房间，告诉我要保持安静、遮住蜡烛，因为她的主人从不让任何人住在那间屋子里。
+- I asked the reason, but she said she did not know.
+  译：我问她原因，她说她不知道。
+- She had only lived in the house a year or two, she said; so many strange things went on in the house that she no longer asked about them.
+  译：她说她只在这里住了一两年，屋子里发生了太多奇怪的事，她早已不再追问了。
+
+B3-2 | character_refs: ["C2"] | scene_refs: ["S3"] | 预估格数: 2
+- When I was alone in the room, I looked around.
+  译：当我独自留在房间里，我环顾四周。
+- The only furniture was a chair, a wardrobe, and a large oak case with windows in it like a carriage.
+  译：房间里仅有三件家具：一把椅子、一个衣柜，以及一个有窗户的大橡木箱，看起来像一辆马车。
+- I looked inside it and found a bed, and above the bed, a window.
+  译：我往里面看，发现了一张床，床上方有一扇窗。
+- On the windowsill was a pile of books.
+  译：窗台上堆放着一摞书。
+
+B3-3 | character_refs: ["C2"] | scene_refs: ["S3"] | 预估格数: 2
+- I opened the door of the oak case and climbed in with my candle.
+  译：我打开橡木箱的门，举着蜡烛爬了进去。
+- When I had shut the door behind me, I felt safe from Heathcliff or anyone else.
+  译：当我将门关在身后，我感到自己安全了，远离了希斯克利夫或任何人。
+- As I placed my candle on the windowsill, I noticed that it was covered with writing scratched in the paint.
+  译：当我把蜡烛放到窗台上时，我注意到窗台上布满了刻在漆面上的字迹。
+- It was a name repeated in all kinds of letters, large and small.
+  译：那是一个名字，以各种大小不一的字体反复出现。
+- Catherine Earnshaw.
+  译：凯瑟琳·恩肖。
+- Sometimes changing to Catherine Heathcliff or Catherine Linton.
+  译：有时变成凯瑟琳·希斯克利夫，或凯瑟琳·林顿。
+
+B3-4 | character_refs: ["C2"] | scene_refs: ["S3"] | 预估格数: 2
+- Feeling sleepy, I leaned my head against the window and read and re-read the names until my eyes closed.
+  译：感到困意袭来，我靠着窗户读了又读那些名字，直到眼皮沉重。
+- But then I saw white letters like ghosts in the dark, and the air swarmed with Catherines.
+  译：但随后我在黑暗中看见如幽灵般的白色字母，空气中到处都是凯瑟琳的名字。
+- I woke up and realized that my candle was starting to burn the cover of one of the books.
+  译：我猛然惊醒，发现蜡烛已快烧着其中一本书的封面。
+- I opened the book.
+  译：我翻开那本书。
+- It was a Bible.
+  译：那是一本圣经。

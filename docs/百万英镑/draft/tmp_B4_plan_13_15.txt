@@ -1,0 +1,27 @@
+B4-13 | character_refs: ["C1", "C8"] | scene_refs: ["S7"] | 预估格数: 2
+- But my dear Sir I said, I can order all these things only if you change my bank note or if you can wait a while before I pay,
+  译：但是，我亲爱的先生，我说，只有你们能找开我的钞票，或者愿意等我一段时间再付款，我才能订这些衣服。
+- you wait a while I'll wait forever
+  译：您等一段时间？我愿意永远等！
+- that's the word, Todd, send these things to the gentleman's address
+  译：就这么说定了，托德，把这些东西送到这位绅士的地址去！
+- let the less important customers wait
+  译：让那些不重要的顾客等着吧！
+
+B4-14 | character_refs: ["C1", "C8"] | scene_refs: ["S7"] | 预估格数: 2
+- what's your address, sir?
+  译：先生，您的地址是？
+- I'm changing my home.
+  译：我正在换住所。
+- I'll come back and give you my new address I replied,
+  译：我回头再来告诉你新地址，我回答道。
+
+B4-15 | character_refs: ["C1", "C8"] | scene_refs: ["S7"] | 预估格数: 2
+- quite right, sir, quite right.
+  译：完全没问题，先生，完全没问题。
+- Let me show you to the door, sir.
+  译：请允许我送您到门口，先生。
+- Good day, sir.
+  译：再见，先生。
+- Good day.
+  译：再见。

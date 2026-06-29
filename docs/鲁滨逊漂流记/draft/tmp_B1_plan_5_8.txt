@@ -1,0 +1,39 @@
+B1-5 | character_refs: ["C2"] | scene_refs: ["S1"] | 预估格数: 1
+- Only desperate men or very fortunate men went abroad he said.
+  译：他说，只有走投无路的人或非常幸运的人才会出洋。
+- I was neither desperate nor very fortunate.
+  译：我既非走投无路，也非格外幸运。
+- Mine was the middle state and he thought that the middle state was the best.
+  译：我属于中间阶层，而他认为中间阶层是最好的。
+- The poor had a difficult life.
+  译：穷人的生活艰辛。
+- And the rich were hated by the poor, said he.
+  译：而富人则遭贫人憎恨，他如是说。
+
+B1-6 | character_refs: ["C2"] | scene_refs: ["S1"] | 预估格数: 1
+- In the middle state, a man could be happy kings often regretted that they were not born in the middle state.
+  译：处于中间阶层，一个人可以幸福——国王们常常感叹自己没有生在中间阶层。
+- And wise men prayed to have neither poverty nor wealth he said that the greatest misfortunes in life were suffered by the rich and the poor.
+  译：智者祈愿既不贫穷也不富有，他说人生中最大的不幸都降临在富人和穷人身上。
+- Only the man in the middle state can live in peace.
+  译：只有处于中间阶层的人才能平静地生活。
+- He said that moderation, quietness and good health were the conditions of the middle state.
+  译：他说节制、宁静与健康是中间阶层生活的要素。
+
+B1-7 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- He begged me not to abandon this happy condition.
+  译：他恳求我不要放弃这幸福的境况。
+- He told me that she had begged my brother not to become a soldier for the same reasons.
+  译：他告诉我，他曾以同样的理由恳求我的兄长不要从军。
+- However, my brother had run away to the army and now he was dead.
+  译：然而我的兄长还是私自从军，如今已经战死。
+- He said that god would not bless me if I went to see him and that I would be sorry I had ignored my father's advice.
+  译：他说如果我出海，上帝将不会祝福我，我定会后悔没有听从父亲的劝告。
+- During the last part of his discourse, the tears ran down his face, especially when he spoke of my brother.
+  译：在谈话的最后，泪水顺着他的脸颊流下，尤其是在谈到我那位兄长的时候。
+
+B1-8 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- When he said that I would regret my choice, he was so moved that he could say no more.
+  译：当他说我会后悔自己的选择时，他已激动得再也说不下去。
+- I was sincerely affected by his words and decided not to think of going abroad any more, but alas, in a few days I began to dream of the sea again.
+  译：我真诚地被他的话打动，决定不再想出洋的事，但可惜几天之后，我又开始憧憬大海了。

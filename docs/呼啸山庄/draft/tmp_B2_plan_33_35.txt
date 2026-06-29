@@ -1,0 +1,33 @@
+B2-33 | character_refs: ["C2", "C8"] | scene_refs: ["S2"] | 预估格数: 2
+- He was milking the cows by the light of a lantern.
+  译：他正借着灯笼的光挤牛奶。
+- I took the lantern and quickly went out through the gate, saying that I would send it back tomorrow.
+  译：我抢过灯笼，飞快地穿门而出，边走边说明天会把它送回来。
+- "Master! Master! He's stealing the lantern!" cried Joseph. "Let the dogs go after him!"
+  译：「主人！主人！他在偷灯笼！」约瑟夫大叫，「放狗追他！」
+
+B2-34 | character_refs: ["C2", "C1", "C5", "C13"] | scene_refs: ["S2"] | 预估格数: 3
+- Two hairy monsters leapt at my throat.
+  译：两只毛茸茸的巨兽扑向我的喉咙。
+- They knocked me down, and the light was extinguished.
+  译：它们把我扑倒，灯火随之熄灭。
+- My nose began to bleed.
+  译：我的鼻子开始流血。
+- I heard Hareton and Heathcliff laughing.
+  译：我听见哈顿和希斯克利夫在笑。
+- Trembling with rage and humiliation, I cursed them.
+  译：我浑身颤抖，又愤又耻，对他们破口大骂。
+- My threats of retaliation sounded like King Lear's, but still Heathcliff laughed.
+  译：我的报复威胁听起来像李尔王，但希斯克利夫依然大笑不止。
+
+B2-35 | character_refs: ["C13", "C2", "C1"] | scene_refs: ["S2"] | 预估格数: 2
+- Finally, the big strong woman who had saved me from the dogs on my first visit came out to see what was happening.
+  译：终于，上次造访时救过我的那个高大结实的女人出来查看动静。
+- Her name is Zillah.
+  译：她叫齐拉。
+- "Well, Mr. Earnshaw," she cried, "are you going to murder the gentleman in our own backyard? Come, come, sir, you're bleeding. I'll take care of you."
+  译：「哎，恩肖先生，」她大声说，「你要在自家后院把这位先生打死吗？来，来，先生，您流血了，我来照顾您。」
+- She poured a pint of icy water down my neck to stop the bleeding.
+  译：她往我脖子上浇了一品脱冰水来止血。
+- Then Heathcliff told her to give me a glass of brandy and prepare a bed for me.
+  译：随后希斯克利夫吩咐她给我倒一杯白兰地，并为我准备一张床。

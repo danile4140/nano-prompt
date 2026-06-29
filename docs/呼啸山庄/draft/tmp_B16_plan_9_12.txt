@@ -1,0 +1,39 @@
+B16-9 | character_refs: ["C1", "C6", "C12"] | scene_refs: ["S1"] | 预估格数: 2
+- We went into the house and there was Linton.
+  译：我们进了屋子，林顿就在那里。
+- He had grown tall and graceful.
+  译：他长高了，举止优雅。
+- "Linton, is it really you?" asked Cathy, kissing him.
+  译："林顿，真的是你吗？"凯西说着，亲吻了他。
+- "How tall you are!
+  译："你长得好高！
+- You're taller than I am!"
+  译：你比我还高呢！"
+
+B16-10 | character_refs: ["C6", "C1", "C12"] | scene_refs: ["S1"] | 预估格数: 2
+- Then she turned to Heathcliff and said, "So you're my uncle!
+  译：然后她转向希斯克利夫说："所以您是我的舅舅！
+- How strange that you live so near us, and yet we never see you!
+  译：您住得离我们这么近，我们却从未见面，真是奇怪！
+- From now on I will come every day."
+  译：从今以后我每天都会来。"
+- "Your father wouldn't like that," said Heathcliff.
+  译："你父亲不会喜欢这样的，"希斯克利夫说。
+
+B16-11 | character_refs: ["C6", "C1"] | scene_refs: ["S1"] | 预估格数: 2
+- "He doesn't like me.
+  译："他不喜欢我。
+- If you want to come here to visit sometimes, you will have to keep it a secret from your father.
+  译：如果你想偶尔来这里探望，就得对你父亲保密。
+- He would not allow you to come."
+  译：他不会允许你来的。"
+- "Then Linton must come to see us at the Grange," said Cathy.
+  译："那林顿就必须来画眉田庄看我们，"凯西说。
+
+B16-12 | character_refs: ["C6", "C12"] | scene_refs: ["S1"] | 预估格数: 2
+- "Oh, I couldn't walk so far," said Linton.
+  译："哦，我走不了那么远，"林顿说。
+- "It could kill me!"
+  译："那会要了我的命的！"
+- "No, you must come here, Miss Catherine, not every day, but once or twice a week."
+  译："不，您必须来这里，凯瑟琳小姐，不必每天，一周一两次就好。"

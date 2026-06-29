@@ -1,0 +1,39 @@
+B3-25 | character_refs: ["C1", "C2"] | scene_refs: ["S3"] | 预估格数: 2
+- "Oh, the devil take you, Mr. Lockwood!" cried Heathcliff, putting his candle down on a chair because his hand was shaking.
+  译："去你的，洛克伍德先生！"希斯克利夫叫道，因双手颤抖而把蜡烛放到椅子上。
+- "Who put you in this room?" He asked, crushing his fingernails into his palms and grinding his teeth to stop the trembling.
+  译："是谁把你安排在这间屋子里的？"他问道，将指甲掐进手心，咬紧牙关止住颤抖。
+- "Who was it? I'll throw them out of the house."
+  译："是谁？我要把他们赶出去。"
+
+B3-26 | character_refs: ["C2", "C1"] | scene_refs: ["S3"] | 预估格数: 2
+- "It was your servant, Zillah," I replied, "and she deserves to be thrown out.
+  译："是您的仆人齐拉，"我回答，"她活该被赶出去。
+- She must have known that the place was haunted.
+  译：她一定知道这地方闹鬼。
+- It is swarming with ghosts."
+  译：这里到处都是鬼魂。"
+- "Well, go back to bed, Mr. Lockwood, but don't scream again.
+  译："好了，洛克伍德先生，回去睡觉吧，但别再尖叫了。
+- Nothing could excuse that noise unless you were having your throat cut."
+  译：没有任何理由可以为那声尖叫辩解，除非是有人在割你的喉咙。"
+
+B3-27 | character_refs: ["C2", "C1"] | scene_refs: ["S3"] | 预估格数: 2
+- "If the little devil had got in through the window, she probably would have strangled me."
+  译："如果那个小鬼从窗子爬进来，她大概会掐死我的。"
+- "Who do you mean?" asked Heathcliff.
+  译："你说的是谁？"希斯克利夫问道。
+- "Catherine Earnshaw, or Catherine Linton, or whatever her name was.
+  译："凯瑟琳·恩肖，或凯瑟琳·林顿，随便叫什么名字。
+- She told me she had been walking on the moors for twenty years.
+  译：她告诉我她在荒野上游荡了二十年。
+- The wicked little soul!"
+  译：可恶的小鬼魂！"
+
+B3-28 | character_refs: ["C1", "C2"] | scene_refs: ["S3"] | 预估格数: 2
+- "How dare you talk that way to me!" thundered Heathcliff savagely.
+  译："你怎么敢对我说这种话！"希斯克利夫野蛮地怒吼道。
+- "God, he is mad to speak so!" And he struck his forehead with rage.
+  译："天哪，他说这话简直是疯了！"他愤怒地用手击打自己的额头。
+- At first I felt offended by this, but then I took pity on him; he seemed so powerfully affected, and told him more about my dream.
+  译：起初我感到受了冒犯，但随后我对他产生了怜悯；他显得如此深受触动，我便向他讲述了更多梦境的细节。

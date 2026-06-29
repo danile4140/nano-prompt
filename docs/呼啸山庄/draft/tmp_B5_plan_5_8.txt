@@ -1,0 +1,39 @@
+B5-5 | character_refs: ["C14", "C8", "C7", "C3", "C1"] | scene_refs: ["S1"] | 预估格数: 2
+- One evening, when the wind was howling, we all sat by the fire.
+  译：一个狂风呼啸的夜晚，我们都围坐在火炉旁。
+- Joseph was reading his Bible.
+  译：约瑟夫在读他的圣经。
+- I was sewing.
+  译：我在缝衣服。
+- Miss Cathy had been ill, so she was quieter than usual and leaned against her father's knee.
+  译：凯西小姐生了病，比平日安静许多，依偎在父亲膝边。
+- Heathcliff lay on the floor with his head on her lap, I remember.
+  译：希斯克利夫躺在地板上，把头枕在她腿上，我记得。
+
+B5-6 | character_refs: ["C14", "C3"] | scene_refs: ["S1"] | 预估格数: 2
+- The master said, before we fell asleep, "Why can't you always be a good girl, Kathy?"
+  译：主人在我们都要睡着之前说道："凯西，你为什么不能总是做个好孩子？"
+- She looked up at him and laughed and said, "Why can't you always be a good man, father?"
+  译：她抬头看他，笑着说："父亲，你为什么不能总是做个好人呢？"
+- But when she saw she had offended him, she kissed his hand and said she would sing him to sleep.
+  译：但当她看出自己冒犯了他，便亲吻了他的手，说要唱歌哄他入睡。
+- She sang very quietly until his head sank in his breast.
+  译：她轻轻地唱着，直到他的头垂落在胸前。
+
+B5-7 | character_refs: ["C14", "C8", "C7", "C3", "C1"] | scene_refs: ["S1"] | 预估格数: 2
+- We all sat silent for half an hour, not wishing to wake him.
+  译：我们都静静地坐了半个钟头，不想惊醒他。
+- Then Joseph rose and said he must wake the master.
+  译：然后约瑟夫站起身，说必须叫醒主人了。
+- It was time for prayers and bed.
+  译：该做晚祷、上床睡觉了。
+- Joseph called him, but the master did not stir.
+  译：约瑟夫叫了他，但主人毫无反应。
+
+B5-8 | character_refs: ["C3", "C1", "C7", "C8"] | scene_refs: ["S1"] | 预估格数: 3
+- Then Joseph told the children to go up to bed immediately, and I realized that something was wrong.
+  译：约瑟夫随即叫孩子们立刻上床，我这才意识到出了什么事。
+- "I shall just kiss father good night first," said Kathy, and she put her arms around his neck.
+  译："我先去亲父亲道晚安，"凯西说，她用双臂环抱住他的脖子。
+- Before we could stop her, the poor child screamed out, "Oh, he's dead! Heathcliff, he's dead!"
+  译：还没等我们阻止，可怜的孩子就惊叫起来："他死了！希斯克利夫，他死了！"

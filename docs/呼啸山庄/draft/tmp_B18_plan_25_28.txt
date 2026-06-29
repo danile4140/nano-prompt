@@ -1,0 +1,33 @@
+B18-25 | character_refs: ["C5", "C1"] | scene_refs: ["S1"] | 预估格数: 2
+- 'Hush,' said Hareton, afraid of making Heathcliff angry.
+  译：「嘘，」哈顿说，他怕激怒希斯克利夫。
+- 'Get out of my sight, you little witch!' cried Heathcliff.
+  译：「滚出我的视线，你这个小女巫！」希斯克利夫喊道。
+
+B18-26 | character_refs: ["C6b", "C5", "C7"] | scene_refs: ["S1"] | 预估格数: 1
+- Catherine left the room quickly, and Hareton and I followed her.
+  译：凯瑟琳迅速离开了房间，哈顿和我跟着出去了。
+- A moment later, we heard the front door slam.
+  译：片刻之后，我们听到前门砰地关上了。
+- Heathcliff had gone out, so we could all relax a little.
+  译：希斯克利夫出去了，我们终于可以稍微轻松一下。
+
+B18-27 | character_refs: ["C6b", "C5", "C7"] | scene_refs: ["S1"] | 预估格数: 1
+- Catherine and Hareton started reading together as they usually did in the evenings.
+  译：凯瑟琳和哈顿像平时晚上一样开始一起读书。
+- I sat sewing by the fire.
+  译：我坐在炉火旁缝着东西。
+- An hour later Heathcliff returned.
+  译：一小时后希斯克利夫回来了。
+
+B18-28 | character_refs: ["C1", "C6b", "C5", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- When he walked into the room, Catherine and Hareton looked up from their book.
+  译：他走进房间时，凯瑟琳和哈顿从书上抬起头来。
+- I don't know if you have noticed, but their eyes are exactly alike.
+  译：我不知道您有没有注意到，但他们的眼睛长得一模一样。
+- They are the first Catherine's eyes.
+  译：那是老凯瑟琳的眼睛。
+- I suppose Mr. Heathcliff saw the resemblance as he looked at them.
+  译：我猜希斯克利夫先生在看着他们时看出了那份相似。
+- He told them to leave the room, but made a sign to me to stay behind.
+  译：他让他们离开房间，却示意我留下来。

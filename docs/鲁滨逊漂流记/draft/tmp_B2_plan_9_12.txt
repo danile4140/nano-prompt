@@ -1,0 +1,33 @@
+B2-9 | character_refs: ["C1"] | scene_refs: ["S10"] | 预估格数: 2
+- I did not yet know whether I was on the mainland or an island.
+  译：我还不知道自己身处大陆还是岛屿。
+- I took a gun and climbed a hill.
+  译：我拿起枪，爬上一座山丘。
+- From the top of the hill I saw that I was on an island.
+  译：从山顶我看出自己身处一座岛上。
+- I saw many birds, but no animals or people.
+  译：我看见许多鸟，但没有动物或人的踪迹。
+
+B2-10 | character_refs: ["C1"] | scene_refs: ["S10", "S17"] | 预估格数: 3
+- On my way back down the hill, I shot a bird.
+  译：下山途中，我射落了一只鸟。
+- I believe it was the first gun fired there since the creation of the world.
+  译：我相信那是自开天辟地以来，这里响起的第一声枪声。
+- At the sound, thousands of birds rose screaming into the air that evening.
+  译：那声响之后，那个傍晚成千上万的鸟儿尖叫着腾空而起。
+
+B2-11 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: 2
+- I set wooden boards and boxes around me to protect me as I slept.
+  译：我在四周摆放木板和箱子，在睡觉时保护自己。
+- The next day I returned to the ship.
+  译：第二天，我再次返回那艘船。
+- This time I got a hammock, blankets, hatchets, a perspective glass and sails.
+  译：这次我取来了吊床、毯子、短柄斧、望远镜和帆布。
+
+B2-12 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- Back on shore I made a tent out of one of the sails.
+  译：回到岸上，我用一张帆布搭建了一顶帐篷。
+- I brought everything into the tent that could be ruined by rain or sun.
+  译：我把所有怕雨淋日晒的东西都搬进帐篷。
+- Then I made a bed and slept in it quietly all night, for I was very tired from the work of the day.
+  译：然后我做了一张床，安静地睡了整晚，因为白天的劳作让我精疲力竭。

@@ -1,0 +1,41 @@
+B15-21 | character_refs: ["C10", "C8"] | scene_refs: ["S8"] | 预估格数: 2
+- That night, when the children were asleep, Joseph came to speak to my master.
+  译：那天夜里，孩子们入睡后，约瑟夫来找主人说话。
+- "Heathcliff has sent me to get his son," said Joseph.
+  译："希斯克利夫派我来接他的儿子，"约瑟夫说。
+- Edgar was silent for a minute.
+  译：埃德加沉默了片刻。
+- He wanted to obey Isabella's last wish and keep the boy at Thrushcross Grange, but Heathcliff was the boy's father.
+  译：他想遵从伊莎贝拉的遗愿，把孩子留在画眉田庄，但希斯克利夫毕竟是孩子的父亲。
+
+B15-22 | character_refs: ["C10", "C8"] | scene_refs: ["S8"] | 预估格数: 3
+- "Tell Mr. Heathcliff that his son shall come to Wuthering Heights tomorrow," said Edgar.
+  译："告诉希斯克利夫先生，他儿子明天会去呼啸山庄，"埃德加说。
+- "He is asleep in bed now."
+  译："他现在正睡着呢。"
+- "He is not in good health."
+  译："他身体不好。"
+- "And tell him that the boy's mother wished him to live here with me."
+  译："还要告诉他，孩子的母亲希望他住在这里和我在一起。"
+- "Heathcliff doesn't care about what the mother wished," said Joseph.
+  译："希斯克利夫才不在乎孩子母亲的心愿，"约瑟夫说。
+- "He wants the boy, and he wants him now."
+  译："他要孩子，他现在就要。"
+
+B15-23 | character_refs: ["C10", "C8"] | scene_refs: ["S8"] | 预估格数: 2
+- "Not tonight," said Edgar.
+  译："今晚不行，"埃德加说。
+- He took the old man by the arm and led him to the door.
+  译：他抓住老人的手臂，将他领向门口。
+- As the door closed behind him, Joseph cried out, "Heathcliff will come himself tomorrow."
+  译：门在约瑟夫身后关上时，他高声喊道："希斯克利夫明天会亲自来的。"
+- "You won't dare to throw him out."
+  译："你可不敢把他赶出去。"
+
+B15-24 | character_refs: ["C7", "C12"] | scene_refs: ["S9"] | 预估格数: 2
+- Early the next morning, my master told me to take the boy to Wuthering Heights.
+  译：第二天清早，主人吩咐我送孩子去呼啸山庄。
+- Cathy was still in bed when we left.
+  译：我们离开时，凯西还在睡梦中。
+- On the way, Linton asked me many questions about his father.
+  译：途中，林顿问了我许多关于父亲的问题。

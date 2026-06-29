@@ -1,0 +1,47 @@
+B4-41 | character_refs: ["C1b", "C14"] | scene_refs: ["S7"] | 预估格数: 2
+- And he ran to his enemy and cut off his head with one blow.
+  译：他跑向他的敌人，一刀砍下了他的脑袋。
+- When he had done this, he came back to me laughing and gave me my sword.
+  译：做完这件事后，他笑着回到我身边，把剑还给了我。
+- Then he buried the bodies in the sand.
+  译：然后他把尸体埋在了沙子里。
+- Afterwards, I took my savage to my cave and gave him food and water.
+  译：之后，我把我的野人带到山洞里，给了他食物和水。
+- I made signs to him that he should sleep and pointed to the blanket where I often slept myself.
+  译：我打手势让他去睡觉，并指向我自己经常睡的那条毯子。
+
+B4-42 | character_refs: ["C1b", "C14"] | scene_refs: ["S13"] | 预估格数: 2
+- He was a strong, handsome fellow, about twenty six years old.
+  译：他是一个强壮英俊的伙伴，大约二十六岁。
+- He had a pleasant face, with all the sweetness and softness of a European, especially when he smiled.
+  译：他有一张讨人喜欢的脸，带着欧洲人的所有甜美与柔和，尤其是当他微笑时。
+- When he awoke, he made many signs of thankfulness to me for saving his life.
+  译：当他醒来时，他用许多手势向我表达了感谢，感谢我救了他的命。
+- I showed him that I was pleased with him.
+  译：我向他表示我对他很满意。
+
+B4-43 | character_refs: ["C1b", "C14"] | scene_refs: ["S13"] | 预估格数: 2
+- Then I began to speak to him and teach him how to speak to me.
+  译：然后我开始和他说话，教他怎么和我交流。
+- First I told him that his name would be Friday, which was the name of the day on which I saved his life.
+  译：首先我告诉他，他的名字将叫做"星期五"，也就是我救他那天的名字。
+- I taught him to call me master.
+  译：我教他叫我主人。
+- I stayed with him in the cave all that night.
+  译：那天晚上我和他一起待在山洞里。
+- The next morning we went out.
+  译：第二天早晨我们出去了。
+
+B4-44 | character_refs: ["C1b", "C14"] | scene_refs: ["S10"] | 预估格数: 2
+- We came to the place where we had buried the two men.
+  译：我们来到了埋葬那两个人的地方。
+- Friday made signs to me that we should dig them up and eat them.
+  译：星期五向我做手势，示意我们应该把他们挖出来吃掉。
+- I made signs of vomiting.
+  译：我做出了呕吐的手势。
+- And let him know how much I hated the idea.
+  译：让他知道我有多厌恶这个想法。
+- I then led him to the top of the hill to see if his enemies were still on the island.
+  译：然后我领着他到山顶看他的敌人是否还在岛上。
+- Savages and their canoes were gone.
+  译：野人和他们的独木舟都走了。

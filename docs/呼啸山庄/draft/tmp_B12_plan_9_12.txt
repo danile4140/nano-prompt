@@ -1,0 +1,51 @@
+B12-9 | character_refs: ["C7", "C4", "C5", "C11", "C1"] | scene_refs: ["S1"] | 预估格数: 3
+- I set out the next day and walked to Wuthering Heights.
+  译：第二天我便动身，步行前往呼啸山庄。
+- The house was sadly changed since my time there.
+  译：自从我离开后，庄园已令人伤心地变了样。
+- The pewter dishes and silver tankards in the sitting room were covered with dust.
+  译：客厅里的锡制餐盘和银质大罐蒙上了厚厚的灰尘。
+- Isabella looked lost and rather bedraggled.
+  译：伊莎贝拉看起来茫然失措，衣衫也有些狼狈。
+- Hindley seemed on the verge of madness.
+  译：辛德利似乎已濒临疯狂的边缘。
+- Hareton was like a little animal.
+  译：哈顿就像一头小野兽。
+
+---
+
+B12-10 | character_refs: ["C1", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- Only Heathcliff looked well, only he had the look of a born gentleman.
+  译：只有希斯克利夫气色依然好，只有他仍有几分天生绅士的派头。
+- "Tell me about Catherine," said Heathcliff.
+  译："告诉我凯瑟琳的情况，"希斯克利夫说。
+- "I hear she has been ill."
+  译："我听说她病了。"
+- "Mrs. Linton is just recovering," said I.
+  译："林顿太太正在康复中，"我说。
+
+---
+
+B12-11 | character_refs: ["C1", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- "She will never be as she was, but at least she is alive.
+  译："她再也不会恢复如初了，但至少她还活着。
+- Her appearance and her character have both changed greatly.
+  译：她的容貌和性情都已大为改变。
+- Mr. Linton will stay by her, for he is her husband, but now his affection can only be a result of remembering what she once was, of common humanity and a sense of duty."
+  译：林顿先生会陪伴在她身旁，因为他是她的丈夫，但他现在的感情只不过是对她往昔的追忆、普通的人道心和责任感罢了。"
+- "That's quite possible," said Heathcliff, trying to keep calm.
+  译："这完全有可能，"希斯克利夫强压着情绪说道。
+
+---
+
+B12-12 | character_refs: ["C1", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- "It is possible that your master might feel nothing for Catherine but common humanity and a sense of duty.
+  译："你的主人对凯瑟琳的感情或许只剩下普通的人道心和责任感。
+- But I will not abandon her to his duty and humanity.
+  译：但我不会让她就这样被他的责任感和人道心所束缚。
+- Promise me that you will help me to see her.
+  译：答应我，帮我去见她。
+- I'll see her anyway, with or without your help."
+  译：无论你帮不帮我，我都要去见她。"
+
+---

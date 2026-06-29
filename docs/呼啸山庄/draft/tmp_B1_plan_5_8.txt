@@ -1,0 +1,41 @@
+B1-5 | character_refs: [] | scene_refs: ["S2"] | 预估格数: 2
+- It is a sturdy stone house, with a narrow window set deep in the walls.
+  译：这是一栋坚固的石屋，窗户狭小，深嵌在厚实的墙壁之中。
+- "Wuthering" is an adjective used only by the people of this region, meaning windy or stormy, and indeed the house is built on the top of a hill, completely exposed to the north wind.
+  译："呼啸"是本地人特有的形容词，意指狂风或暴风，而这栋屋子确实建在山顶，完全暴露在北风之下。
+- The few stunted trees and the thorn bushes around it all swayed in one direction.
+  译：周围稀疏的矮树和荆棘丛全都朝着同一个方向弯曲。
+- All around the door of Wuthering Heights are grotesque carvings, and over the door the date "fifteen hundred" and the name "Hareton Earnshaw" are inscribed.
+  译：呼啸山庄的门口四周布满了怪诞的雕刻，门上方刻有年代"一五〇〇"和"哈顿·恩肖"的名字。
+- I wanted to ask Mr. Heathcliff to tell me the history of the place, but he seemed so very unfriendly that I decided against it.
+  译：我本想请希斯克利夫先生讲讲这地方的历史，但他看上去如此冷漠，我便打消了这个念头。
+
+B1-6 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- The door opens straight into the sitting room.
+  译：门一开就直接进入客厅。
+- At one end of the room is a large oak dresser, its shelves crowded with pewter dishes and silver tankards.
+  译：房间一端有一个大橡木碗柜，架子上摆满了锡制碟子和银质大罐。
+- Legs of beef, ham, and mutton hung from the wooden beams of the ceiling.
+  译：牛腿、火腿和羊腿悬挂在木制天花梁上。
+- A fireplace.
+  译：一处壁炉。
+
+B1-7 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- Various guns are attached to the wall as ornaments.
+  译：各种猎枪作为装饰挂在墙上。
+- The floor is of a smooth white stone, and the hard wooden chairs are painted either green or black.
+  译：地面是光洁的白色石板，硬木椅子被漆成绿色或黑色。
+- In one corner, a female hunting dog lay surrounded by her puppies, and other dogs lurked in the shadows.
+  译：角落里，一只母猎犬卧在幼崽之间，其他狗则潜伏在阴影中。
+
+B1-8 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- Mr. Heathcliff himself looks like a dark-skinned gypsy, with the dress and the manners of a gentleman.
+  译：希斯克利夫先生本人看起来像一个黑皮肤的吉卜赛人，却有着绅士的穿着和举止。
+- A little untidy, perhaps, but with a tall, handsome figure.
+  译：或许稍显邋遢，但身材高挑英俊。
+- Some people might think him proud, but I think he has a reserve like mine.
+  译：有些人或许会觉得他傲慢，但我认为他和我一样，只是内敛矜持。
+- It's probably the result of an aversion to displays of feeling.
+  译：这大概是出于对情感外露的厌恶。
+- He will love and hate in secret, and be almost angry if anyone loves or hates him in return.
+  译：他会把爱与恨深藏于心，若有人以同样的爱恨回应他，他反倒几乎会感到恼怒。

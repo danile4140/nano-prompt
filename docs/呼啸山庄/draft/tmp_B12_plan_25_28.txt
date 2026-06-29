@@ -1,0 +1,51 @@
+B12-25 | character_refs: ["C1", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- With that weak, insipid creature watching over her out of a sense of duty and humanity, he might as well plant an oak tree in a flower pot and expect it to grow.
+  译：让那个软弱无聊的家伙出于责任感和人道心守候着她，就像把一棵橡树种在花盆里还指望它成材一样。
+- How can she regain her health in the shallow soil of his love?
+  译：她怎能在他那浅薄的爱中恢复健康？
+- You must decide now, Nelly.
+  译：你现在必须做决定，内莉。
+- Will you stay here while I go to the Grange and find my way into her room, or will you be my friend, as you have been in the past?"
+  译：你是留在这里，让我去画眉田庄想办法进入她的房间，还是像过去一样做我的朋友？"
+
+---
+
+B12-26 | character_refs: ["C7", "C2"] | scene_refs: ["S7"] | 预估格数: 2
+- Well, Mr. Lockwood, I argued, and refused to help him fifty times, but in the end he won.
+  译：好吧，洛克伍德先生，我与他争辩，拒绝了他五十次，但最终他还是赢了。
+- I agreed to carry the letter to my mistress.
+  译：我同意把信带给我的女主人。
+- If she agreed to see Heathcliff, I would inform him of Linton's next absence from the house.
+  译：如果她同意见希斯克利夫，我就把林顿下次离家的时间告诉他。
+- Then he would come to see her.
+  译：那时他就来见她。
+
+---
+
+B12-27 | character_refs: ["C7", "C2"] | scene_refs: ["S7"] | 预估格数: 1
+- Was it right or wrong?
+  译：这样做对还是不对？
+- I fear it was wrong at the time.
+  译：我担心当时是做错了。
+- I hoped to prevent another explosion.
+  译：我希望能阻止另一场风暴。
+- The doctor is coming to see you now, Mr. Lockwood.
+  译：医生现在要来看你了，洛克伍德先生。
+- I will finish my story another time.
+  译：我改天再讲完这个故事。
+
+---
+
+B12-28 | character_refs: ["C7", "C2"] | scene_refs: ["S7"] | 预估格数: 1
+- So saying, Mrs. Dean left the room.
+  译：说完这些，迪恩太太便离开了房间。
+- And what a dismal story it is.
+  译：这是一个多么令人沮丧的故事啊。
+- But never mind, perhaps I can extract good medicine from Mrs. Dean's bitter herbs.
+  译：但无所谓，也许我能从迪恩太太的苦草中提炼出良药。
+- Perhaps it will teach me to be careful of the fascination of Catherine Heathcliff's brilliant eyes.
+  译：也许它能教会我警惕凯西·希斯克利夫那双明眸的魅惑。
+- What if I fell in love with her?
+  译：如果我爱上她了怎么办？
+- And she turned out to be a second edition of her mother.
+  译：而她恰好是她母亲的翻版。

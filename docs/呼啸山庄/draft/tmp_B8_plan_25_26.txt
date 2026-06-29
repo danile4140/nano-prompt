@@ -1,0 +1,19 @@
+B8-25 | character_refs: ["C3b", "C1", "C7", "C8"] | scene_refs: ["S9"] | 预估格数: 2
+- By this time there was a great thunderstorm, and wind and rain were lashing the moors.
+  译：此时已经刮起了大雷雨，狂风暴雨横扫荒野。
+- I told Cathy that Heathcliff had heard part of what she had said to me, and now he was nowhere to be found.
+  译：我告诉凯茜，希斯克利夫已经听见了她对我说的一部分话，而现在他已不知所踪。
+- She cried out as if in pain and ran to find him herself.
+  译：她痛苦地大声呼喊，自己跑出去寻找他。
+- She ran to the top of the hill and called out his name.
+  译：她跑到山顶，呼喊着他的名字。
+- Then she sent Joseph out to search for him on the moor, and I went to look for him in the barn, but none of us found him.
+  译：然后她让约瑟夫去荒野上搜寻他，我去谷仓找，但我们谁都没有找到他。
+- We did not see Heathcliff again that night or for years to come.
+  译：那天夜里以及此后多年，我们再也没有见到希斯克利夫。
+
+B8-26 | character_refs: ["C2", "C7"] | scene_refs: ["S7"] | 预估格数: 1
+- At this point Mrs. Dean looked at the clock. "My goodness, Mr. Lockwood, it's midnight. I must be off and let you sleep."
+  译：说到这里，迪恩太太看了看钟。"天哪，洛克伍德先生，已经午夜了。我得走了，让您休息吧。"
+- And indeed I did want to sleep. I felt weak and ill, with aching head and limbs.
+  译：我确实想睡了。我感到虚弱不适，头疼腿酸。

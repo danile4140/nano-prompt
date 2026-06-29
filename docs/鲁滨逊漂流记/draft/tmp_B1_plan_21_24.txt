@@ -1,0 +1,49 @@
+B1-21 | character_refs: ["C1", "C7"] | scene_refs: ["S2"] | 预估格数: 2
+- Perhaps that is why my ship founded.
+  译：也许正因为如此，我的船才沉没。
+- You are like Jonah of the Bible story.
+  译：你就像《圣经》故事里的约拿。
+- I am sorry I ever allowed you on my ship.
+  译：我真后悔当初让你登上我的船。
+
+B1-22 | character_refs: ["C1"] | scene_refs: ["S2"] | 预估格数: 1
+- I went to London by land, how unwise young people are.
+  译：我取道陆路去了伦敦，年轻人是多么不明智。
+- They are not afraid to sin, but they are afraid to seem foolish.
+  译：他们不怕犯罪，却害怕显得愚蠢。
+- I signed up for a voyage to Africa.
+  译：我报名参加了一次前往非洲的航行。
+- I should have signed up as a sailor, I could have learnt the sailor's profession.
+  译：我本应以水手身份报名，这样我可以学到航海的技艺。
+- In time, I might even have become a captain.
+  译：假以时日，我甚至可能成为一名船长。
+- However, I always made the worst choice and I chose to go to sea as a gentleman.
+  译：然而我总是做出最糟的选择，我选择以绅士身份出海。
+
+B1-23 | character_refs: ["C1", "C8"] | scene_refs: ["S3"] | 预估格数: 2
+- Therefore I had no duties on the ship, and I had no chance of learning to be a sailor.
+  译：因此船上没有我的职责，我也没有机会学习成为一名水手。
+- I met the captain of a ship that had been on the coast of Africa.
+  译：我遇到了一位曾去过非洲海岸的船的船长。
+- He had made good profits from the voyage and was eager to go again.
+  译：他从那次航行中获利颇丰，渴望再次前往。
+- He asked me to go with him as his companion.
+  译：他邀请我作为他的同伴一同前往。
+- He said that I need not pay for the voyage.
+  译：他说我不需要为这次航行支付费用。
+- If I had any money, he said, he would show me how to make a profit in trade.
+  译：他说如果我有些钱，他会教我如何在贸易中获利。
+
+B1-24 | character_refs: ["C1", "C8"] | scene_refs: ["S3"] | 预估格数: 1
+- I accepted the offer and became friends with the captain, who was a good and honest man.
+  译：我接受了邀请，与船长成了朋友，他是个善良诚实的人。
+- Following the captain's advice, I spent about forty pounds on things of little value, these I could trade for gold on the coast of Africa.
+  译：听从船长的建议，我花了约四十英镑买了些不值钱的小物件，这些东西可以在非洲海岸换取黄金。
+- The voyage was a great success for me.
+  译：这次航行对我而言非常成功。
+- Indeed, it was my only successful voyage.
+  译：事实上，这是我唯一一次成功的航行。
+- My friend the captain taught me the skills of both a sailor and a merchant.
+  译：身为船长的朋友教会了我水手和商人的双重技能。
+- I brought home five pounds nine ounces of gold, which I sold in London for nearly three hundred pounds.
+  译：我带回了五磅九盎司的黄金，在伦敦出售后换得近三百英镑。

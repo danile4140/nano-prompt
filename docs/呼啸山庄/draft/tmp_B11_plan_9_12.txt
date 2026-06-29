@@ -1,0 +1,37 @@
+B11-9 | character_refs: ["C3b", "C7"] | scene_refs: ["S7"] | 预估格数: 2
+- On the third day, Catherine asked for some water and food.
+  译：第三天，凯瑟琳要了些水和食物。
+- She said she was dying.
+  译：她说她快死了。
+- I was still sure it was all an act.
+  译：我仍然确信这不过是在演戏。
+- I brought her some tea and toast and she ate it hungrily.
+  译：我给她带来了一些茶和烤面包，她饥渴地吃了起来。
+
+B11-10 | character_refs: ["C3b", "C7"] | scene_refs: ["S7"] | 预估格数: 3
+- "Where is Edgar? Nay, what is he doing?" she asked.
+  译："埃德加在哪里？不，他在做什么？"她问。
+- "He's reading in his study, madam," said I.
+  译："他在书房读书，夫人，"我说。
+- "Reading? Doesn't he know that I'm dying? Haven't you told him, Nelly?"
+  译："读书？他难道不知道我快死了吗？你没告诉他吗，内莉？"
+- "No, I haven't."
+  译："没有，我没告诉他。"
+
+B11-11 | character_refs: ["C3b", "C7"] | scene_refs: ["S7"] | 预估格数: 2
+- "Then go and tell him now, tell him that I am starving myself. Tell him how pale and thin I look."
+  译："那现在去告诉他，告诉他我在绝食。告诉他我看起来有多苍白憔悴。"
+- "I shall tell him you just ate some toast and drank some tea, and you seemed to enjoy them."
+  译："我会告诉他，您刚刚吃了烤面包、喝了茶，而且似乎吃得很香。"
+- "If I were sure it would kill him, I would kill myself right now," she said suddenly.
+  译："如果我确定这样会害死他，我现在就自尽，"她突然说道。
+
+B11-12 | character_refs: ["C3b", "C7"] | scene_refs: ["S7"] | 预估格数: 3
+- "These three awful nights I have not slept at all! I have been tormented, Nelly, but now I see that you don't like me.
+  译："这三个可怕的夜晚我根本没有睡着！我一直在受折磨，内莉，但现在我看出来你不喜欢我了。
+- How strange! I thought that everyone loved me, even though they hated and despised each other.
+  译：真奇怪！我以为所有人都爱我，尽管他们彼此憎恨鄙视。
+- But now I see that they are all my enemies.
+  译：但现在我看出来他们都是我的敌人了。
+- How sad to die surrounded by enemies!
+  译：被敌人包围着死去，多么悲哀！

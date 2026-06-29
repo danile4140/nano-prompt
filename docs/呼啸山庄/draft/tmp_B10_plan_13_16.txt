@@ -1,0 +1,35 @@
+B10-13 | character_refs: ["C7", "C11"] | scene_refs: ["S5"] | 预估格数: 2
+- I saw Joseph the other day, and he told me that Mr. Earnshaw has got worse since Heathcliff arrived.
+  译：前几天我见到约瑟夫，他告诉我希斯克利夫到来后恩肖先生愈发堕落了。
+- They sit up all night together, drinking and gambling.
+  译：他们整夜坐在一起喝酒赌博。
+- Hindley has borrowed a lot of money from Heathcliff, offering the house and the land as a security.
+  译：辛德利向希斯克利夫借了大笔钱，以房屋和土地作抵押。
+- Joseph says that Hindley is galloping down the road to hell, and Heathcliff is running before him, opening all the gates.
+  译：约瑟夫说，辛德利正飞奔在通往地狱的路上，而希斯克利夫跑在前面，为他一扇扇地开门。
+- Do you want such a man for a husband, miss?"
+  译：你愿意嫁给这样的男人吗，小姐？"
+
+B10-14 | character_refs: ["C11", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- "You are on Cathy's side," cried the infatuated girl.
+  译："你是站在凯西那边的，"那个痴迷的女孩喊道。
+- "You're just saying these things to keep me from being happy."
+  译："你说这些只是为了不让我幸福。"
+
+B10-15 | character_refs: ["C1", "C3b", "C11"] | scene_refs: ["S5"] | 预估格数: 2
+- The next day, Heathcliff came to visit.
+  译：第二天，希斯克利夫前来拜访。
+- Catherine and Isabella were sitting in silence together when he arrived.
+  译：他到来时，凯瑟琳和伊莎贝拉正沉默地坐在一起。
+
+B10-16 | character_refs: ["C3b", "C1", "C11"] | scene_refs: ["S5"] | 预估格数: 3
+- "Ah!" cried Catherine when he came in.
+  译："啊！"凯瑟琳在他进来时喊道。
+- "Heathcliff, here at last is someone who loves you more than I do!
+  译："希斯克利夫，终于来了，这里有一个人比我更爱你！
+- No, don't look at Nelly, it's not her.
+  译：不，不要看内莉，不是她。
+- It's my poor little sister-in-law who's breaking her heart over you.
+  译：是我可怜的小姑子在为你心碎。
+- If you wish, you can be Edgar's brother.
+  译：若你愿意，你可以成为埃德加的兄弟。

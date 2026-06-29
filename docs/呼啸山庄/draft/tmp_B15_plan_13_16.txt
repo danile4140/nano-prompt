@@ -1,0 +1,45 @@
+B15-13 | character_refs: ["C6", "C5", "C7"] | scene_refs: ["S1"] | 预估格数: 3
+- "If you knew whose house this was, you would be glad to leave," I said.
+  译："若你知道这是谁的宅子，你便会乐意离开的，"我说。
+- "Is it your father's house?" said Cathy, turning to Hareton.
+  译："这是你父亲的宅子吗？"凯西转向哈顿问道。
+- He blushed red, and did not reply.
+  译：他脸涨得通红，没有回答。
+- "Or is it your master's house?"
+  译："还是你主人的宅子？"
+- "I see now you are a servant."
+  译："我明白了，你是个仆人。"
+
+B15-14 | character_refs: ["C6", "C5"] | scene_refs: ["S1"] | 预估格数: 3
+- "Well, then, you should get my horse, and I will go home."
+  译："那好，你去牵我的马，我要回家了。"
+- "You should have told me you were a servant."
+  译："你早该告诉我你是个仆人的。"
+- "Damn you!"
+  译："该死的！"
+- "I'm not a servant!" cried Hareton, furiously.
+  译："我不是仆人！"哈顿愤怒地喊道。
+
+B15-15 | character_refs: ["C6", "C7", "C13"] | scene_refs: ["S1"] | 预估格数: 3
+- "What, Nelly!"
+  译："什么，内莉！"
+- "Did you hear what he said to me?"
+  译："你听见他对我说什么了吗？"
+- "How dare he!"
+  译："他怎么敢！"
+- "Well, miss," said the housekeeper.
+  译："小姐，"管家说道。
+- "You shouldn't tell him what to do."
+  译："你不该命令他做事的。"
+- "He is not a servant."
+  译："他不是仆人。"
+
+B15-16 | character_refs: ["C6", "C5", "C13"] | scene_refs: ["S1"] | 预估格数: 3
+- "He is your cousin."
+  译："他是你的表兄。"
+- "My cousin!" exclaimed Cathy, staring at his long hair and dirty clothes.
+  译："我的表兄！"凯西惊呼，盯着他的长发和脏衣裳。
+- "He can't be."
+  译："不可能。"
+- "My father has gone to get my cousin and bring him home to live with us."
+  译："我父亲去接我表兄回来和我们一起住了。"

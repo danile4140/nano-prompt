@@ -1,0 +1,33 @@
+B2-25 | character_refs: ["C1"] | scene_refs: ["S17"] | 预估格数: 3
+- Every day I went out hunting there were goats on the island.
+  译：我每天外出打猎，岛上有山羊。
+- I shot a she goat that had a little kid by her.
+  译：我射杀了一只身边带着小羊羔的母山羊。
+- This made me very sad.
+  译：这让我非常难过。
+
+B2-26 | character_refs: ["C1"] | scene_refs: ["S12"] | 预估格数: 2
+- When I carried the dead she goat to my house, the kid followed me, but it would not eat.
+  译：当我把死山羊扛回住所时，小羊羔跟着我，但它不肯吃东西。
+- I was therefore forced to kill it and eat it.
+  译：我因此不得不杀了它，把它吃掉。
+
+B2-27 | character_refs: ["C1"] | scene_refs: ["S12"] | 预估格数: 2
+- I thought about my situation a lot.
+  译：我反复思考自己的处境。
+- The storm had blown the ship hundreds of miles away from the European trading routes.
+  译：那场暴风雨把船吹到了远离欧洲贸易航线数百英里的地方。
+- Therefore, I thought it was god's will that I should spend the rest of my life on this miserable island.
+  译：因此，我认为这是上帝的旨意，要我在这座苦难的岛屿上度过余生。
+- I often ask myself why god chose to ruin his creatures.
+  译：我常常自问，上帝为何要毁灭他的造物。
+
+B2-28 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: 3
+- It seemed hardly rational to be thankful for such a life.
+  译：为这样的生活感恩，似乎毫无道理。
+- Then one day when I was walking on the beach with my gun, I thought, certainly you are miserable, but what happened to the others?
+  译：后来有一天，我拿着枪在海滩上漫步，心想：你固然可怜，但其他人的遭遇呢？
+- You alone were fortunate enough to survive.
+  译：只有你有幸存活下来。
+- Is it better to be on this island or at the bottom of the sea?
+  译：待在这座岛上，还是沉在海底，哪个更好？

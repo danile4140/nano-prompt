@@ -1,0 +1,55 @@
+B1-29 | character_refs: ["C1", "C12"] | scene_refs: ["S4", "S5"] | 预估格数: 2
+- We sailed along the coast of Africa, close to the shore.
+  译：我们沿着非洲海岸行驶，紧贴岸边。
+- Sometimes we heard lions and other wild beasts.
+  译：有时我们能听到狮子和其他野兽的叫声。
+- We needed fresh water, but we were afraid to go ashore for fear of wild beasts and savages.
+  译：我们需要淡水，但因害怕野兽和土著，不敢靠岸。
+- Julie said that he would go ashore to get water and I should wait in the boat.
+  译：祖里说他愿意上岸去取水，让我在船上等待。
+- Why should you go, Zuri I asked.
+  译：为什么是你去，祖里？我问道。
+- Why should I not go and you wait in the boat jury replied in words that made me love him ever after, if wild men come, they will eat me and you will escape.
+  译：为什么不该是我去而你留在船上？祖里用让我此后永远爱他的话回答道：如果野人来了，他们会吃掉我，而你可以逃走。
+
+B1-30 | character_refs: ["C1", "C12"] | scene_refs: ["S5"] | 预估格数: 2
+- Well I said, we will both go.
+  译：那好，我说，我们两个都去。
+- If wild men come, we will kill them, and they will eat neither of us
+  译：如果野人来了，我们就杀掉他们，他们谁也吃不了。
+- we went to shore and got fresh water.
+  译：我们上了岸，取到了淡水。
+- As we were returning to the boat, we saw a lion on the beach.
+  译：正当我们返回船上时，我们看见沙滩上有一头狮子。
+- I aimed my gun and shot
+  译：我瞄准开枪射击。
+- Julie and I took the skin off the lion, but I thought it might be of some value.
+  译：祖里和我剥下了狮皮，我想它或许有些用处。
+
+B1-31 | character_refs: ["C1", "C12"] | scene_refs: ["S5"] | 预估格数: 2
+- We sailed along the coast for ten days.
+  译：我们沿海岸航行了十天。
+- I hoped that we would meet a European trading ship and be saved, but we did not meet one.
+  译：我希望我们能遇到一艘欧洲贸易船并获救，但我们一艘也没遇到。
+- Sometimes we saw people on the shore, their skin was black and they were naked.
+  译：有时我们看见岸边有人，他们皮肤黝黑，赤身裸体。
+- Once I thought of going ashore to meet them, but Julie advised against it.
+  译：有一次我想上岸去跟他们打交道，但祖里劝我不要。
+- I made signs to them that we needed food.
+  译：我向他们打手势，表示我们需要食物。
+- They brought meat and grain and left it on the beach for us.
+  译：他们带来了肉和谷物，放在沙滩上给我们。
+
+B1-32 | character_refs: ["C1", "C12"] | scene_refs: ["S5"] | 预估格数: 2
+- I made signs to thank them but had nothing to give them in payment.
+  译：我打手势向他们道谢，却没有什么东西回赠。
+- However, we soon had the chance to do him a great service.
+  译：然而，我们很快就有机会为他们做了一件大好事。
+- Just as we reached our boat, a leopard came running down from the mountain towards the beach.
+  译：就在我们回到船边时，一头豹子从山上向沙滩奔来。
+- I shot it dead.
+  译：我一枪将它打死。
+- The negroes were amazed and terrified by the sound of my gun.
+  译：那些黑人被我枪声惊呆了，也十分恐惧。
+- When they saw that the leopard was dead, they approached him.
+  译：当他们看见豹子已死，便走近它。

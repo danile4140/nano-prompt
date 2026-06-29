@@ -1,0 +1,43 @@
+B6-25 | character_refs: ["C1b", "C17"] | scene_refs: ["S7"] | 预估格数: 2
+- What was an English ship doing here, far from the English trading routes?
+  译：一艘英国船为何会出现在这里，远离英国的贸易航线？
+- I decided to be cautious.
+  译：我决定谨慎行事。
+- Now I am sure that these doubts were messages sent from god.
+  译：如今我确信，这些疑虑正是上帝传给我的信号。
+- If I had not been cautious, I would have been.
+  译：若非我保持谨慎，后果将不堪设想。
+
+B6-26 | character_refs: ["C1b", "C14b", "C17"] | scene_refs: ["S25"] | 预估格数: 2
+- I saw the boat land on the beach.
+  译：我看见那艘小船在海滩上靠岸。
+- There were eleven men.
+  译：船上共有十一个人。
+- Three of them were bound with the ropes.
+  译：其中三人被绳子捆绑。
+- The three prisoners were crying out to the others, begging for mercy.
+  译：三名俘虏向其他人哭喊，苦苦求饶。
+- Friday, who was by my side, said to me, oh master, you see, englishman is prisoners too.
+  译：星期五站在我身旁，对我说："哦，主人，您看，那些英国人也是俘虏啊。"
+
+B6-27 | character_refs: ["C1b", "C14b", "C17"] | scene_refs: ["S25"] | 预估格数: 2
+- No, Friday said I, they might murder them, but they will not eat them
+  译："不，星期五，"我说，"他们可能会杀死这些人，但不会吃掉他们。"
+- at about two o'clock in the afternoon the prisoners were left alone under a tree.
+  译：下午两点左右，俘虏们被单独留在一棵树下。
+- The other man had gone into the woods to sleep
+  译：其他人进入丛林去睡觉了。
+- Friday, and I took our guns and went down to show ourselves to the prisoners.
+  译：于是我和星期五拿起枪，下山去向俘虏们现身。
+
+B6-28 | character_refs: ["C1b", "C17"] | scene_refs: ["S25"] | 预估格数: 2
+- When I was a very near to them, but still hidden by the bushes, I cried out, who are you, gentlemen
+  译：当我离他们很近却仍藏在灌木丛中时，我高声喊道："先生们，你们是什么人？"
+- they were frightened by my voice,
+  译：他们被我的声音吓了一跳，
+- but they were even more frightened when I stepped out into the open.
+  译：但当我走出来现身时，他们更加惊恐了。
+- I was wearing my goatskin jacket and my hat.
+  译：我穿着山羊皮短上衣，戴着宽沿帽。
+- A naked sword hung by my side.
+  译：腰间挂着一把裸剑。

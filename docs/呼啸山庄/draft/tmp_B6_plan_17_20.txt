@@ -1,0 +1,45 @@
+B6-17 | character_refs: ["C1", "C3b", "C7", "C10", "C11"] | scene_refs: ["S1"] | 预估格数: 2
+- So I chattered on, and gradually Heathcliff stopped frowning and began to smile.
+  译：我就这样喋喋不休地说着，希斯克利夫渐渐停止了蹙眉，开始露出笑容。
+- Then we heard the Lintons' carriage arriving, and behind them the Earnshaws on their horses.
+  译：然后我们听到林顿家的马车到来，恩肖家的人骑着马跟在后面。
+- They always went to church on horseback.
+  译：他们总是骑马去做礼拜。
+- Catherine brought Edgar and Isabella into the sitting room and set them down by the fire, which soon put a little color into their white faces.
+  译：凯瑟琳把埃德加和伊莎贝拉带进客厅，让他们坐在火边，苍白的脸颊很快便有了些血色。
+- I told Heathcliff to hurry into the sitting room and present himself, and he willingly obeyed.
+  译：我叫希斯克利夫赶快进客厅去露面，他愿意地照做了。
+
+B6-18 | character_refs: ["C1", "C4", "C7", "C8"] | scene_refs: ["S1"] | 预估格数: 3
+- Unfortunately, as he entered the sitting room, he met Hindley, who pushed him back towards the kitchen, crying, "Joseph, keep Heathcliff out of the sitting room."
+  译：然而不巧，他刚走进客厅，就遇到了辛德利，辛德利把他推回厨房方向，喊道："约瑟夫，把希斯克利夫挡在客厅外面。"
+- "Oh, sir," I said, "let him stay. He will be good."
+  译："哦，先生，"我说，"让他留下来吧。他会乖的。"
+- "Go away, you vagabond! Look at this, how clean and elegant you are?"
+  译："走开，你这流浪汉！瞧瞧你，弄得干干净净、体体面面的！"
+
+B6-19 | character_refs: ["C1", "C4", "C10"] | scene_refs: ["S1"] | 预估格数: 3
+- "I'll pull your hair till it is even longer."
+  译："我要把你的头发拽得更长。"
+- "It's long enough already," said Edgar Linton. "It looks like a horse's mane."
+  译："已经够长了，"埃德加·林顿说，"看起来像马鬃。"
+- Edgar did not mean to be insulting, but Heathcliff could not bear this remark from someone he already considered a rival.
+  译：埃德加并无恶意，但希斯克利夫无法忍受这话出自他早已视为对手之人之口。
+- He picked up a bowl of hot apple sauce and threw it over Edgar, who immediately burst into tears.
+  译：他抓起一碗热苹果酱泼向埃德加，埃德加立刻大哭起来。
+- Catherine and Isabella ran over to his side.
+  译：凯瑟琳和伊莎贝拉都跑到他身旁。
+
+B6-20 | character_refs: ["C1", "C3b", "C4", "C9", "C10", "C11"] | scene_refs: ["S1"] | 预估格数: 3
+- Hindley grabbed Heathcliff and took him into his room, where I have no doubt he hit him.
+  译：辛德利抓住希斯克利夫，把他拖进房间，我毫不怀疑他揍了他。
+- Because when Hindley returned, his face was red and his breathing heavy.
+  译：因为辛德利回来时，脸色通红、呼吸粗重。
+- Isabella started weeping and saying that she wanted to go home.
+  译：伊莎贝拉开始哭泣，说她想回家。
+- Cathy stood there blushing for everyone.
+  译：凯茜站在那里，替所有人感到难为情，满脸通红。
+- She tried to cheer everyone up.
+  译：她试图让大家振作起来。
+- "Come, come," she said. "There is a delicious lunch waiting for us. Let's forget about this unfortunate incident and enjoy ourselves."
+  译："来来来，"她说，"有一顿丰盛的午餐在等着我们。让我们忘掉这次不幸的事件，好好享受吧。"

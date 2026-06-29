@@ -1,0 +1,39 @@
+B17-13 | character_refs: ["C1", "C6b", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- Lonely like the devil, and envious like him!
+  译：像魔鬼一样孤独，像他一样嫉妒！
+- Nobody loves you.
+  译：没有人爱你。
+- Nobody will cry when you die.
+  译：当你死的时候，没有人会哭泣。
+- I wouldn't be you."
+  译：我不愿意成为你。"
+- She ran upstairs to pack her things.
+  译：她跑上楼去收拾行李。
+
+B17-14 | character_refs: ["C1", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- Heathcliff stood by the fire, looking at the portraits of my master and mistress.
+  译：希斯克利夫站在炉火旁，凝视着主人和女主人的肖像。
+- "I will take her portrait back to Wuthering Heights," he said.
+  译："我要把她的肖像带回呼啸山庄，"他说。
+- "I don't need it, but –"
+  译："我不需要它，但是——"
+- He turned away from the fire with a strange smile on his face.
+  译：他带着一种奇异的微笑，从炉火旁转过身来。
+
+B17-15 | character_refs: ["C1", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- "I will tell you what I did yesterday.
+  译："我来告诉你我昨天做了什么。
+- I asked the man who was digging Edgar Linton's grave to remove the earth of her coffin lid and I opened it.
+  译：我请挖掘埃德加·林顿坟墓的人移开了她棺盖上的土，然后我打开了它。
+- When I saw her face, it is still her face.
+  译：当我看见她的脸时，还是她的脸。
+- I thought I would stay there forever, but the man told me that the air would damage her face, so I covered her up again.
+  译：我以为我会永远待在那里，但那人告诉我空气会损坏她的脸，所以我又把她盖上了。
+- But then I removed one side of her coffin.
+  译：但后来我移开了她棺材的一侧。
+
+B17-16 | character_refs: ["C1", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- Not the side next to Linton, damn him!
+  译：不是挨着林顿那一侧，该死的！
+- I paid the man some money and he agreed to bury me beside her, on the side where her coffin is open, and to leave the side of my coffin open too, so that by the time Edgar Linton gets to us he won't know which is which."
+  译：我给了那人一些钱，他答应把我葬在她旁边，就在她棺材开着的那一侧，也把我的棺材那一侧打开，这样等埃德加·林顿到达我们身边时，他就分不清哪个是哪个了。"

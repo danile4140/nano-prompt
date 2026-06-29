@@ -1,0 +1,43 @@
+B2-17 | character_refs: ["C2", "C1"] | scene_refs: ["S1"] | 预估格数: 2
+- "Perhaps one of your servants could show me the way back to Thrushcross Grange."
+  译：「也许您的某位仆人可以带我回画眉田庄？」
+- "Certainly not."
+  译：「绝对不行。」
+- "Well, then, I must try to find the way alone."
+  译：「那么，我只好独自摸路回去了。」
+
+B2-18 | character_refs: ["C5", "C6b", "C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- The shabby young man turned to the mistress and said, "Are you going to make the tea?"
+  译：那邋遢的年轻人转向女主人说：「你来泡茶吗？」
+- "Is he having tea with us?" she asked Heathcliff, pointing at me.
+  译：「他也要和我们一起喝茶吗？」她指着我问希斯克利夫。
+- "Get it ready, will you?" Was the answer spoken so savagely that I started.
+  译：「去准备吧！」这回答说得如此粗暴，令我一惊。
+- The tone in which the words were said revealed a genuine bad nature.
+  译：那话语的口吻暴露了他天生的恶劣性情。
+- I no longer thought that Heathcliff was a fine fellow.
+  译：我再也不认为希斯克利夫是个好人了。
+
+B2-19 | character_refs: ["C1", "C2", "C5", "C6b"] | scene_refs: ["S1"] | 预估格数: 1
+- "Now, sir," he said to me, "bring your chair forward."
+  译：「好了，先生，」他对我说，「把椅子拉过来吧。」
+- And we all sat down to tea, including the rustic youth.
+  译：我们都坐下来喝茶，包括那个粗犷的年轻人。
+- We ate in silence.
+  译：大家默默地吃着。
+- I thought it was my presence that made them so grim and taciturn.
+  译：我以为是我的到来使他们如此阴沉寡言。
+- Surely they were not like that all the time.
+  译：他们平时肯定不是这样的。
+
+B2-20 | character_refs: ["C2", "C1"] | scene_refs: ["S1"] | 预估格数: 2
+- So I tried to make cheerful conversation to alleviate the mood.
+  译：于是我试图通过轻松的话题来缓和气氛。
+- "Many people would think a life of such seclusion could not be a happy one, Mr. Heathcliff, but I am sure that here, surrounded by your family, with your amiable lady—"
+  译：「许多人会认为如此与世隔绝的生活不可能幸福，希斯克利夫先生，但我相信，有家人相伴，有您可爱的夫人——」
+- "My amiable lady," he interrupted, with an almost diabolical sneer on his face. "Where is my amiable lady?"
+  译：「我可爱的夫人？」他打断道，脸上浮现出几乎像魔鬼般的冷笑，「我可爱的夫人在哪里？」
+- "I mean, Mrs. Heathcliff, your wife!"
+  译：「我是说希斯克利夫太太，您的妻子！」
+- "Do you think that her spirit is with me in Wuthering Heights, even though her body is gone?"
+  译：「你以为她的灵魂还留在呼啸山庄，虽然她的身体已经离去了？」

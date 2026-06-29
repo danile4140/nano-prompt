@@ -1,0 +1,37 @@
+B5-21 | character_refs: ["C1", "C3"] | scene_refs: ["S12"] | 预估格数: 3
+- "Well, Edgar and Isabella heard us laughing, and they cried out, 'Oh, Mamma! Oh, Papa!'
+  译："埃德加和伊莎贝拉听到我们的笑声，大喊起来：'哦，妈妈！哦，爸爸！'"
+- Cathy and I decided to run away, but as we were running, she fell.
+  译：凯西和我决定逃跑，但跑着跑着，她摔倒了。
+- They had left the dogs loose, and one of them had Cathy's ankle in his teeth.
+  译：他们把狗放开了，其中一只咬住了凯西的脚踝。
+- 'Run, Heathcliff,' she whispered.
+  译："跑，希斯克利夫，"她低声说。
+- She was not crying at all, even though it must have been very painful.
+  译：她一点都没有哭，尽管那一定非常痛。
+- I tried to open the dog's mouth to free Cathy's ankle.
+  译：我试图扳开狗的嘴，解开凯西的脚踝。
+
+B5-22 | character_refs: ["C1", "C3", "C10", "C11"] | scene_refs: ["S5"] | 预估格数: 3
+- Just then the servants ran up.
+  译：就在这时，仆人们跑了过来。
+- They took us to the house.
+  译：他们把我们带进了屋子。
+- Mr. and Mrs. Linton were horrified at the sight of us.
+  译：林顿先生和夫人见到我们的样子，大为震惊。
+- They said I looked like a gypsy, and that no doubt we were thieves.
+  译：他们说我看起来像个吉普赛人，我们无疑是一伙贼。
+- Then Edgar Linton recognized Cathy.
+  译：然后埃德加·林顿认出了凯西。
+- 'Why, it is Miss Earnshaw,' he said.
+  译："哎，这不是恩肖小姐吗，"他说。
+
+B5-23 | character_refs: ["C1", "C3", "C11"] | scene_refs: ["S5"] | 预估格数: 2
+- 'Nonsense!' cried Miss Linton.
+  译："胡说！"林顿小姐喊道。
+- 'Why would Miss Earnshaw be running around the moor barefoot with a gypsy?'
+  译："恩肖小姐为何会光着脚和一个吉普赛人在荒野上乱跑？"
+- But finally she believed it, and then she felt sorry that her dog had made Cathy's ankle bleed, and she called a doctor and said Cathy must stay as her guest.
+  译：但最终她相信了，随后又为自己的狗咬伤了凯西的脚踝感到抱歉，她请来了医生，说凯西必须作为她的客人留下来。
+- But they had not the good manners to invite me to stay with her."
+  译：但他们没有那等好礼数，没有邀请我和她一起留下。"

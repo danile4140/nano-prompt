@@ -1,0 +1,23 @@
+B3-9 | character_refs: ["C1"] | scene_refs: ["S6"] | 预估格数: 3
+- If I go to the bank of England to return the bank note, the bank will ask me lots of questions.
+  译：如果我去英格兰银行还这张钞票，银行会问我很多问题。
+- If I tell the truth, no one will believe me, they will put me in an asylum.
+  译：如果我说实话，没人会相信我，他们会把我关进疯人院。
+- If I tell a lie, the police will put me in prison.
+  译：如果我撒谎，警察会把我关进监狱。
+
+B3-10 | character_refs: ["C1"] | scene_refs: ["S6"] | 预估格数: 2
+- I can't even give it to anyone because no honest person will want it.
+  译：我甚至不能把它给任何人，因为没有诚实的人会要它。
+- I can do only one thing I must keep the bill for a whole month and I must not lose it.
+  译：我只能做一件事——我必须把这张钞票保管整整一个月，绝不能丢失它。
+- If I help the old man to win his bet, he'll give me the job I want.
+  译：如果我帮助老人赢得赌注，他就会给我想要的工作。
+
+B3-11 | character_refs: ["C1"] | scene_refs: ["S6"] | 预估格数: 1
+- The idea of an important job with a big salary made me happy.
+  译：得到一份有高薪的重要工作的想法让我感到高兴。
+
+B3-12 | character_refs: ["C1"] | scene_refs: ["S2"] | 预估格数: 1
+- With this exciting idea in mind, I began walking down the streets of London.
+  译：带着这个令人振奋的想法，我开始在伦敦街头漫步。

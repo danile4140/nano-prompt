@@ -1,0 +1,31 @@
+B3-9 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- I was terrified that the hill would fall upon my tent and bury all my goods.
+  译：我惊恐万分，害怕山体会压垮我的帐篷，把我所有的财物都埋葬掉。
+- I sat on the ground feeling miserable.
+  译：我坐在地上，感到无比悲惨。
+- The wind rose and there was a great storm.
+  译：风起了，紧接着是一场大风暴。
+- It lasted about three hours.
+  译：风暴持续了大约三个小时。
+
+B3-10 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 1
+- At that time, I sat on the ground terrified and miserable.
+  译：当时，我坐在地上，既恐惧又悲惨。
+- But I never had one serious religious thought.
+  译：但我始终没有产生过任何真正虔诚的宗教念头。
+
+B3-11 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- Two hours later, the air and sea were calm and it began to rain.
+  译：两个小时后，天空与海面都平静下来，开始下雨了。
+- I realized that the storm had been the result of the earthquake and that the earthquake was now over.
+  译：我意识到，这场风暴是地震引发的，而地震现在已经结束了。
+- I went in and sat in my tent.
+  译：我回到里面，坐进了帐篷。
+
+B3-12 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: 2
+- June the sixteenth.
+  译：六月十六日。
+- On the beach at the other side of the island, I found a large turtle.
+  译：在岛的另一侧海滩上，我发现了一只大海龟。
+- I had never seen one before, but I soon discovered that there were many on the other side of the island.
+  译：我以前从未见过，但很快我就发现岛的另一侧有很多这样的海龟。

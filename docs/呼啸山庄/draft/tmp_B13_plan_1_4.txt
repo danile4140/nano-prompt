@@ -1,0 +1,29 @@
+B13-1 | character_refs: ["C7"] | scene_refs: ["S7"] | 预估格数: 1
+- Another week has passed and I am nearly well again.
+  译：又过了一周，我几乎完全康复了。
+- I have now heard all my neighbor's story and will write the rest down here in Mrs. Dean's words.
+  译：我已听完邻居的全部故事，将把余下部分用迪恩太太的话记录在此。
+
+B13-2 | character_refs: ["C7", "C10"] | scene_refs: ["S7"] | 预估格数: 2
+- The following Sunday, when my master was at church, I brought Heathcliff's letter to my mistress.
+  译：下个星期天，主人去了教堂，我把希斯克利夫的信送给女主人。
+- All the windows and doors of the house were open to let in the mild spring air, and she was sitting by her bedroom window, wearing a loose white dress.
+  译：房子的所有窗门都敞开着，让温和的春风进来，她坐在卧室窗边，身穿一件宽松的白色连衣裙。
+- "There is a letter for you, madam," I said, and I placed it in her hand.
+  译："太太，有您的信，"我说，把信放在她手里。
+
+B13-3 | character_refs: ["C7", "C10"] | scene_refs: ["S7"] | 预估格数: 2
+- She did not look at it or respond at all.
+  译：她既没有看信，也没有任何回应。
+- After a while I said, "It needs an answer. It is from Mr. Heathcliff."
+  译：过了一会儿我说："信需要回复，是希斯克利夫先生写来的。"
+- She started and looked at the letter with hungry, eager eyes, but clearly she did not understand what it said.
+  译：她猛地一惊，用饥渴热切的眼神看着信，但显然她并不明白信上写的什么。
+- "He asks if he may come and see you," I said.
+  译："他问是否可以来看您，"我说。
+
+B13-4 | character_refs: ["C7", "C10"] | scene_refs: ["S7"] | 预估格数: 1
+- She sighed and leaned back in her chair, but did not respond.
+  译：她叹了口气，往椅背上一靠，但没有回答。
+- It was clear to me that my poor mistress would never be well again.
+  译：我清楚地意识到，我可怜的女主人再也不会康复了。

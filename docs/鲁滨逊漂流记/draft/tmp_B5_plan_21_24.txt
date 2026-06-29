@@ -1,0 +1,41 @@
+B5-21 | character_refs: ["C1"] | scene_refs: ["S12"] | 预估格数: 1
+- I was more contented than before and I enjoyed my home very much.
+  译：我比以前更加满足，也非常享受这个家。
+- I thanked god for allowing me to save the life and perhaps the soul of this poor.
+  译：我感谢上帝让我得以拯救这个可怜人的生命，也许还有他的灵魂。
+- Savage when I thought about these things, I felt a secret joy, and I thanked god for bringing me to this island.
+  译：野蛮人——当我想到这些事时，内心涌起一种隐秘的喜悦，我感谢上帝把我带到这座岛上来。
+- Friday, and I lived happily together on the island for three years.
+  译：星期五和我在岛上一起快乐地生活了三年。
+- The savage was now a good Christian, better indeed than I was myself.
+  译：这个曾经的野蛮人如今成了一名好基督徒，甚至比我还要虔诚。
+
+B5-22 | character_refs: ["C1", "C14b"] | scene_refs: ["S7"] | 预估格数: 3
+- One day I showed him the wreck of the boat in which my companions and I had left our ship Friday, looked at it a long time, then said.
+  译：有一天，我带他去看我和同伴们离船时所用那艘小艇的残骸，星期五盯着它看了很久，然后说道。
+- Was a boat like that came to my nation.
+  译：有一艘和那一样的船来过我们部族。
+- Were they any white men in the boat I asked.
+  译：船上有白人吗？我问道。
+- Yes said Friday, there were seventeen, and what happened to them they live in my nation he said, perhaps these white men were from the ship that I had seen wrecked near my island, I thought but Friday said I, why do the people of your nation not kill and eat the white man we only eat the flesh of our prisoners we catch in battle said he.
+  译：有，星期五说，有十七个；他们后来怎样了？他们住在我们部族里，他说。也许这些白人就是那艘我曾见过在我岛附近触礁的船上的人，我心想。但星期五，我说，你们部族的人为什么不杀了白人吃掉呢？我们只吃在战斗中抓到的俘虏的肉，他说。
+
+B5-23 | character_refs: ["C1", "C14b"] | scene_refs: ["S10"] | 预估格数: 3
+- Sometimes after this, when we were on the hilltop looking out to sea, you saw the coast of America.
+  译：此后有时候，当我们站在山顶眺望大海，看到了美洲的海岸。
+- Oh joy cried Friday.
+  译：哦，太棒了！星期五叫道。
+- There is my country!
+  译：那就是我的国家！
+- There is my nation his eyes shone and his face was eager.
+  译：那就是我的族人！他眼睛发亮，神情急切。
+
+B5-24 | character_refs: ["C1"] | scene_refs: ["S12"] | 预估格数: 1
+- I began to worry if Friday could return to his own nation.
+  译：我开始担心星期五会不会回到自己的部族去。
+- I thought he would forget about me and his new religion.
+  译：我以为他会忘记我和他新信的宗教。
+- Perhaps he would even tell his people about me and return with hundreds of them to eat me.
+  译：也许他甚至会把我的事告诉他的族人，然后带着成百上千人回来把我吃掉。
+- I worried about this for several weeks, the one day I asked him Friday, would you like to return to your own nation oh yes said Friday, that would make me very happy.
+  译：我为此担忧了好几个星期，直到有一天我问他：星期五，你想回到自己的部族去吗？哦，是的，星期五说，那会让我非常高兴。

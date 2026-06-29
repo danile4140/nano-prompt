@@ -1,0 +1,41 @@
+B3-5 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- Then I remembered shaking out the bag in that place just before the rains came.
+  译：然后我想起来，就在雨季来临之前，我曾在那个地方抖过那只袋子。
+- This calmed my mind.
+  译：这一念头让我平静下来。
+- I thought the grain had grown there by chance, and so I felt less thankful to god.
+  译：我认为粮食是偶然生长于此的，因此我对上帝的感恩之情减淡了。
+- But I should have been thankful anyway because the chance of grain growing there was very small.
+  译：但无论如何我都应该感恩，因为粮食在那里生长的概率本来是极小的。
+
+B3-6 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- By chance, ten or twelve grains of barley and rice had remained in the bottom of the bag.
+  译：偶然间，袋底残留了十到十二粒大麦和水稻种子。
+- By chance I had shaken out the bag in the shade of the rock where it was projected from the sun.
+  译：偶然间，我在岩石遮荫处抖出了袋子，那里避开了阳光直射。
+- I carefully saved the grain to plant again.
+  译：我小心翼翼地将这些种子保存起来，准备再次播种。
+- Hoping to grow enough to supply me with bread.
+  译：希望种出足够的粮食，为自己提供面包。
+
+B3-7 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- April the sixteenth I finished my letter.
+  译：四月十六日，我完成了（梯子的）制作。
+- With this I could climb over the fence.
+  译：有了它，我就能翻越栅栏。
+- The fence was now thick and high.
+  译：栅栏现在又厚又高。
+- From outside, the house could not be seen.
+  译：从外面根本看不见我的房子。
+- At last I was safe from attack by man or beast.
+  译：我终于安全了，不再惧怕人类或野兽的袭击。
+
+B3-8 | character_refs: ["C1"] | scene_refs: ["S11", "S13"] | 预估格数: 3
+- The next day, the earth came falling down from the roof of my cave and the hill above it.
+  译：第二天，山洞顶部和上方山坡的泥土哗哗地往下掉落。
+- I thought that my cave was falling in as it had done before.
+  译：我以为山洞像以前一样要塌陷了。
+- I climbed the fence for fear of being buried alive.
+  译：我因害怕被活埋而翻越了栅栏。
+- Once outside, I realized that it was an earthquake.
+  译：一出去，我才意识到这是一场地震。

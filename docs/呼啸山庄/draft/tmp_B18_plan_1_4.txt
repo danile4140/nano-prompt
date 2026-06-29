@@ -1,0 +1,35 @@
+B18-1 | character_refs: ["C2", "C5"] | scene_refs: ["S2"] | 预估格数: 2
+- Eighteen o two.
+  译：一八〇二年。
+- In the second week of January I was feeling stronger, so I rode over to Wuthering Heights to tell my landlord that I would leave Thrushcross Grange.
+  译：一月的第二周，我感到身体好多了，便骑马去了呼啸山庄，告诉房东我将离开画眉田庄。
+- Hareton Earnshaw let me in.
+  译：哈顿·恩肖为我开了门。
+- I took more notice of him this time.
+  译：这一次我更留意地打量了他。
+- He was a handsome lad, but his manner was very rough.
+  译：他是个英俊的小伙子，但举止十分粗鲁。
+
+B18-2 | character_refs: ["C2", "C5"] | scene_refs: ["S1"] | 预估格数: 2
+- I asked if Mr. Heathcliff were at home.
+  译：我问希斯克利夫先生是否在家。
+- He told me that Heathcliff was out, but would return for dinner.
+  译：他告诉我希斯克利夫出去了，但会回来吃晚饭。
+- I said that I would wait for him.
+  译：我说我会等他回来。
+
+B18-3 | character_refs: ["C2", "C6b"] | scene_refs: ["S1"] | 预估格数: 1
+- Catherine was in the sitting room preparing some vegetables for dinner.
+  译：凯瑟琳正在客厅里备菜准备晚饭。
+- She seemed sadder and less spirited than before.
+  译：她看起来比以前更忧郁，也更无精打采。
+- She did not greet me, but went on with her task as if I were not there.
+  译：她没有向我打招呼，只是继续做她的事，仿佛我根本不在那里。
+
+B18-4 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- When Heathcliff arrived I noticed that he was thinner and had a restless, anxious expression.
+  译：希斯克利夫到来时，我注意到他消瘦了，神情焦躁不安。
+- "I am going to London, Mr. Heathcliff," said I, "and I will not return to Thrushcross Grange.
+  译：「希斯克利夫先生，我要去伦敦，」我说，「我不会再回画眉田庄了。
+- You can find another tenant for October."
+  译：十月份您可以另觅租客。」

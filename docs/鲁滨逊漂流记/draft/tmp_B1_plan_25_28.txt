@@ -1,0 +1,41 @@
+B1-25 | character_refs: ["C1", "C9"] | scene_refs: ["S3"] | 预估格数: 2
+- Soon after our return to England, my friend died.
+  译：我们回到英格兰后不久，我的朋友便去世了。
+- I decided to do the same voyage again and signed up on the same ship with its new captain.
+  译：我决定再次进行同样的航行，与新船长一同报名乘坐同一艘船。
+- As we approached the coast of Africa, we were pursued by a Turkish ship.
+  译：当我们接近非洲海岸时，一艘土耳其船开始追赶我们。
+- After a short battle, the Turkish ship was victorious and we were all taken as prisoners to the port of sale.
+  译：经过短暂的交战，土耳其船获胜，我们全都被俘押往萨利港。
+
+B1-26 | character_refs: ["C1", "C10"] | scene_refs: ["S3"] | 预估格数: 2
+- The captain of the Turkish ship made me his slave.
+  译：土耳其船的船长把我变成了他的奴隶。
+- I was horrified by this surprising change from merchant to miserable slave.
+  译：我对这一从商人到悲惨奴隶的骤变感到无比恐惧。
+- I remembered my father's prophecy that I would be miserable, and I realized that it had indeed been fulfilled.
+  译：我想起了父亲预言我将会悲惨，意识到那预言确实应验了。
+- After about two years of slavery, I saw my chance of escape.
+  译：在约两年的奴役之后，我看到了逃脱的机会。
+
+B1-27 | character_refs: ["C1", "C11", "C12"] | scene_refs: ["S4"] | 预估格数: 2
+- One day, my master sent me out fishing with his brother Ismail and a black slave boy called Xury.
+  译：有一天，主人派我与他的兄弟以实玛利和一个名叫祖里的黑人少年奴隶一同出去捕鱼。
+- The fishing boat was full of food, guns and fresh water.
+  译：渔船上装满了食物、枪支和淡水。
+- While we were fishing, I pushed Ismail into the sea.
+  译：趁捕鱼之际，我把以实玛利推进了海里。
+- He cried for help.
+  译：他呼救。
+- I pointed a gun at him and said, I will not hurt you if you do as I say.
+  译：我用枪指着他说，只要你照我说的做，我就不会伤害你。
+- You swim well enough to reach the shore, go swim to shore and leave us alone.
+  译：你的水性足以游到岸边，游上去，别管我们。
+
+B1-28 | character_refs: ["C1", "C11", "C12"] | scene_refs: ["S4"] | 预估格数: 2
+- If you do not, I will shoot you in the head, for I want my liberty Ismail swam away from the ship and I turned to the slave boy.
+  译：如果你不照做，我就一枪打穿你的脑袋，因为我要自由。以实玛利游离了船，我转向那个少年奴隶。
+- Zurich said I if you will be faithful to me, I will make you a great man, if not, I will throw you into the sea too
+  译：祖里，我说道，如果你对我忠诚，我会让你成为了不起的人；若不，我也会把你扔进海里。
+- the boy smiled and promised to be faithful to me.
+  译：那男孩微笑着，答应对我忠诚。

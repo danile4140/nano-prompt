@@ -1,0 +1,11 @@
+B8-21 | character_refs: ["C1b", "C10"] | scene_refs: ["S11"] | 预估格数: 2
+- Then he gave us the cancelled banknote as a wedding present.
+  译：然后他把那张已注销的钞票作为结婚礼物送给了我们。
+- We put it in a picture frame and hung it on the wall in our new home.
+  译：我们把它放进相框，挂在了新家的墙上。
+
+---
+
+B8-22 | character_refs: ["C1b", "C10"] | scene_refs: ["S11"] | 预估格数: 1
+- And so I always say, yes, it's a million pound banknote, but it only bought one thing in its life, the most valuable thing in the world, Porsche.
+  译：所以我总是说，是的，它是一张百万英镑的钞票，但它一生中只买了一样东西——世界上最宝贵的东西，波西亚。

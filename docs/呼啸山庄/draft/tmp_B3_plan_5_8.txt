@@ -1,0 +1,45 @@
+B3-5 | character_refs: ["C2"] | scene_refs: ["S3"] | 预估格数: 2
+- The name Catherine Earnshaw was written on the flyleaf with a date of twenty-five years ago.
+  译：扉页上写着凯瑟琳·恩肖的名字，日期是二十五年前。
+- I looked at all the other books one by one.
+  译：我一本一本地翻看其余所有的书。
+- Catherine's library was well chosen and well used, but the books had not been used in the usual way.
+  译：凯瑟琳的藏书选择得当、使用频繁，但使用方式却不同寻常。
+- She had written a diary in the margins of the books.
+  译：她在书页的空白处写了日记。
+- Every bit of blank space left by the printer was filled with Catherine's childish handwriting.
+  译：印刷商留下的每一处空白，都被凯瑟琳稚嫩的笔迹填满。
+
+B3-6 | character_refs: ["C2", "C3"] | scene_refs: ["S3"] | 预估格数: 2
+- On one page I found, to my delight, an excellent caricature of Joseph.
+  译：在某一页，我惊喜地发现了一幅约瑟夫的精妙漫画素描。
+- I began to feel a keen interest for the unknown Catherine, and so read a little of her diary.
+  译：我开始对这个素未谋面的凯瑟琳产生浓厚兴趣，于是读了一小段她的日记。
+- An awful Sunday!
+  译：糟透了的星期天！
+- I wish my father were back again.
+  译：我希望父亲能回来。
+- Hindley is being horrible to Heathcliff.
+  译：辛德利对希斯克利夫太过分了。
+
+B3-7 | character_refs: ["C3", "C1", "C8"] | scene_refs: ["S1"] | 预估格数: 2
+- H and I are going to rebel.
+  译：H和我要反抗了。
+- We began this evening.
+  译：就从今晚开始。
+- Joseph had made us listen while he gave a sermon three hours long.
+  译：约瑟夫让我们听他布道了整整三个小时。
+- When we came down, Hindley said, "What, have you finished already?"
+  译：当我们下楼时，辛德利说："什么，你们这么快就结束了？"
+
+B3-8 | character_refs: ["C3", "C1", "C4", "C9", "C8"] | scene_refs: ["S1"] | 预估格数: 3
+- He had been enjoying himself by the fire, kissing Frances, and talking nonsense.
+  译：他一直在壁炉旁自得其乐，亲吻弗朗西丝，说着没意义的闲话。
+- H and I were going to play, but Joseph said, "Shame on you!"
+  译：H和我打算去玩耍，约瑟夫却说："你们真不知羞耻！"
+- "Your father was only buried yesterday, and you want to play?"
+  译："你们的父亲昨天才刚下葬，你们就想玩耍？"
+- "You are evil children."
+  译："你们是坏孩子。"
+- "Sit down and read a good book, and think of your souls."
+  译："坐下来读本好书，想想你们的灵魂。"

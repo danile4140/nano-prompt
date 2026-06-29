@@ -1,0 +1,33 @@
+B6-1 | character_refs: ["C12", "C13", "C14", "C15", "C16", "C17", "C18", "C19", "C9"] | scene_refs: ["S10"] | 预估格数: 2
+- There were fourteen people at the dinner party.
+  译：晚宴上共有十四位宾客。
+- The Duke and duchess of shoreditch and their daughter, lady Anne Grace Eleanor de Bowen.
+  译：绍尔迪奇公爵与公爵夫人及其女儿安妮·格蕾丝·埃莉诺·德·鲍恩小姐。
+- The earl and countess of newgate, viscount cheapside, lord and lady blatherskite, the ambassador and his wife and daughter, and some other people.
+  译：纽盖特伯爵与伯爵夫人、廉赛德子爵、布拉瑟斯凯特勋爵夫妇、大使及其妻女，以及其他几位宾客。
+
+B6-2 | character_refs: ["C10", "C1b", "C11"] | scene_refs: ["S10"] | 预估格数: 2
+- There was also a beautiful twenty two year old English girl named portia langham.
+  译：还有一位美丽的二十二岁英国女孩，名叫波西亚·朗汉姆。
+- I fell in love with her in two minutes and she with me.
+  译：我两分钟内便爱上了她，她也爱上了我。
+- After a while the house servant presented another guest, Mr Lloyd hastings.
+  译：过了一会儿，门房仆人又引荐了另一位客人——劳埃德·黑斯廷斯先生。
+
+B6-3 | character_refs: ["C11", "C1b"] | scene_refs: ["S10"] | 预估格数: 2
+- When Mr hastings saw me he said I think I know you yes, you probably do are you the the yes I'm the strange millionaire with the million pound note in his pocket well, well this is a surprise I never thought you were the same Henry Adams from sanfrancisco.
+  译：黑斯廷斯先生看见我便说，我想我认识你——是的，你大概认识我——你是那个——是的——就是那个口袋里揣着百万英镑的奇怪百万富翁——真是没想到，我从没料到你就是旧金山那个亨利·亚当斯。
+- Six months ago you were working in the offices of Blake Hopkins in San Francisco.
+  译：六个月前你还在旧金山的布莱克·霍普金斯公司里做事。
+- I remember clearly you had a veryy small salary, and at night you helped me arrange the papers for the gold and curry mining company now you're a millionaire, a celebrity here in London I can't believe it how exciting!
+  译：我记得清清楚楚，你薪水很低，晚上还帮我整理高德与库里矿业公司的文件——如今你竟成了百万富翁、伦敦的名人，真令人难以置信，太激动了！
+
+B6-4 | character_refs: ["C1b", "C11"] | scene_refs: ["S10"] | 预估格数: 2
+- I can't believe it either Lloyd, just three months ago we went to the miners restaurant.
+  译：我也难以置信，劳埃德，就在三个月前我们还去过矿工餐馆。
+- No, no, it was the what cheer restaurant, right?
+  译：不不，是"元气"餐馆，对吧？
+- It was the what Che we went there at two o'clock in the morning.
+  译：是"元气"餐馆，我们是凌晨两点去的。
+- We we had steak and coffee that night we worked for six long hours on the gould and curry mining company paper.
+  译：那晚我们吃了牛排、喝了咖啡，为高德与库里矿业公司的文件整整工作了六个小时。

@@ -1,0 +1,35 @@
+B5-9 | character_refs: ["C3", "C1", "C7", "C8"] | scene_refs: ["S1"] | 预估格数: 2
+- They both started to cry, and I did too.
+  译：他们两个都哭了起来，我也是。
+- But Joseph asked what there was to cry about, when the master's soul had gone straight to heaven.
+  译：但约瑟夫问道，既然主人的灵魂已直升天堂，有什么好哭的。
+
+B5-10 | character_refs: ["C4", "C9"] | scene_refs: ["S2"] | 预估格数: 2
+- Hindley came home for the funeral.
+  译：辛德利回来奔丧了。
+- He was master now.
+  译：他现在是当家的了。
+- Most to everyone's surprise, he brought a wife with them.
+  译：令所有人大感意外的是，他带回了一个妻子。
+- Her name was Frances.
+  译：她叫弗朗西丝。
+- She never told us where she was born or who her people were.
+  译：她从未告诉我们她的出身和来历。
+- She probably had no money at home.
+  译：她家里大概没有钱。
+
+B5-11 | character_refs: ["C4", "C9"] | scene_refs: ["S1"] | 预估格数: 2
+- Why else would he have kept his marriage secret from his father?
+  译：否则他为何要对父亲隐瞒这门婚事？
+- She acted very strangely while the funeral was going on.
+  译：葬礼进行期间，她的举止非常奇怪。
+- She trembled and wept, and when at last I asked her what was the matter, she said she was afraid of dying.
+  译：她颤抖着哭泣，当我终于问她怎么了，她说她害怕死去。
+- I thought that was ridiculous.
+  译：我觉得这实在荒唐。
+
+B5-12 | character_refs: ["C9"] | scene_refs: ["S1"] | 预估格数: 2
+- She was a bit thin, but young, with a fresh complexion and eyes that sparkled like diamonds.
+  译：她有些消瘦，但还年轻，面色红润，眼睛像钻石一样闪亮。
+- I noticed that she had trouble breathing when she climbed the stairs, and that she was nervous, and that she coughed a lot, but I did not know then what these symptoms meant.
+  译：我注意到她爬楼梯时喘不上气，总是紧张不安，咳嗽不止，但我当时并不知道这些症状意味着什么。

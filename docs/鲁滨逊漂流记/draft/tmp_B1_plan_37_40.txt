@@ -1,0 +1,51 @@
+B1-37 | character_refs: ["C1"] | scene_refs: ["S6"] | 预估格数: 2
+- I decided to settle in Brazil and become a sugar planter.
+  译：我决定定居巴西，成为一名甘蔗种植园主。
+- The first two years were difficult, but then my plantation grew prosperous.
+  译：头两年非常艰难，但随后我的种植园开始兴旺起来。
+- I was sorry that I had sold my boygxi, for I needed help.
+  译：我很后悔卖掉了祖里，因为我需要帮手。
+- I was not happy in my new life.
+  译：我在新生活中并不快乐。
+- This was the middle state of which my father has spoken.
+  译：这就是父亲所说的中间阶层的生活。
+- I often said to myself, I could have done this at home instead of coming five thousand miles to do it among strangers and savages.
+  译：我常对自己说，这件事在家就能做，何必跑五千英里来到陌生人和野蛮人中间做呢。
+
+B1-38 | character_refs: ["C1"] | scene_refs: ["S6"] | 预估格数: 1
+- I thought I was like a man stranded alone upon an island.
+  译：我觉得自己就像一个被困在孤岛上的人。
+- Never compare your situation to a worse one, god may place you in the worst situation so that you long for your old life.
+  译：永远不要把自己的处境与更糟糕的相比，上帝也许会把你置于最坏的处境，让你渴望回到过去的生活。
+- I say god was just to leave me on an island where I really was alone.
+  译：我说，上帝是公正的，最终让我真正独自一人待在了一座孤岛上。
+- If I had been content to stay as I was, I would have been rich and happy.
+  译：如果我那时安于现状，我本会富裕而幸福。
+- By leaving me on an island, god made me understand this.
+  译：上帝让我待在孤岛上，是为了让我明白这一点。
+
+B1-39 | character_refs: ["C1", "C13"] | scene_refs: ["S6"] | 预估格数: 1
+- The captain of the Portuguese ship advised me to send for some money.
+  译：那位葡萄牙船长建议我托人带来一些钱。
+- I had left my money with a friend in London.
+  译：我把钱存放在伦敦一位朋友那里。
+- My friend sent me the money in the form of English goods.
+  译：我的朋友以英国商品的形式把钱带了过来。
+- When they arrived, I thought that my fortune was made.
+  译：货物到手后，我以为自己发财了。
+- I sold the goods at a great profit for about four hundred pounds.
+  译：我以丰厚利润出售了这些商品，换得约四百英镑。
+- As soon as I got this money I bought myself a Knigge slave.
+  译：一拿到这笔钱，我就给自己买了一个黑奴。
+
+B1-40 | character_refs: ["C1"] | scene_refs: ["S6"] | 预估格数: 2
+- After four years, I had learned the language and made some friends among my fellow planters.
+  译：四年后，我学会了当地语言，在种植园主同行中结交了一些朋友。
+- I told them of the trade in Knigge slaves on the African coast, IFA merchant takes knives, hatchets and other things of little value.
+  译：我向他们讲述了非洲海岸贩卖黑奴的生意，说如果商人带去刀具、斧头等不值钱的东西，
+- I said he can easily trade them for gold and Knigge slaves.
+  译：便可以轻易换得黄金和黑奴。
+- They listened very attentively, especially to the part about buying slaves.
+  译：他们听得非常专注，尤其是关于购买奴隶的部分。
+- There were very few slaves in Brazil at the time and they cost a lot of money.
+  译：当时巴西的奴隶非常稀少，价格也很昂贵。

@@ -1,0 +1,35 @@
+B7-1 | character_refs: ["C7"] | scene_refs: ["S1"] | 预估格数: 2
+- On the morning of a fine June day, the last of the Earnshaw family was born, and I was his nurse.
+  译：在一个晴朗的六月清晨，恩肖家族最后一个孩子降生了，我是他的奶妈。
+- His mother died in childbirth.
+  译：他的母亲死于难产。
+- She had been ill with tuberculosis for a long time.
+  译：她患肺结核已很久了。
+- But he was the finest, healthiest, handsomest baby I had ever seen.
+  译：但他是我见过的最健壮、最漂亮的婴儿。
+
+B7-2 | character_refs: ["C4", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- I took care of the child as if he were my own.
+  译：我照料那孩子就如同自己的孩子一般。
+- No one interfered with me.
+  译：没有人来干涉我。
+- Hindley was satisfied just to see that he was healthy.
+  译：辛德利只要看到孩子健康就满足了。
+- He had never had any love in his heart for anyone except himself and his wife.
+  译：他心中从未对任何人有过爱，除了他自己和他的妻子。
+
+B7-3 | character_refs: ["C4", "C8"] | scene_refs: ["S1"] | 预估格数: 2
+- Now she was gone, and he spent his time drinking and cursing.
+  译：如今她走了，他整日酗酒骂人。
+- He was so offensive that soon all the other servants left except for Joseph and me.
+  译：他如此粗野，很快其他仆人都离开了，只剩约瑟夫和我。
+- I did not want to leave the baby, and Joseph was always content to be where there was plenty of evil to reprove.
+  译：我不愿丢下婴儿，而约瑟夫向来乐于待在有大量罪恶可以谴责的地方。
+
+B7-4 | character_refs: ["C1", "C4"] | scene_refs: ["S1"] | 预估格数: 2
+- Hindley's treatment of Heathcliff was enough to turn a saint into a devil, and I believe there was something diabolical about Heathcliff at that time.
+  译：辛德利对希斯克利夫的对待足以把一个圣人变成恶魔，我相信希斯克利夫当时身上确有些魔鬼气质。
+- He enjoyed watching Hindley degrade himself.
+  译：他乐于看着辛德利自我堕落。
+- The house was like hell.
+  译：这座宅子犹如地狱。

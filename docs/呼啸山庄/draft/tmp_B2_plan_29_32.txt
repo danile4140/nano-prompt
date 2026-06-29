@@ -1,0 +1,41 @@
+B2-29 | character_refs: ["C8", "C2", "C6b"] | scene_refs: ["S1"] | 预估格数: 2
+- "Oh, wicked, wicked!" cried the old man, hurrying out of the room. "May the Lord save us from evil."
+  译：「哦，邪恶，邪恶！」老人大喊着急忙奔出房间，「愿上帝保佑我们远离邪恶。」
+- "Mrs. Heathcliff," I said, when he was gone, "is there no one in the house who would guide me back to Thrushcross Grange?"
+  译：「希斯克利夫太太，」他走后我问道，「屋里就没有人能带我回画眉田庄吗？」
+- "Nobody," she said.
+  译：「没有，」她说。
+- "Then I will have to stay here."
+  译：「那我只好留在这里了。」
+
+B2-30 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- Heathcliff appeared in the doorway, looking grim.
+  译：希斯克利夫出现在门口，面色铁青。
+- "I hope this will be a lesson to you to take no more walks in the snow. You say you will have to stay here. Well, then, you must share a bed with Hareton or Joseph. I have no guest rooms."
+  译：「希望这能给你一个教训，别再在雪天到处乱走。你说非得留在这里。好吧，那你就得与哈顿或约瑟夫同床。我这里没有客房。」
+- "I can sleep in a chair in this room," I replied.
+  译：「我可以坐在这个房间的椅子上睡，」我回答道。
+- "I don't want a stranger in my house while I am sleeping," said Heathcliff.
+  译：「我睡觉时不想在屋里留陌生人，」希斯克利夫说。
+
+B2-31 | character_refs: ["C2", "C1", "C5"] | scene_refs: ["S2"] | 预估格数: 2
+- With this insult my patience was at an end.
+  译：这番侮辱让我忍无可忍。
+- I pushed past him and went out into the yard just as Hareton was coming in.
+  译：我推开他冲出门，正好碰上哈顿往里走。
+- It was so dark I could not see the gate.
+  译：外面黑得我看不见大门在哪里。
+- "I'll go with him as far as the park," said Hareton to Heathcliff.
+  译：「我送他到庄园边界，」哈顿对希斯克利夫说。
+- "You'll go with him? To hell!" cried Heathcliff. "Who will look after the horses if you go?"
+  译：「你要送他？去你的！」希斯克利夫大喊，「你走了谁来照看马？」
+
+B2-32 | character_refs: ["C6b", "C5", "C1", "C8"] | scene_refs: ["S2"] | 预估格数: 3
+- "A man's life is more important," said Mrs. Heathcliff, more kindly than I had expected.
+  译：「人命比马重要，」希斯克利夫太太说，语气比我预料的要温和。
+- "I won't save his life for you," said Hareton. "If you care about him, you had better be quiet."
+  译：「我不是为了你救他，」哈顿说，「你若真关心他，最好闭嘴。」
+- "Well, if he dies, I hope his ghost will haunt you, and I hope that Mr. Heathcliff never finds another tenant, and that Thrushcross Grange goes to ruin."
+  译：「好吧，若他死了，我希望他的鬼魂来缠着你们，我希望希斯克利夫先生永远找不到新租客，希望画眉田庄就此荒废。」
+- "Listen, she's cursing them," muttered Joseph.
+  译：「听着，她在咒骂他们，」约瑟夫嘀咕道。

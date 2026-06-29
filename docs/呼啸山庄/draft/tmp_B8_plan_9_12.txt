@@ -1,0 +1,33 @@
+B8-9 | character_refs: ["C4", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- He raised the glass out of my reach and made a toast.
+  译：他把酒杯高高举起，举到我够不到的地方，做了个祝酒姿态。
+- "Here's to my own soul's damnation!" cried the blasphemer.
+  译："为我自己灵魂的永堕地狱干杯！"这个亵渎者喊道。
+- "Now get out of my sight, all of you."
+  译："现在，你们都给我滚出去。"
+
+B8-10 | character_refs: ["C1", "C5", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- I went to the kitchen to comfort little Hareton.
+  译：我去厨房安慰小哈顿。
+- Heathcliff walked through the kitchen.
+  译：希斯克利夫穿过厨房走过去。
+- I thought he had gone out to the stables to feed the horses, but later I discovered that he had lain down on a bench by the wall, far away from the light of the fire, and remained silent.
+  译：我以为他是出去马厩喂马了，但后来我发现他其实靠墙躺在一条长凳上，远离炉火的光亮，一声不吭。
+
+B8-11 | character_refs: ["C7", "C5"] | scene_refs: ["S1"] | 预估格数: 1
+- I rocked Hareton in my arms and sang a song to him that began...
+  译：我把哈顿搂在怀里摇晃，给他唱起一首歌，歌词是这样开头的……
+- "It was late at night, and the babies cried, and their mother heard them in her grave."
+  译："深夜，孩子们哭泣，他们的母亲在坟墓里也听见了。"
+
+B8-12 | character_refs: ["C3b", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- Then Miss Cathy, who had heard all the trouble from her room, came in and whispered, "Are you alone, Nelly?"
+  译：然后凯茜小姐——她在自己房间里听见了这一切骚乱——走进来低声问道："你一个人吗，内莉？"
+- "Yes, miss," I replied.
+  译："是的，小姐，"我回答。
+- She came and sat beside me, and I saw a tear roll down her cheek.
+  译：她走过来坐在我身边，我看见一滴泪珠滚落她的脸颊。
+- For a moment I thought she had come to say she was sorry for having treated me so badly.
+  译：我一度以为她是来向我道歉、为之前对我的恶劣态度请罪的。
+- But no, she was upset about her own concerns, as usual.
+  译：但不是的，她像往常一样，是为了自己的事情烦恼。

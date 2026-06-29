@@ -1,0 +1,41 @@
+B2-25 | character_refs: ["C5", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- "My name is Hareton Earnshaw," growled the other, "and you must treat it with respect."
+  译：「我叫哈顿·恩肖，」对方咆哮道，「你得尊重这个名字。」
+- "I've shown no disrespect," was my reply.
+  译：「我并没有不尊重，」我回答道。
+- I began to feel very out of place in this family circle.
+  译：我开始感到自己在这个家庭圈子里格格不入。
+- The dismal atmosphere outweighed the physical comforts around me, and I thought I would not come again.
+  译：这压抑的氛围抵消了周围所有的物质舒适，我心想再也不来了。
+
+B2-26 | character_refs: ["C2"] | scene_refs: ["S1"] | 预估格数: 1
+- When tea was over, I went to the window to examine the weather.
+  译：茶毕，我走到窗边查看天气。
+- It was not a pleasant sight.
+  译：景象并不令人愉快。
+- Darkness was falling and the wind was full of swirling snow.
+  译：夜幕降临，风中漫卷着飞雪。
+- "I don't think I will be able to get home without a guide," I said.
+  译：「我想没有向导我恐怕找不到回家的路，」我说道。
+
+B2-27 | character_refs: ["C1", "C2", "C8", "C6b"] | scene_refs: ["S1"] | 预估格数: 2
+- "Hareton, bring those sheep into the barn," said Heathcliff.
+  译：「哈顿，把那些羊赶进谷仓，」希斯克利夫说。
+- "What shall I do?" I asked, with rising irritation.
+  译：「那我怎么办？」我问道，心中越来越不耐烦。
+- I turned to look at Heathcliff, but I found that the only other people in the room were Joseph and Mrs. Heathcliff.
+  译：我转头看向希斯克利夫，却发现屋里只剩下约瑟夫和希斯克利夫太太。
+- Joseph was feeding the dogs. Mrs. Heathcliff was entertaining herself by burning matches in the fire.
+  译：约瑟夫正在喂狗，希斯克利夫太太则把玩着火柴，将它们一根根投入炉火中取乐。
+
+B2-28 | character_refs: ["C8", "C6b", "C2"] | scene_refs: ["S1"] | 预估格数: 3
+- "How can you stand there idle," said Joseph to Mrs. Heathcliff, "when everyone else is working? But you are nothing, and it's no use talking, you'll never improve, you'll go to the devil, just like your mother."
+  译：「你怎么能在那儿无所事事，」约瑟夫对希斯克利夫太太说，「别人都在干活！你什么都不是，说了也没用，你不会有出息的，你会像你母亲一样堕入地狱。」
+- I thought for a moment that he was talking to me, and I stepped forward, intending to kick the old rascal, but I stopped when I heard Mrs. Heathcliff's reply.
+  译：我一时以为他在对我说话，向前迈了一步，打算踢这个老家伙，但听到希斯克利夫太太的回答后我停住了。
+- "You old hypocrite! Aren't you afraid that the devil will come and take you away for speaking his name? You leave me alone, or I'll ask him to do it."
+  译：「你这个老伪君子！你不怕魔鬼因你念叨他的名字来把你带走吗？别来烦我，否则我就请他来收拾你。」
+- She took a long dark book from a shelf.
+  译：她从架子上取下一本又厚又黑的书。
+- "I am learning witchcraft, Joseph, the black art! Soon I will get rid of all of you by black magic. The red cow didn't die by chance, and your rheumatism is no accident."
+  译：「约瑟夫，我正在学巫术，黑魔法！很快我就会用黑魔法把你们统统赶走。那头红牛的死不是偶然，你的风湿病也绝非意外。」

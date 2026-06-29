@@ -1,0 +1,29 @@
+B2-9 | character_refs: ["C2", "C6b"] | scene_refs: ["S1"] | 预估格数: 2
+- "A beautiful animal," I said, trying once more to engage the mistress in conversation.
+  译：「真漂亮的动物，」我说，再次试图与女主人搭话。
+- "Will you give away the puppies, Mrs. Heathcliff, or keep them?"
+  译：「希斯克利夫太太，您打算把那些小狗送人，还是自己留着？」
+- "They are not mine," she replied, in a voice even colder than Heathcliff's.
+  译：「那不是我的狗，」她回答，语气比希斯克利夫还要冰冷。
+
+B2-10 | character_refs: ["C2", "C6b"] | scene_refs: ["S1"] | 预估格数: 2
+- "Ah well." I decided to try the weather again. "It's very cold out this evening."
+  译：「哦，那算了。」我决定再试试聊天气。「今晚外面很冷呢。」
+- "You should have stayed at home."
+  译：「您就应该待在家里。」
+
+B2-11 | character_refs: ["C6b"] | scene_refs: ["S1"] | 预估格数: 1
+- She was a slender and very young woman.
+  译：她是个纤细而年轻的女子。
+- Her figure and face were lovely, her golden curls hung loose on her shoulders, and her eyes would have been irresistible had their expression been pleasant.
+  译：她身材和面容都十分美丽，金色卷发散落肩头，若不是眼神令人不快，那双眼睛本可令人无法抗拒。
+- Fortunately for my susceptible heart, their expression was a combination of scorn and desperation that seemed most unnatural in a beautiful young woman.
+  译：幸好我那颗易动情的心，她眼中流露的是鄙视与绝望交织的神情，在一个美丽年轻的女子身上显得极为怪异。
+
+B2-12 | character_refs: ["C2", "C6b"] | scene_refs: ["S1"] | 预估格数: 2
+- She stood and reached up to take a jar of tea from one of the shelves.
+  译：她站起身，踮脚从架子上取下一罐茶叶。
+- I rose to get it for her, but she snapped at me, "I don't want your help. I can get it myself."
+  译：我起身想帮她，她却厉声说道：「不用你帮，我自己拿得到。」
+- "I beg your pardon?"
+  译：「您说什么？」

@@ -1,0 +1,27 @@
+B2-9 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: 1
+- I was confused and I wanted to discuss the subject with them, but they didn't.
+  译：我很困惑，想和他们进一步谈谈，但他们不肯。
+- I felt hurt because I was the subject of a joke.
+  译：我感到受伤，因为我成了玩笑的对象。
+
+B2-10 | character_refs: ["C1"] | scene_refs: ["S2"] | 预估格数: 2
+- When I left their house, I looked for the pair on the street.
+  译：当我离开他们的房子时，我在街上寻找（那个硬币/身影）。
+- It was gone.
+  译：不见了。
+- I was quite angry with those two gentlemen.
+  译：我对那两位绅士非常愤怒。
+
+B2-11 | character_refs: ["C1"] | scene_refs: ["S2"] | 预估格数: 2
+- Far from their house, I opened the envelope.
+  译：走出很远之后，我打开了信封。
+- I saw that there was money inside.
+  译：我看到里面有钱。
+- I didn't stop to read their letter.
+  译：我没有停下来阅读他们的信。
+
+B2-12 | character_refs: ["C1", "C6"] | scene_refs: ["S4"] | 预估格数: 1
+- I ran to the nearest eating place.
+  译：我跑向最近的一家餐馆。
+- I ate and ate and ate.
+  译：我吃啊吃啊，吃个不停。

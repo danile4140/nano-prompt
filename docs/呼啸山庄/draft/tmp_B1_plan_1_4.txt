@@ -1,0 +1,39 @@
+B1-1 | character_refs: [] | scene_refs: ["S2"] | 预估格数: 1
+- Wuthering Heights.
+  译：呼啸山庄。
+- Chapter one.
+  译：第一章。
+- Eighteen o one.
+  译：一八〇一年。
+
+B1-2 | character_refs: ["C1", "C2"] | scene_refs: ["S2"] | 预估格数: 2
+- I have just returned from a visit to my landlord, who is my only neighbor.
+  译：我刚从我的房东那里拜访回来，他是我唯一的邻居。
+- This is certainly a beautiful place in all England.
+  译：这无疑是英格兰最美丽的地方。
+- There's nowhere so completely removed from the stir of society.
+  译：没有哪个地方能像这里一样，如此彻底地与世隔绝。
+- It is a misanthropist's heaven, and Mr. Heathcliff and I are a suitable pair to divide his desolation between us.
+  译：这里是厌世者的天堂，而希斯克利夫先生与我，正好是共同分享这份荒凉的绝配。
+- A fine fellow.
+  译：一个了不起的人。
+
+B1-3 | character_refs: ["C1", "C2"] | scene_refs: ["S2"] | 预估格数: 2
+- His black eyes looked at me suspiciously, and he did not offer to shake my hand.
+  译：他那双黑色的眼睛疑惑地打量着我，他没有伸手与我握手。
+- I'm interested to meet a man who seemed even more reserved than I am.
+  译：我很有兴趣认识一个似乎比我还要内敛的人。
+- Mr. Heathcliff, I'm Mr. Lockwood, your new tenant at Thrushcross Grange.
+  译：希斯克利夫先生，我是洛克伍德先生，您在画眉田庄的新租客。
+
+B1-4 | character_refs: ["C1", "C2", "C8"] | scene_refs: ["S2", "S1"] | 预估格数: 2
+- "Come in," he replied reluctantly, as if he really wanted to say "go to the devil."
+  译："进来吧，"他勉强回答，仿佛他真正想说的是"见鬼去吧"。
+- As I followed him into the house, he called out, "Joseph, take Mr. Lockwood's horse and then bring us some wine."
+  译：当我跟着他进屋时，他喊道："约瑟夫，把洛克伍德先生的马牵走，再给我们拿些酒来。"
+- So I thought, this Joseph is the only servant in the house.
+  译：于是我想，这个约瑟夫大概是屋里唯一的仆人了。
+- No wonder the grass is growing between the paving stones, with no one to cut it about the cost.
+  译：难怪石板缝里杂草丛生，根本没人去管修剪的事。
+- Mr. Heathcliff's house is called Wuthering Heights.
+  译：希斯克利夫先生的宅邸叫做呼啸山庄。

@@ -1,0 +1,37 @@
+B14-13 | character_refs: ["C10", "C6"] | scene_refs: ["S7"] | 预估格数: 2
+- My master lived a very quiet life after Catherine's death.
+  译：我的主人在凯瑟琳去世后过着极为平静的生活。
+- He hardly ever left Thrushcross Grange.
+  译：他几乎从不离开画眉田庄。
+- Now gradually his grief subsided.
+  译：慢慢地，他的悲伤开始消退。
+- He was sure that Catherine was in heaven, and he remembered her with a tender love.
+  译：他确信凯瑟琳已在天堂，以温柔的爱思念着她。
+- His affectionate nature turned to his little daughter, who was christened Catherine in memory of her mother.
+  译：他深厚的情感转移到小女儿身上，她被取名为凯瑟琳，以纪念她的母亲。
+
+B14-14 | character_refs: ["C4", "C1", "C8"] | scene_refs: ["S1"] | 预估格数: 3
+- Six months after Catherine died, Hindley died too.
+  译：凯瑟琳去世六个月后，辛德利也死了。
+- He got very drunk and locked himself in his room.
+  译：他喝得酩酊大醉，把自己锁在房间里。
+- The next morning Heathcliff and Joseph heard him moaning.
+  译：第二天早晨，希斯克利夫和约瑟夫听到他在呻吟。
+- Heathcliff sent Joseph to fetch the doctor, but by the time they returned Hindley was dead.
+  译：希斯克利夫让约瑟夫去请医生，但等他们回来时，辛德利已经死了。
+
+B14-15 | character_refs: ["C8"] | scene_refs: ["S1"] | 预估格数: 2
+- Joseph was very upset.
+  译：约瑟夫非常难过。
+- He told me he wished he had stayed and let Heathcliff go for the doctor.
+  译：他告诉我，他希望自己当时留下来，让希斯克利夫去请医生。
+- "I should have stayed with the master," Joseph said.
+  译：「我应该留在主人身边，」约瑟夫说。
+- "If he was going to die, he should have died with a faithful servant by him."
+  译：「如果他要死，也应该有忠心的仆人守在他身旁。」
+
+B14-16 | character_refs: ["C1", "C5"] | scene_refs: ["S10", "S1"] | 预估格数: 2
+- But he wasn't dead when I left, far from it.
+  译：但我离开时他还没死，根本没死。
+- After the funeral, Heathcliff said to Hareton, "Now you're mine, and I'll be as kind to you as your father was to me."
+  译：葬礼之后，希斯克利夫对哈顿说：「现在你是我的人了，我会像你父亲对我那样善待你。」

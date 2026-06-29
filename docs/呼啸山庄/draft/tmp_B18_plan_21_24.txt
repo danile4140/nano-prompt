@@ -1,0 +1,39 @@
+B18-21 | character_refs: ["C6b", "C5"] | scene_refs: ["S1"] | 预估格数: 2
+- After that she came downstairs every time Mr. Heathcliff was out.
+  译：从那以后，每当希斯克利夫先生外出，她就会下楼来。
+- At first she was haughty and proud towards Hareton, but gradually they made friends.
+  译：起初她对哈顿态度高傲，但渐渐地他们成了朋友。
+- Instead of laughing at his ignorance as she had done before, Catherine began to teach him to read.
+  译：凯瑟琳不再像以前那样嘲笑他的无知，而是开始教他识字读书。
+- Although she still teased him about being stupid, it was now clear that she was only joking.
+  译：虽然她仍然取笑他愚笨，但现在显而易见那只是开玩笑。
+- She liked him and wanted to help him.
+  译：她喜欢他，想要帮助他。
+
+B18-22 | character_refs: ["C6b", "C5"] | scene_refs: ["S2"] | 预估格数: 2
+- One day, a short time after I arrived at the Heights, Catherine asked Hareton to clear some land so that she could plant flowers.
+  译：内莉到达庄园后不久的一天，凯瑟琳请哈顿清理出一块地，好让她种花。
+- He did so with pleasure, and they spent a fine afternoon planting the flowers and admiring their work.
+  译：他愉快地照做了，他们度过了一个美好的下午，边种花边欣赏自己的劳动成果。
+
+B18-23 | character_refs: ["C8", "C1"] | scene_refs: ["S1"] | 预估格数: 2
+- That evening at dinner, Joseph complained that they had taken a part of his fruit and vegetable garden.
+  译：那天傍晚吃饭时，约瑟夫抱怨说他们占用了他的一部分果蔬园。
+- 'He pulled out three fruit trees to plant those flowers,' Joseph complained.
+  译：「他拔掉了三棵果树去种那些花，」约瑟夫抱怨道。
+- 'Did he, indeed!' cried Mr. Heathcliff.
+  译：「真的吗！」希斯克利夫先生喊道。
+- 'Well, tomorrow he will pull up the flowers and plant the fruit trees again.'
+  译：「好，明天他就把那些花拔掉，把果树重新种回去。」
+
+B18-24 | character_refs: ["C6b", "C5", "C1"] | scene_refs: ["S1"] | 预估格数: 3
+- 'No, he won't,' cried Catherine.
+  译：「不，他不会的，」凯瑟琳喊道。
+- 'You have taken all my land, and all Hareton's land too.
+  译：「您已经夺走了我所有的土地，也夺走了哈顿所有的土地。
+- We are entitled to a bit of land to plant flowers.
+  译：我们有权保留一小块土地种花。
+- And if we want – you see, Hareton and I are friends now.
+  译：而且您知道吗——哈顿和我现在是朋友了。
+- He will not do what you tell him to do now, if I don't want him to.'
+  译：如果我不同意，他就不会按您说的去做。」

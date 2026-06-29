@@ -1,0 +1,45 @@
+B4-25 | character_refs: ["C1b"] | scene_refs: ["S15"] | 预估格数: 2
+- I was sure that the people on the ship had seen my fire because as soon as I did it, they fired the gun again.
+  译：我确信船上的人看到了我的火光，因为我一生火，他们就又开炮了。
+- The next morning I saw that the ship was wrecked.
+  译：第二天早晨，我看到那艘船已经沉没了。
+- Perhaps the people on board were all dead, or perhaps they had escaped in a boat and been blown away from the island towards the open sea.
+  译：也许船上的人都已经死了，或者也许他们已经逃上小船，被吹离了这座岛，飘向了大洋深处。
+- If so, they would die of starvation.
+  译：如果是这样，他们会饿死的。
+
+B4-26 | character_refs: ["C1b"] | scene_refs: ["S12"] | 预估格数: 2
+- Even now, they might be thinking of eating one another.
+  译：即便现在，他们可能正在考虑互相残食。
+- I was thankful that god had chosen to save me alone out of all those who had been drowned in this sea.
+  译：我感谢上帝在所有溺死在这片海洋中的人中选择了只救我一人。
+- But I was also sad so that I cried out, oh, if one person had been saved out of that ship.
+  译：但我也很悲伤，以至于哭喊道：哦，如果那艘船上有一个人得救就好了。
+- And had escaped to this island.
+  译：并逃到了这座岛上。
+- I would have had a companion, someone to talk to.
+  译：我就会有一个伴侣，一个可以交谈的人了。
+
+B4-27 | character_refs: ["C1b"] | scene_refs: ["S7"] | 预估格数: 2
+- In all my time on the island, I never had so strong a desire for human society.
+  译：在我在岛上的全部时间里，我从未对人类社会有过这么强烈的渴望。
+- I was in great distress.
+  译：我陷入了极大的痛苦。
+- Oh, if just one had been saved!
+  译：哦，如果只有一个人得救就好了！
+- I cried over and over again, but it was not to be.
+  译：我一遍又一遍地哭喊，但这终究没能实现。
+- A few days later I saw the body of a drowned boy come on shore, which made me very sad.
+  译：几天后，我看到一具溺水男孩的尸体被冲上了岸，这让我非常悲伤。
+- I took my boat and went out to the wreck.
+  译：我划着我的船去了沉船处。
+
+B4-28 | character_refs: ["C1b"] | scene_refs: ["S8"] | 预估格数: 1
+- There I found no living soul, but I brought back more goods, about eleven hundred pieces of eight and some gold.
+  译：在那里我没有发现任何活着的人，但我带回了更多的货物，约一千一百枚八里亚尔银币和一些金子。
+- I stored these goods in a cave on the island.
+  译：我把这些货物储存在岛上的一个山洞里。
+- For the next two years I lived quietly and cautiously on the island.
+  译：此后两年，我在岛上悄然谨慎地生活。
+- Yet all that time I was imagining ways to escape.
+  译：然而在这段时间里，我一直在想象逃跑的办法。

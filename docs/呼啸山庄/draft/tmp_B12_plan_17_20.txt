@@ -1,0 +1,49 @@
+B12-17 | character_refs: ["C1", "C11"] | scene_refs: ["S1"] | 预估格数: 2
+- And thinking herself safe, she did not find my brutality disgusting.
+  译：以为自己安全无虞，她对我的残暴竟不感到厌恶。
+- But I have managed it at last.
+  译：但我终究还是成功了。
+- This morning she told me that she hates me.
+  译：今天早上她告诉我她恨我。
+- She can leave me if she wants to.
+  译：她可以离开我，如果她愿意的话。
+- I used to enjoy tormenting her, but now she simply bores and irritates me."
+  译：我以前很享受折磨她，但现在她只是让我觉得无聊和烦躁。"
+
+---
+
+B12-18 | character_refs: ["C7", "C1"] | scene_refs: ["S1"] | 预估格数: 2
+- "Mr. Heathcliff," said I, "this is the talk of a madman.
+  译："希斯克利夫先生，"我说，"这是疯子才说的话。
+- Since you now say that she can leave, I am sure she will."
+  译：既然你现在说她可以离开，我确信她会的。"
+
+---
+
+B12-19 | character_refs: ["C11", "C7"] | scene_refs: ["S1"] | 预估格数: 3
+- "He says I can leave," cried Isabella, with glittering eyes.
+  译："他说我可以离开，"伊莎贝拉眼里闪烁着光芒喊道。
+- "But he said that before, and I tried to leave, and I dare not try again.
+  译："但他以前也这么说过，我试过要离开，现在我不敢再试了。
+- He has told me that he married me solely to gain power over Edgar.
+  译：他告诉我，他娶我只是为了取得对埃德加的控制权。
+- But I won't let him gain power over Edgar!
+  译：但我不会让他得逞！
+- I'll die first!
+  译：我宁愿去死！
+
+---
+
+B12-20 | character_refs: ["C11", "C1", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- Nelly, you must promise not to repeat this conversation to Edgar or Catherine."
+  译：内莉，你必须答应我不把这番对话告诉埃德加或凯瑟琳。"
+- "Enough!" cried Heathcliff.
+  译："够了！"希斯克利夫喊道。
+- "Go to your room.
+  译："回你的房间去。
+- I want to talk to Ellen alone."
+  译：我要单独和艾伦谈谈。"
+- When Isabella had left the room, Heathcliff said:
+  译：伊莎贝拉离开房间后，希斯克利夫说：
+
+---

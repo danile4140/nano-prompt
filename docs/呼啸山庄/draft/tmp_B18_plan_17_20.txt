@@ -1,0 +1,35 @@
+B18-17 | character_refs: ["C2", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- "Is Heathcliff dead, then?" I asked, amazed.
+  译：「那么，希斯克利夫死了？」我惊讶地问道。
+- "Yes, didn't you know?
+  译：「是的，您难道不知道吗？
+- But come in, and I'll tell you all about it."
+  译：进来坐，我把一切都告诉您。」
+- I entered and sat by the fire opposite Mrs. Dean, and she told me the end of Heathcliff's story.
+  译：我走进去，在迪恩太太对面坐到炉火旁，她向我讲述了希斯克利夫的结局。
+- I will retell it here in her own words.
+  译：我将在此用她自己的话把故事复述出来。
+
+B18-18 | character_refs: ["C7", "C1", "C6b"] | scene_refs: ["S6"] | 预估格数: 2
+- "I was summoned to Wuthering Heights a few months after you left us.
+  译：「您离开我们几个月后，我被召唤到了呼啸山庄。
+- Mr. Heathcliff said he was tired of seeing Catherine.
+  译：希斯克利夫先生说他厌倦了看到凯瑟琳。
+- I should make the kitchen my sitting room, he said, and keep Catherine with me there.
+  译：他说我应该把厨房当作起居室，把凯瑟琳留在那里陪我。
+- I did as I was told, and Hareton spent his evenings with us in the kitchen.
+  译：我照着吩咐做了，哈顿每天晚上也跟我们一起待在厨房里。
+
+B18-19 | character_refs: ["C7", "C6b", "C5"] | scene_refs: ["S6"] | 预估格数: 1
+- I noticed that the young people were fond of each other now.
+  译：我注意到这两个年轻人现在彼此喜欢对方了。
+- Catherine told me how they had become friends.
+  译：凯瑟琳告诉我他们是如何成为朋友的。
+
+B18-20 | character_refs: ["C6b", "C13"] | scene_refs: ["S11"] | 预估格数: 2
+- After Linton Heathcliff's death, Catherine had spent most of her time in her room, but there was no fire there, and one day she told Zillah that she couldn't stand the cold anymore.
+  译：林顿·希斯克利夫死后，凯瑟琳大部分时间都待在自己房间里，但那里没有炉火，有一天她告诉齐拉她实在忍不住那寒冷了。
+- Zillah told her to come downstairs to the sitting room.
+  译：齐拉让她下楼去客厅。
+- Since Mr. Heathcliff was out, she came down and sat by the fire with Zillah and Hareton.
+  译：由于希斯克利夫先生外出了，她便下楼和齐拉、哈顿一起坐在炉火旁。

@@ -1,0 +1,31 @@
+B6-9 | character_refs: ["C1b"] | scene_refs: ["S10"] | 预估格数: 2
+- The English know about the system of precedents.
+  译：英国人熟知先例制度。
+- They have dinner before going out to dinner, but strangers know nothing about it, they remain hungry all evening.
+  译：他们出门赴宴前会先在家吃饭，但外来客人对此一无所知，只能整晚挨饿。
+- Instead we had a dish of sardines and a strawberry.
+  译：最后我们只得到一碟沙丁鱼和一颗草莓代替正餐。
+
+B6-10 | character_refs: ["C1b", "C10"] | scene_refs: ["S10"] | 预估格数: 1
+- Now it was time for everyone to play a game called cribbage.
+  译：接下来是大家玩一种叫做克里比奇的纸牌游戏的时间。
+- The English never play a game for fun.
+  译：英国人从不为了消遣而玩游戏。
+- They play to win or to lose something.
+  译：他们玩游戏是为了赢或者输些什么。
+
+B6-11 | character_refs: ["C1b", "C10"] | scene_refs: ["S10"] | 预估格数: 2
+- Miss langham and I played the game, but with little interest.
+  译：朗汉姆小姐和我一起玩牌，却心不在焉。
+- I looked at her beautiful face and said, miss langham, I love you.
+  译：我望着她美丽的脸庞说：朗汉姆小姐，我爱你。
+- Mr Adams, she said softly, and smiled, I love you too.
+  译：亚当斯先生，她轻声说，微笑着，我也爱你。
+
+B6-12 | character_refs: ["C1b", "C10"] | scene_refs: ["S10"] | 预估格数: 1
+- This was a wonderful evening.
+  译：这是一个美妙的夜晚。
+- Miss langham and I were very happy.
+  译：朗汉姆小姐和我都非常快乐。
+- We smiled, laughed and talked.
+  译：我们相视而笑、欢声大笑、倾心交谈。

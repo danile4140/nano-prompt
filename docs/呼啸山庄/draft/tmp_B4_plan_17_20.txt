@@ -1,0 +1,23 @@
+B4-17 | character_refs: ["C14", "C4", "C3"] | scene_refs: ["S1"] | 预估格数: 3
+- Hindley and Cathy thought he had brought them presents, but when he opened the coat we saw a dirty, ragged, black-haired child.
+  译：辛德利和凯西以为他给他们带了礼物，但当他打开外套，我们看到的是一个又脏又破衣烂衫、一头黑发的孩子。
+- The child was old enough to walk and talk, but when he spoke it was in some strange language that no one could understand.
+  译：那孩子已经会走路会说话了，但他开口讲的是一种谁都听不懂的奇怪语言。
+
+B4-18 | character_refs: ["C14", "C15"] | scene_refs: ["S1"] | 预估格数: 2
+- Mr. Earnshaw said to his wife, 'We must take him as a gift from God, my dear, although he's dark enough to have come from the devil.'
+  译：恩肖先生对妻子说：「我们必须把他当作上帝赐予的礼物接纳下来，亲爱的，尽管他黑得像是从魔鬼那里来的。」
+- Mrs. Earnshaw was furious; she wanted to throw the gypsy child, as she called him, out into the street.
+  译：恩肖太太勃然大怒；她想把那个她所谓的吉普赛孩子扔到大街上去。
+- She asked her husband if he had gone mad.
+  译：她问丈夫是不是疯了。
+
+B4-19 | character_refs: ["C14"] | scene_refs: ["S1"] | 预估格数: 1
+- Mr. Earnshaw explained that he had found the child starving and homeless in the streets of Liverpool and had decided to take him home and care for him.
+  译：恩肖先生解释说，他在利物浦街头发现了这个挨饿流浪的孩子，决定把他带回家照料。
+
+B4-20 | character_refs: ["C4", "C3", "C14"] | scene_refs: ["S1"] | 预估格数: 2
+- Hindley and Cathy then asked about their presents, but they found that Hindley's present had been broken and Cathy's had been lost.
+  译：辛德利和凯西随即询问他们的礼物，却发现辛德利的礼物已经摔坏，凯西的礼物则丢失了。
+- On the journey home, Hindley, who was fourteen, burst into tears.
+  译：在回家的路上，十四岁的辛德利失声痛哭起来。

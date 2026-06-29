@@ -1,0 +1,55 @@
+B12-21 | character_refs: ["C1", "C7"] | scene_refs: ["S1", "S2"] | 预估格数: 2
+- "Last night I was in the Grange garden for six hours, Nelly, and I'll return there tonight and every night, until I find an opportunity of entering.
+  译："昨晚我在画眉田庄的花园里守了六个小时，内莉，今晚我还会去，每晚都去，直到找到机会进入为止。
+- If I meet Mr. Linton, I will knock him down.
+  译：如果我遇上林顿先生，我就把他打倒在地。
+- If he sends his servants to throw me out, I will threaten them with these pistols.
+  译：如果他派仆人来赶我，我就用这把手枪威胁他们。
+- Wouldn't it be better, Nelly, to prevent my coming in contact with your master or his servants?"
+  译：内莉，阻止我和你主人或他的仆人接触，难道不是更好的办法吗？"
+
+---
+
+B12-22 | character_refs: ["C7", "C1"] | scene_refs: ["S1"] | 预估格数: 2
+- "I won't do it, Mr. Heathcliff.
+  译："我不会这么做的，希斯克利夫先生。
+- My mistress is nervous and anxious.
+  译：我的女主人神经紧张、心绪不宁。
+- The shock of seeing you would be too much for her.
+  译：见到你的冲击对她来说太大了。
+- It will kill her, I'm sure.
+  译：这会要了她的命，我确信。
+- Give up this plan, for her sake.
+  译：为了她，放弃这个计划吧。
+- If you won't, I will tell my master, and he will make sure that you never get in the house."
+  译：如果你不放弃，我就告诉我的主人，他会确保你永远进不了那栋房子。"
+
+---
+
+B12-23 | character_refs: ["C1", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- "You won't get home tonight to tell him, Ellen Dean," cried Heathcliff.
+  译："今晚你回不了家去告诉他，艾伦·迪恩，"希斯克利夫喊道。
+- "I'll keep you here until I have seen her.
+  译："我会把你留在这里，直到我见到她为止。
+- You say the shock of seeing me will kill her.
+  译：你说见到我的冲击会要了她的命。
+- I don't want to shock her.
+  译：我不想给她带来冲击。
+- You will ask her if I may come.
+  译：你去问她，我可不可以来见她。
+
+---
+
+B12-24 | character_refs: ["C1", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- You think she has forgotten me because she never speaks of me.
+  译：你以为她忘了我，因为她从不提起我。
+- But how can she speak of me when everyone in the house is a spy for her husband?
+  译：但当那屋子里的每个人都是她丈夫的眼线时，她怎么可能提到我？
+- It must be like hell for her in that house.
+  译：那栋房子对她来说一定如同地狱。
+- You say that she is nervous and anxious.
+  译：你说她神经紧张、心绪不宁。
+- How the devil could it be otherwise in her terrible isolation?
+  译：在她那可怕的孤立处境中，她怎么可能不如此？
+
+---

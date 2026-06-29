@@ -1,0 +1,37 @@
+B7-13 | character_refs: ["C1", "C11"] | scene_refs: ["S9"] | 预估格数: 2
+- I will save you Lloyd
+  译：我会救你的，劳埃德。
+- then I am already saved how can I thank you?
+  译：那我就得救了，我该怎么感谢你？
+- Let me finish Lloyd
+  译：让我说完，劳埃德。
+- I will save you, but not in that way
+  译：我会救你，但不是那种方式。
+- I have a better way
+  译：我有更好的办法。
+- I know everything about that mine, I know its great value
+  译：我对那座矿了如指掌，我知道它的巨大价值。
+
+B7-14 | character_refs: ["C1", "C11"] | scene_refs: ["S9"] | 预估格数: 2
+- you will sell the shares by using my name
+  译：你可以借用我的名义来出售股票。
+- you can send anyone to me
+  译：你可以派任何人来找我。
+- since people in London know me, I will guarantee the goldmine
+  译：伦敦人都认识我，我来为这座金矿背书。
+- in a week or two, you will sell the shares for three million dollars
+  译：一两周之内，你就能以三百万美元的价格卖出所有股票。
+- by using my name and will share the money you earn, half to you and half to me
+  译：借用我的名义，挣到的钱我们平分，你一半我一半。
+
+B7-15 | character_refs: ["C1", "C11"] | scene_refs: ["S9"] | 预估格数: 2
+- Lloyd was very happy and excited he danced around the room and laughed
+  译：劳埃德欣喜若狂，在房间里手舞足蹈，哈哈大笑。
+- I can use your name, your name!
+  译：我能借用你的名字，你的名字！
+- Think of it!
+  译：想想看！
+- The rich Londoners will run to buy these shares!
+  译：伦敦的富人们会争相购买这些股票的！
+- I'm saved and I'll never forget you, Henry.
+  译：我得救了，我永远不会忘记你，亨利。

@@ -1,0 +1,41 @@
+B6-5 | character_refs: ["C1b"] | scene_refs: ["S10"] | 预估格数: 1
+- It is a national sin and god alone can punish the nations.
+  译：这是民族之间的罪孽，只有上帝才有权惩罚各个民族。
+- Friday could attack them because they were the enemies of his nation.
+  译：星期五可以攻击他们，因为他们是他的民族的敌人。
+- They had tried to kill and eat him, but since they had done me no harm, I had no right to kill them.
+  译：他们曾试图杀掉并吃掉他；但由于他们没有伤害过我，我没有权利杀他们。
+- Therefore, I decided not to attack them.
+  译：因此，我决定不去攻击他们。
+
+B6-6 | character_refs: ["C1b", "C14b"] | scene_refs: ["S10"] | 预估格数: 1
+- Instead, I would hide myself and watch the cannibal feast.
+  译：我要藏好自己，旁观这场食人宴。
+- I would wait for a sign from god before I acted.
+  译：我要等待上帝的指示再行动。
+- I sent Friday closer to look at.
+  译：我派星期五靠近去查看。
+- The savages.
+  译：那些野蛮人。
+
+B6-7 | character_refs: ["C1b", "C14b"] | scene_refs: ["S23"] | 预估格数: 2
+- He came back and told me they were around the fire eating the flesh of one of their prisoners.
+  译：他回来告诉我，他们正围着篝火，吃着其中一名俘虏的肉。
+- Another prisoner was lying upon the sand with his hands and feet bound.
+  译：另一名俘虏手脚被绑，躺在沙地上。
+- Friday said they would kill him next.
+  译：星期五说他们接下来就要杀他。
+- This made me very angry.
+  译：这让我怒不可遏。
+
+B6-8 | character_refs: ["C1b", "C14b"] | scene_refs: ["S23"] | 预估格数: 2
+- Then Friday told me that this other prisoner was not of his nation.
+  译：星期五接着告诉我，这另一名俘虏并非他们的族人。
+- He was one of the white men who had come to Friday's nation in a boat.
+  译：他是乘船来到星期五民族之地的白人之一。
+- I was horrified at the thought of this white man waiting to be cold and eaten.
+  译：想到这个白人等着被杀死并被吃掉，我不寒而栗。
+- I went closer and looked through my perspective glass.
+  译：我走近一些，用望远镜观察。
+- I saw a white man tied up on the beach.
+  译：我看到一个白人被捆绑在沙滩上。

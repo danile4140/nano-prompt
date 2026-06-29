@@ -1,0 +1,41 @@
+B4-9 | character_refs: ["C7", "C8"] | scene_refs: ["S7"] | 预估格数: 2
+- Todd answered, it's easy to say, but look at the banknote
+  译：托德回答：说起来容易，您看看这张钞票！
+- the owner looked at the banknote.
+  译：店主看了看钞票。
+- Then he looked at my package with the ugly suit.
+  译：随后他又看了看那包着丑套装的包裹。
+
+B4-10 | character_refs: ["C7", "C8"] | scene_refs: ["S7"] | 预估格数: 2
+- Todd he shouted, you're stupid!
+  译：他冲着托德大喊：你真蠢！
+- How can you sell this unattractive suit to a millionaire?
+  译：你怎么能把这种破套装卖给一位百万富翁？
+- Todd, you can't see the difference between a millionaire and a poor man.
+  译：托德，你连百万富翁和穷人都分不清！
+
+B4-11 | character_refs: ["C1", "C8"] | scene_refs: ["S7"] | 预估格数: 2
+- I apologize, sir the owner continued.
+  译：店主继续说：先生，实在抱歉。
+- Please take off those things you are wearing and throw them in the fire.
+  译：请脱掉您身上这些衣服，把它们扔进火里。
+- Put on this fine shirt and this handsome suit.
+  译：换上这件精致衬衫和这套考究的套装。
+- It's perfect for you.
+  译：这套衣服简直是为您量身定制的。
+- Simple but elegant
+  译：简约而不失优雅。
+
+B4-12 | character_refs: ["C1", "C8"] | scene_refs: ["S7"] | 预估格数: 2
+- I told him I was very happy with the new suit.
+  译：我告诉他我对新套装非常满意。
+- Oh, wait until you see what we can make for you in your size
+  译：哦，等您看到我们按您的尺寸量身定制的衣服！
+- to bring a pen and a book.
+  译：拿笔和本子来。
+- Let me measure your leg, your arm
+  译：让我量一下您的腿长、臂长。
+- I didn't have a moment to speak.
+  译：我根本没有机会开口说话。
+- The owner measured me, then he ordered his tailors to make me morning suits, evening suits, shirts, coats and other things.
+  译：店主量好了我的尺寸，随即命令裁缝们为我赶制晨礼服、晚礼服、衬衫、大衣和其他各种衣物。

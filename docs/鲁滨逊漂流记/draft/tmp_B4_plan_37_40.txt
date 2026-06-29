@@ -1,0 +1,53 @@
+B4-37 | character_refs: ["C1b", "C14"] | scene_refs: ["S20"] | 预估格数: 3
+- I took my guns and ran down to the shore.
+  译：我拿起枪，跑到海岸边。
+- I cried out to the prisoner.
+  译：我向那个俘虏大喊。
+- At first he was frightened of me.
+  译：起初他被我吓到了。
+- Slowly I walked towards the two who followed.
+  译：我慢慢地走向那两个追赶者。
+- I hit the first one with my gun.
+  译：我用枪击打了第一个人。
+- Having knocked this fellow down, I walked towards the other.
+  译：把这个家伙打倒后，我走向了另一个。
+
+B4-38 | character_refs: ["C1b", "C14"] | scene_refs: ["S20"] | 预估格数: 3
+- I saw that he had a spear.
+  译：我看到他手持长矛。
+- He was ready to throw it at me, therefore I had no choice but to shoot him.
+  译：他准备把长矛投向我，因此我别无选择，只好开枪打了他。
+- Though he saw that both his enemies had fallen, the poor savage was frightened by the sound of my gun.
+  译：虽然他看到他的两个敌人都倒下了，但可怜的野人被枪声吓到了。
+- I called to him and made encouraging signs.
+  译：我呼唤他并做出了鼓励的手势。
+- The poor creature was trembling.
+  译：这可怜的生物颤抖着。
+- He walked towards me slowly.
+  译：他慢慢地走向我。
+
+B4-39 | character_refs: ["C1b", "C14"] | scene_refs: ["S7"] | 预估格数: 2
+- When he came close to me, he knelt on the ground and kissed the earth.
+  译：当他走近我时，他跪在地上，亲吻了大地。
+- He then put his head upon the ground, he took my foot and placed it upon his head.
+  译：然后他把头放在地上，他拿起我的脚，把它放在他的头上。
+- I helped him to his feet and encouraged him.
+  译：我扶他站了起来，鼓励了他。
+- The savage I had knocked down now began to move.
+  译：我打倒的那个野人现在开始动了。
+- I pointed to him to show my savage that his enemy was not dead.
+  译：我指向他，让我的野人知道他的敌人还没有死。
+
+B4-40 | character_refs: ["C1b", "C14"] | scene_refs: ["S7"] | 预估格数: 3
+- My savage spoke some words to me.
+  译：我的野人对我说了些话。
+- I did not understand them, but I enjoyed listening to them.
+  译：我听不懂，但我喜欢听。
+- They were the first words spoken to me by any human being for over twenty five years.
+  译：这是二十五年多来第一次有人类向我开口说话。
+- I pointed my gun at the savage on the ground.
+  译：我把枪指向躺在地上的野人。
+- My savage touched the sword at my side as if asking to use it.
+  译：我的野人触碰了我腰间的剑，好像是在请求使用它。
+- I gave it to him.
+  译：我把剑交给了他。

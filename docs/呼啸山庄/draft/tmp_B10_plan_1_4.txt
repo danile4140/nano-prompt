@@ -1,0 +1,35 @@
+B10-1 | character_refs: ["C4", "C1"] | scene_refs: ["S1"] | 预估格数: 2
+- Hindley invited Heathcliff to remain at Wuthering Heights permanently as his tenant.
+  译：辛德利邀请希斯克利夫以租客的身份永久住在呼啸山庄。
+- Heathcliff now had plenty of money, and he would pay a good rent.
+  译：希斯克利夫现在很有钱，愿意支付可观的租金。
+- Hindley needed money, because he drank and gambled away all he had.
+  译：辛德利急需钱财，因为他把所有的钱都喝酒赌博花光了。
+- Heathcliff apparently lent money to Hindley to pay off his gambling debts.
+  译：希斯克利夫显然借钱给辛德利来偿还赌债。
+
+B10-2 | character_refs: ["C7", "C3b", "C10"] | scene_refs: ["S5"] | 预估格数: 2
+- I learned all this from late night conversations with Catherine.
+  译：我从与凯瑟琳深夜的谈话中得知了这一切。
+- She loved to talk about Heathcliff, and if she talked about him to Edgar, Edgar looked hurt and sad.
+  译：她喜欢谈论希斯克利夫，而若是在埃德加面前提起，埃德加就会流露出受伤与悲戚的神情。
+
+B10-3 | character_refs: ["C1", "C10"] | scene_refs: ["S5"] | 预估格数: 2
+- Heathcliff was a frequent visitor at Thrushcross Grange.
+  译：希斯克利夫是画眉田庄的常客。
+- Mr. Linton did not like these visits, but he tolerated them for his wife's sake.
+  译：林顿先生不喜欢这些拜访，但为了妻子的缘故只好忍让。
+- After a while, however, it became apparent that Miss Isabella was infatuated with Heathcliff.
+  译：然而过了一段时间，伊莎贝拉小姐显然已经迷恋上了希斯克利夫。
+- She became bad-tempered and moody, pale and thin.
+  译：她变得脾气暴躁、情绪阴郁，脸色苍白、日渐消瘦。
+
+B10-4 | character_refs: ["C11", "C3b"] | scene_refs: ["S5"] | 预估格数: 2
+- One day she lost her temper with Cathy.
+  译：一天，她对凯西发了火。
+- "You are harsh and unkind to me, Cathy," she cried.
+  译："你对我既粗暴又冷漠，凯西，"她哭道。
+- "Don't be silly, Isabella.
+  译："别犯傻了，伊莎贝拉。
+- When have I ever been harsh or unkind to you?"
+  译：我何时对你粗暴或冷漠过？"

@@ -1,0 +1,7 @@
+B3-33 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 1
+- Fear of danger is ten thousand times more terrifying than danger itself.
+  译：对危险的恐惧比危险本身可怕一万倍。
+- I no longer trusted in god as I had before.
+  译：我不再像以前那样信赖上帝了。
+- If I had kept my trust in god, I would have been more cheerful in this new distress.
+  译：如果我保持对上帝的信任，面对这新的困境我本会更加坦然。

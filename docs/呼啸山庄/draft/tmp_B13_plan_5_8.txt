@@ -1,0 +1,35 @@
+B13-5 | character_refs: ["C7", "C1", "C10"] | scene_refs: ["S7"] | 预估格数: 2
+- Just then I heard Heathcliff's step on the stairs.
+  译：就在这时，我听到希斯克利夫的脚步声从楼梯传来。
+- The open house had been too much of a temptation for him.
+  译：敞开的房门对他来说诱惑太大了。
+- She heard it too, and stared at the door with glittering eyes.
+  译：她也听到了，双眼闪着光芒，凝视着门口。
+- Then he was by her side and had grasped her in his arms.
+  译：随即他来到她身边，将她紧紧揽入怀中。
+
+B13-6 | character_refs: ["C1", "C10"] | scene_refs: ["S7"] | 预估格数: 1
+- He did not speak or let go of her for five minutes.
+  译：他沉默无言，足足五分钟没有放开她。
+- He just held her tightly and kissed her over and over again.
+  译：他只是紧紧抱着她，一遍又一遍地亲吻她。
+- His face was buried in her hair, and it struck me that he probably could not bear to look at her face, so clear were the signs there that she was sure to die.
+  译：他把脸埋在她的发间，我突然意识到，他大概不敢去看她的脸，因为她脸上必死的迹象已是那么清晰。
+
+B13-7 | character_refs: ["C1", "C10"] | scene_refs: ["S7"] | 预估格数: 2
+- "Oh, Kathy! Oh, my life! How can I bear it?" he cried in despair.
+  译："哦，凯茜！哦，我的生命！我怎么承受得了？"他绝望地喊道。
+- "What now?" said Catherine, leaning back to look at his face.
+  译："怎么了？"凯瑟琳向后仰头，看着他的脸说。
+- "You and Edgar have broken my heart, Heathcliff, and you both come to me and cry as if you were the people to be pitied.
+  译："你和埃德加都伤了我的心，希斯克利夫，你们两个都来到我这里哭泣，好像你们才是值得同情的人。
+
+B13-8 | character_refs: ["C10"] | scene_refs: ["S7"] | 预估格数: 1
+- I shall not pity you.
+  译：我不会怜悯你们的。
+- You have killed me, and it has done you good.
+  译：你们害死了我，而这对你们有好处。
+- How strong you are!
+  译：你是多么强壮啊！
+- How many years do you plan to live after I am dead?"
+  译：我死后你打算再活多少年？"

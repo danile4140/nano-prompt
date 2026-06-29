@@ -1,0 +1,43 @@
+B4-13 | character_refs: ["C1b"] | scene_refs: ["S22"] | 预估格数: 1
+- When I tired of watching out for them every day, I began to question my plan.
+  译：当我厌倦了每天守望他们时，我开始质疑自己的计划。
+- God had let them live unpunished for ages, and what had these people ever done to me?
+  译：上帝让他们逍遥法外多年，而这些人对我做过什么呢？
+- They did not think it was a sin to kill a prisoner and eat his flesh.
+  译：他们不认为杀死俘虏并吃掉他的肉是一种罪孽。
+- Then I thought that though this custom was inhuman, it was really nothing to me.
+  译：然后我想到，虽然这种习俗是不人道的，但其实与我无关。
+- These people had done me no harm.
+  译：这些人对我并没有造成任何伤害。
+
+B4-14 | character_refs: ["C1b"] | scene_refs: ["S12"] | 预估格数: 2
+- If they attacked me, then I might have the right to kill them.
+  译：如果他们攻击我，那我或许有权利杀死他们。
+- At present I was at no risk.
+  译：目前我并没有面临任何危险。
+- And therefore I had no right to kill them.
+  译：因此我没有权利杀死他们。
+- If I did so.
+  译：如果我这样做了。
+- I would be no better than the spaniards who had destroyed millions of savages in America.
+  译：我就和那些在美洲灭绝了数百万野人的西班牙人没有什么两样了。
+
+B4-15 | character_refs: ["C1b"] | scene_refs: ["S12"] | 预估格数: 1
+- The savages had done the spaniards no harm.
+  译：野人们对西班牙人并没有造成任何伤害。
+- All the Christian nations of Europe said that the spaniards had been cruel and unnatural to kill those people.
+  译：欧洲所有基督教国家都说西班牙人残忍而违反自然地杀死了那些人。
+- These thoughts made me abandon my bloody plan.
+  译：这些想法使我放弃了我那充满血腥的计划。
+- Besides, I thought that attacking them would put me at greater risk.
+  译：此外，我认为攻击他们会使我面临更大的危险。
+
+B4-16 | character_refs: ["C1b"] | scene_refs: ["S12"] | 预估格数: 1
+- If I did not kill all of them, the survivors would go home and return with others to kill me.
+  译：如果我没有把他们全部杀死，幸存者会回家并带着其他人来杀我。
+- Therefore, I decided it was neither just nor wise to attack the savages.
+  译：因此，我决定攻击野人既不公正也不明智。
+- I gave thanks to god that I had been saved from committing a great sin.
+  译：我感谢上帝让我免于犯下大罪。
+- But a year afterwards I never went to the western shore except once to get my boat and hide it on the eastern side of the island.
+  译：但此后一年，我再也没有去过西岸，除了一次去取我的船并把它藏到岛的东侧。

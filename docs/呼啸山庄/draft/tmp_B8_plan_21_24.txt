@@ -1,0 +1,29 @@
+B8-21 | character_refs: ["C3b", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- If all else perished and he remained, I would go on living. But if he perished, the universe would seem a great stranger to me, and I would not seem to be a part of it.
+  译：如果其他一切都消亡了而他还在，我就能继续活下去。但如果他消亡了，整个宇宙对我来说将是一个陌生的地方，我也不再属于它。
+- My love for Linton is like the leaves on the trees. Time will change it, I know.
+  译：我对林顿的爱像树上的叶子，时间会改变它，我知道。
+- My love for Heathcliff is like the eternal rocks beneath – a source of little visual delight, but necessary.
+  译：我对希斯克利夫的爱则像地下永恒的岩石——几乎没有视觉上的愉悦，却是必要的存在。
+
+B8-22 | character_refs: ["C3b", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- Nelly, I am Heathcliff. He is always in my mind, not as a pleasure, any more than I am always a pleasure to myself, but as my own being."
+  译："内莉，我就是希斯克利夫。他永远在我心里，不是作为一种快乐，就像我对自己也并非永远是快乐一样，而是作为我存在的本身。"
+- But think, Miss Cathy, if Heathcliff loves you, as you say you love him, how terrible it will be for him to lose you!
+  译：但请想想，凯茜小姐，如果希斯克利夫像你说的那样爱你，失去你对他来说将是多么可怕的事情！
+
+B8-23 | character_refs: ["C3b", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- "Lose me! Why should he lose me? We shall be together, as we always have been.
+  译："失去我！他为什么要失去我？我们会在一起的，一如既往。
+- But you see, Nelly, if I married Heathcliff, we would have no money.
+  译：但你看，内莉，如果我嫁给希斯克利夫，我们就会没有钱。
+- If I marry Edgar, I can help Heathcliff to rise and place him out of my brother's power."
+  译：如果我嫁给埃德加，我就能帮助希斯克利夫出人头地，让他脱离我哥哥的掌控。"
+
+B8-24 | character_refs: ["C3b", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- "Well, Miss Cathy, that is the worst reason you have given so far for marrying Edgar Linton!
+  译："好吧，凯茜小姐，这是你迄今为止给出的嫁给埃德加·林顿最糟糕的理由！
+- I can't understand your nonsense, miss, and I must make the dinner, so tell me no more secrets, please."
+  译：我实在理解不了您的胡言乱语，小姐，而且我还要去做晚饭，所以请不要再告诉我秘密了。"
+- When dinner was ready, I went to look for Heathcliff, but I could not find him.
+  译：晚饭准备好后，我去找希斯克利夫，但找不到他。

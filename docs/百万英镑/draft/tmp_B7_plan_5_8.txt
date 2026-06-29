@@ -1,0 +1,41 @@
+B7-5 | character_refs: ["C1", "C11"] | scene_refs: ["S9"] | 预估格数: 2
+- My dear hastings, sit down here and drink this hot whiskey.
+  译：亲爱的黑斯廷斯，坐下来喝杯热威士忌吧。
+- Now tell me your whole story, every word of it.
+  译：现在把你的整个故事告诉我，一字不漏。
+- Do you want to hear my story again?
+  译：你想再听一遍我的故事吗？
+- But you never told me your story.
+  译：但你从未告诉过我你的故事。
+
+B7-6 | character_refs: ["C1", "C11"] | scene_refs: ["S9"] | 预估格数: 2
+- Of course I told you my story as we walked to the hotel.
+  译：我当然在回酒店的路上告诉你了。
+- Don't you remember
+  译：你不记得了吗？
+- I didn't hear one word of it.
+  译：我一个字也没听到。
+- Henry, are you ill?
+  译：亨利，你病了吗？
+- Is something wrong with you?
+  译：你怎么了？
+- What did you drink at the dinner party?
+  译：你在晚宴上喝了什么？
+
+B7-7 | character_refs: ["C1", "C11"] | scene_refs: ["S9"] | 预估格数: 2
+- Oh hastings, I'm in love!
+  译：哦，黑斯廷斯，我恋爱了！
+- I can only think about my sweet portia.
+  译：我满脑子都是我甜蜜的波西亚。
+- This is why I didn't hear your story before.
+  译：这就是我之前没听见你说话的原因。
+
+B7-8 | character_refs: ["C1", "C11"] | scene_refs: ["S9"] | 预估格数: 2
+- Hastings got up from his chair, shook my hand and laughed.
+  译：黑斯廷斯从椅子上站起来，握住我的手，大笑起来。
+- I'm very happy for you, Henry.
+  译：我真为你高兴，亨利。
+- Very happy he said, smiling.
+  译：非常高兴，他微笑着说。
+- I'll tell you the whole story again
+  译：我再把整个故事告诉你一遍。

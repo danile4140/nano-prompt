@@ -1,0 +1,39 @@
+B16-33 | character_refs: ["C1", "C6", "C7", "C12"] | scene_refs: ["S1"] | 预估格数: 3
+- Pushing me forward.
+  译：推着我向前走。
+- As soon as we were in the sitting room, Heathcliff locked the door.
+  译：我们一进客厅，希斯克利夫就把门锁上了。
+- "What are you doing?" cried Catherine.
+  译："你在做什么？"凯瑟琳喊道。
+- "I'm going to keep you here until you marry my son," said Heathcliff.
+  译："我要把你关在这里，直到你嫁给我儿子，"希斯克利夫说。
+
+B16-34 | character_refs: ["C1", "C6"] | scene_refs: ["S1"] | 预估格数: 3
+- "I'm not afraid of you!" cried Catherine, starting to scratch and bite his hand in her attempt to get the key.
+  译："我不怕你！"凯瑟琳喊道，她开始抓挠、咬他的手试图夺取钥匙。
+- "You cannot keep me here.
+  译："你不能把我关在这里。
+- My father will be worried about me.
+  译：我父亲会为我担心的。
+- Let me go home now.
+  译：让我现在回家。
+- I will marry Linton tomorrow."
+  译：我明天就嫁给林顿。"
+
+B16-35 | character_refs: ["C1", "C6"] | scene_refs: ["S1"] | 预估格数: 2
+- "Yes," said Heathcliff.
+  译："好，"希斯克利夫说。
+- "You will marry Linton tomorrow, but you will not go home tonight.
+  译："你明天就嫁给林顿，但今晚你不能回家。
+- I am very glad to hear that your father will be worried.
+  译：听到你父亲会担心我非常高兴。
+- It makes me all the more determined to keep you here."
+  译：这让我更加坚定地要把你留在这里。"
+
+B16-36 | character_refs: ["C1", "C6", "C7"] | scene_refs: ["S11"] | 预估格数: 2
+- Catherine bit his hand hard, but he grasped her arm and slapped her face several times.
+  译：凯瑟琳用力咬他的手，但他抓住她的手臂，重重地打了她几巴掌。
+- Then he took us upstairs and locked us in a bedroom.
+  译：然后他把我们带上楼，把我们锁在一间卧室里。
+- We looked for a way to escape, but the windows were too narrow.
+  译：我们找寻逃跑的办法，但窗户太窄了。

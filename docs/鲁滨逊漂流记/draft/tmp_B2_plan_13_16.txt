@@ -1,0 +1,31 @@
+B2-13 | character_refs: ["C1"] | scene_refs: ["S8", "S11"] | 预估格数: 2
+- I had the largest store, I believe, that was ever laid up for one man.
+  译：我拥有的储备，我相信，是一个人所能积累的最多的。
+- However, I was not satisfied.
+  译：然而，我并不满足。
+- The ship had not yet broken to pieces and I thought I should get everything I could out of her.
+  译：那艘船还没有散架，我想我应该把能取的东西全部取出来。
+- Every day I went to the ship and brought back more goods.
+  译：每天我都去船上，带回更多货物。
+
+B2-14 | character_refs: ["C1"] | scene_refs: ["S8", "S11"] | 预估格数: 2
+- I brought bread, rum, sugar and many other things back to my tent.
+  译：我把面包、朗姆酒、糖以及许多其他东西带回帐篷。
+- Finally, there was nothing more to take out of the ship.
+  译：终于，船上再没有什么可取的了。
+- I then began to take pieces of the ship itself, iron, nails, rope, I carried away everything I could.
+  译：我开始拆取船身本身的零件——铁件、钉子、绳索，能带走的我全都带走了。
+
+B2-15 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 1
+- I have now been on the island for thirteen days, and had been eleven times on board the ship.
+  译：现在我已在岛上待了十三天，共上船十一次。
+- I think that if the weather had remained calm I would have brought the whole ship away piece by piece.
+  译：我想若天气一直平静，我会把整艘船一块一块地都搬走。
+
+B2-16 | character_refs: ["C1"] | scene_refs: ["S8"] | 预估格数: 2
+- The last time I went to the ship, I found money.
+  译：最后一次上船，我发现了钱。
+- I smiled and said, oh drug, what are you good for?
+  译：我笑着说："哦，废物，你有什么用？"
+- One knife is worth more to me than all this money.
+  译：一把刀对我的价值远超这堆钱。

@@ -1,0 +1,49 @@
+B5-25 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 3
+- What would you do there, I asked.
+  译：你回去后会做什么呢？我问道。
+- Would you eat man's food?
+  译：你会吃人的食物吗？
+- Flesh and become a savage again Friday shook his head and said, no, I would teach them how to live well and how to pray to god.
+  译：吃人肉，再次变成野蛮人吗？星期五摇了摇头说，不，我会教他们怎么好好生活，怎么向上帝祷告。
+- I would teach them to eat bread and the flesh of goats, and never to eat men.
+  译：我会教他们吃面包和山羊肉，永远不再吃人。
+
+B5-26 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 3
+- But then I said, they would kill you.
+  译：但我说，他们会杀了你的。
+- N o, t h e y would not kill me.
+  译：不，他们不会杀我的。
+- They will be willing to learn.
+  译：他们会愿意学的。
+- I told him that I would make a canoe for him to go back to his nation.
+  译：我告诉他，我会为他造一艘独木舟让他回到自己的部族。
+- Then Friday said that he would go if I would go with him.
+  译：然后星期五说，如果我愿意和他一起去，他才去。
+- I go said I, but they would eat me.
+  译：我去？我说，但他们会把我吃掉的。
+
+B5-27 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 3
+- N o, n o, he said, I would tell them not to eat you.
+  译：不不，他说，我会告诉他们不要吃你。
+- I would make them love you very much.
+  译：我会让他们非常喜欢你。
+- I told him again that I would make him a canoe so that he could return to his nation.
+  译：我再次告诉他，我会为他造一艘独木舟让他回到自己的部族。
+- Friday looked very sad.
+  译：星期五看起来非常伤心。
+- Why are you angry with me he asked.
+  译：你为什么生我的气？他问道。
+
+B5-28 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 3
+- I said I was not angry with him at all then why do you want to send me away but Friday said I did you not say that you want to go home yes, yes said Friday.
+  译：我说我根本没有生他的气。那你为什么要把我赶走？但是，星期五，我说，你不是说你想回家吗？是的，是的，星期五说。
+- I wish we were both there.
+  译：我希望我们两个都在那里。
+- I do not wish to return alone, but what would I do there Friday I asked.
+  译：我不想独自回去，但我去那里能做什么呢？星期五，我问道。
+- You could do a lot of good there.
+  译：你可以在那里做很多好事。
+- You could teach my people to be good.
+  译：你可以教我的族人行善。
+- You could tell them about god no, no Friday I said, you go without me, and leave me here to live alone as I did before he looked very distressed at my words and taking up.
+  译：你可以告诉他们关于上帝的事。不，不行，星期五，我说，你自己去吧，让我一个人留在这里像以前一样生活。他听了我的话神情非常痛苦，然后拿起。

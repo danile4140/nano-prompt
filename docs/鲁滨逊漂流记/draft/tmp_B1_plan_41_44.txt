@@ -1,0 +1,47 @@
+B1-41 | character_refs: ["C1"] | scene_refs: ["S6"] | 预估格数: 2
+- Three planters came to me the next morning.
+  译：第二天早晨，三位种植园主来找我。
+- They said they planned to buy a ship and sail to the African coast to buy slaves.
+  译：他们说打算买一艘船，前往非洲海岸购买奴隶。
+- They wanted to make one voyage only, then share the slaves among their plantations.
+  译：他们只打算做这一次航行，然后把奴隶分配到各自的种植园。
+- They asked me if I would go on this voyage, and they promised that I would have a share of slaves without spending any money.
+  译：他们问我是否愿意参加此次航行，并承诺我无需出钱便能分得一批奴隶。
+- I agreed to go.
+  译：我同意了。
+
+B1-42 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: 1
+- I went aboard the ship on the first of September sixteen fifty nine, exactly eight years after my first voyage from hull.
+  译：我在一六五九年九月一日登上了船，距离我第一次从赫尔出发整整过去了八年。
+- We sailed up the coast to cape saint agostino, then we lost sight of land.
+  译：我们沿海岸北上到圣奥古斯丁角，随后便望不见陆地了。
+- Twelve days later, a hurricane hit our ship.
+  译：十二天后，一场飓风袭击了我们的船。
+- For twelve days the winds blew strongly, every day I expected the sea to swallow us.
+  译：狂风持续猛吹了十二天，每一天我都以为大海会把我们吞没。
+
+B1-43 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: 2
+- On the twelfth day the weather was a little calmer.
+  译：第十二天，天气稍有平息。
+- The ship was filling with water, so I advised the captain to sail for barbados.
+  译：船舱进了水，于是我建议船长驶向巴巴多斯。
+- As we sailed, another storm hit us.
+  译：正当我们行驶时，又一场风暴袭来。
+- The wind blew us far away from the trading routes.
+  译：狂风把我们吹离了贸易航线很远。
+- If we came to land, we would probably be eaten by savages.
+  译：如果我们到了陆地，很可能会被野蛮人吃掉。
+- One morning a sailor cried out land we ran out to look.
+  译：一天早晨，一个水手喊道"陆地"，我们都跑出来张望。
+
+B1-44 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: 2
+- But at that moment the ship struck sand, the waves broke over the ship and we thought we would all die.
+  译：但就在那一刻，船触礁搁浅，海浪打上船来，我们以为全都要死了。
+- We could not move the ship off the sand.
+  译：我们无法把船从沙滩上移开。
+- We were sure that the ship would soon break into pieces.
+  译：我们确信船很快就会四分五裂。
+- Therefore we climbed into a boat and left the ship.
+  译：于是我们爬进一艘小艇，离开了大船。
+- We rowed through that wild water towards the land, knowing that we were rowing towards our greatest danger.
+  译：我们在那狂涛中划向陆地，心知是在向最大的危险划去。

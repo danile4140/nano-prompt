@@ -1,0 +1,17 @@
+B5-9 | character_refs: ["C1b", "C9"] | scene_refs: ["S10"] | 预估格数: 2
+- He invited me to visit his home whenever I wanted.
+  译：他邀请我随时可以去他家拜访。
+- I was glad to have a new important friend.
+  译：我很高兴能结交到这样一位重要的新朋友。
+- I thought to myself, I'll need an important friend when the story of the million pound note and bet comes out.
+  译：我心想：等到百万英镑钞票和那场赌局的故事曝光时，我一定需要一个有分量的朋友。
+
+B5-10 | character_refs: ["C1b"] | scene_refs: ["S9"] | 预估格数: 2
+- I want the reader to know that I plan to pay back all the shop owners who sold me things on credit.
+  译：我想让读者知道，我打算把所有赊账卖给我东西的店主都一一还清。
+- If I win the bet for the old gentleman, I thought I will have an important job.
+  译：我想，如果我帮那位老先生赢得了赌局，我就会得到一份重要的工作。
+- With an important job, I will have a big salary.
+  译：有了重要的工作，我就会有丰厚的薪水。
+- I planned to pay back everyone with my first year's salary.
+  译：我打算用第一年的薪水还清所有债务。

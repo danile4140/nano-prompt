@@ -1,0 +1,9 @@
+B1-21 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- Mr. Heathcliff relaxed a little and began to tell me about the advantages and disadvantages of Thrushcross Grange.
+  译：希斯克利夫先生稍稍放松下来，开始向我介绍画眉田庄的优缺点。
+- I enjoyed my conversation with him and offered to visit again tomorrow.
+  译：我很享受与他的交谈，并提出明天再来拜访。
+- He did not seem to like the idea, but I will go anyway.
+  译：他似乎不太欢迎这个想法，但我还是会去的。
+- He makes me feel like a sociable man compared with him.
+  译：与他相比，他让我觉得自己是个颇为健谈的人。

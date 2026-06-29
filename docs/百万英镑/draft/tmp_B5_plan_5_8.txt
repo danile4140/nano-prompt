@@ -1,0 +1,33 @@
+B5-5 | character_refs: ["C1b"] | scene_refs: ["S9"] | 预估格数: 2
+- I lived like a rich, important man.
+  译：我过着富贵显赫的生活。
+- I had money to spend, I lived in a dream.
+  译：我有钱可花，我活在梦里。
+- But often I said to myself, remember, this dream will end when the two men returned to London, everything will change.
+  译：但我常常提醒自己：记住，这个梦会结束的——等那两位先生回到伦敦，一切都会改变。
+
+B5-6 | character_refs: ["C1b"] | scene_refs: ["S2"] | 预估格数: 2
+- My story was in the newspapers, everyone talked about the strange millionaire with the million pound note in his pocket.
+  译：我的故事登上了报纸，人人都在谈论那个口袋里装着百万英镑钞票的奇怪百万富翁。
+- Punch magazine drew a funny picture of me on the front page.
+  译：《笨趣》杂志在封面上画了一幅我的漫画。
+- People talked about everything I did and about everything I said, they followed me in the streets.
+  译：人们议论着我的一举一动、我说过的每一句话，还在街上跟着我。
+
+B5-7 | character_refs: ["C1", "C1b"] | scene_refs: ["S2", "S7"] | 预估格数: 3
+- I kept my old clothes and sometimes I wore them.
+  译：我保留着旧衣服，有时候穿着它们出门。
+- It was fun when the shop owners thought I was poor.
+  译：当店主以为我是穷人时，那种感觉真有趣。
+- Then I showed them the bank note and oh how their faces changed.
+  译：然后我拿出那张钞票——哦，他们的表情变化得可真精彩。
+
+B5-8 | character_refs: ["C1b", "C9"] | scene_refs: ["S10"] | 预估格数: 2
+- After ten days in London, I went to visit the American ambassador.
+  译：在伦敦住了十天之后，我去拜访了美国大使。
+- He was very happy to meet me.
+  译：他见到我非常高兴。
+- He invited me to a dinner party that evening.
+  译：他邀请我当晚参加一场晚宴。
+- He told me that he knew my father from Yale University.
+  译：他告诉我，他认识我父亲，两人都曾就读于耶鲁大学。

@@ -1,0 +1,29 @@
+B1-1 | character_refs: ["C1"] | scene_refs: ["S1"] | 预估格数: 2
+- When I was twenty seven years old, I worked in an office in San Francisco.
+  译：我二十七岁那年，在旧金山的一家办公室工作。
+- I did my job well and my future was promising.
+  译：我工作出色，前途一片光明。
+- I was alone in the world and I was happy.
+  译：我孑然一身，却生活得很快乐。
+
+B1-2 | character_refs: ["C1"] | scene_refs: ["S1"] | 预估格数: 1
+- On Saturday afternoons I didn't work.
+  译：每逢周六下午我不用上班。
+- I sailed my little sailboat on San Francisco bay.
+  译：我会驾着我的小帆船在旧金山湾上航行。
+
+B1-3 | character_refs: ["C1"] | scene_refs: ["S1"] | 预估格数: 2
+- One Saturday afternoon I sailed out too far.
+  译：一个周六下午，我驶得太远了。
+- A strong afternoon wind pushed my sailboat out of the bay and into the pacific ocean.
+  译：强劲的午后狂风把我的小帆船吹出了海湾，推入了太平洋。
+
+B1-4 | character_refs: ["C1"] | scene_refs: ["S1"] | 预估格数: 2
+- That night, when I had lost all hope, a small British brig saw me and took me on board.
+  译：那天夜里，当我已经绝望之时，一艘英国小双桅船发现了我，把我救上了船。
+- The brig was sailing to London.
+  译：那艘双桅船正驶向伦敦。
+- The voyage was long and stormy.
+  译：航程漫长，风浪不断。
+- I worked as a sailor to pay for my trip.
+  译：我以做水手的方式换取了这段旅程。

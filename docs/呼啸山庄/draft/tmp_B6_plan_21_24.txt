@@ -1,0 +1,45 @@
+B6-21 | character_refs: ["C3b", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- They all sat down, and I served the food.
+  译：大家都坐下来，我开始上菜。
+- I was surprised and disappointed to see Catherine eat her goose with a good appetite and no signs of distress.
+  译：我惊讶而失望地看到凯瑟琳大口吃着鹅肉，毫无悲伤之色。
+- "She is an insensitive child," I thought to myself. "How easily she forgets Heathcliff's troubles."
+  译："她真是个没心没肺的孩子，"我心里想，"她忘记希斯克利夫的烦恼竟如此轻易。"
+- But just then her eyes filled with tears. She dropped her fork onto the floor deliberately so that she could hide her face under the table until the tears were gone.
+  译：但就在此时，她的眼睛盈满了泪水。她故意把叉子掉到地上，好把脸藏到桌子下面，等泪水消散。
+
+B6-22 | character_refs: ["C1", "C3b", "C7"] | scene_refs: ["S1", "S11"] | 预估格数: 3
+- When I tried to take Heathcliff a plate of food, I discovered that he had been locked in his room.
+  译：当我试图给希斯克利夫送一盘食物时，才发现他已被锁在房间里。
+- After lunch, some musicians came from the village and there was singing and dancing.
+  译：午饭后，村子里来了几位乐手，大家唱歌跳舞。
+- Cathy asked if Heathcliff could come downstairs now, but Hindley said no.
+  译：凯茜问希斯克利夫能否下楼，但辛德利说不行。
+- Later on, Cathy said she wanted to listen to the music from the top of the stairs.
+  译：后来，凯茜说她想在楼梯顶上听音乐。
+- I thought she would go up to the attic where Heathcliff's room was to talk to him through the locked door.
+  译：我以为她会上到希斯克利夫房间所在的阁楼，隔着锁着的门跟他说话。
+- When the music was about to end, I went upstairs to warn her.
+  译：当音乐快要结束时，我上楼去提醒她。
+
+B6-23 | character_refs: ["C1", "C3b", "C7"] | scene_refs: ["S11", "S6"] | 预估格数: 2
+- She was not outside Heathcliff's door, but I could hear her voice within.
+  译：她不在希斯克利夫门外，但我能听到她在里面说话的声音。
+- The little monkey had climbed out of the window along the ledge, and in through the window of Heathcliff's room.
+  译：这个小猴子从窗户沿着窗台爬出去，又从希斯克利夫房间的窗户爬了进去。
+- When she came out again, Heathcliff came with her.
+  译：她出来时，希斯克利夫也跟着出来了。
+- She insisted that I take him to the kitchen.
+  译：她坚持要我把他带到厨房去。
+- I did not like to deceive my master, but since Heathcliff had not eaten all day, I agreed.
+  译：我不喜欢欺骗我的主人，但希斯克利夫一整天都没吃东西，于是我答应了。
+
+B6-24 | character_refs: ["C1", "C7"] | scene_refs: ["S6"] | 预估格数: 2
+- Heathcliff was quiet and thoughtful.
+  译：希斯克利夫沉默而若有所思。
+- When I asked him what he was thinking about, he said, "I am trying to decide how to pay Hindley back. I don't care how long I wait. I just hope I do not die before I do it."
+  译：我问他在想什么，他说："我在想怎么报复辛德利。我不在乎等多久。我只希望在做到之前自己不会死。"
+- "For shame, Heathcliff," said I. "It is for God to punish wicked people. We should learn to forgive."
+  译："希斯克利夫，真是羞耻，"我说，"惩罚坏人是上帝的事。我们应该学会宽恕。"
+- "No," said Heathcliff. "God won't enjoy it as much! I will leave me alone to make my plans, Nelly. While I'm thinking of that, I don't feel pain."
+  译："不，"希斯克利夫说，"上帝不会像我一样痛快！让我自己来做计划，内莉。只要在想这件事，我就感觉不到痛苦。"

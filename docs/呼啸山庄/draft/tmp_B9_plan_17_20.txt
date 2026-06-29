@@ -1,0 +1,53 @@
+B9-17 | character_refs: ["C10", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- 'What?' said he.
+  译："什么？"他说。
+- 'The gypsy, the plough boy?'
+  译："那个吉普赛人，那个犁地的小子？"
+- 'You should not call him by those names, master!' I said.
+  译："您不应该这样叫他，主人！"我说。
+- 'She would be hurt if she hurt you.'
+  译："如果她因此伤害了您，她自己也会很痛苦的。"
+- He opened the window and called down, 'Bring the person in, my dear.'
+  译：他推开窗户，向下喊道："把那人请进来，亲爱的。"
+
+B9-18 | character_refs: ["C3b", "C1", "C10", "C7"] | scene_refs: ["S5"] | 预估格数: 3
+- In a few moments, Cathy ran into the room.
+  译：片刻之后，凯西跑进了房间。
+- Her face blushed with excitement.
+  译：她的脸因激动而泛红。
+- Heathcliff followed her in.
+  译：希斯克利夫随后跟了进来。
+- Now that I saw him properly in the light, the change was even more apparent than before.
+  译：此刻在灯光下我仔细打量他，变化比之前看起来更加明显。
+- He had grown into a tall, strong man.
+  译：他已长成一个高大强壮的男人。
+- My master looked a slender youth beside him.
+  译：我的主人站在他旁边，显得像个纤细的少年。
+
+B9-19 | character_refs: ["C1", "C10"] | scene_refs: ["S5"] | 预估格数: 2
+- The way Heathcliff stood and walked, so straight and proud, suggested that he had been in the army.
+  译：希斯克利夫站立和行走的姿态，如此挺拔而骄傲，令人觉得他曾在军中历练。
+- His face looked intelligent and refined, there was no sign of his former degradation.
+  译：他的面孔显得睿智而高贵，昔日的卑微已无迹可寻。
+- But there was something ferocious about it still.
+  译：但其中仍有一种野性。
+- The eyes were still full of a black fire.
+  译：那双眼睛依然充满了黑色的火焰。
+- My master's surprise equaled or exceeded my own.
+  译：我的主人的惊讶不亚于我，甚至有过之而无不及。
+- He stood confused for a moment, unsure how to address 'the plough boy' as he had called him.
+  译：他困惑地站了一会儿，不知该如何称呼他所谓的"犁地小子"。
+
+B9-20 | character_refs: ["C3b", "C1", "C10"] | scene_refs: ["S5"] | 预估格数: 3
+- 'Sit down, sir,' he said after a while.
+  译："请坐，先生，"他过了片刻说。
+- Heathcliff sat opposite Catherine.
+  译：希斯克利夫坐在凯瑟琳对面。
+- She never took her eyes off him.
+  译：她的目光始终不离他。
+- It was as if she were afraid that he might vanish again if she did.
+  译：仿佛只要她移开眼睛，他就会再次消失。
+- He did not look at her often, a quick glance now and then.
+  译：他并不常看她，只是偶尔飞快地瞥上一眼。
+- But each time his glance drank the light from hers, and he looked more confidently.
+  译：但每次他的目光都从她的眼中汲取了光芒，神情愈加自信。

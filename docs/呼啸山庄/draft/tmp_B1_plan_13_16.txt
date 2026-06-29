@@ -1,0 +1,31 @@
+B1-13 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- "You had better leave the dog alone," drawled Mr. Heathcliff.
+  译："你最好别去碰那只狗，"希斯克利夫先生懒洋洋地说。
+- Then he went to the cellar in search of Joseph, leaving me surrounded by his ill-tempered dogs, who watched my every movement.
+  译：随后他下地窖去找约瑟夫，留下我被他那些性情暴躁的狗围在中间，它们紧盯着我的每一个动作。
+
+B1-14 | character_refs: ["C1", "C2", "C8"] | scene_refs: ["S1"] | 预估格数: 3
+- Anxious not to be beaten, I kept still, but to vent my feelings, I whispered, "Keep away, you severe curse!"
+  译：为了不被咬伤，我屏住气一动不动，却忍不住低声咕哝："滚开，你们这群讨厌的东西！"
+- This provoked attack, for the dogs leaped on me at once, snarling and baring their teeth.
+  译：这激怒了它们，那些狗立刻扑向我，龇牙咧嘴，嗥叫着。
+- I snatched up the poker to defend myself and cried out for help.
+  译：我抓起拨火棍护身，大声呼救。
+- Mr. Heathcliff and Joseph appeared at the door but made no effort to save me.
+  译：希斯克利夫先生和约瑟夫出现在门口，却毫无出手相救的意思。
+
+B1-15 | character_refs: ["C13"] | scene_refs: ["S1"] | 预估格数: 2
+- Fortunately, a big strong woman from the kitchen rushed to my aid.
+  译：幸好，厨房里一个高大结实的女人冲了过来帮我。
+- She shouted at the dogs and hit them with a frying pan until they let go of me.
+  译：她对着狗大声呵斥，用平底锅猛打，直到狗们松开了我。
+
+B1-16 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- "What the devil is the matter?" asked Mr. Heathcliff.
+  译："到底出了什么事？"希斯克利夫先生问道。
+- "What the devil indeed," I replied.
+  译："这话该我问，"我回答道。
+- "You should not leave a stranger alone with those dogs, sir.
+  译："先生，您不该把一个陌生人独自留在那些狗旁边。
+- They are as savage as tigers."
+  译：它们凶猛得像老虎。"

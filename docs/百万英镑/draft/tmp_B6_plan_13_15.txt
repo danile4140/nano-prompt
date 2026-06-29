@@ -1,0 +1,27 @@
+B6-13 | character_refs: ["C1b", "C10"] | scene_refs: ["S10"] | 预估格数: 2
+- I was honest with her.
+  译：我对她坦诚相待。
+- I told her that I was poor and that I didn't have a cent in the world.
+  译：我告诉她我很穷，身无分文。
+- I explained that the million pound note was not mine.
+  译：我解释说那张百万英镑钞票并不属于我。
+- She was very curious to know more.
+  译：她非常好奇，想了解更多。
+- I told her the whole story from the start.
+  译：我从头到尾把整件事都告诉了她。
+
+B6-14 | character_refs: ["C10", "C1b"] | scene_refs: ["S10"] | 预估格数: 2
+- She laughed and laughed.
+  译：她笑个不停。
+- She thought the story was very funny.
+  译：她觉得这个故事非常好笑。
+- I didn't understand why it was funny.
+  译：我却不明白这有什么好笑的。
+- I also explained that I needed an important job with a big salary to pay all my debts.
+  译：我还解释说，我需要一份薪水丰厚的重要工作来偿还所有债务。
+
+B6-15 | character_refs: ["C1b", "C10"] | scene_refs: ["S10"] | 预估格数: 2
+- Portia, dear, can you come with me on the day I must meet those two gentlemen well, yes, if I can help you she replied, of course you can help me.
+  译：波西亚，亲爱的，我去见那两位绅士的那天你能陪我去吗——当然，如果我能帮上忙，她答道——你当然能帮上忙。
+- You're so lovely that when the two gentlemen see you, I can ask for any job and any salary with you there, my sweet portia, the two gentlemen won't refuse me anything.
+  译：你这么可爱，两位绅士一看到你，我就可以开口要任何职位、任何薪水——有你在，我的甜心波西亚，两位绅士什么都不会拒绝我。

@@ -1,0 +1,29 @@
+B18-13 | character_refs: ["C6", "C5", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- When Hareton had read the passage through with no mistakes, Catherine kissed him and said, "Let's go for our walk now."
+  译：哈顿一字不差地读完了那段文字，凯瑟琳亲吻了他，说：「我们现在去散步吧。」
+- I did not want to interrupt them, so I hid behind the door until they were gone.
+  译：我不想打扰他们，便躲在门后直到他们离开。
+- When they were out of the gate, I looked into the sitting room again and saw my old friend Nelly Dean sitting by the fire, sewing.
+  译：等他们出了大门，我再次向客厅里张望，看见我的老朋友内莉·迪恩坐在炉火旁缝着什么。
+
+B18-14 | character_refs: ["C2", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- She saw me and leapt to her feet.
+  译：她看见我，猛地站了起来。
+- "Mr. Lockwood, why didn't you tell us you were coming?
+  译：「洛克伍德先生，您怎么没告诉我们您要来？
+- Thrushcross Grange will not be ready for you."
+  译：画眉田庄现在还没为您准备好呢。」
+
+B18-15 | character_refs: ["C2", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- "Don't worry," said I.
+  译：「不用担心，」我说。
+- "I have been to Thrushcross Grange, and the housekeeper is preparing a room for me now.
+  译：「我已经去过画眉田庄了，管家正在为我准备房间。
+- But tell me, why aren't you at Thrushcross Grange, Mrs. Dean?"
+  译：但请告诉我，迪恩太太，您为何不在画眉田庄？」
+
+B18-16 | character_refs: ["C7"] | scene_refs: ["S1"] | 预估格数: 1
+- "Oh, I've been here for over three months now.
+  译：「哦，我已经在这里住了三个多月了。
+- I came just before Mr. Heathcliff died," she replied.
+  译：我是在希斯克利夫先生去世前不久来的，」她回答道。

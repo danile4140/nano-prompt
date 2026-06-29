@@ -1,0 +1,41 @@
+B8-17 | character_refs: ["C3b", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- "I don't understand you," said I.
+  译："我不明白你的意思，"我说。
+- She was silent for a while, then she said, "Nelly, do you ever have strange dreams sometimes? So do I.
+  译：她沉默了片刻，然后说，"内莉，你有时候会做奇怪的梦吗？我也会。
+- I've dreamt dreams that have stayed with me ever after and changed my ideas.
+  译：我做过一些梦，那些梦一直萦绕不散，改变了我的想法。
+- They've gone through me like wine through water and changed the color of my mind.
+  译：它们穿透我，就像酒融入水中，改变了我思想的颜色。
+- And this is one. I'm going to tell it, but you must not smile at any part of it."
+  译：这就是其中之一。我要讲给你听，但你不能对其中任何部分发笑。"
+
+B8-18 | character_refs: ["C3b", "C7"] | scene_refs: ["S1"] | 预估格数: 3
+- "Very well," said I.
+  译："好的，"我说。
+- "I dreamt I was in heaven, Nelly, but I was extremely miserable."
+  译："我梦见自己在天堂，内莉，但我极度痛苦。"
+- Heaven did not seem to be my home, and I wept and wept until the angels became angry and threw me out, and I landed in the middle of the moors at Wuthering Heights, and I woke up sobbing for joy.
+  译：天堂不像是我的家，我哭啊哭，直到天使们愤怒地把我扔出去，我落在呼啸山庄的荒野中央，哭着哭着便欣喜地醒来了。
+- That will explain my secret. I should not marry Edgar Linton any more than I should live in heaven.
+  译：这就解释了我的秘密。我不应该嫁给埃德加·林顿，就像我不应该住在天堂一样。
+- And if Hindley had not brought Heathcliff so low, I would never have thought of it.
+  译：如果辛德利没有把希斯克利夫压得那么低，我根本不会有这种想法。
+- It would degrade me to marry Heathcliff now, so he shall never know how I love him.
+  译：现在嫁给希斯克利夫会降低我的身份，所以他永远不会知道我有多爱他。
+
+B8-19 | character_refs: ["C1", "C3b", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- I noticed a movement in the shadows and saw that Heathcliff had been there listening all the time.
+  译：我注意到阴影中有一个动静，发现希斯克利夫一直在那里偷听。
+- He crept out silently.
+  译：他悄无声息地溜了出去。
+- Cathy did not notice anything. She went on:
+  译：凯茜没有察觉任何异样，她继续说道：
+
+B8-20 | character_refs: ["C3b", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- "I don't love Heathcliff because he's handsome. I love him because he's more myself than I am.
+  译："我爱希斯克利夫不是因为他英俊。我爱他是因为他比我更像我自己。
+- Whatever our souls are made of, his and mine are the same, and Linton's is as different as a moonbeam from lightning, or frost from fire.
+  译：不管我们的灵魂由什么构成，他的与我的是一样的，而林顿的与我们的差异，就像月光之于闪电，冰霜之于烈火。
+- My great miseries in this world have been Heathcliff's miseries.
+  译：我在这世上所有的大痛苦，也都是希斯克利夫的痛苦。

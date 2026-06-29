@@ -1,0 +1,35 @@
+B14-9 | character_refs: ["C1", "C11"] | scene_refs: ["S1"] | 预估格数: 2
+- Heathcliff threw the knife at me and it cut me just below the ear.
+  译：希斯克利夫把刀扔向我，刀刃割伤了我的耳朵下方。
+- I turned and left the room.
+  译：我转身离开了房间。
+- He probably thinks I went to my own room and locked myself in, but instead I ran from the house.
+  译：他大概以为我回到自己房间锁上了门，但实际上我跑出了那栋房子。
+- And I swear I would never sleep another night at Wuthering Heights."
+  译：我发誓，再也不会在呼啸山庄过夜了。」
+
+B14-10 | character_refs: ["C7", "C11"] | scene_refs: ["S5"] | 预估格数: 2
+- I gave her dry clothes and a coat and a hat.
+  译：我给她拿来干燥的衣服、外套和帽子。
+- I made hot tea for her and called a carriage.
+  译：我为她煮了热茶，并叫了一辆马车。
+- Within an hour she left for the village, and the next morning she went on towards London.
+  译：不到一个小时，她便离开去了村子，第二天早晨又继续前往伦敦。
+- She never came back to this neighborhood again, but she wrote letters to her brother gradually.
+  译：她再也没有回到这一带，但渐渐地开始给她哥哥写信。
+
+B14-11 | character_refs: [] | scene_refs: ["S9"] | 预估格数: 1
+- From these we learned that she had given birth to a son a few months after she left Wuthering Heights.
+  译：从信中我们得知，她离开呼啸山庄几个月后生下了一个儿子。
+- She said he was a sickly, peevish child, always ill, always crying.
+  译：她说这孩子体弱多病、脾气暴躁，总是生病，总是哭闹。
+
+B14-12 | character_refs: ["C1", "C7"] | scene_refs: ["S9"] | 预估格数: 2
+- She christened him Linton Heathcliff.
+  译：她给孩子取名林顿·希斯克利夫。
+- Someone told Heathcliff about the child, and when I met him by chance in the village, he asked me what name they had given him.
+  译：有人把这孩子的事告诉了希斯克利夫，当我在村子里偶然遇见他时，他问我他们给孩子取了什么名字。
+- When I told him he smiled bitterly, and asked if they wanted him to hate the child too.
+  译：我告诉他之后，他苦笑着问，他们是不是也想让他恨这个孩子。
+- "But I will have him when I want him, they can be sure of that."
+  译：「但我想要他的时候自然会得到他，他们大可以确信这一点。」

@@ -1,0 +1,37 @@
+B5-17 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 3
+- I was surprised at this question.
+  译：我被这个问题问住了。
+- I was a very old man, but I was a very young teacher of religion.
+  译：我是一个年纪很大的人，但却是一个非常年轻的宗教教师。
+- I asked him to repeat what he had said, this gave me the time to think of an answer.
+  译：我请他把问题再说一遍，这给了我时间去想答案。
+- God will punish the devil in the end said I, that did not satisfy Friday.
+  译：上帝终将惩罚魔鬼，我说；但这个答案并没有让星期五满意。
+
+B5-18 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 3
+- But why does god not kill him now?
+  译：但为什么上帝现在不杀了魔鬼呢？
+- Why did god not kill him long ago?
+  译：为什么上帝很早以前不把他杀掉呢？
+- I said, why does god not kill you and I when we are wicked?
+  译：我说，当我们作恶的时候，上帝为什么不杀掉你和我呢？
+- He gives us time to repent and be forgiven Friday thought about this, then he said, well, well, I understand you, I and the devil are all wicked, but god lets us all live so that we can repent and be forgiven.
+  译：祂给我们时间悔改并得到宽恕。星期五思索了一番，然后说，我明白了，我和魔鬼都是坏的，但上帝让我们都活着，是为了让我们能够悔改得到宽恕。
+
+B5-19 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 2
+- Here I was in difficulty again and I thought how true it was that reason alone cannot lead us to salvation.
+  译：我又一次陷入困境，心想仅凭理性确实无法引领人走向救赎。
+- I told Friday that I needed something and sent him to get it.
+  译：我告诉星期五我需要某样东西，让他去取。
+- This give me time alone to pray to god that he would help me to teach Friday.
+  译：这给了我独处的时间，让我向上帝祈祷，求祂帮助我教导星期五。
+
+B5-20 | character_refs: ["C1"] | scene_refs: ["S12"] | 预估格数: 1
+- As a teacher, I had a more sincerity than knowledge in trying to teach him.
+  译：作为老师，我在教导他的过程中更多靠的是诚心而非知识。
+- I taught myself many things that I did not know before and many I did not really understand.
+  译：我在这个过程中自学了许多以前不知道的事，以及许多我其实并不真正理解的东西。
+- I wanted to understand more than ever before.
+  译：我比以往任何时候都更渴望理解。
+- I do not know whether I helped Friday, but I'm sure that Friday helped me.
+  译：我不知道我有没有帮到星期五，但我确定星期五帮助了我。

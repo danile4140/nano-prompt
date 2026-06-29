@@ -1,0 +1,45 @@
+B5-13 | character_refs: ["C4", "C8", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- Hindley had changed a lot in the three years of his absence.
+  译：辛德利在离开的三年间变化了很多。
+- On the day he returned, he told Joseph that the servants must stay in the kitchen from now on.
+  译：他回来那天，告诉约瑟夫今后仆人必须待在厨房里。
+- We could no longer sit by the fire with the family as we used to do.
+  译：我们再也不能像以前那样和家人一起坐在炉火旁了。
+- Sometimes he got angry with Heathcliff and said that he too would have to eat in the kitchen with the servants.
+  译：有时他会冲希斯克利夫发火，说他也得和仆人一起在厨房吃饭。
+
+B5-14 | character_refs: ["C4", "C1", "C3"] | scene_refs: ["S1"] | 预估格数: 2
+- Well, when the old master had been alive, Heathcliff had been educated like the other children.
+  译：其实，老主人在世时，希斯克利夫是和其他孩子一样接受教育的。
+- But now Hindley stopped Heathcliff's lessons and said he must work outdoors on the farm.
+  译：但如今辛德利中断了希斯克利夫的课业，说他必须在农场里干活。
+- At first, Heathcliff did not mind too much, because Cathy taught him what she learned in her lessons, and she worked or played with him in the field.
+  译：起初，希斯克利夫并不怎么在意，因为凯西把她学到的东西教给他，还和他一起在田间劳作或玩耍。
+- Cathy and Heathcliff were growing up like a pair of young savages.
+  译：凯西和希斯克利夫就像一对小野人一样长大。
+
+B5-15 | character_refs: ["C4", "C3", "C1", "C8"] | scene_refs: ["S9"] | 预估格数: 2
+- Hindley did not care what they did or how they behaved, so long as they stayed away from him.
+  译：辛德利不管他们做什么、怎么行事，只要他们不来烦他就行。
+- They loved to run away to the moors together in the morning and remained there all day.
+  译：他们喜欢每天早上一起跑到荒野上，整天待在那里。
+- They were punished for doing this.
+  译：他们为此受到了惩罚。
+- Joseph made Catherine learn passages from the Bible and thrashed Heathcliff until his arm ached.
+  译：约瑟夫让凯瑟琳背诵圣经段落，还鞭打希斯克利夫直到自己的手臂酸痛。
+- But these punishments were mere things to laugh at while they were away and free on the moors.
+  译：但这些惩罚在他们奔走于自由的荒野时，不过是笑谈罢了。
+
+B5-16 | character_refs: ["C4", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- One evening, Hindley sent them out of the sitting room for making too much noise.
+  译：一天晚上，辛德利因为他们太吵，把他们赶出了起居室。
+- When bedtime came, we could not find them anywhere.
+  译：到了就寝时间，我们到处都找不到他们。
+- Hindley was furious and told us to lock the house.
+  译：辛德利大发雷霆，叫我们把房子锁上。
+- No one, he said, was to let them in if they returned.
+  译：他说，如果他们回来，谁也不许放他们进来。
+- Joseph followed his orders, but I stayed up by the open window, listening for them, determined to let them in.
+  译：约瑟夫照办了，但我守在开着的窗旁，侧耳聆听，决意要放他们进来。
+- It was raining outside; the poor things would be soaking wet.
+  译：外面正在下雨，可怜的孩子们一定会被淋透的。

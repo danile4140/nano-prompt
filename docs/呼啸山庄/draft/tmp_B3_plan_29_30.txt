@@ -1,0 +1,21 @@
+B3-29 | character_refs: ["C1", "C2"] | scene_refs: ["S3"] | 预估格数: 2
+- Meanwhile, he sat in the oak case so that I could no longer see his face, but I could tell from his breathing and the movement of his arm's shadow on the wall that he was weeping.
+  译：与此同时，他坐进了橡木箱，使我再也看不见他的脸，但我能从他的呼吸声和手臂投在墙上的影子移动中判断出他在哭泣。
+- "Mr. Lockwood," he said at last, "go and wait for me in the corridor."
+  译："洛克伍德先生，"他最终说道，"去走廊等我。"
+
+B3-30 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: 3
+- I went out of the room but then stopped, for the corridor was dark.
+  译：我走出房间，却停住了脚步，因为走廊一片漆黑。
+- He thought I had gone, otherwise he never would have done what he did next.
+  译：他以为我已经离开，否则他绝不会做接下来他所做的事。
+- He broke the window open, bursting into tears as he did so.
+  译：他将窗户破开，在那一刻泪如泉涌。
+- "Come in, come in," he sobbed. "Kathy, do come. I will do once more."
+  译："进来，进来，"他哽咽道。"凯西，你来啊。我再做一次。"
+- "Oh, my heart's darling! Hear me this time, Catherine!"
+  译："哦，我心中的挚爱！这次听听我，凯瑟琳！"
+- At last the ghost, however, gave no sign.
+  译：然而最终，那幽灵没有任何回应。
+- And the wind and the snow swirled in through the window and blew out the light.
+  译：风雪从破窗涌入，将烛火吹灭。

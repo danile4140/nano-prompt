@@ -1,0 +1,45 @@
+B6-17 | character_refs: ["C1b", "C14b", "C16"] | scene_refs: ["S23"] | 预估格数: 2
+- Then I sat down and began to load them.
+  译：然后我坐下来开始装填弹药。
+- Friday and the spaniard fought the savages.
+  译：星期五和西班牙人与野蛮人搏斗。
+- They came to me when they wanted a loaded gun.
+  译：他们需要装好弹的枪时就来找我。
+- Friday pursued the savages who were running away.
+  译：星期五追赶逃跑的野蛮人。
+- He killed the four of them with his hatchet.
+  译：他用手斧杀死了其中四个。
+
+B6-18 | character_refs: ["C1b"] | scene_refs: ["S23"] | 预估格数: 1
+- At the end of the battle most of the savages were dead.
+  译：战斗结束时，大多数野蛮人都已死亡。
+- Three killed at our first shot from the tree, two killed at the next shot.
+  译：第一轮从树后射击打死三个，第二轮打死两个。
+- Two killed by Friday in the boat to killed by Friday.
+  译：星期五在独木舟边打死两个。
+- Of those at first wounded, one killed by Friday in the wood, three killed by the spaniard, four killed by Friday while they were running away, four escaped in the boat with which one was wounded or dead.
+  译：最初受伤者中，星期五在林中击毙一人，西班牙人击毙三人，星期五在追逃时击毙四人，还有四人乘舟逃走，其中一人受伤或已死亡。
+- Twenty one in all.
+  译：总计二十一人。
+
+B6-19 | character_refs: ["C1b", "C14b", "C15"] | scene_refs: ["S23"] | 预估格数: 2
+- All I ran towards a canoe, because I wanted to pursue the savages who had escaped to sea.
+  译：我跑向一只独木舟，想追赶逃向海上的野蛮人。
+- However, when I got to the canoe I found another poor creature tied up in it.
+  译：然而，当我到达独木舟时，发现里面还绑着另一个可怜人。
+- I cut the ropes that bound him and give him rum to drink.
+  译：我割断绑住他的绳子，给他喝了一些朗姆酒。
+- Then I told Friday to explain to him that he was saved.
+  译：然后我让星期五告诉他，他获救了。
+
+B6-20 | character_refs: ["C14b", "C15"] | scene_refs: ["S23"] | 预估格数: 3
+- But when Friday saw him, he kissed him.
+  译：但当星期五看见他时，扑上去亲吻了他。
+- He cried, then he laughed, then he danced.
+  译：他哭了，然后又笑了，然后又跳起舞来。
+- I looked at him in amazement.
+  译：我惊讶地看着他。
+- Friday! What does this mean said I,
+  译："星期五！这是怎么回事？"我问道。
+- oh master said Friday, with the tears in his eyes, that prisoner is my father
+  译："哦，主人，"星期五含泪说道，"那个俘虏是我的父亲！"

@@ -1,0 +1,41 @@
+B6-13 | character_refs: ["C1b", "C14b", "C16"] | scene_refs: ["S23"] | 预估格数: 2
+- Only two were killed, but many were wounded and ran about screaming and covered in blood.
+  译：这次只打死了两个，但许多人受了伤，浑身是血，四处奔逃哭嚎。
+- Come Friday said I, follow me
+  译："来吧，星期五，"我说，"跟我来！"
+- I ran out of the bushes and I showed myself to the savages.
+  译：我冲出灌木丛，让野蛮人看见了我。
+- Friday followed me.
+  译：星期五紧随其后。
+
+B6-14 | character_refs: ["C1b", "C14b", "C16"] | scene_refs: ["S23"] | 预估格数: 2
+- Without a question I ran towards the poor victim.
+  译：我毫不迟疑地跑向那个可怜的受害者。
+- Some of the savages ran away and jumped into a canoe.
+  译：一些野蛮人逃跑，跳上了独木舟。
+- I told Friday to shoot them.
+  译：我命令星期五向他们射击。
+- He killed two of them and wounded another.
+  译：他打死了两个，打伤了一个。
+
+B6-15 | character_refs: ["C1b", "C16"] | scene_refs: ["S23"] | 预估格数: 2
+- I pulled out my knife and cut the ropes that bound the poor victim.
+  译：我拔出刀，割断绑住那个可怜人的绳子。
+- I asked him in Portuguese what he was.
+  译：我用葡萄牙语问他是什么人。
+- He said as paganin I gave him a gun and a sword.
+  译：他回答了。我给了他一把枪和一把剑。
+- The savages that remained had been very frightened by the sound of my gun.
+  译：剩余的野蛮人被我枪声吓得魂不附体。
+- The poor creatures lay on the ground.
+  译：那些可怜的东西倒伏在地。
+
+B6-16 | character_refs: ["C1b", "C14b", "C16"] | scene_refs: ["S23"] | 预估格数: 2
+- Unable to move, the spaniard took the sword and the gun.
+  译：西班牙人虽然身体虚弱，却接过了剑和枪。
+- Very thankfully, this seemed to give him new strength.
+  译：令人欣慰的是，这似乎给了他新的力量。
+- He attacked his murderers and cut two of them to pieces.
+  译：他向那些要杀他的人发起攻击，将其中两人砍倒在地。
+- I told Friday to get other guns.
+  译：我叫星期五去拿更多的枪。

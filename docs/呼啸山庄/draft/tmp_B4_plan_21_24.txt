@@ -1,0 +1,27 @@
+B4-21 | character_refs: ["C3", "C14", "C4"] | scene_refs: ["S1"] | 预估格数: 3
+- Cathy spat at the gypsy child because she had decided it was all his fault.
+  译：凯西朝那个吉普赛孩子吐了口唾沫，因为她认定这一切都是他的错。
+- But her father slapped her and told her she should have better manners.
+  译：但她父亲打了她一巴掌，告诉她要讲礼貌。
+- Mr. Earnshaw said that the gypsy child should sleep with the children.
+  译：恩肖先生说那个吉普赛孩子应该和孩子们住在一起。
+
+B4-22 | character_refs: ["C14", "C4", "C3"] | scene_refs: ["S1"] | 预估格数: 2
+- But Cathy and Hindley refused to sleep with him, so I left him on the stairs hoping he would be gone by morning.
+  译：但凯西和辛德利拒绝和他同睡，于是我把他留在楼梯上，希望到早晨他会自己离开。
+- In the morning, Mr. Earnshaw found him sleeping on the floor outside his bedroom door.
+  译：早晨，恩肖先生发现他睡在自己卧室门外的地板上。
+
+B4-23 | character_refs: ["C14"] | scene_refs: ["S1"] | 预估格数: 1
+- They called him Heathcliff.
+  译：他们给他取名希斯克利夫。
+- It was the name of a son who had died in childhood, and he has used it ever since, both for Christian name and for surname.
+  译：这是一个早年夭折的儿子的名字，从此他就用这个名字，既作名又作姓。
+
+B4-24 | character_refs: ["C14", "C4", "C3"] | scene_refs: ["S1"] | 预估格数: 2
+- A short time after Heathcliff arrived, Mrs. Earnshaw fell ill and died.
+  译：希斯克利夫到来后不久，恩肖太太便病倒去世了。
+- Mr. Earnshaw was left alone with the three children.
+  译：恩肖先生独自带着三个孩子。
+- Heathcliff and Miss Cathy became great friends, but Hindley hated him, and so did I.
+  译：希斯克利夫和凯西小姐成了好朋友，但辛德利憎恨他，我也一样。

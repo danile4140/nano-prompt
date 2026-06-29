@@ -1,0 +1,35 @@
+B1-17 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- "They're hunting dogs, not pets.
+  译："它们是猎犬，不是宠物。
+- Have a glass of wine."
+  译：喝杯酒吧。"
+- "No, thank you."
+  译："不，谢谢。"
+
+B1-18 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 1
+- "Did they bite you?"
+  译："它们咬你了吗？"
+- "If they had, I would have killed them."
+  译："如果咬了，我早就把它们杀了。"
+
+B1-19 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- Mr. Heathcliff grinned.
+  译：希斯克利夫先生咧嘴一笑。
+- "Come, come," he said.
+  译："好了，好了，"他说。
+- "Calm down, Mr. Lockwood.
+  译："冷静些，洛克伍德先生。
+- Here, take a little wine.
+  译：来，喝点酒。
+- Guests are so rare in this house that my dog and I don't know how to receive them.
+  译：这屋里客人太少见了，我和我的狗都不知道该如何招待。
+- Your health, sir."
+  译：敬您健康，先生。"
+
+B1-20 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- I raised my glass to his and replied, "And yours."
+  译：我举杯与他相碰，回道："也敬您健康。"
+- It would have been foolish to take offense at the behavior of dogs.
+  译：为狗的行为而生气，未免太愚蠢了。
+- Besides, Mr. Heathcliff was amused by my distress, and I did not want to give him any more amusement.
+  译：再说，希斯克利夫先生已经在我的狼狈中取得了乐趣，我不想再给他更多的消遣。

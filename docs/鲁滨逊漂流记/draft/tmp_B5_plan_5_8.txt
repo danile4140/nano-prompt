@@ -1,0 +1,37 @@
+B5-5 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 2
+- The next day I taught Friday how to make bread.
+  译：第二天，我教星期五怎么做面包。
+- After a little time he was able to do these things as well as I could do them myself.
+  译：没过多久，他做这些事情就和我一样熟练了。
+- This was the best year of my life on the island.
+  译：这是我在岛上最美好的一年。
+- Now I had someone to talk to, and he was a pleasant fellow.
+  译：现在我有了说话的人，而且他是个令人愉快的伙伴。
+
+B5-6 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 1
+- He was honest and simple.
+  译：他诚实纯朴。
+- I began really to love him, and I believed he loved me more than he had ever loved anything before.
+  译：我开始真心喜欢他，也相信他爱我胜过他以前爱过的任何东西。
+
+B5-7 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 3
+- One day I talked to Friday about his nation.
+  译：有一天我和星期五谈起他的民族。
+- I asked him what his nation did with the prisoners they took in battle.
+  译：我问他的民族如何处置战俘。
+- Do they carry them away and eat them as these did I asked.
+  译：他们是否把战俘带走吃掉，我问道。
+- Yes said Friday.
+  译：是的，星期五说。
+- My nation is the man too.
+  译：我们民族也吃人。
+
+B5-8 | character_refs: ["C1", "C14b"] | scene_refs: ["S14"] | 预估格数: 3
+- Do they ever carry prisoners to this island yes, sometimes have you been here with them Friday yes, I have been here he pointed to the western side.
+  译：他们有没有把战俘带到这个岛上？有，偶尔会。你有没有跟他们来过这里？有，我来过，他指向岛的西侧。
+- Of the island.
+  译：就是那边。
+- So Friday had been one of the cannibals who used to come to the other side of the island.
+  译：原来星期五曾是常来这座岛另一侧的食人族之一。
+- He told me that one time he had eaten twenty men, two women and a child.
+  译：他告诉我，他曾一次吃掉二十个男人、两个女人和一个孩子。

@@ -1,0 +1,33 @@
+B9-9 | character_refs: ["C7", "C3b"] | scene_refs: ["S5"] | 预估格数: 1
+- So, for my kind master's sake, I was gentle with my mistress, and for six months the gunpowder lay harmless because no fire came near to ignite it.
+  译：于是，为了我善良的主人，我对女主人温柔以待，六个月里那火药静静躺着无害，因为始终没有火焰靠近点燃它。
+
+B9-10 | character_refs: ["C3b", "C10"] | scene_refs: ["S5"] | 预估格数: 2
+- Sometimes Catherine was gloomy and sad, and her husband took great care of her and sympathized with her.
+  译：有时凯瑟琳情绪低落、郁郁寡欢，她的丈夫便精心照料她，与她共情。
+- He thought these fits of sadness were a result of her illness.
+  译：他以为这些悲郁发作是她生病留下的后遗症。
+- She had never been subject to depression of spirits before.
+  译：她以前从未有过情绪低落的毛病。
+- When she felt better and smiled again, so did he.
+  译：当她心情好转，再次微笑时，他也跟着笑了。
+
+B9-11 | character_refs: ["C7"] | scene_refs: ["S6"] | 预估格数: 1
+- But their happiness did not last long.
+  译：但他们的幸福没有持续多久。
+- One mild evening in September, I was coming in from the garden with a heavy basket of apples.
+  译：九月里一个温和的傍晚，我从花园里进来，提着一只装满苹果的沉甸甸的篮子。
+- It was dusk, and the moon was rising, causing shadows to lurk in the corners.
+  译：暮色降临，月亮正在升起，使得角落里阴影四伏。
+- I put the basket down on the step by the kitchen door and sat down beside it to rest and breathe the soft, sweet air.
+  译：我把篮子放在厨房门口的台阶上，坐在旁边歇息，呼吸着柔和甜美的空气。
+
+B9-12 | character_refs: ["C7", "C1"] | scene_refs: ["S6"] | 预估格数: 2
+- 'Nelly, is that you?' whispered a deep voice from the darkness.
+  译："内莉，是你吗？"一个低沉的声音从黑暗中低语。
+- Then in the shadows, I saw a tall man in dark clothes with dark skin and hair.
+  译：随后在阴影中，我看见一个高大的男人，穿着深色衣服，皮肤黝黑，头发漆黑。
+- I didn't recognize him at first, but when he stepped forward into the light, I saw his eyes.
+  译：起初我没有认出他，但当他走进光亮中，我看见了他的眼睛。
+- I recognized his eyes.
+  译：我认出了那双眼睛。

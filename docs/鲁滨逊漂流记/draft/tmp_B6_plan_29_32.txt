@@ -1,0 +1,43 @@
+B6-29 | character_refs: ["C1b", "C17"] | scene_refs: ["S25"] | 预估格数: 2
+- I carried two guns and two pistols.
+  译：我手持两支步枪和两把手枪。
+- I thought they were going to run away from me, so I said.
+  译：我以为他们要逃走，于是开口说道：
+- Do not be afraid.
+  译："不要害怕。"
+- I'm your friend.
+  译："我是你们的朋友。"
+- How can I help you
+  译："我能帮你们什么？"
+
+B6-30 | character_refs: ["C1b", "C17"] | scene_refs: ["S25"] | 预估格数: 2
+- one of them replied, you must be sent from heaven.
+  译：其中一人回答说："您一定是上天派来的。"
+- All help is from heaven Sir I said,
+  译："一切救援皆来自上天，先生，"我说，
+- now tell me what has happened
+  译："告诉我，发生了什么事？"
+- the poor man, with the tears running down his face, said, I was the captain of that ship, but my men have rebelled against me.
+  译：那可怜的人，泪流满面地说："我是那艘船的船长，但我的手下叛变了。"
+- They wanted to kill me, but I persuaded them to leave me on this island with my two friends here
+  译："他们想杀死我，但我说服了他们，让他们把我和这两位朋友丢在这座岛上。"
+
+B6-31 | character_refs: ["C1b", "C17"] | scene_refs: ["S25"] | 预估格数: 2
+- do your enemies have guns I asked.
+  译："你们的敌人有枪吗？"我问道。
+- He said they had only one gun with them and another in the boat.
+  译：他说他们随身只有一把枪，船上还有一把。
+- Well said I, it will be easy to kill them because they are all asleep, but should we take them prisoner instead?
+  译："好，"我说，"趁他们都在睡觉，杀掉他们很容易，但我们是否应该改为俘虏他们？"
+- He said that two of them were so.
+  译：他说其中两人罪大恶极。
+- Evil that they must be killed and then the others would properly obey.
+  译：必须杀掉他们，其余人才会真正服从。
+
+B6-32 | character_refs: ["C1b", "C17"] | scene_refs: ["S25"] | 预估格数: 2
+- If I save you, sir said I, you must promise to accept me as your leader and be faithful to me
+  译："如果我救了您，船长，"我说，"您必须答应以我为首领，对我忠诚。"
+- he promised, and the other two did the same.
+  译：他答应了，另外两人也同样作了承诺。
+- Then I gave them each a loaded gun.
+  译：然后我给他们每人发了一把装好子弹的枪。

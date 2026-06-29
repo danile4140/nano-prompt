@@ -1,0 +1,43 @@
+B6-21 | character_refs: ["C14b", "C15", "C1b"] | scene_refs: ["S23"] | 预估格数: 2
+- I was sincerely moved to see how much Friday loved his father
+  译：看到星期五如此深爱他的父亲，我深受感动。
+- he got into the boat and took his father in his arms.
+  译：他跳进独木舟，将父亲紧紧抱在怀里。
+- There he stayed for half an hour, holding his father close.
+  译：他就那样待了足足半个小时，紧紧抱着父亲。
+
+B6-22 | character_refs: ["C14b", "C15", "C16"] | scene_refs: ["S23", "S7"] | 预估格数: 2
+- Friday took good care of his father and the spaniard.
+  译：星期五细心照料他的父亲和西班牙人。
+- He ran back to the house to bring them bread and fresh water.
+  译：他跑回住所，给他们带来了面包和淡水。
+- They were both very weak and their feet hurt from being tied, so they could not walk.
+  译：他们两个都极为虚弱，双脚因被绑久了而疼痛难忍，无法行走。
+- Friday put the spaniard into the canoe beside his father.
+  译：星期五将西班牙人放进独木舟，与他父亲并排坐好。
+- He pushed the canoe around the shore to our river.
+  译：他推着独木舟沿海岸绕行，驶向我们的河口。
+
+B6-23 | character_refs: ["C1b", "C14b", "C15", "C16"] | scene_refs: ["S9", "S12"] | 预估格数: 2
+- We carried them from the river to the house, but there we met a great difficulty.
+  译：我们从河口将他们抬回住所，途中却遇到了一个大麻烦。
+- How could we get them over the fence?
+  译：怎么才能把他们弄过栅栏呢？
+- It was impossible.
+  译：这简直不可能。
+- So Friday and I set to work in about two hours.
+  译：于是我和星期五动手干活，大约花了两个小时。
+- We built a handsome tent for them, covered with sails, just outside the second fence.
+  译：我们在第二道栅栏外面，用帆布为他们搭建了一顶漂亮的帐篷。
+
+B6-24 | character_refs: ["C1b", "C14b", "C15", "C16"] | scene_refs: ["S21"] | 预估格数: 2
+- My island was now peopled.
+  译：我的小岛如今有了居民。
+- I was the king, and all my subjects owed their lives to me because I had saved them all from certain death.
+  译：我是这里的国王，所有臣民都将生命托付于我，因为我把他们从死亡中救了出来。
+- Although I had only three subjects, they were all of different religions.
+  译：虽然我只有三个臣民，但他们信仰各异。
+- My man Friday was a protestant, his father was a pen gun and a cannibal, and the spaniard was a Catholic.
+  译：我的星期五是新教徒，他父亲是食人族的异教徒，西班牙人则是天主教徒。
+- However, I allowed the freedom of religion.
+  译：但我允许宗教自由。

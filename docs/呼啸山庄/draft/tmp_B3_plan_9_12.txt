@@ -1,0 +1,39 @@
+B3-9 | character_refs: ["C3", "C1", "C8"] | scene_refs: ["S1"] | 预估格数: 2
+- He gave me a pious text to read, but I picked it up and threw it into the dog kennel, and I told him I hated a good book.
+  译：他给了我一段虔诚的经文让我读，但我抓起来扔进了狗窝，并告诉他我讨厌什么好书。
+- Heathcliff kicked his book into the same place, then.
+  译：随即，希斯克利夫也把他的书踢进了同一个地方。
+
+B3-10 | character_refs: ["C3", "C1", "C4", "C8"] | scene_refs: ["S1"] | 预估格数: 2
+- "What a fuss, Master Hindley!" cried Joseph.
+  译："多大的骚动啊，辛德利少爷！"约瑟夫叫道。
+- "Look what those evil children have done."
+  译："看看那些坏孩子做了什么。"
+- Heathcliff says that we should steal some food and go running on the moors and stay there all day.
+  译：希斯克利夫说我们应该偷些食物，跑到荒野上去，在那儿待上一整天。
+- I like the idea.
+  译：我喜欢这个主意。
+- We cannot be damper or colder out there in the rain than we are here.
+  译：在外面的雨中，我们绝不会比在这里更潮湿或更寒冷。
+- I suppose they did go, for the next sentence was on a new subject.
+  译：我猜他们确实去了，因为下一句日记已转换了话题。
+
+B3-11 | character_refs: ["C3", "C1", "C4"] | scene_refs: ["S1"] | 预估格数: 2
+- Hindley has made me cry so much that my head aches.
+  译：辛德利让我哭了个够，头都疼了。
+- Poor Heathcliff!
+  译：可怜的希斯克利夫！
+- Hindley calls him a vagabond and won't let him sit with us or eat with us anymore.
+  译：辛德利叫他流浪汉，不再让他和我们同坐或同吃。
+- He said that I must not play with Heathcliff.
+  译：他说我不许再和希斯克利夫玩耍。
+
+B3-12 | character_refs: ["C3", "C4"] | scene_refs: ["S1"] | 预估格数: 2
+- If I do, he says, he will throw Heathcliff out of the house.
+  译：他说如果我那样做，他就把希斯克利夫赶出家门。
+- He blames our father.
+  译：他责怪我们的父亲。
+- How dare he, for treating Heathcliff too liberally!
+  译：他怎么敢，就因为父亲对希斯克利夫太宽厚了！
+- Hindley swears that he will reduce Heathcliff to his right place.
+  译：辛德利发誓要让希斯克利夫回归他"应有的位置"。

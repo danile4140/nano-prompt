@@ -1,0 +1,41 @@
+B17-9 | character_refs: ["C1", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- He was the master now.
+  译：他现在是这里的主人了。
+- "I have come to take young Catherine home," he said.
+  译："我来把小凯瑟琳带回家，"他说。
+- "There will be no more running away.
+  译："再也不许逃跑了。
+- She is Linton's wife and she belongs at his side."
+  译：她是林顿的妻子，应该待在他身边。"
+
+B17-10 | character_refs: ["C1", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- "Why not let Catherine and Linton live here?" I asked.
+  译："为什么不让凯瑟琳和林顿住在这里呢？"我问道。
+- "I am seeking a tenant for the Grange," said Heathcliff.
+  译："我正在为田庄寻找租客，"希斯克利夫说。
+- "Besides, I want my children to live with me.
+  译："再说，我希望我的孩子和我住在一起。
+- Get ready, Catherine.
+  译：做好准备，凯瑟琳。
+- Go home to your husband."
+  译：回家去和你丈夫在一起。"
+
+B17-11 | character_refs: ["C1", "C6b", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- "I will," said Catherine.
+  译："我愿意，"凯瑟琳说。
+- "Linton is all I have to love in the world now, and you cannot make us hate each other.
+  译："林顿是我在世界上唯一可以爱的人，你不能让我们彼此憎恨。
+- I know he has a bad nature.
+  译：我知道他本性不好。
+- But I forgive him.
+  译：但我原谅他。
+
+B17-12 | character_refs: ["C1", "C6b", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- I know he loves me, and therefore I will love him.
+  译：我知道他爱我，所以我也会爱他。
+- Mr. Heathcliff, you have nobody to love you.
+  译：希斯克利夫先生，没有人爱你。
+- However miserable you make us, we will have the comfort of knowing that you are more miserable still.
+  译：无论你让我们多么痛苦，我们都会有这样的安慰：知道你比我们更加痛苦。
+- You are miserable, are you not?
+  译：你是悲惨的，不是吗？

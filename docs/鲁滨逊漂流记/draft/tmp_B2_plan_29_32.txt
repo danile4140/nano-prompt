@@ -1,0 +1,49 @@
+B2-29 | character_refs: ["C1"] | scene_refs: ["S7", "S8"] | 预估格数: 3
+- Then I thought how well equipped I was to survive on the island.
+  译：然后我想到，我装备多么齐全，足以在岛上生存。
+- What would have happened to me IFA ship had not been blown closer to shore?
+  译：如果那艘船没有被吹近岸边，我会怎样？
+- That happy chance allowed me to take all these things from the ship.
+  译：那一幸运的偶然，让我得以从船上取走这一切。
+- How would I have lived without guns and bullets, tools and clothes?
+  译：没有枪支弹药、工具和衣物，我怎能活下去？
+
+B2-30 | character_refs: ["C1"] | scene_refs: ["S16"] | 预估格数: 3
+- I was afraid that I would forget what day it was, I might even forget the sabbath.
+  译：我担心自己会忘记是哪一天，甚至可能忘记安息日。
+- Therefore, I planted a great wooden cross on the beach.
+  译：因此，我在海滩上立起了一根大木十字架。
+- And on it I carved these words with my knife I came on shore here on the thirtieth of September sixteen fifty nine.
+  译：并用刀在上面刻下这些文字："一六五九年九月三十日，我在此登陆上岸。"
+- Upon the sides of the post, I made a small cut with my knife every day.
+  译：在木柱的侧面，我每天用刀刻一道小刻痕。
+- A longer cut every Sunday and an even longer cut for the first day of every month.
+  译：每个星期天刻一道较长的，每月第一天刻一道更长的。
+
+（四维度扫描：①视觉焦点始终为鲁滨逊与木十字架；②无时间跳跃；③空间在同一海滩；④情绪基调为持续的虔诚与记录意志，无反转。总句数5句，已扫描4对相邻句，四维度均无切换，保留。）
+
+B2-31 | character_refs: ["C1", "C19", "C20"] | scene_refs: ["S11"] | 预估格数: 2
+- I forgot to say before that among the things I took from the ship were some Catholic prayer books and three bibles.
+  译：我之前忘了说，从船上取来的东西中有几本天主教祈祷书和三本圣经。
+- There were also two cats and a dog on board the ship.
+  译：船上还有两只猫和一条狗。
+- I carried the cats back with me to the island.
+  译：我把猫带回了岛上。
+- The dog jumped into the sea and swam after me.
+  译：那条狗跳进海里，游泳跟了上来。
+
+B2-32 | character_refs: ["C1"] | scene_refs: ["S12"] | 预估格数: 3
+- I tried to comfort myself by listing the comforts I enjoyed beside the miseries I suffered like this.
+  译：我试着将享有的慰藉与承受的苦难并列列举，以此自我安慰。
+- Evil I am stranded on an island with no hope of being saved.
+  译：恶：我被困在岛上，没有获救的希望。
+- I have been singled out.
+  译：我被单独挑了出来。
+- I alone am chosen to lead this miserable life.
+  译：只有我被选中过这种悲惨的生活。
+- I am separated from mankind without human society.
+  译：我与人类隔绝，没有人类社会。
+- I have not close to cover me, I have no means of defending myself against attack by man or beast, I have no soul to speak to.
+  译：我没有衣物蔽体，没有抵御人兽攻击的手段，没有可以倾诉的灵魂。
+
+（四维度扫描：①视觉焦点始终为鲁滨逊的内心独白/恶列表；②无时间跳跃；③空间同一营地室内；④情绪基调为持续的自我怜悯/悲叹，无反转。总句数6句，已扫描5对相邻句，四维度均无切换，保留。）

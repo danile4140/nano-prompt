@@ -1,0 +1,39 @@
+B4-29 | character_refs: ["C1b"] | scene_refs: ["S12"] | 预估格数: 1
+- Thus, once again, I was an example of the common weakness of mankind.
+  译：就这样，我再次成为人类共同弱点的一个例证。
+- We are never satisfied with what god has given us.
+  译：我们从不满足于上帝给予我们的东西。
+- And this makes us miserable.
+  译：这让我们感到痛苦。
+
+B4-30 | character_refs: ["C1b"] | scene_refs: ["S11"] | 预估格数: 3
+- One night I dreamt I was going out in the morning from my house.
+  译：一天夜里，我梦见自己在清晨从房屋里走了出来。
+- On the shore I saw two canoes and eleven savages coming to land.
+  译：在海岸上，我看到两艘独木舟和十一个野人正向岸边靠来。
+- They had with them another savage, and they were going to kill and eat him.
+  译：他们带着另一个野人，打算杀死并吃掉他。
+- Suddenly their prisoner began to run.
+  译：突然，他们的俘虏开始逃跑。
+
+B4-31 | character_refs: ["C1b", "C14"] | scene_refs: ["S11"] | 预估格数: 2
+- As fast as he could, he ran to the thick woods in front of my house to hide himself.
+  译：他拼命地跑向我房屋前面的茂密丛林，藏了起来。
+- Seeing that he was alone, I showed myself to him.
+  译：看到他是独自一人，我便向他显露了自己。
+- He knelt down before me and begged me to help him.
+  译：他在我面前跪下，恳求我帮助他。
+- I showed him the ladder and took him into my house.
+  译：我向他指示了梯子，把他带进了我的房屋。
+- He became my servant.
+  译：他成了我的仆人。
+
+B4-32 | character_refs: ["C1b"] | scene_refs: ["S12"] | 预估格数: 1
+- Then I thought I could go to the mainland with this man to guide me.
+  译：然后我想，我可以让这个人给我引路去大陆。
+- I awoke full of joy, but when I found it was only a dream, I felt very sad.
+  译：我满怀喜悦地醒来，但当发现这只是个梦时，我感到非常悲伤。
+- This dream gave me the idea that my only hope of escape was to get a savage.
+  译：这个梦给了我一个想法：我唯一逃跑的希望就是得到一个野人。
+- If possible, I would rescue one of those they brought over to eat.
+  译：如果可能的话，我会救出他们带来准备吃掉的俘虏中的一个。

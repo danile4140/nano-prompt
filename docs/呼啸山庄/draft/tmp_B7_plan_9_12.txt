@@ -1,0 +1,41 @@
+B7-9 | character_refs: ["C3b", "C10"] | scene_refs: ["S5"] | 预估格数: 1
+- Mrs. Dean sat down and began her story again.
+  译：迪恩太太坐下来，重新开始讲她的故事。
+- Catherine continued her friendship with the Lintons and began to live a double life.
+  译：凯瑟琳继续与林顿家族来往，开始过起了双面生活。
+- She did not show her wild side to them.
+  译：她不在他们面前展示她的野性一面。
+- She was polite and friendly to Mr. and Mrs. Linton.
+  译：她对林顿先生和太太礼貌友善。
+
+B7-10 | character_refs: ["C1", "C3b", "C10", "C11"] | scene_refs: ["S5", "S1"] | 预估格数: 2
+- She won the admiration of Isabella and the heart and soul of Edgar.
+  译：她赢得了伊莎贝拉的钦佩，也赢得了埃德加的心。
+- This pleased her very well, so she was very ambitious.
+  译：这让她十分得意，于是她野心勃勃。
+- At Thrushcross Grange, where she had heard Heathcliff described as a vulgar ruffian and worse than an animal, she was careful not to act like him.
+  译：在画眉田庄，她曾听人把希斯克利夫描述成粗俗的流氓、比畜生还不如，她小心翼翼地不表现得像他一样。
+- But at home, she did not bother to be polite or to restrain her wild nature.
+  译：但在家里，她懒得讲礼貌，也不压抑自己的野性。
+
+B7-11 | character_refs: ["C1", "C3b", "C4", "C10"] | scene_refs: ["S1"] | 预估格数: 2
+- Mr. Edgar did not dare come to Wuthering Heights often; he was afraid of Hindley's drunken rages.
+  译：埃德加先生不敢常来呼啸山庄，他害怕辛德利醉酒后的暴怒。
+- Catherine was not sorry.
+  译：凯瑟琳并不遗憾。
+- She did not like to see her two friends together.
+  译：她不喜欢看到她的两个朋友碰面。
+- If, when Linton was absent, Heathcliff expressed contempt for him, Catherine could seem to agree.
+  译：若林顿不在时，希斯克利夫对他表示鄙视，凯瑟琳便似乎赞同。
+- Similarly, if Linton showed disgust for Heathcliff in Heathcliff's absence, she could pretend to be indifferent.
+  译：同样，若林顿在希斯克利夫不在时对他表示厌恶，她便假装漠然。
+
+B7-12 | character_refs: ["C1", "C3b", "C10"] | scene_refs: ["S1"] | 预估格数: 3
+- She could use neither of these tricks when both were present.
+  译：当两人都在时，她两种把戏都用不上。
+- One day Hindley was away, so Heathcliff decided to take a day off work.
+  译：有一天辛德利不在，希斯克利夫决定歇工一天。
+- He asked Cathy to spend the day with them, but she said she was expecting Edgar Linton.
+  译：他请凯茜和他们共度这一天，但她说她在等埃德加·林顿。
+- Heathcliff went off on his own, feeling angry, hurt, and jealous.
+  译：希斯克利夫独自离去，心中充满愤怒、委屈和嫉妒。

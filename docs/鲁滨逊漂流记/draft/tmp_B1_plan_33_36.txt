@@ -1,0 +1,53 @@
+B1-33 | character_refs: ["C1", "C12"] | scene_refs: ["S5"] | 预估格数: 2
+- They wished to eat the flesh of this animal.
+  译：他们想吃这头野兽的肉。
+- I made signs to tell them that they could have him and they began cutting him up.
+  译：我打手势告诉他们可以拿去，他们便开始分割豹肉。
+- They cut off his skin and gave it to me.
+  译：他们割下豹皮送给了我。
+- Leaving my friendly negroes, I sailed on for eleven days.
+  译：离别了友好的黑人，我又航行了十一天。
+- As we approached cape verd, Xy cried out, master a ship!
+  译：当我们接近佛得角时，祖里高呼：主人，有船！
+- I saw that it was a Portuguese ship, I sailed towards it and in three hours I reached it.
+  译：我看出那是一艘葡萄牙船，我朝它驶去，三个小时后靠近了它。
+
+B1-34 | character_refs: ["C1", "C12", "C13"] | scene_refs: ["S3"] | 预估格数: 2
+- The men on the ship asked who I was.
+  译：船上的人问我是谁。
+- When I told them my story, they were very kind, they took me on board their ship with all my property from the boat.
+  译：当我讲述了我的遭遇，他们对我非常友善，把我和船上所有财物都接上了他们的船。
+- I offered all my property to the captain to thank him for saving me, but he would not take it.
+  译：我愿将全部财物献给船长以答谢他的救命之恩，但他拒绝了。
+- He said they were sailing to Brazil.
+  译：他说他们正要驶往巴西。
+- He said that my property would be returned to me when we arrived.
+  译：他说到达后我的财物将悉数归还给我。
+- He offered to buy my boat from me.
+  译：他提出要买下我的小船。
+
+B1-35 | character_refs: ["C1", "C12", "C13"] | scene_refs: ["S3"] | 预估格数: 2
+- He paid me eighty pieces of eight for it.
+  译：他付了我八十块钱买船。
+- He also offered me sixty pieces of eight for my boy Xi.
+  译：他还为我的少年祖里出价六十块钱。
+- I did not want to sell the poor boy's liberty because he had helped me to escape from slavery.
+  译：我不忍心出卖这可怜孩子的自由，因为他曾帮助我逃脱奴役。
+- Then the captain offered to set Jewry free in ten years if he became a Christian.
+  译：随后船长提出，如果祖里成为基督徒，十年后便给他自由。
+- Fury said he was willing to go with him so I let the captain have him.
+  译：祖里说他愿意跟随船长，于是我就让船长带走了他。
+
+B1-36 | character_refs: ["C1", "C13"] | scene_refs: ["S6"] | 预估格数: 1
+- About twenty two days later we landed in all saints bay in Brazil.
+  译：大约二十二天后，我们在巴西的万圣湾登陆。
+- I will never forget the captain's kindness.
+  译：我永远不会忘记船长的善意。
+- He bought a lot of my property from the boat.
+  译：他以合理价格买下了我船上的许多财物。
+- I left the ship with about two hundred and twenty pieces of eight.
+  译：我带着约两百二十块钱离开了那艘船。
+- In Brazil I saw how well the sugar planters lived.
+  译：在巴西，我看到甘蔗种植园主们生活得多么富足。
+- They grew rich quickly.
+  译：他们迅速致富。

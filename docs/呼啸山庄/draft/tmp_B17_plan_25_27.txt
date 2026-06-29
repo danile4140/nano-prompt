@@ -1,0 +1,31 @@
+B17-25 | character_refs: ["C6b", "C12", "C13"] | scene_refs: ["S1"] | 预估格数: 2
+- Catherine nursed Linton alone.
+  译：凯瑟琳独自照料林顿。
+- Heathcliff had told Zillah not to interfere, and Zillah, being a selfish, stupid woman, obeyed him.
+  译：希斯克利夫告诉齐拉不要插手，齐拉这个自私愚蠢的女人服从了他。
+- Catherine was up day and night with her dying husband.
+  译：凯瑟琳日夜陪伴在她垂死的丈夫身边。
+- Sometimes Zillah saw her sitting on the stairs at night, weeping.
+  译：有时齐拉在夜里看见她坐在楼梯上哭泣。
+- But she never tried to comfort my poor young lady.
+  译：但她从未试图安慰我可怜的年轻女主人。
+
+B17-26 | character_refs: ["C6b", "C13"] | scene_refs: ["S1"] | 预估格数: 2
+- Her master had told her not to interfere, and she obeyed her master's orders.
+  译：她的主人命令她不要插手，她就服从了主人的命令。
+- Finally, young Linton died.
+  译：最终，小林顿死了。
+- Catherine was ill for two weeks after his death.
+  译：他死后，凯瑟琳病了两个星期。
+- When she recovered, Heathcliff showed her Linton's will.
+  译：当她康复后，希斯克利夫向她出示了林顿的遗嘱。
+- Linton had left everything to his father.
+  译：林顿把所有财产都留给了他的父亲。
+
+B17-27 | character_refs: ["C6b"] | scene_refs: ["S1"] | 预估格数: 1
+- Heathcliff must have forced him to write that will.
+  译：希斯克利夫一定强迫他写了那份遗嘱。
+- Catherine was left penniless, completely dependent upon her father-in-law.
+  译：凯瑟琳一贫如洗，完全依赖她的公公生活。
+- Thus ended Mrs. Dean's story.
+  译：迪恩太太的故事就此结束了。

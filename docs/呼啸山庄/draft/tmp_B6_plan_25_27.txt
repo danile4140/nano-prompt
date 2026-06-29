@@ -1,0 +1,29 @@
+B6-25 | character_refs: ["C2", "C7"] | scene_refs: ["S7"] | 预估格数: 2
+- "But, Mr. Lockwood, you must be tired. I have been chattering on too long, giving too many details. I could have told you Mr. Heathcliff's story in half an hour."
+  译："但是，洛克伍德先生，您一定累了。我唠叨得太久了，讲了太多细节。我本可以在半小时内把希斯克利夫先生的故事告诉您。"
+- Thus interrupting herself, Mrs. Dean stood up and began to put her sewing away.
+  译：说到这里，迪恩太太打断了自己，站起身来开始收拾针线活。
+- "Oh, Mrs. Dean, please stay," I cried. "Do stay another half hour. You did right to tell the story slowly. That is the method I like, and you must finish in the same style."
+  译："哦，迪恩太太，请留下，"我喊道，"再留半个小时吧。你慢慢讲故事是对的。这正是我喜欢的方式，你必须用同样的风格讲完。"
+
+B6-26 | character_refs: ["C2", "C7"] | scene_refs: ["S7"] | 预估格数: 2
+- "But it is eleven o'clock, sir."
+  译："但已经十一点了，先生。"
+- "Never mind. I will sleep late tomorrow morning."
+  译："没关系。我明天早上晚点起。"
+- "Oh, you shouldn't do that, sir. You miss the best part of the day."
+  译："哦，您不该那样，先生。您会错过一天中最美好的时光的。"
+- "But I think I have a cold, Mrs. Dean, and will probably stay in bed all day tomorrow, so please sit down again and go on with your story. I'm fascinated by your characters. They seem to live much more earnestly than city people do. City people are too concerned with the surface change and frivolous external things, but here a lifelong love seems almost possible. I have always thought it's impossible for love to last more than one year."
+  译："但我觉得我感冒了，迪恩太太，明天大概会整天待在床上，所以请您再坐下来，继续讲您的故事吧。您讲的人物让我着迷。他们生活得比城里人认真多了。城里人太在乎表面的变化和肤浅的外在事物，但在这里，一生的爱似乎几乎是可能的。我一直认为爱情不可能持续超过一年。"
+
+B6-27 | character_refs: ["C2", "C7"] | scene_refs: ["S7"] | 预估格数: 2
+- "When you get to know us," said Mrs. Dean, "we country people are like people everywhere else."
+  译："等您了解了我们，"迪恩太太说，"我们乡下人和别处的人是一样的。"
+- "No, Mrs. Dean," I replied, "I don't believe it. You, my good friend, are a striking example of what I mean. You have thought much more than most servants think, and I believe that is because you have lived all your life here. You have been forced to reflect upon things because here you have no frivolous entertainments on which to waste your time."
+  译："不，迪恩太太，"我回答，"我不相信。您，我的好朋友，正是我所说的最典型的例子。您想得比大多数仆人多得多，我相信那是因为您一生都住在这里。您不得不思考事物，因为这里没有什么无聊的娱乐可以让您浪费时间。"
+- Mrs. Dean laughed.
+  译：迪恩太太笑了。
+- "I certainly think of myself a sensible woman," she said. "Not because I live in the country, but because my life has been disciplined, and also because I have read more than you think, Mr. Lockwood. There is not a book in the library that I have not looked into and learned something from. Except, of course, those in Latin and Greek and French.
+  译："我当然认为自己是一个明智的女人，"她说，"不是因为我住在乡下，而是因为我的生活有规律，而且我读过的书比您想象的多，洛克伍德先生。图书馆里没有一本书是我没有翻阅过、从中学到些什么的。当然，那些拉丁文、希腊文和法文的书除外。
+- Well, I will continue my story like a true gossip, but I will pass on to the following summer, which was the summer of seventeen seventy-eight, nearly twenty-three years ago."
+  译：好了，我要像一个真正的闲话人一样继续我的故事，但我要跳到下一个夏天，那是一七七八年的夏天，差不多是二十三年前的事了。"

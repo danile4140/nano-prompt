@@ -1,0 +1,31 @@
+B15-9 | character_refs: ["C7", "C13"] | scene_refs: ["S2"] | 预估格数: 2
+- She was the housekeeper.
+  译：她是那里的管家。
+- "Hello?" she said.
+  译："你好？"她说。
+- "Are you looking for the little girl?"
+  译："你是来找那个小女孩的吗？"
+- "Don't worry, she's safe in our sitting room."
+  译："别担心，她好好的，在我们的客厅里呢。"
+
+B15-10 | character_refs: ["C7", "C13"] | scene_refs: ["S2"] | 预估格数: 2
+- "Is she with Mr. Heathcliff?" I asked.
+  译："她和希斯克利夫先生在一起吗？"我问道。
+- "Oh, no," said she, "Mr. Heathcliff and Joseph are away."
+  译："哦，不，"她说，"希斯克利夫先生和约瑟夫都不在。"
+- "They won't be back until late."
+  译："他们要很晚才回来。"
+- "Come in."
+  译："请进吧。"
+
+B15-11 | character_refs: ["C6", "C5", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- I followed her into the sitting room, and there by the fire was Catherine, sitting in her mother's old chair, talking to Hareton.
+  译：我跟着她走进客厅，只见凯瑟琳坐在壁炉旁她母亲当年的旧椅上，正与哈顿说话。
+- They looked up when I came in and I noticed that they both had the first Catherine's dark eyes.
+  译：他们抬头看见我进来，我注意到两人都有着第一个凯瑟琳那双深邃的眼睛。
+
+B15-12 | character_refs: ["C6", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- "Come on, Miss Cathy, we're going home," I said.
+  译："走吧，凯西小姐，我们回家去，"我说。
+- "Oh, not yet, Nelly. I want to stay here a little longer," replied Cathy.
+  译："哦，还不走，内莉。我想再待一会儿，"凯西回答道。

@@ -1,0 +1,43 @@
+B15-25 | character_refs: ["C12", "C7"] | scene_refs: ["S9"] | 预估格数: 2
+- "Why did my mother never tell me about him?"
+  译："为什么母亲从来不提他？"
+- "Why did he not live with us as other fathers do?"
+  译："为什么他不像其他父亲那样和我们住在一起？"
+- "Why did he never come to see us?"
+  译："为什么他从不来看我们？"
+- I answered these questions as briefly as possible, trying to calm the boy.
+  译：我尽量简短地回答这些问题，设法安抚他。
+
+B15-26 | character_refs: ["C7", "C12", "C1", "C5", "C8"] | scene_refs: ["S2"] | 预估格数: 2
+- When we got to Wuthering Heights, Heathcliff, Joseph, and Hareton came out to greet us.
+  译：当我们抵达呼啸山庄时，希斯克利夫、约瑟夫和哈顿都出来迎接我们。
+- They all stared at Linton with curiosity.
+  译：他们都好奇地盯着林顿。
+
+B15-27 | character_refs: ["C1", "C12"] | scene_refs: ["S2"] | 预估格数: 2
+- "Good Lord," said Heathcliff, "look at him."
+  译："天哪，"希斯克利夫说，"你瞧他。"
+- "He is certainly his mother's son."
+  译："他确实是他母亲的儿子。"
+- "There's none of me in him."
+  译："他身上没有半点我的影子。"
+- "Look how pale and thin and sickly he is!"
+  译："你看他多么苍白、瘦弱、多病！"
+- "But never mind, he is mine, and he is the heir of Thrushcross Grange!"
+  译："不过没关系，他是我的孩子，他是画眉田庄的继承人！"
+- "It will give me great satisfaction to see my son, the master of that house."
+  译："看着我的儿子成为那座庄园的主人，将是我莫大的满足。"
+
+B15-28 | character_refs: ["C1", "C7"] | scene_refs: ["S2"] | 预估格数: 2
+- "You need not worry about him, Nelly."
+  译："你不必为他担心，内莉。"
+- "I will take good care of him."
+  译："我会好好照料他的。"
+- "I wouldn't want him to die before he is master of Thrushcross Grange."
+  译："我可不想让他在成为画眉田庄主人之前就死去。"
+- "I have hired a tutor for him, and I have told Hareton to obey him."
+  译："我已为他聘了家庭教师，也告诉哈顿要服从他。"
+- "I will raise him as a fine gentleman."
+  译："我会把他培养成一位体面的绅士。"
+- "It is a pity that he is such a weak, miserable creature, but he will be master even so."
+  译："可惜他如此孱弱可怜，但即便如此，他终将成为主人。"

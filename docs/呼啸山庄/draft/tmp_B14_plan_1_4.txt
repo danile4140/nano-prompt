@@ -1,0 +1,33 @@
+B14-1 | character_refs: ["C7"] | scene_refs: ["S5"] | 预估格数: 1
+- One week later I was in the sitting room with Catherine's baby girl.
+  译：一周后，我坐在客厅里，身旁是凯瑟琳的小女儿。
+- It was a stormy evening.
+  译：那是一个风雨交加的夜晚。
+- The wind blew and the rain changed gradually to snow.
+  译：风声呼啸，雨水渐渐变成了雪。
+
+B14-2 | character_refs: ["C10", "C11"] | scene_refs: ["S5"] | 预估格数: 2
+- My master was asleep upstairs.
+  译：我的主人在楼上睡着了。
+- He had spent most of the week up there with his sorrow.
+  译：这一周他大部分时间都在楼上，沉浸在悲伤之中。
+- Suddenly the door opened and Isabella ran in, soaking wet and laughing like a mad woman.
+  译：突然，门猛地被推开，伊莎贝拉跑了进来，浑身湿透，笑得像个疯女人。
+
+B14-3 | character_refs: ["C11"] | scene_refs: ["S5"] | 预估格数: 1
+- There was a bleeding cut below her ear.
+  译：她耳朵下方有一道正在流血的伤口。
+- She wore no coat or hat, and her dress was wet with rain and snow.
+  译：她既没有外套也没有帽子，裙子被雨水和雪水浸透了。
+
+B14-4 | character_refs: ["C11", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- "Nelly!" she cried, "I have run away!
+  译：「内莉！」她叫道，「我逃出来了！
+- I have left a monster!
+  译：我离开了那个恶魔！
+- Call me a carriage so that I can go to the village!
+  译：给我叫辆马车，我要去村子里！
+- I dare not stay here.
+  译：我不敢留在这里。
+- As soon as he knows that I am gone, he will come here after me."
+  译：他一旦发现我走了，就会追到这里来的。」

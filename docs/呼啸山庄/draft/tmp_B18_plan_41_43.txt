@@ -1,0 +1,27 @@
+B18-41 | character_refs: ["C7"] | scene_refs: ["S9"] | 预估格数: 2
+- One stormy evening when I was walking to the Grange, I met a little shepherd boy with a sheep and two lambs.
+  译：一个风雨交加的傍晚，我步行去庄园时，遇见了一个牧童，他带着一只母羊和两只小羔羊。
+- He was weeping.
+  译：他在哭泣。
+- I asked him what was the matter, and he told me that he had seen the ghosts of Heathcliff and a woman up on the moor."
+  译：我问他怎么了，他说他在荒野上看见了希斯克利夫和一个女人的鬼魂。」
+
+B18-42 | character_refs: ["C6", "C5", "C2", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- Just then the gate opened, and Catherine and Hareton returned.
+  译：就在那时，大门开了，凯瑟琳和哈顿回来了。
+- I could hear their happy voices just outside the door.
+  译：我能听见他们快乐的声音就在门外。
+- Once again I felt the desire to escape them.
+  译：我再次感到想要逃离他们的冲动。
+- "Goodbye, Mrs. Dean," I said, pressing some money into her hand, and I slipped out through the kitchen door.
+  译：「再见，迪恩太太，」我说，将一些钱塞进她的手里，然后悄悄从厨房门溜出去了。
+
+B18-43 | character_refs: ["C2"] | scene_refs: ["S10"] | 预估格数: 2
+- On my way back to the Grange I passed by the lonely churchyard where Heathcliff, Catherine, and Edgar were buried.
+  译：返回庄园的路上，我经过那片孤寂的墓地，希斯克利夫、凯瑟琳和埃德加就长眠于此。
+- It was a calm, beautiful, moonlit night.
+  译：那是一个宁静美丽的月夜。
+- The breeze was warm and gentle.
+  译：微风温暖而柔和。
+- As I stood there breathing in the sweet smell of late summer flowers, I wondered how anyone could ever imagine unquiet slumbers for the sleepers in that quiet earth.
+  译：我站在那里，吸着晚夏花朵的芬芳，心中不禁疑惑，又有谁能想象，那静谧大地里长眠的人们，会有不安的睡眠呢。

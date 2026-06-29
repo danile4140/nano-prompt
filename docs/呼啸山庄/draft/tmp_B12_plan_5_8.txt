@@ -1,0 +1,45 @@
+B12-5 | character_refs: ["C11"] | scene_refs: ["S1"] | 预估格数: 2
+- I miss my old house so much.
+  译：我是那么思念我的老家。
+- And I miss Edgar and Catherine.
+  译：我也思念埃德加和凯瑟琳。
+- I cannot come to see them even though I want to more than anything.
+  译：我无法去看望他们，尽管那是我最渴望的事。
+- Ellen, tell me how did you keep from going mad when you lived here at Wuthering Heights?
+  译：艾伦，告诉我，你住在呼啸山庄的时候是怎么保持神志清醒的？
+
+---
+
+B12-6 | character_refs: ["C11", "C1"] | scene_refs: ["S1"] | 预估格数: 2
+- The people here all seem inhuman.
+  译：这里的人似乎都不像人。
+- And tell me: is Mr. Heathcliff a man?
+  译：还要告诉我：希斯克利夫先生是人吗？
+- If so, is he mad?
+  译：如果是，他是疯了吗？
+- If not, is he a devil?
+  译：如果不是，他是魔鬼吗？
+- I will not tell you the reasons I asked these questions, but please answer them.
+  译：我不会告诉你我为什么这样问，但请你回答我。
+- Please explain, if you can, what I have married!
+  译：如果你能的话，请解释我嫁的究竟是什么东西！
+
+---
+
+B12-7 | character_refs: ["C11"] | scene_refs: ["S1"] | 预估格数: 1
+- Come and see me, Ellen, very soon!
+  译：快来看我，艾伦！
+- Don't disappoint me.
+  译：不要让我失望。
+- Isabella."
+  译：伊莎贝拉。"
+
+---
+
+B12-8 | character_refs: ["C7", "C10"] | scene_refs: ["S5"] | 预估格数: 2
+- I told my master about the letter.
+  译：我把那封信的内容告诉了主人。
+- He said I should go to Wuthering Heights, but that he could not see Isabella or write to her.
+  译：他说我应该去呼啸山庄，但他自己既不能去见伊莎贝拉，也不会给她写信。
+
+---

@@ -1,0 +1,33 @@
+B13-9 | character_refs: ["C1", "C10"] | scene_refs: ["S7"] | 预估格数: 2
+- Heathcliff knelt on one knee to embrace her now.
+  译：希斯克利夫此刻单膝跪地拥抱着她。
+- He tried to rise, but she grabbed his hair and kept him down.
+  译：他试图起身，但她抓住他的头发不让他动。
+- "I wish I could hold you until we were both dead," she said bitterly.
+  译："我希望能一直抱着你，直到我们双双死去，"她苦涩地说。
+- "Will you forget me and be happy when I am in the earth?
+  译："当我入土之后，你会忘记我、过得快活吗？
+
+B13-10 | character_refs: ["C10"] | scene_refs: ["S7"] | 预估格数: 1
+- Will you say, 'That is the grave of Catherine Earnshaw?
+  译：你会说'那是凯瑟琳·恩肖的坟墓吗？
+- I loved her long ago, but I have loved others since, and I love my children more than I ever loved her.'
+  译：我从前爱过她，但此后又爱过旁人，我爱我的孩子们胜过曾经爱她。'
+- Will you say so, Heathcliff?"
+  译：你会这样说吗，希斯克利夫？"
+
+B13-11 | character_refs: ["C1", "C10"] | scene_refs: ["S7"] | 预估格数: 2
+- "Don't torture me till I'm as mad as you are!" cried Heathcliff, tearing his head free from her grasp so violently that some of his hair was left in her hand.
+  译："别折磨我，直到我也像你一样发疯！"希斯克利夫喊道，猛地把头从她手中挣脱，力气之大，留下了几缕发丝在她手心。
+- "You must be possessed by a devil to talk to me that way!
+  译："你一定是着魔了，才会这样对我说话！
+- When you are dying, don't you realize that every word will be burnt into my memory?
+  译：你在弥留之际，难道不知道你说的每一句话都会烙进我的记忆？
+- I will think about these words of yours again and again, forever after you are gone."
+  译：你走了之后，我会一遍又一遍地想起你说的这些话，永远如此。"
+
+B13-12 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: 1
+- He left her side and walked over to the fireplace.
+  译：他离开她身边，走向壁炉。
+- There he stood with his back to her so that she could not see his face.
+  译：他背对着她站着，让她看不见他的脸。

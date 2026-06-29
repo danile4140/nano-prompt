@@ -1,0 +1,47 @@
+B4-9 | character_refs: ["C1b"] | scene_refs: ["S12"] | 预估格数: 2
+- Fortunately, I had my tame goats and could kill them for meat without using my gun.
+  译：幸运的是，我有驯养的山羊，可以在不动枪的情况下宰杀它们来获取肉食。
+- I began to think night and day of killing some of these savages.
+  译：我开始日夜思考着杀掉那些野人。
+- Perhaps I could rescue their victim.
+  译：也许我可以救出他们的猎物。
+- I was horrified by their inhuman feasting.
+  译：他们残忍的盛宴让我感到恐惧。
+- I was full of anger towards them.
+  译：我对他们充满了愤怒。
+
+B4-10 | character_refs: ["C1b"] | scene_refs: ["S14"] | 预估格数: 2
+- Sometimes I thought of burying five or six pounds of gunpowder under the place where they made their fire.
+  译：有时我想在他们生火的地方埋入五六磅火药。
+- When they lit the fire, the gunpowder would explode and kill them.
+  译：当他们点火时，火药就会爆炸把他们炸死。
+- But I did not want to use so much gunpowder since I had very little left.
+  译：但我不想用掉这么多火药，因为我剩得很少了。
+- Then I thought of waiting for them hidden from sight, with my guns loaded.
+  译：然后我想到了藏在隐蔽处等待他们，枪已经装好了弹药。
+
+B4-11 | character_refs: ["C1b"] | scene_refs: ["S14"] | 预估格数: 2
+- In the middle of their bloody feast I would shoot at them and I would be sure to kill many.
+  译：在他们血腥的盛宴中，我会向他们射击，一定能杀死许多人。
+- Then I would run at them with my pistols and sword.
+  译：然后我会拿着手枪和剑冲向他们。
+- Even if there were twenty of them, I was sure I could kill them all.
+  译：即使有二十个人，我也确信能把他们全部杀死。
+- This idea pleased me very much.
+  译：这个想法让我非常满意。
+- I thought about it so much that I began to dream about it.
+  译：我对此想得太多，以至于开始做梦梦到它。
+
+B4-12 | character_refs: ["C1b"] | scene_refs: ["S22"] | 预估格数: 2
+- Every day for two or three months I walked to the western side of the island and looked out to sea.
+  译：在两三个月里，我每天都走到岛的西侧眺望大海。
+- All this time I was willing and eager to do an outrageous act.
+  译：在这段时间里，我愿意并渴望做出一件暴行。
+- I was ready to kill twenty or thirty naked savages.
+  译：我已经准备好杀死二三十个赤裸的野人。
+- I had not given any thought to this sin.
+  译：我根本没有考虑过这是一种罪孽。
+- I never asked myself if it were right or wrong.
+  译：我从未问过自己这是对还是错。
+- I was fired by my hatred of their unnatural customs.
+  译：对他们反自然习俗的仇恨点燃了我。

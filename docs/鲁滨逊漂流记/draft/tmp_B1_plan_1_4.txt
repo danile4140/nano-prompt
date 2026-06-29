@@ -1,0 +1,41 @@
+B1-1 | character_refs: ["C1", "C2", "C3"] | scene_refs: ["S1"] | 预估格数: 1
+- Robinson Crusoe by Daniel Defoe.
+  译：丹尼尔·笛福著《鲁滨逊漂流记》。
+- Part one Robinson's adventures at sea.
+  译：第一部 鲁滨逊的海上历险。
+- I was born in the year sixteen thirty two in the city of York in England.
+  译：我生于一六三二年，出生在英格兰约克城。
+- My father was of a good family.
+  译：我父亲出身良好的家庭。
+- He was a merchant von Bremen in Germany.
+  译：他是德国不来梅的一位商人。
+- He settled in England and made his fortune in trade, then he married.
+  译：他定居英格兰，经商致富，随后娶妻成家。
+
+B1-2 | character_refs: ["C1"] | scene_refs: ["S1"] | 预估格数: 1
+- My mother's family name was Robinson.
+  译：我母亲娘家姓鲁滨逊。
+- I was baptized Robinson Kreutz now.
+  译：我受洗时取名鲁滨逊·克鲁兹。
+- However, in England we were always called Crusoe, so my friends call me Robinson Crusoe.
+  译：然而在英格兰我们一直被叫作克鲁索，所以朋友们叫我鲁滨逊·克鲁索。
+
+B1-3 | character_refs: ["C1", "C4", "C5"] | scene_refs: ["S1"] | 预估格数: 2
+- I had two brothers.
+  译：我有两个兄长。
+- One became a soldier.
+  译：其中一人当了士兵。
+- And was killed in a battle against the Spaniards.
+  译：并在与西班牙人的一场战役中阵亡。
+- I do not know what happened to my other brother.
+  译：我不知道另一位兄长的下落。
+
+B1-4 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- My father hoped I would study law, but I wanted to go to sea.
+  译：父亲希望我学习法律，但我一心想去航海。
+- Although my mother and father did not want me to go, my desire was so strong that I ignored their wishes.
+  译：尽管父母都不愿让我离开，我的愿望却如此强烈，使我置他们的意愿于不顾。
+- My father was a wise and serious man.
+  译：父亲是一个睿智而严肃的人。
+- He said that if I stayed at home, my life would be easy and pleasant.
+  译：他说如果我留在家中，生活将会轻松愉快。

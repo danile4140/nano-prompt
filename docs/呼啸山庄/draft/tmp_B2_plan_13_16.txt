@@ -1,0 +1,39 @@
+B2-13 | character_refs: ["C2", "C6b"] | scene_refs: ["S1"] | 预估格数: 2
+- "Were you asked to tea?" she demanded, putting a spoonful of tea in the pot.
+  译：「有人请你喝茶吗？」她质问道，同时往茶壶里舀了一勺茶叶。
+- "I would like a cup," I answered.
+  译：「我想喝一杯，」我回答。
+- "Were you asked?" she repeated.
+  译：「有人请你了吗？」她重复道。
+- "No," I said, smiling. "You are the proper person to ask me."
+  译：「没有，」我微笑着说，「但您才是应该邀请我的那个人。」
+- She stopped preparing the tea and sat down in her chair again, clearly angry.
+  译：她停止备茶，重新坐回椅子上，显然十分生气。
+
+B2-14 | character_refs: ["C5"] | scene_refs: ["S1"] | 预估格数: 1
+- The young man came and stood in front of the fire, glancing at me from time to time with a stern look, as if I were his worst enemy.
+  译：那年轻人走到炉前站定，不时用严厉的目光扫视我，仿佛我是他的死敌。
+- At first, I had thought he was a servant, but now I was not so sure.
+  译：起初我以为他是个仆人，但现在我不那么确定了。
+- His dress and speech were both rough, not at all like those of Mr. and Mrs. Heathcliff.
+  译：他的穿着和言谈都很粗鄙，完全不像希斯克利夫先生和夫人的风格。
+
+B2-15 | character_refs: ["C5"] | scene_refs: ["S1"] | 预估格数: 1
+- His thick brown hair was wild and messy, and he was unshaven.
+  译：他那头浓密的棕色头发蓬乱不堪，胡须也没有刮。
+- His hands were brown, like those of a common labourer.
+  译：他的双手粗糙黝黑，像个普通劳工。
+- Yet there was something proud and free about him.
+  译：然而他身上却有一种自由自在、桀骜不驯的气质。
+- I felt relieved when Heathcliff came in.
+  译：当希斯克利夫进来时，我如释重负。
+
+B2-16 | character_refs: ["C2", "C1"] | scene_refs: ["S1"] | 预估格数: 2
+- "You see, I have come to visit you again as I promised," I said cheerfully.
+  译：「您看，我如约再次登门拜访，」我欢快地说道。
+- "I won't be able to leave for half an hour because of this snow. I hope you don't mind me staying that long."
+  译：「因为这场雪，我恐怕半小时内无法离开，希望您不介意我多留片刻。」
+- "Half an hour," he said, shaking the snow from his clothes.
+  译：「半小时，」他说，一边抖落身上的雪。
+- "The snow will not stop in half an hour. Why do you go out walking in a snowstorm? You could get lost. Even people who know the moors well sometimes get lost in snowy weather."
+  译：「半小时内雪不会停。你为何在暴风雪中外出行走？你可能会迷路。就连熟悉荒野的人在雪天有时也会迷路。」

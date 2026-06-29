@@ -1,0 +1,39 @@
+B3-17 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- The first words I saw were these.
+  译：我看到的第一句话是这样的。
+- Call on me in the day of trouble.
+  译：在患难之日呼求我。
+- And I will deliver you.
+  译：我必拯救你。
+- And you will praise me the words were very relevant to my situation, and I often thought about them afterwards.
+  译：你必颂赞我——这些话与我的处境非常契合，此后我时常思索着它们。
+
+B3-18 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- Before going to bed, I knelt down and prayed to god.
+  译：就寝前，我跪下来向上帝祈祷。
+- I asked him to fulfill the promise of the Bible and deliver me.
+  译：我恳求他实现圣经中的承诺，拯救我。
+- I had taken rum and tobacco, so I fell asleep and did not wake up until about three in the afternoon of the next day.
+  译：我服用了朗姆酒和烟草，随即沉沉睡去，直到第二天下午三点左右才醒来。
+
+B3-19 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- When I awoke, I was refreshed and cheerful.
+  译：醒来时，我感到神清气爽，心情愉快。
+- July the third.
+  译：七月三日。
+- I thought often about the words in the Bible will deliver you.
+  译：我时常默想圣经中"必拯救你"这句话。
+- But it seemed impossible that I should escape from the island.
+  译：但从这座岛上逃脱似乎是不可能的事。
+
+B3-20 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- Then suddenly I said to myself, but I had been delivered from my illness, god had delivered me, but I had not praised him.
+  译：突然间，我对自己说：我已经从病中被拯救了，上帝拯救了我，但我却没有颂赞他。
+- Instead of thanking him for saving my life, I had thought only of escaping from the island.
+  译：我没有感谢他救了我的性命，只顾着想着如何逃离这座岛。
+- July the fourth.
+  译：七月四日。
+- I began to read the Bible seriously.
+  译：我开始认真地阅读圣经。
+- I decided to read a little every morning and every night now I understood the words call on me and I will deliver you.
+  译：我决定每天早晨和夜晚各读一点——如今我以一种新的方式理解了"呼求我，我必拯救你"这句话。

@@ -1,0 +1,43 @@
+B10-17 | character_refs: ["C3b", "C1", "C11"] | scene_refs: ["S5"] | 预估格数: 3
+- No, no, Isabella, you shan't run off!
+  译：不，不，伊莎贝拉，你不能逃走！
+- We were quarreling like cats about you, Heathcliff, and Isabella tells me that if I would stand aside, she would shoot an arrow for love into your heart that would make you forget me forever."
+  译：我们为了你像猫一样争吵，希斯克利夫，伊莎贝拉说，只要我退开，她就会向你心上射出爱的一箭，让你永远忘了我。"
+- "Let me go, Catherine!" cried Isabella, in distress.
+  译："放开我，凯瑟琳！"伊莎贝拉痛苦地喊道。
+- "Mr. Heathcliff, please do not listen to her.
+  译："希斯克利夫先生，请不要听她的话。
+- She is joking, but I find her joke painful in the extreme."
+  译：她在开玩笑，但我觉得这玩笑极其痛苦。"
+
+B10-18 | character_refs: ["C3b", "C1", "C11"] | scene_refs: ["S5"] | 预估格数: 3
+- "Heathcliff, doesn't my news make you happy?" continued Catherine, holding Isabella's arm tightly.
+  译："希斯克利夫，我的消息不让你高兴吗？"凯瑟琳继续说，紧紧抓着伊莎贝拉的手臂。
+- "Why, Isabella has not eaten for two days because she is so angry with me for having sent her away when we were walking on the moors.
+  译："伊莎贝拉已经两天没吃东西了，就是因为我们在荒野散步时我把她赶走，她气得要命。
+- She says I wanted to deprive her of your company."
+  译：她说我是存心不让她和你相处。"
+- "Well," said Heathcliff, looking at Isabella as one might look at a strange, repulsive animal, a centipede from India, for example.
+  译："哦，"希斯克利夫说，望着伊莎贝拉的眼神就像看一只奇怪而令人厌恶的动物，比如一条来自印度的蜈蚣。
+- "She clearly does not want to be in my company now."
+  译："她现在显然不想和我在一起。"
+
+B10-19 | character_refs: ["C11", "C3b", "C1"] | scene_refs: ["S5"] | 预估格数: 3
+- Poor Isabella went pale, then blushed red.
+  译：可怜的伊莎贝拉先是脸色煞白，随后又涨得通红。
+- She tried to prise Catherine's fingers from her arm, but could not, so she scratched them.
+  译：她试图掰开凯瑟琳扣在她手臂上的手指，却没能成功，于是便用指甲抓了上去。
+- "Oh, what a tigress!
+  译："哦，好一只母老虎！
+- Go away, for God's sake!
+  译：快走吧，看在上帝的份上！
+- How foolish you were to show him your tiger claws.
+  译：你真傻，竟然在他面前露出你的虎爪。
+
+B10-20 | character_refs: ["C3b", "C1"] | scene_refs: ["S5"] | 预估格数: 2
+- Look, Heathcliff," said Catherine, showing him the crescents of red on her hand.
+  译："你看，希斯克利夫，"凯瑟琳说，把手上被抓出的红痕伸给他看。
+- "You must be careful she doesn't scratch your eyes out with them."
+  译："你可要小心，别让她用这双爪子把你的眼睛也抓掉。"
+- "I'd tear them off her fingers if they ever menaced me," he answered brutally.
+  译："若她敢威胁我，我会把她的指甲从手指上撕下来，"他残忍地回答。

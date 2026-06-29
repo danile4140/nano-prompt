@@ -1,0 +1,33 @@
+B11-5 | character_refs: ["C10", "C1"] | scene_refs: ["S6"] | 预估格数: 3
+- He called the two of the gardeners to help him, and went to the kitchen.
+  译：他叫来两个园丁帮他，然后去了厨房。
+- There he demanded that Heathcliff leave his house and never return again.
+  译：他在那里要求希斯克利夫离开他的家，永远不要回来。
+- Heathcliff called him a coward, and might have hit him, but Catherine said, "Go now, Heathcliff."
+  译：希斯克利夫骂他懦夫，差点打了他，但凯瑟琳说："希斯克利夫，走吧。"
+- And he obeyed her.
+  译：他服从了她。
+
+B11-6 | character_refs: ["C10", "C3b"] | scene_refs: ["S5"] | 预估格数: 2
+- After Heathcliff had gone, Catherine and Edgar argued.
+  译：希斯克利夫走后，凯瑟琳和埃德加争吵起来。
+- I heard some of what was said.
+  译：我听到了一些他们说的话。
+- My master at one point said that Catherine had to choose between Heathcliff and himself.
+  译：主人一度说凯瑟琳必须在希斯克利夫和他之间做出选择。
+
+B11-7 | character_refs: ["C3b"] | scene_refs: ["S7"] | 预估格数: 1
+- Soon after that she went to her room and locked herself in.
+  译：此后不久，她走进自己的房间，把自己锁了起来。
+- All that day, and the next, she stayed in her room and refused to eat the meals I brought her.
+  译：那一整天，还有第二天，她都待在自己房间里，拒绝吃我送来的饭。
+- I thought she was pretending, trying to make Edgar feel sorry that he had argued with her.
+  译：我以为她在装病，想让埃德加为与她争吵感到后悔。
+
+B11-8 | character_refs: ["C10", "C11", "C7"] | scene_refs: ["S8", "S12"] | 预估格数: 3
+- Edgar sat in his study, gloomy and depressed, with the books open before him, but he was not reading.
+  译：埃德加坐在书房里，郁郁寡欢，面前摆着打开的书，但他根本没在看。
+- Isabella wandered around the courtyard, weeping most of the time.
+  译：伊莎贝拉在庭院里徘徊，大部分时间都在哭泣。
+- I went about my normal household duties, convinced that there was only one sensible soul at Thrushcross Grange, and that was lodged in my body.
+  译：我继续做着日常家务，深信画眉田庄里只有一个清醒的灵魂，那就是住在我身体里的那个。

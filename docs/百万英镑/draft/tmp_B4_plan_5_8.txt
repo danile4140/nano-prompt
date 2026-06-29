@@ -1,0 +1,37 @@
+B4-5 | character_refs: ["C1", "C7"] | scene_refs: ["S7"] | 预估格数: 2
+- It was time to pay.
+  译：该付款了。
+- Can you wait a few days for the money?
+  译：能不能等我几天再付钱？
+- I haven't got any small change with me.
+  译：我身上没有零钱。
+
+B4-6 | character_refs: ["C1", "C7"] | scene_refs: ["S7"] | 预估格数: 2
+- The man said, oh, you haven't
+  译：那店员说：哦，您没有零钱？
+- well, I thought gentlemen like you carried large change, my friend
+  译：那我以为像您这样的绅士随身带的都是大额钞票，朋友。
+- I replied, you can't judge a stranger by the clothes he wears.
+  译：我回答道：你不能以衣貌取人。
+- I can pay for this suit, but can you change a large banknote
+  译：我付得起这套衣服，但你们能找开一张大额钞票吗？
+- oh, of course we can change a large banknote he said coldly.
+  译：当然能找开大额钞票，他冷冷地说。
+
+B4-7 | character_refs: ["C1", "C7"] | scene_refs: ["S7"] | 预估格数: 3
+- I gave him the banknote.
+  译：我把钞票递给了他。
+- He received it with a smile, a big smile that covered his face.
+  译：他笑着接了过去，笑容铺满了整张脸。
+- When he read the bank note, his smile disappeared.
+  译：当他看清钞票上的数字，笑容瞬间消失了。
+
+B4-8 | character_refs: ["C1", "C7", "C8"] | scene_refs: ["S7"] | 预估格数: 3
+- The owner of the shop came over and asked me, what's the trouble?
+  译：店主走了过来，问我：出什么问题了？
+- There isn't any trouble.
+  译：没什么问题。
+- I'm waiting for my change.
+  译：我在等找零。
+- C o m e, c o m e, give him his change, Todd quickly
+  译：来，来，快点给他找零，托德！

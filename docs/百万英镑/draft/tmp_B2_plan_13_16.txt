@@ -1,0 +1,39 @@
+B2-13 | character_refs: ["C1", "C6"] | scene_refs: ["S4"] | 预估格数: 3
+- At last I took out the envelope with the money to pay for my meal.
+  译：终于，我掏出装有钱的信封来结账。
+- I looked at the bank note and almost fainted.
+  译：我看了看那张钞票，几乎当场晕倒。
+- It was a bank note worth five million dollars.
+  译：那是一张价值五百万美元的钞票。
+- I was speechless.
+  译：我说不出话来。
+- I stared at the bank note.
+  译：我呆呆地盯着那张钞票。
+
+B2-14 | character_refs: ["C1", "C6"] | scene_refs: ["S4"] | 预估格数: 2
+- The two gentlemen had made a big mistake, they probably wanted to give me a one pound bank note.
+  译：那两位绅士犯了个大错，他们原本大概是想给我一张一英镑的钞票。
+- I saw the owner of the eating place staring at the bank note too.
+  译：我看到餐馆老板也在盯着那张钞票。
+- We were both surprised.
+  译：我们两个都惊呆了。
+
+B2-15 | character_refs: ["C1", "C6"] | scene_refs: ["S4"] | 预估格数: 2
+- I did not know what to do or say, so I simply gave him the note and said.
+  译：我不知道该怎么做或说什么，于是就把钞票递给他，说道。
+- Give me the change, please.
+  译：请找给我零钱。
+- The owner apologized a thousand times I'm very sorry but I can't change this banknote Siri.
+  译：老板连连道歉：非常抱歉，先生，我无法兑换这张钞票。
+- I don't have any other money, please change this note.
+  译：我没有其他零钱，请帮我换一下这张。
+
+B2-16 | character_refs: ["C6"] | scene_refs: ["S4"] | 预估格数: 2
+- The owner then said you can pay for this food whenever you want Siri, understand that you are a very rich gentleman.
+  译：老板接着说：先生，您随时可以来付这顿饭的钱，我明白您是位非常富有的绅士。
+- You like playing jokes on people by dressing like a poor man.
+  译：您喜欢乔装成穷人来戏弄别人。
+- You can come here and eat all you want, whenever you want.
+  译：您随时可以来这里，想吃多少吃多少。
+- You can pay me when you want.
+  译：什么时候方便，什么时候再付钱给我。

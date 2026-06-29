@@ -1,0 +1,31 @@
+B4-29 | character_refs: ["C4", "C1"] | scene_refs: ["S4"] | 预估格数: 3
+- Hindley put out his tongue and hit Heathcliff.
+  译：辛德利伸出舌头，打了希斯克利夫一拳。
+- 'Go away, you dog!' cried Hindley.
+  译：「滚开，你这条狗！」辛德利喊道。
+- He picked up an iron weight used to weigh potatoes and threatened to throw it at Heathcliff.
+  译：他拿起一块用来称土豆重量的铁砝码，威胁要砸向希斯克利夫。
+
+B4-30 | character_refs: ["C1", "C4"] | scene_refs: ["S4"] | 预估格数: 2
+- 'Go on, throw it,' said Heathcliff, 'and then I will tell him that you said you will throw me out of the house as soon as he dies. He will throw you out.'
+  译：「扔吧，」希斯克利夫说，「然后我就去告诉他，你说过等他一死就把我赶出家门。他会把你赶出去的。」
+- Hindley threw the weight and hit Heathcliff on the chest.
+  译：辛德利扔出了铁砝码，砸中了希斯克利夫的胸口。
+- Heathcliff fell down, but then got up immediately, breathless and pale.
+  译：希斯克利夫倒下了，但随即又爬了起来，气喘吁吁，脸色煞白。
+
+B4-31 | character_refs: ["C1", "C4"] | scene_refs: ["S4"] | 预估格数: 2
+- Had I not prevented it, he would have gone to Mr. Earnshaw and shown him the mark on his chest.
+  译：若不是我阻止了他，他早就去找恩肖先生，把胸口的伤痕给他看了。
+- 'Take my colt then, gypsy,' cried Hindley, 'and I pray that you fall off it and break your neck. Be damned, you beggarly interloper! You try to trick my father out of all he has, but I'll show him what you are, you devil.'
+  译：「那就把我的马拿去吧，吉普赛佬，」辛德利喊道，「我希望你从马背上摔下来，摔断脖子。去死吧，你这个乞丐般的闯入者！你想骗走我父亲的一切，但我会让他看清你是什么东西，你这个魔鬼。」
+
+B4-32 | character_refs: ["C7", "C1"] | scene_refs: ["S1"] | 预估格数: 2
+- I had no trouble persuading Heathcliff to lay the blame of his bruises on the horse, so that Mr. Earnshaw would not be angry with Hindley.
+  译：我毫不费力地说服了希斯克利夫，让他把伤痕归咎于马，这样恩肖先生就不会对辛德利发火了。
+- Indeed, he complained so seldom of Hindley's treatment that I really thought he was not vindictive.
+  译：实际上，他如此少地抱怨辛德利对他的对待，以至于我真的以为他并不记仇。
+- But I was completely wrong.
+  译：但我完全错了。
+- As you will hear."
+  译：您很快就会明白的。」

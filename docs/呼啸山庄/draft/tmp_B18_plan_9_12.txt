@@ -1,0 +1,35 @@
+B18-9 | character_refs: ["C2"] | scene_refs: ["S6"] | 预估格数: 1
+- "She lives up at Wuthering Heights now," said the woman.
+  译：「她现在住在呼啸山庄，」那女人说。
+- I decided to go to Wuthering Heights to see Mrs. Dean.
+  译：我决定去呼啸山庄找迪恩太太。
+
+B18-10 | character_refs: ["C2"] | scene_refs: ["S9"] | 预估格数: 1
+- The sun was setting and the moon was rising as I left the park.
+  译：我离开庄园时，夕阳正在西沉，月亮徐徐升起。
+- When I reached Wuthering Heights, I noticed that the doors and windows were open, and there were flowers in the garden.
+  译：到达呼啸山庄时，我注意到门窗都敞开着，花园里盛开着鲜花。
+- "That is an improvement," I thought.
+  译：「这是一种改变，」我心想。
+
+B18-11 | character_refs: ["C6", "C5"] | scene_refs: ["S1"] | 预估格数: 2
+- As I approached the door, I heard voices from within.
+  译：走近门口时，我听到屋内传来说话声。
+- "No, no, no," said a voice as sweet as a silver bell.
+  译：「不，不，不，」一个甜如银铃的声音说。
+- "Read it again, and this time with no mistakes."
+  译：「再读一遍，这次不许出错。」
+- "Kiss me first," said a deeper voice.
+  译：「先亲我一下，」一个较低沉的声音说。
+- "Not until you have read it perfectly."
+  译：「等你读得完美无误再说。」
+
+B18-12 | character_refs: ["C6", "C5"] | scene_refs: ["S1"] | 预估格数: 1
+- I looked in and saw Catherine and Hareton sitting by the window with their heads bent close together over a book.
+  译：我向里望去，看见凯瑟琳和哈顿并肩坐在窗边，两人头凑在一起，俯身看着一本书。
+- Hareton was handsome, clean and well dressed, and his face glowed with pleasure.
+  译：哈顿英俊整洁，穿着得体，满脸洋溢着喜悦。
+- Her face was full of gentle, tender affection.
+  译：她的脸上满是温柔的爱意。
+- Seeing it, I felt sad at the thought of what I had missed.
+  译：看到这一幕，我不禁为自己所错失的而感到惆怅。

@@ -1,0 +1,27 @@
+B4-1 | character_refs: ["C1b"] | scene_refs: ["S12"] | 预估格数: 2
+- I had now been living on the island for fifteen years.
+  译：我在岛上已经生活了十五年。
+- During all that time, I had never seen another human being.
+  译：在这段时间里，我从未见过另一个人。
+- However, savages from the mainland had clearly come to the island and they might come again.
+  译：然而，大陆的野人显然曾来过这座岛，他们可能还会再来。
+- I decided to build a second fence around my house and plant trees outside it so that no one could enter.
+  译：我决定在房屋周围再建一道栅栏，并在外面种上树木，这样没有人能够进入。
+
+B4-2 | character_refs: ["C1b"] | scene_refs: ["S12"] | 预估格数: 1
+- In six years, I had a thick wood around my house.
+  译：六年后，我的房屋四周已经长满了茂密的树林。
+
+B4-3 | character_refs: ["C1b"] | scene_refs: ["S10"] | 预估格数: 2
+- About two years after I saw the footprint, I thought I saw a boat in the distance of the western part of the island.
+  译：在我看到那个脚印大约两年后，我以为在岛的西侧远处看到了一艘船。
+- Perhaps the savages from the mainland often came to that side of the island, perhaps god had guided me to the eastern side, where the savages never came.
+  译：也许大陆的野人经常来到岛的那一侧，也许上帝把我引到了东侧——野人从不来到那里。
+
+B4-4 | character_refs: ["C1b"] | scene_refs: ["S14"] | 预估格数: 2
+- When I came down the hill to the shore.
+  译：当我从山上来到海岸时。
+- I was amazed and horrified to see human skulls, hands and feet lying on the sand.
+  译：我惊恐万分地看到人类的头骨、手和脚散落在沙滩上。
+- There was a pit in the earth where a fire had been made.
+  译：地面上有一个坑，那里曾经生过火。

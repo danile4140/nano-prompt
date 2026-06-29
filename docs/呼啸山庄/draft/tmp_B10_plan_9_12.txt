@@ -1,0 +1,39 @@
+B10-9 | character_refs: ["C3b", "C11"] | scene_refs: ["S5"] | 预估格数: 2
+- He is a fierce, pitiless, wolfish man.
+  译：他是一个凶猛、冷酷、狼一般的男人。
+- He could not love a Linton.
+  译：他不可能去爱一个林顿家的人。
+- But he might marry you for your money.
+  译：但他可能会为了你的钱财而娶你。
+- Then, if you irritated him, he would crush you like a sparrow's egg, Isabella."
+  译：那时，若你惹怒了他，他会像捏碎麻雀蛋一样将你毁掉，伊莎贝拉。"
+
+B10-10 | character_refs: ["C11", "C3b", "C7"] | scene_refs: ["S5"] | 预估格数: 3
+- "You just say so because you want him for yourself!" cried Isabella.
+  译："你这么说只是因为你自己想独占他！"伊莎贝拉喊道。
+- "Very well.
+  译："很好。
+- I have warned you," said Catherine coldly, and she left the room.
+  译：我已经警告过你了，"凯瑟琳冷冷地说，随即离开了房间。
+- "She was lying, wasn't she, Nelly?" sobbed Isabella.
+  译："她在撒谎，不是吗，内莉？"伊莎贝拉哽咽道。
+
+B10-11 | character_refs: ["C11", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- "He must have a noble heart, or how could he have loved her for so long?
+  译："他一定有一颗高贵的心，否则他怎么能爱她这么久呢？
+- He is not a devil, but a faithful, loving man."
+  译：他不是魔鬼，而是一个忠诚、充满爱的男人。"
+- "Forget him, miss," said I.
+  译："忘了他吧，小姐，"我说。
+
+B10-12 | character_refs: ["C7", "C11"] | scene_refs: ["S5"] | 预估格数: 2
+- "Mrs. Linton spoke harshly, but I cannot contradict her, and she knows him better than I do.
+  译："林顿太太说话虽然尖刻，但我无法反驳她，她比我更了解他。
+- Honest people don't keep secrets.
+  译：诚实的人不会藏着掖着秘密。
+- How has he been living?
+  译：他一直是怎么生活的？
+- How has he got rich?
+  译：他是怎么发财的？
+- Why is he staying at Wuthering Heights, the house of a man he hates?
+  译：他为何住在呼啸山庄——一个他所憎恨的人的宅子？

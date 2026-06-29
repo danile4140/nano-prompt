@@ -1,0 +1,45 @@
+B16-13 | character_refs: ["C1", "C7", "C5"] | scene_refs: ["S1"] | 预估格数: 2
+- Heathcliff looked at his son with contempt.
+  译：希斯克利夫轻蔑地看着自己的儿子。
+- "You see what a weakling he is, Nelly," said he.
+  译："你看他多么懦弱，内莉，"他说。
+- "Soon she will see it herself, and want nothing to do with him.
+  译："她很快也会看清楚的，到时不会再想和他有任何关系。
+- Now if it were Hareton, things would be different.
+  译：要是哈顿就不同了。
+- I often wish that Hareton were my son.
+  译：我常常希望哈顿是我的儿子。
+- But no, he's Hindley's son, and I've made it my business to treat him just as Hindley treated me.
+  译：但不是，他是辛德利的儿子，而我已把对待他就像辛德利对待我一样当作我的事来做。
+
+B16-14 | character_refs: ["C1", "C5"] | scene_refs: ["S1"] | 预估格数: 1
+- He has no lessons.
+  译：他没有任何教育。
+- He cannot read or write.
+  译：他不识字，也不会写字。
+- He works on the farm like a servant.
+  译：他像仆人一样在农场干活。
+- Young Catherine will never look at him.
+  译：小凯瑟琳永远不会看上他。
+- I have seen him looking at her, and I know how he feels, because I suffered it all before him."
+  译：我见过他看她的眼神，我知道他的感受，因为我以前也经历过同样的痛苦。"
+
+B16-15 | character_refs: ["C6", "C7", "C10"] | scene_refs: ["S5"] | 预估格数: 2
+- When we returned to the Grange, we told my master about our visit to Wuthering Heights.
+  译：当我们回到画眉田庄，我们把去呼啸山庄的事告诉了主人。
+- He explained to Catherine why he did not wish her to go there, and she promised not to go again.
+  译：他向凯瑟琳解释了为什么不希望她去那里，她答应不再去了。
+- The next day, however, she sent a note to Linton.
+  译：然而第二天，她给林顿送去了一张便条。
+- I did not know it at the time.
+  译：当时我并不知道。
+
+B16-16 | character_refs: ["C6", "C7"] | scene_refs: ["S7"] | 预估格数: 2
+- In fact, many months passed before I realized that Cathy was writing regularly to Linton, sending him presents and receiving presents in return.
+  译：事实上，几个月后我才意识到凯西一直在定期给林顿写信，给他送礼物，也收到他回赠的礼物。
+- One day I found her secret store of letters from him.
+  译：有一天，我发现了她藏起来的那些来自他的信件。
+- The first letters were short and timid, but later ones were long love letters.
+  译：最初的信短小怯懦，但后来的却是长篇情书。
+- I suspected that Heathcliff had helped – maybe even forced – his son to write them.
+  译：我怀疑希斯克利夫曾帮助——甚至强迫——他儿子写这些信。

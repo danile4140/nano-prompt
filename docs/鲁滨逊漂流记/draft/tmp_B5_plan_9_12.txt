@@ -1,0 +1,37 @@
+B5-9 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 2
+- Friday told me many things about people of his nation and nations nearby.
+  译：星期五告诉了我许多关于他的民族和附近部族的事情。
+- Then he told me that at a great distance from his nation there lived a white man like me, and that they had killed many people.
+  译：然后他告诉我，离他的民族很远的地方住着一些和我一样的白人，他们曾杀死许多人。
+- I understood that these were spaniards whose cruelty was well known.
+  译：我明白那些一定是西班牙人，他们的残暴早已闻名。
+- I asked him if he thought I could go from this island to the place where the other white man lived.
+  译：我问他是否认为我能从这座岛去到那些白人居住的地方。
+
+B5-10 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 2
+- He said I could, but I would need a large boat.
+  译：他说可以，但我需要一艘大船。
+- I began to hope that I could escape from the island with Friday's help.
+  译：我开始希望能够借助星期五的帮助逃离这座岛。
+
+B5-11 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 3
+- I taught Friday all I could about religion.
+  译：我尽力把宗教方面的知识都教给星期五。
+- One time I asked him who made him.
+  译：有一次我问他是谁创造了他。
+- He did not understand me at all.
+  译：他完全不明白我的意思。
+- He thought I had asked who his father was.
+  译：他以为我在问他父亲是谁。
+- Then I asked him who made the sea, the earth, the hills and the woods.
+  译：于是我问他是谁创造了大海、大地、山丘和树林。
+
+B5-12 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 2
+- He told me be a monkey, made them be AMA was very old, much older than the sea or land.
+  译：他告诉我是由一位神祇造的，那位神祇非常古老，比大海和陆地都要古老。
+- Friday said, if this old person has made all things said I, why do all things not worship him Friday looked very serious and said all things say o to him.
+  译：星期五说，既然这位老者创造了万物，我说，为什么万物不崇拜他呢？星期五神情严肃地说，万物都向他呼喊。
+- I asked what happened to the people who died in this country.
+  译：我问这里死去的人会怎样。
+- He said he went to bema.
+  译：他说会去往贝玛。

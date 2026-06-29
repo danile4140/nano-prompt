@@ -1,0 +1,29 @@
+B4-5 | character_refs: ["C2", "C7"] | scene_refs: ["S8"] | 预估格数: 2
+- "And why does your master not live here? It is a far grander house than Wuthering Heights."
+  译：「那您的主人为何不住在这里？这可比呼啸山庄气派多了。」
+- "He does not like to spend money, sir."
+  译：「他不喜欢花钱，先生。」
+- He is as rich as can be, but he never misses a chance to get richer still, even though he has no family to leave it to.
+  译：他富得流油，却从不放过任何发财的机会，即便他没有家人可以继承这些财富。
+
+B4-6 | character_refs: ["C2", "C7"] | scene_refs: ["S8"] | 预估格数: 2
+- "He told me he had a son."
+  译：「他告诉我他有个儿子。」
+- "His son is dead, sir. The young lady, Mrs. Heathcliff, is his widow."
+  译：「他儿子已经死了，先生。那位年轻的女士，希斯克利夫太太，是他的遗孀。」
+
+B4-7 | character_refs: ["C2", "C7"] | scene_refs: ["S8"] | 预估格数: 2
+- "Where did she come from originally?" I asked.
+  译：「她原来是哪里人？」我问道。
+- "Why, here, sir. She is my late master's daughter."
+  译：「就是这里，先生。她是我已故主人的女儿。」
+- Her maiden name was Catherine Linton.
+  译：她的娘家姓是凯瑟琳·林顿。
+- I took care of her when she was a baby.
+  译：她还是婴儿的时候我就照顾她。
+- Poor thing.
+  译：可怜的孩子。
+
+B4-8 | character_refs: ["C2"] | scene_refs: ["S8"] | 预估格数: 1
+- I started at the name, but the next moment I realized that she could not be my ghostly Catherine.
+  译：那个名字让我一惊，但下一刻我就意识到，她不可能是我梦中那个幽灵凯瑟琳。

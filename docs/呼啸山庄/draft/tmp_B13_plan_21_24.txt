@@ -1,0 +1,53 @@
+B13-21 | character_refs: ["C7", "C10"] | scene_refs: ["S9"] | 预估格数: 2
+- Old Mr. Linton had left Thrushcross Grange to his own daughter, Isabella, if Edgar should have no sons.
+  译：老林顿先生曾立下遗嘱，若埃德加没有儿子，就将画眉田庄留给自己的女儿伊莎贝拉。
+- Now Edgar's daughter would be left with nothing.
+  译：如今埃德加的女儿将一无所有。
+- As the sun rose, my master lay on Catherine's pillow, exhausted by grief.
+  译：旭日东升时，主人躺在凯瑟琳的枕边，悲痛欲绝，力竭而眠。
+- His living face as pale as the dead face beside him.
+  译：他活着的脸与身旁死去的脸一样苍白。
+
+B13-22 | character_refs: ["C1", "C7"] | scene_refs: ["S9"] | 预估格数: 3
+- I went outside into the park, where I was sure I would find Heathcliff waiting.
+  译：我走到屋外的园子里，我确信会在那里找到等候的希斯克利夫。
+- I found him standing under a tree.
+  译：我发现他站在一棵树下。
+- He must have been standing still for a very long time because two birds were hopping on the ground beside him, as if he were a piece of wood.
+  译：他一定站了很久很久，因为两只小鸟在他身旁的地上跳来跳去，把他当成了一段木头。
+- When I approached, they flew away.
+  译：当我走近时，小鸟飞走了。
+- "I know she's dead," said Heathcliff. "How did she die, Nelly?"
+  译："我知道她死了，"希斯克利夫说，"她是怎么死的，内莉？"
+- "Very peacefully. She did not speak again after you left. She died very early this morning. She looks so peaceful now. Let's hope she may wake to peace in the other world."
+  译："很安详。你走了之后她就再没开口。她在今天很早的时候去世了。她现在看起来非常平静。希望她在另一个世界也能安息吧。"
+
+B13-23 | character_refs: ["C1"] | scene_refs: ["S9"] | 预估格数: 2
+- "May she wake in torment!" cried Heathcliff, with sudden passion.
+  译："愿她在折磨中醒来！"希斯克利夫突然爆发，喊道。
+- "Catherine Earnshaw, may you not rest as long as I am living.
+  译："凯瑟琳·恩肖，只要我还活着，愿你不得安息。
+- You said I killed you.
+  译：你说我害死了你。
+- Haunt me then!
+  译：那就来缠绕我吧！
+- The murdered do haunt their murderers, I believe.
+  译：我相信，被害之人确实会缠着害人者。
+- Be with me always.
+  译：永远陪着我。
+
+B13-24 | character_refs: ["C1"] | scene_refs: ["S9"] | 预估格数: 2
+- Take any form.
+  译：以任何形式都好。
+- Drive me mad!
+  译：让我发疯吧！
+- Just don't leave me here alone without you!
+  译：只是别把我一个人孤零零地留在这里！
+- Oh God, I cannot live without my life.
+  译：哦，上帝，没有我的生命我无法活下去。
+- I cannot live without my soul."
+  译：没有我的灵魂我无法活下去。"
+- He dashed his head against the tree trunk until his forehead was stained with blood.
+  译：他把头狠狠撞向树干，直到额头被血染红。
+- He howled and sobbed, not like a man, but like a savage beast in torment.
+  译：他嚎啕大哭，不像一个人，而像一头在痛苦中挣扎的野兽。

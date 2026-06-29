@@ -1,0 +1,43 @@
+B18-37 | character_refs: ["C1", "C7"] | scene_refs: ["S3"] | 预估格数: 2
+- Then he went straight to Catherine's old bedroom, the one with the oak case, and locked himself in.
+  译：然后他径直走进凯瑟琳从前的卧室，就是那间有橡木箱床的房间，把自己锁在里面。
+- I went quietly to the door and listened.
+  译：我悄悄走到门口倾听。
+- I could hear his voice speaking as if to a living person.
+  译：我能听到他的声音，仿佛在和一个活生生的人说话。
+- From time to time I heard him speak Catherine's name with some endearment or expression of suffering.
+  译：他不时地呼唤着凯瑟琳的名字，带着柔情蜜意或痛苦的叹息。
+
+B18-38 | character_refs: ["C7"] | scene_refs: ["S3"] | 预估格数: 2
+- That night the wind blew and the rain beat down on the house.
+  译：那晚风呼呼地刮着，雨猛烈地打在屋子上。
+- I slept badly and had frightening dreams.
+  译：我睡得很差，做了许多可怕的梦。
+- The next morning I went outside to get a little fresh air.
+  译：第二天早晨我出去透了透气。
+- I noticed that the window of the first Catherine's old bedroom was wide open.
+  译：我注意到老凯瑟琳从前卧室的窗户大开着。
+- I went into the house and upstairs to the room.
+  译：我走进屋子，上楼来到那间房间。
+
+B18-39 | character_refs: ["C1", "C7"] | scene_refs: ["S3"] | 预估格数: 3
+- When I opened the door of the oak case, I found Mr. Heathcliff lying on the bed.
+  译：当我打开橡木箱床的门，发现希斯克利夫先生躺在床上。
+- His eyes were wide open and had a strange, joyful expression, and his face was washed with rain.
+  译：他的眼睛睁得大大的，带着一种奇异而喜悦的神情，脸上被雨水冲刷过。
+- One hand lay on the window sill.
+  译：一只手搭在窗台上。
+- The window had been knocking against it, but it was not bleeding.
+  译：窗户一直拍打着那只手，但并没有流血。
+- When I touched it, I found that it was stone cold.
+  译：我触碰那只手时，发现它冷如磐石。
+- There could be no doubt that he was dead.
+  译：他已经死了，这一点毋庸置疑。
+
+B18-40 | character_refs: ["C5", "C7"] | scene_refs: ["S10"] | 预估格数: 2
+- We buried him, as he had wished, beside Catherine in the old graveyard on the moor.
+  译：我们按照他的遗愿，将他葬在荒野上老墓地里凯瑟琳的身旁。
+- Hareton and I were the only mourners, and no prayers were spoken over his grave.
+  译：哈顿和我是仅有的送葬者，没有人在他的坟前念祷告词。
+- I hope he is at peace now, although some of the village people say they have seen his ghost walking on the moors.
+  译：我希望他现在能安息，尽管一些村民说他们见过他的鬼魂在荒野上游荡。

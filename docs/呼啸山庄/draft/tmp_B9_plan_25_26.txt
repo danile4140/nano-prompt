@@ -1,0 +1,19 @@
+B9-25 | character_refs: ["C10", "C3b", "C11"] | scene_refs: ["S5"] | 预估格数: 1
+- 'Come, come, the tea is getting cold,' said Edgar, trying to speak in his normal voice.
+  译："来，来，茶要凉了，"埃德加努力用平常的语气说。
+- Miss Isabella came in, and Catherine poured out the tea.
+  译：伊莎贝拉小姐走了进来，凯瑟琳开始倒茶。
+- I don't know what was said at the meal because I withdrew to the kitchen.
+  译：我不知道用餐时他们说了什么，因为我退到了厨房里。
+
+B9-26 | character_refs: ["C7", "C1"] | scene_refs: ["S6"] | 预估格数: 2
+- An hour later, Heathcliff left.
+  译：一个小时后，希斯克利夫离开了。
+- 'Are you staying in the village?' I asked him at the door.
+  译："你住在村子里吗？"我在门口问他。
+- 'No,' he said, 'I'm staying at Wuthering Heights.
+  译："不，"他说，"我住在呼啸山庄。
+- Mr. Earnshaw invited me when I called upon him this morning.'
+  译：今天早上我去拜访恩肖先生时，他邀请了我。"
+- I was very surprised to hear this and began to think that it would have been better for everyone had Heathcliff stayed away.
+  译：听到这个消息我大为震惊，不禁开始想，若是希斯克利夫始终未曾回来，对所有人或许都会更好。

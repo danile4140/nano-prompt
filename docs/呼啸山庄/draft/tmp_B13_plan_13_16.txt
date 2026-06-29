@@ -1,0 +1,37 @@
+B13-13 | character_refs: ["C1", "C10"] | scene_refs: ["S7"] | 预估格数: 2
+- "Heathcliff, don't be angry now," said Catherine, rising from her chair.
+  译："希斯克利夫，别生气了，"凯瑟琳从椅子上站起来说。
+- "Do come to me, Heathcliff."
+  译："快来到我身边，希斯克利夫。"
+- He turned to her, his eyes wet with tears.
+  译：他转向她，眼中含着泪水。
+- Then Catherine leapt towards him and they were locked in an embrace from which I thought my mistress would never be released alive.
+  译：随即凯瑟琳扑向他，两人紧紧相拥，我以为女主人再也不会活着从这个拥抱中挣脱出来。
+
+B13-14 | character_refs: ["C1", "C7", "C10"] | scene_refs: ["S7"] | 预估格数: 2
+- It seemed to me that she had fainted in his arms, and I went closer to see if she was all right.
+  译：我以为她晕倒在他怀里，走近去察看她是否安好。
+- Heathcliff glared at me, breathing heavily like a mad dog.
+  译：希斯克利夫怒视着我，喘息声沉重得像一条疯狗。
+- It did not seem like one of my own species.
+  译：他看起来已不像同类。
+
+B13-15 | character_refs: ["C1", "C10"] | scene_refs: ["S7"] | 预估格数: 2
+- Then Catherine put her arm around his neck and her cheek against his.
+  译：随即凯瑟琳把手臂搂上他的脖子，脸颊贴着他的脸颊。
+- "Why did you betray your own heart, Kathy?" he cried.
+  译："你为什么要背叛自己的心，凯茜？"他喊道。
+- "You loved me! What right had you to leave me?
+  译："你是爱我的！你有什么权利离开我？
+- You say I have killed you, but you killed yourself.
+  译：你说我害死了你，但其实是你自己害死了自己。
+
+B13-16 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: 1
+- You say I broke your heart, but you broke your own heart by marrying Linton, and you broke mine too.
+  译：你说我伤了你的心，但其实是你嫁给林顿伤了自己的心，也伤了我的心。
+- Do you think I want to live?
+  译：你以为我想活着吗？
+- I wish I were not strong and healthy.
+  译：我真希望我不是这般强健。
+- What kind of life will it be when you – oh God, would you like to live with your soul in the grave?"
+  译：没有你之后的日子将是怎样——哦，上帝，你愿意把灵魂留在坟墓里活着吗？"

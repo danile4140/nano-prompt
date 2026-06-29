@@ -1,0 +1,47 @@
+B8-5 | character_refs: ["C1b", "C10"] | scene_refs: ["S2"] | 预估格数: 3
+- Portia, you are so beautiful!
+  译：波西亚，你真是太美了！
+- When the two gentlemen meet you, they'll give me any job and any salary I ask for
+  译：当那两位先生见到你，他们会答应我要求的任何工作和薪水。
+- Henry, please remember that if we ask for too much, we will get nothing!
+  译：亨利，请记住，如果我们要求太多，我们将一无所获！
+- Then what will happen to us?
+  译：那我们该怎么办？
+- Don't be afraid, portia.
+  译：不要害怕，波西亚。
+
+---
+
+B8-6 | character_refs: ["C1b", "C10", "C4"] | scene_refs: ["S5"] | 预估格数: 2
+- When we arrived, the same servant opened the door.
+  译：当我们到达时，同一个仆人开了门。
+- There were the two old gentlemen having tea.
+  译：那两位老先生正在喝茶。
+- They were surprised to see portia.
+  译：他们见到波西亚，感到十分惊讶。
+- I introduced her to them.
+  译：我把她介绍给了他们。
+
+---
+
+B8-7 | character_refs: ["C1b", "C2", "C3"] | scene_refs: ["S11"] | 预估格数: 2
+- Then I said, gentlemen, I am ready to report to you
+  译：然后我说，先生们，我已准备好向您们汇报了。
+- we are pleased to hear this said one gentleman.
+  译：我们很高兴听到这个消息，一位先生说道。
+- Now we can decide the bet that my brother abel and I made.
+  译：现在我们可以就我兄弟亚伯和我之间的赌注做出裁定了。
+- If you won for me, you can have any job in my power.
+  译：如果你帮我赢了，你可以得到我所能给予的任何职位。
+
+---
+
+B8-8 | character_refs: ["C1b", "C2"] | scene_refs: ["S11"] | 预估格数: 2
+- Do you have the million pound note
+  译：你带来了那张百万英镑的钞票吗？
+- here it is, sir and I gave it to him.
+  译：在这里，先生，说着我把它递给了他。
+- I won he shouted.
+  译：我赢了！他大声喊道。
+
+---

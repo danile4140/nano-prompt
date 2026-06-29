@@ -1,0 +1,45 @@
+B18-29 | character_refs: ["C1", "C7"] | scene_refs: ["S1"] | 预估格数: 1
+- 'Ah, Nelly,' he said when they were gone, 'what a ridiculous end to all my efforts.
+  译：「啊，内莉，」他们走后他说，「我所有的努力竟以这样荒唐的结局收场。
+- I have spent my life trying to destroy two families.
+  译：我耗尽一生试图毁掉两个家族。
+- Now that everything is mine, I find I no longer want to punish them.
+  译：如今一切都归我所有，我却发现自己已不再想惩罚他们了。
+- My old enemies have not beaten me.
+  译：我的老对手们并没有打败我。
+
+B18-30 | character_refs: ["C1", "C7"] | scene_refs: ["S1"] | 预估格数: 1
+- Now I could destroy their offspring completely, but what's the use?
+  译：现在我本可以彻底毁掉他们的后代，但那又有什么用呢？
+- I no longer want to give them pain.
+  译：我不再想给他们带来痛苦。
+- It is not that I have decided to be generous to them.
+  译：并非我决定宽待他们。
+- It's simply that I no longer enjoy tormenting them.
+  译：只不过是我不再享受折磨他们的过程了。
+- Hareton reminds me of myself at his age.
+  译：哈顿让我想起了我年轻时的自己。
+- And he also looks like Catherine, my Catherine.
+  译：而且他也像凯瑟琳，我的凯瑟琳。
+
+B18-31 | character_refs: ["C1", "C7"] | scene_refs: ["S1"] | 预估格数: 1
+- But I don't need Hareton to remind me of her.
+  译：但我不需要哈顿来提醒我想起她。
+- I think about her all the time.
+  译：我无时无刻不在想她。
+- I see her face in every cloud, in every tree.
+  译：我在每一朵云里、每一棵树里看见她的脸。
+- The whole world is a reminder that she existed and I lost her.'
+  译：整个世界都在提醒我，她曾经存在，而我失去了她。」
+
+B18-32 | character_refs: ["C1", "C6b"] | scene_refs: ["S9"] | 预估格数: 2
+- A few weeks after that, Heathcliff was away from home all night.
+  译：此后几周，希斯克利夫有一夜整夜不在家。
+- The next morning Catherine went out to pick some flowers.
+  译：第二天早晨凯瑟琳出去采花。
+- When she came back she said she had seen Heathcliff and that he looked happy.
+  译：她回来时说她看见了希斯克利夫，他看起来很高兴。
+- This was strange news indeed.
+  译：这确实是个奇怪的消息。
+- I waited for him anxiously, curious to see what he looked like when he was happy.
+  译：我焦急地等着他，很想看看他高兴时是什么模样。

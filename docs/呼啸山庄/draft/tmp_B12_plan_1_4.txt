@@ -1,0 +1,45 @@
+B12-1 | character_refs: ["C7", "C10"] | scene_refs: ["S7"] | 预估格数: 2
+- Two months passed.
+  译：两个月过去了。
+- Mr. Edgar constantly cared for Catherine, and gradually she began to get better.
+  译：埃德加先生一直悉心照料凯瑟琳，她渐渐开始好转。
+- This was a double blessing because we now discovered she was expecting a baby.
+  译：这是双重喜事，因为我们发现她已有身孕。
+
+---
+
+B12-2 | character_refs: ["C10", "C11"] | scene_refs: ["S5"] | 预估格数: 2
+- Isabella had sent a short note to Edgar saying that she was married to Heathcliff.
+  译：伊莎贝拉给埃德加寄来一张短笺，说她已嫁给希斯克利夫。
+- The note seemed cold and unfeeling, but beneath the signature some more was scribbled in pencil.
+  译：那张字条显得冷漠无情，但签名下方还用铅笔潦草地写了几行。
+- She was sorry, she said, to have caused her brother pain.
+  译：她说，她很抱歉给哥哥带来了痛苦。
+- She hoped that he remembered her kindly and that they could be reconciled.
+  译：她希望哥哥能好好记着她，希望他们能够和好。
+
+---
+
+B12-3 | character_refs: ["C7"] | scene_refs: ["S6"] | 预估格数: 1
+- Linton did not reply to the note.
+  译：林顿没有回复那张字条。
+- Two weeks later I received a letter from her.
+  译：两周后，我收到了她的来信。
+- I have the letter here.
+  译：信就在这里。
+- I'll read it to you.
+  译：我来读给你听。
+
+---
+
+B12-4 | character_refs: ["C11"] | scene_refs: ["S1"] | 预估格数: 2
+- "Dear Ellen, I arrived at Wuthering Heights last night.
+  译："亲爱的艾伦，我昨晚抵达了呼啸山庄。
+- Since Edgar did not reply to my note, I am writing to you.
+  译：既然埃德加没有回复我的字条，我便写信给你。
+- Please tell him that I would give anything to see his face again.
+  译：请告诉他，我愿意付出一切只为再见他一面。
+- My heart turned to Thrushcross Grange twenty-four hours after I had left it.
+  译：离开画眉田庄仅仅二十四小时，我的心便已转向那里。
+
+---

@@ -1,0 +1,53 @@
+B18-33 | character_refs: ["C1", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- Finally he came home.
+  译：他终于回家了。
+- He was pale and trembling, but there was a strange, joyful glitter in his eyes.
+  译：他面色苍白，身体颤抖，但眼中闪烁着一种奇异的喜悦光芒。
+- I asked him where he had been all night, but he did not answer me.
+  译：我问他整夜去了哪里，但他没有回答我。
+- I offered him food, but he did not eat.
+  译：我给他端来食物，但他没有进食。
+- He sat by the window, looking out eagerly, that strange smile on his face.
+  译：他坐在窗边，热切地向外凝望，脸上带着那种奇异的微笑。
+
+B18-34 | character_refs: ["C1", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- Later I brought him coffee but he did not touch it.
+  译：后来我给他端来咖啡，但他没有碰。
+- He sat there looking at the wall with intense interest.
+  译：他坐在那里，目不转睛地盯着墙壁，神情专注。
+- 'Come, master,' I said, 'drink your coffee before it gets cold.'
+  译：「来，主人，」我说，「趁热喝您的咖啡。」
+- 'Be quiet,' he cried.
+  译：「安静！」他喊道。
+- 'Turn round and tell me!
+  译：「转过去看看，告诉我！
+- Are we alone in this room?'
+  译：我们屋里只有我们两个人吗？」
+
+B18-35 | character_refs: ["C1", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- 'Of course we are alone, Mr. Heathcliff,' I replied.
+  译：「当然只有我们两个，希斯克利夫先生，」我回答。
+- 'Look,' he whispered.
+  译：「你看，」他低语道。
+- I turned and looked.
+  译：我转过身去看了看。
+- Now it seemed to me that he was not looking at the wall, but rather at something two yards in front of him.
+  译：此刻我感觉他并非在看着墙壁，而是在看着他前方两码处的某样东西。
+- Something that seemed to cause him great pleasure and great pain.
+  译：某样既让他极度喜悦、又让他极度痛苦的东西。
+- But there was nothing there.
+  译：但那里什么都没有。
+
+B18-36 | character_refs: ["C1", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- The object he stared at seemed to move, for his gaze moved with it.
+  译：他凝视的那个东西似乎在移动，因为他的目光也随之移动。
+- 'Come, Mr. Heathcliff, eat some bread, at least.
+  译：「来，希斯克利夫先生，至少吃点面包吧。
+- You have eaten nothing for days.'
+  译：您已经好几天没有进食了。」
+- But he did not answer me.
+  译：但他没有回答我。
+- He stood up and walked out of the house and disappeared through the gate.
+  译：他站起身，走出屋子，消失在大门之后。
+- He did not return until after midnight.
+  译：直到过了午夜他才回来。

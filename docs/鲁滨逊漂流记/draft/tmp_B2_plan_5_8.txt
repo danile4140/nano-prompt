@@ -1,0 +1,37 @@
+B2-5 | character_refs: ["C1"] | scene_refs: ["S7", "S3"] | 预估格数: 3
+- The waves had moved the ship closer to the shore.
+  译：海浪把船冲到了离岸更近的地方。
+- During the night I realized that if we had stayed on board, we would all have survived the storm.
+  译：整夜我意识到，如果我们当时留在船上，大家都能熬过那场暴风雨。
+- This thought made the tears run down my face.
+  译：这个念头让我泪流满面。
+- I took off my clothes and swam to the ship.
+  译：我脱下衣服，游向那艘船。
+
+（四维度扫描：①视觉焦点从船→内心想法→行动，属同一叙事节拍的展开；②时间在清晨这一时间点；③空间在海滩/海面之间，属同一节拍的行动；④情绪基调为悔恨→决断，属渐进推进。总句数4句，无需豁免。）
+
+B2-6 | character_refs: ["C1"] | scene_refs: ["S8"] | 预估格数: 2
+- I climbed aboard and looked around.
+  译：我爬上船，四处查看。
+- The ship's store of food was not wet.
+  译：船上储藏的食物没有被水浸湿。
+- I needed a boat or a raft to carry the goods back to the shore.
+  译：我需要一条小船或木筏，把货物运回岸上。
+
+B2-7 | character_refs: ["C1"] | scene_refs: ["S8", "S3"] | 预估格数: 3
+- There were several large pieces of wood on the ship.
+  译：船上有几块大木料。
+- I threw them into the sea, then jumped in myself and tied them all together with rope.
+  译：我把它们扔进海里，自己也跳进去，用绳子把它们全部绑在一起。
+- In this way, after a lot of time and effort, I made a raft.
+  译：就这样，历经大量时间和体力，我做成了一只木筏。
+- I then loaded the raft with food, clothes, tools, guns and bullets, all packed in wooden boxes.
+  译：我把食物、衣服、工具、枪支和子弹全部装入木箱，搬上木筏。
+
+B2-8 | character_refs: ["C1"] | scene_refs: ["S9"] | 预估格数: 2
+- I got onto the raft and returned to the shore.
+  译：我登上木筏，返回岸边。
+- A short distance from where I had landed the night before, I saw a river.
+  译：在我前夜登岸处不远，我发现了一条河。
+- I landed the raft a little way up the river, and got all my goods on shore.
+  译：我把木筏停靠在河流稍上游处，将所有货物搬上岸。

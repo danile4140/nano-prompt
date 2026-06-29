@@ -1,0 +1,45 @@
+B3-17 | character_refs: ["C2", "C16"] | scene_refs: ["S13"] | 预估格数: 3
+- Finally, I rose to my feet and accused Jabez of the sin that no Christian need pardon: the sin of boring us all to death.
+  译：终于，我站起身来，指控贾比兹犯下了那个没有基督徒需要宽恕的罪——将我们所有人烦死的罪。
+- But Jabez turned to me and accused me of the first of the seventy-first.
+  译：但贾比兹转向我，指控我犯下了第七十一次的第一个罪。
+- He called upon his congregation to execute the Lord's judgment upon me.
+  译：他召唤会众对我执行主的审判。
+- With that, the entire congregation attacked me with their pilgrim staffs.
+  译：随即，整个会众用他们的朝圣手杖向我扑来。
+
+B3-18 | character_refs: ["C2", "C8"] | scene_refs: ["S13"] | 预估格数: 2
+- I tried to take Joseph's staff from him so I could defend myself, but the old man was too strong for me.
+  译：我试图夺走约瑟夫的手杖来保护自己，但老人力气太大，我没能夺到。
+- At that point, much to my relief, I woke up.
+  译：就在那时，令我大为宽慰的是，我醒来了。
+- The branch of a tree was tapping against the window in the wind.
+  译：一根树枝在风中敲打着窗户。
+
+B3-19 | character_refs: ["C2"] | scene_refs: ["S3"] | 预估格数: 3
+- I went back to sleep and dreamt even more disagreeably than before, if that is possible.
+  译：我再次入睡，做了比之前更令人不快的梦——如果这可能的话。
+- I dreamt I was awake in the oak case.
+  译：我梦见自己在橡木箱里醒着。
+- I could hear the wind outside and the tapping of the branch.
+  译：我能听到外面的风声和树枝的敲击声。
+- The tapping annoyed me so much that I decided to stop it.
+  译：那敲击声让我心烦意乱，我决定把它停下。
+- I tried to open the window but could not.
+  译：我试着打开窗户，但打不开。
+- I broke the glass with my fist and stretched my hand out to break off the branch, but instead my fingers closed around a little ice-cold hand.
+  译：我用拳头砸破玻璃，伸出手去想折断那根树枝，却没想到手指握住了一只冰冷的小手。
+
+B3-20 | character_refs: ["C2"] | scene_refs: ["S3"] | 预估格数: 3
+- The intense horror of nightmare overcame me.
+  译：噩梦的极度恐惧压倒了我。
+- I tried to withdraw my arm, but the little hand clung to me, and the most melancholy voice sobbed, "Oh, let me in! Let me in!"
+  译：我试图抽回手臂，但那只小手紧紧抓住我，最悲切的声音哽咽道："哦，让我进去！让我进去！"
+- "Who are you?" I asked, still struggling to free myself.
+  译："你是谁？"我问道，仍在挣扎着想把自己解脱出来。
+- "Catherine Linton," replied the voice.
+  译："凯瑟琳·林顿，"那声音回答。
+- "Why did I think of Linton?"
+  译："我为什么想到了林顿？"
+- I had read "Earnshaw" twenty times for every "Linton".
+  译：每看一次"林顿"，我就看了二十次"恩肖"。

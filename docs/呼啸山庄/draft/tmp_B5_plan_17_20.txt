@@ -1,0 +1,53 @@
+B5-17 | character_refs: ["C7", "C1"] | scene_refs: ["S2"] | 预估格数: 3
+- After a while, I heard footsteps on the road and saw a lantern.
+  译：过了一会儿，我听到路上传来脚步声，还看到一盏灯笼。
+- I ran to the door and let him in, but Heathcliff was there alone.
+  译：我跑去开门放他进来，但只有希斯克利夫一人。
+- "Where's Miss Catherine?" I asked.
+  译："凯瑟琳小姐在哪里？"我问道。
+- "At Thrushcross Grange," he said.
+  译："在画眉田庄，"他说。
+- "And I would be there too, but they did not invite me to stay.
+  译："我本也该在那里，但他们没有邀请我留下。
+- You see, Nelly, when Cathy and I ran away this evening, we saw the lights of Thrushcross Grange, and we wanted to see how the Lintons passed their Sunday evenings.
+  译：你看，内莉，今晚凯西和我逃出来后，看到了画眉田庄的灯光，想看看林顿一家怎么度过周日的晚上。
+
+B5-18 | character_refs: ["C1", "C3"] | scene_refs: ["S9", "S5"] | 预估格数: 3
+- We ran all the way from the Heights to the park without stopping.
+  译：我们从山庄一路跑到庄园，中间没有停歇。
+- Cathy lost the race because she was barefoot.
+  译：凯西因为光着脚落在了后面。
+- When we got to the Grange, we looked in through the drawing room window.
+  译：我们到达田庄后，从客厅窗户向里张望。
+- It was beautiful.
+  译：里面美极了。
+- Inside there was a red carpet and red chairs and a white ceiling with a gold border.
+  译：里面铺着红色地毯，摆着红色椅子，天花板雪白，四周有金色镶边。
+- From the middle of the ceiling hung a shower of glass drops, shimmering with the little candles.
+  译：天花板中央垂挂着一串玻璃水晶，在小蜡烛的映照下闪闪发光。
+
+B5-19 | character_refs: ["C10", "C11"] | scene_refs: ["S5"] | 预估格数: 3
+- Mr. and Mrs. Linton weren't there.
+  译：林顿先生和夫人不在那里。
+- Edgar and his sister had it all to themselves.
+  译：埃德加和他的妹妹独占了整个客厅。
+- Shouldn't they have been happy?
+  译：他们难道不该高兴吗？
+- We would have thought ourselves in heaven.
+  译：我们会以为自己到了天堂。
+- But guess what they were doing?
+  译：但你猜他们在做什么？
+- Isabella lay screaming at one end of the room, and Edgar stood weeping at the other.
+  译：伊莎贝拉在房间一端躺着尖叫，埃德加在另一端站着哭泣。
+
+B5-20 | character_refs: ["C10", "C11", "C1", "C3"] | scene_refs: ["S5"] | 预估格数: 3
+- In the middle, a little dog was whimpering and licking his paw.
+  译：中间，一只小狗正在呜咽，舔着自己的爪子。
+- They had been fighting over it and had nearly torn it in two.
+  译：他们一直在抢夺这只狗，几乎把它扯成两半。
+- The idiots!
+  译：真是蠢货！
+- How we laughed at them.
+  译：我们笑得多开心啊。
+- "But you still have not told me," I said, "how Cathy was left behind."
+  译："但你还没告诉我，"我说，"凯西是怎么被留下的。"

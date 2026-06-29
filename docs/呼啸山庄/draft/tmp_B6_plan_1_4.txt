@@ -1,0 +1,33 @@
+B6-1 | character_refs: ["C3b"] | scene_refs: ["S9"] | 预估格数: 2
+- Cathy stayed at Thrushcross Grange for five weeks, till Christmas.
+  译：凯茜在画眉田庄住了五个星期，直到圣诞节。
+- By that time her ankle was healed and her manners were much improved.
+  译：那时她的脚踝已经痊愈，举止也大为改善。
+- When she came home, I expected a wild little savage without a hat to run in and hug us all so tightly we couldn't breathe.
+  译：她回家时，我原以为会看到一个不戴帽子的野丫头冲进来，把我们抱得喘不过气。
+- But instead of that, a very dignified, handsome, well-dressed young lady appeared on the black pony.
+  译：然而出现的却是一位举止优雅、仪态端庄、衣着讲究的年轻淑女，骑着一匹黑色小马而来。
+
+B6-2 | character_refs: ["C3b", "C4", "C9"] | scene_refs: ["S2"] | 预估格数: 2
+- "Cathy, what a beauty you are!" cried Hindley.
+  译："凯茜，你真漂亮！"辛德利喊道。
+- "You look like a lady now."
+  译："你现在看起来像个淑女了。"
+- "She must be careful not to grow wild again now that she is home," said Frances.
+  译："她既然回家了，就得小心别再变得野了，"弗朗西丝说道。
+
+B6-3 | character_refs: ["C3b", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- Cathy kissed me very lightly indeed because I was covered in flour from making the Christmas cake, and she did not want to get her clothes dirty.
+  译：凯茜只是轻轻地吻了我一下，因为我做圣诞蛋糕时沾满了面粉，她不想弄脏衣服。
+- Then she looked around for Heathcliff.
+  译：然后她四处张望，寻找希斯克利夫。
+- Heathcliff," called Hindley, "come forward and greet Miss Catherine, like the other servants."
+  译："希斯克利夫，"辛德利叫道，"上前来向凯瑟琳小姐问好，就像其他仆人一样。"
+
+B6-4 | character_refs: ["C1", "C3b"] | scene_refs: ["S1"] | 预估格数: 2
+- Heathcliff came forward slowly.
+  译：希斯克利夫缓缓地走上前来。
+- He looked even dirtier and wilder than he had done before she left.
+  译：他看起来比凯茜离开前更脏、更粗野了。
+- She ran up to him and kissed him seven or eight times, then she looked at him and laughed.
+  译：她跑上前去，亲了他七八下，然后看着他笑了起来。

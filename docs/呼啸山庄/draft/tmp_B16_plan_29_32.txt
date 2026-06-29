@@ -1,0 +1,43 @@
+B16-29 | character_refs: ["C6", "C12"] | scene_refs: ["S9"] | 预估格数: 2
+- "Please, Catherine," he began, but then his cough interrupted him.
+  译："求你了，凯瑟琳，"他开口说，但随即被咳嗽打断了。
+- "Don't! Don't be angry with me! It is not my fault if I betray you.
+  译："别这样！别生我的气！如果我出卖了你，那不是我的错。
+- It is because I have no choice.
+  译：是因为我别无选择。
+- I am so afraid."
+  译：我太害怕了。"
+- He began coughing again and leaned upon her arm.
+  译：他又开始咳嗽，靠在她的手臂上。
+
+B16-30 | character_refs: ["C6", "C7", "C12"] | scene_refs: ["S1"] | 预估格数: 2
+- "It's no use.
+  译："没用的。
+- Please take me back to Wuthering Heights!
+  译：请带我回呼啸山庄！
+- I cannot walk alone."
+  译：我一个人走不了。"
+- "Linton, you know my father has forbidden me to go to Wuthering Heights.
+  译："林顿，你知道我父亲已经禁止我去呼啸山庄了。
+- We must call a servant to take you home."
+  译：我们必须叫个仆人送你回去。"
+
+B16-31 | character_refs: ["C6", "C7", "C12"] | scene_refs: ["S1"] | 预估格数: 2
+- "There is no one in the house except my father, and I am so afraid of him," sobbed Linton.
+  译："屋里除了我父亲没有别人，我太害怕他了，"林顿哭泣着说。
+- "Please, Catherine, just help me back to the house."
+  译："求求你，凯瑟琳，就帮我回到屋里吧。"
+- Catherine agreed and walked to Wuthering Heights.
+  译：凯瑟琳答应了，走向呼啸山庄。
+- With her arm around Linton's waist.
+  译：她用手臂搂着林顿的腰。
+
+B16-32 | character_refs: ["C6", "C7", "C12", "C1"] | scene_refs: ["S1"] | 预估格数: 2
+- When we reached the door, she tried to move away from him, but he grasped her arm and said, "Take me into the sitting room to my chair, please, Catherine.
+  译：当我们到了门口，她试图离开他，但他抓住她的手臂说："请带我到客厅的椅子上，凯瑟琳。
+- I will fall over if I try to walk alone."
+  译：如果我独自行走，我会摔倒的。"
+- Just then Heathcliff appeared from behind the house and grasped my arm.
+  译：就在这时，希斯克利夫从房后现身，抓住了我的手臂。
+- "Come on, Nelly, into the house," he said.
+  译："走吧，内莉，进屋，"他说。

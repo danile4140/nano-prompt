@@ -1,0 +1,25 @@
+B1-9 | character_refs: ["C1"] | scene_refs: ["S2"] | 预估格数: 2
+- I tried again and again to get that pear, but the same thing happened.
+  译：我一次又一次地想去捡那个梨，却一次又一次遭遇同样的困境。
+- I was desperate.
+  译：我绝望了。
+- I decided to get the pear and not to worry about the people who saw me.
+  译：我下定决心，要把梨捡起来，不再管旁人的眼光。
+
+B1-10 | character_refs: ["C1", "C4"] | scene_refs: ["S2", "S5"] | 预估格数: 2
+- At that moment, a gentleman opened the window behind me and said, come in here, please
+  译：就在这时，身后有位绅士打开窗户，说道："请进来。"
+- a well dressed servant opened the door.
+  译：一位衣着整洁的仆人打开了大门。
+
+B1-11 | character_refs: ["C1", "C2", "C3"] | scene_refs: ["S3"] | 预估格数: 2
+- He took me to a beautiful room.
+  译：仆人把我带进了一间漂亮的房间。
+- Here two old gentlemen were sitting and discussing something important.
+  译：房间里，两位老绅士正坐着，谈论着什么要紧的事。
+
+B1-12 | character_refs: ["C1", "C2", "C3"] | scene_refs: ["S3"] | 预估格数: 2
+- Their breakfast was still on the table.
+  译：他们的早餐还摆在桌上。
+- I was very hungry and I stared at their breakfast.
+  译：我饿极了，眼睛直直地盯着那顿早餐。

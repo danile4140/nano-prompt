@@ -1,0 +1,41 @@
+B8-1 | character_refs: ["C1b", "C11"] | scene_refs: ["S9"] | 预估格数: 2
+- The next day, all of London talked about the shares of the California goldmine.
+  译：第二天，整个伦敦都在谈论加利福尼亚金矿的股票。
+- I stayed in my hotel and said to everyone who came to me yes, I know Mr hastings, he's a very honest man and I know the gold mine because I lived in the California gold country.
+  译：我待在酒店里，对每一个来找我的人说：是的，我认识黑斯廷斯先生，他是个非常诚实的人，我也了解这座金矿，因为我曾在加利福尼亚的矿区生活过。
+- It is a mine of great value people were now interested in buying the shares.
+  译：这是一座极有价值的矿山，人们现在都对购买股票很感兴趣。
+
+---
+
+B8-2 | character_refs: ["C1b", "C10"] | scene_refs: ["S10"] | 预估格数: 2
+- I spent every evening with portia at the American ambassador's house.
+  译：我每天晚上都和波西亚在美国大使的家中共度时光。
+- I didn't tell her about the shares and the mine.
+  译：我没有告诉她关于股票和金矿的事。
+- It was a surprise.
+  译：这将是一个惊喜。
+- We talked about our love and our future together.
+  译：我们谈论着我们的爱情和共同的未来。
+
+---
+
+B8-3 | character_refs: ["C1b"] | scene_refs: ["S9"] | 预估格数: 1
+- Finally the end of the month arrived.
+  译：终于，月底来临了。
+- Lots of rich Londoners bought the shares of the mine.
+  译：许多富有的伦敦人购买了矿山的股票。
+- I had a million dollars of my own in the London and county bank and Lloyd did too.
+  译：我在伦敦郡银行里拥有了属于自己的一百万美元，劳埃德也是如此。
+
+---
+
+B8-4 | character_refs: ["C1b", "C10"] | scene_refs: ["S2"] | 预估格数: 2
+- It was time to meet with the two old gentlemen.
+  译：是时候去见那两位老先生了。
+- I dressed in my best clothes and I went to get portia.
+  译：我穿上最好的衣服，去接波西亚。
+- Before going to Portland place portion and I talked about the job and the salary.
+  译：在前往波特兰广场之前，波西亚和我谈起了工作和薪水的事。
+
+---

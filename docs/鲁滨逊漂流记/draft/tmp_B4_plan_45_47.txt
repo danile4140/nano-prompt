@@ -1,0 +1,39 @@
+B4-45 | character_refs: ["C1b", "C14"] | scene_refs: ["S14"] | 预估格数: 2
+- We went down to the place where they had been.
+  译：我们走到他们曾经所在的地方。
+- I was horrified at the sight, but Friday did not seem disturbed by it.
+  译：看到这一幕我感到恐惧，但星期五似乎并不为之所动。
+- The place was covered with human bones and blood.
+  译：这个地方到处都是人骨和鲜血。
+- I saw three skulls, five hands, and the bones of three or four legs and feet.
+  译：我看到三个头骨、五只手，以及三四条腿和脚的骨骸。
+- I made Friday put the skulls and bones into a pile and burn them.
+  译：我让星期五把头骨和骨骸堆成一堆，烧掉它们。
+- I could see that he still wished to eat some of the flesh.
+  译：我能看出他仍然希望吃掉一些肉。
+
+B4-46 | character_refs: ["C1b", "C14"] | scene_refs: ["S21"] | 预估格数: 2
+- When we had done this, we went back to our house, I made clothes for Friday.
+  译：做完这些后，我们回到了房屋，我为星期五做了衣服。
+- Then I built a tent for him between the first fence and the second.
+  译：然后我在第一道和第二道栅栏之间为他搭建了一顶帐篷。
+- Thus, Friday could not attack me during the night.
+  译：这样，星期五就不能在夜间攻击我了。
+- But there was no need.
+  译：但这根本没有必要。
+- Friday was the most faithful, loving and sincere servant.
+  译：星期五是最忠诚、最充满爱心、最真诚的仆人。
+
+B4-47 | character_refs: ["C1b", "C14"] | scene_refs: ["S21"] | 预估格数: 1
+- He loved me as a child, loves his father.
+  译：他爱我就像孩子爱父亲一样。
+- He would have given his life to save mine.
+  译：他愿意为救我的命而献出自己的生命。
+- God did not give all his creatures the knowledge of how best to use their capacities.
+  译：上帝并没有给予所有他的造物关于如何最好地利用自身能力的知识。
+- However, he gave all mankind the same reason, sentiments and passions.
+  译：然而，他给予了所有人类同样的理智、情感和热情。
+- It made me sad to think that god had hidden the saving knowledge from so many millions of souls.
+  译：想到上帝将救世的知识隐藏在如此众多的灵魂之外，让我感到悲伤。
+- Someone like Friday would use that knowledge better than many white men.
+  译：像星期五这样的人将比许多白人更好地运用这种知识。

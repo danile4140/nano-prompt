@@ -1,0 +1,27 @@
+B14-17 | character_refs: ["C7", "C1", "C5"] | scene_refs: ["S1"] | 预估格数: 2
+- "That boy should go back to Thrushcross Grange with me," I said.
+  译：「那个男孩应该跟我回画眉田庄，」我说。
+- "Does Linton say so?" asked Heathcliff, frowning.
+  译：「林顿是这么说的吗？」希斯克利夫皱眉问道。
+- "Yes, he told me to bring the boy home."
+  译：「是的，他让我把孩子带回去。」
+- "But I want a boy to stay with me," said Heathcliff, "and if Linton takes him, I will want my own son to come and take his place."
+  译：「但我想要一个男孩留在我身边，」希斯克利夫说，「如果林顿把他带走，我就要让我自己的儿子来取而代之。」
+
+B14-18 | character_refs: ["C5", "C1"] | scene_refs: ["S1"] | 预估格数: 1
+- That stopped any plans to bring Hareton to Thrushcross Grange.
+  译：这让任何把哈顿带到画眉田庄的计划都泡汤了。
+- There was nothing we could do for him.
+  译：我们对他无能为力。
+- The family lawyer told Edgar that Hareton was left a beggar.
+  译：家族律师告诉埃德加，哈顿已是身无分文的穷光蛋。
+- His father had died penniless, and his only chance in life was to gain Heathcliff's affection.
+  译：他父亲死时一文不名，他这一生唯一的机会就是赢得希斯克利夫的好感。
+- So Hareton was now completely dependent upon his father's enemy.
+  译：就这样，哈顿完全依附于他父亲的仇人了。
+
+B14-19 | character_refs: ["C1", "C5"] | scene_refs: ["S1"] | 预估格数: 1
+- Heathcliff treated him like a servant, though he paid him no wages.
+  译：希斯克利夫把他当仆人使唤，却一分工钱也不付。
+- The guest was now the master at Wuthering Heights.
+  译：曾经的不速之客，如今成了呼啸山庄的主人。

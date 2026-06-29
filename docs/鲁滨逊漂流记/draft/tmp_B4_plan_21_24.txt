@@ -1,0 +1,49 @@
+B4-21 | character_refs: ["C1b"] | scene_refs: ["S14"] | 预估格数: 2
+- Some hours later they got into their canoes and left the island.
+  译：几小时后，他们上了独木舟，离开了这座岛。
+- As soon as they were gone, I took my guns and went to the western shore.
+  译：他们一走，我就拿起枪走向西岸。
+- I saw that there had been three more canoes at that place.
+  译：我看到那个地方曾经还有三艘更多的独木舟。
+- Looking out to sea, I saw them all rowing back to the mainland.
+  译：向大海望去，我看到他们都在划着船回到大陆。
+- Going down to the shore, I saw the remains of their unnatural feast.
+  译：走到海岸边，我看到了他们残忍盛宴的遗迹。
+
+B4-22 | character_refs: ["C1b"] | scene_refs: ["S14"] | 预估格数: 2
+- The blood, the bones, the parts of human bodies.
+  译：鲜血、骨骸、人体的各个部分。
+- I was so filled with anger at this sight that I began again to think about destroying the next savages who came there.
+  译：看到这一幕，我愤怒填膺，再次开始想着消灭下次来到这里的野人。
+- It was more than fifteen months before they returned to the island.
+  译：此后超过十五个月，他们才再次返回这座岛。
+- During all this time, I was in a murderous state of mind.
+  译：在这段时间里，我一直处于一种杀戮的心理状态。
+- I did not think that if I killed these savages.
+  译：我没有想到，如果我杀了这些野人。
+- I would have to also kill the next ones who came, and the next and the next.
+  译：我就必须也杀掉下一批来的，还有再下一批，再下一批。
+
+B4-23 | character_refs: ["C1b"] | scene_refs: ["S12"] | 预估格数: 1
+- In the end, I would be as much a murderer as they were.
+  译：到头来，我将和他们一样成为凶手。
+- And perhaps much more so.
+  译：甚至可能更甚。
+- On the sixteenth of may, in my twenty fourth year on the island, there was a terrible storm.
+  译：在我在岛上的第二十四年的五月十六日，发生了一场可怕的暴风雨。
+- I was reading the Bible and thinking about my conditions.
+  译：我正在阅读《圣经》，思考着自己的处境。
+
+B4-24 | character_refs: ["C1b"] | scene_refs: ["S15"] | 预估格数: 3
+- Suddenly I heard the sound of a gun out at sea.
+  译：突然我听到海上传来一声炮响。
+- I left my house and ran up to the top of the hill.
+  译：我离开房屋，跑上了山顶。
+- There I saw a flash of fire on the sea and heard the sound of the gun again.
+  译：在那里，我看到海上闪过一道火光，又听到了炮声。
+- It must be a ship in distress, I thought, firing her guns to call for help.
+  译：一定是一艘遇难的船，我想，它在鸣炮求救。
+- I could not help them, but I thought that they might help me.
+  译：我帮不了他们，但我想他们或许能帮助我。
+- Therefore, I built a fire on the hilltop.
+  译：因此，我在山顶上生起了一堆火。

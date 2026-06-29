@@ -1,0 +1,39 @@
+B5-1 | character_refs: ["C14", "C8"] | scene_refs: ["S1"] | 预估格数: 2
+- As Mr. Earnshaw grew old and weak, Joseph gained more and more influence over him.
+  译：随着恩肖先生年老体衰，约瑟夫对他的影响越来越大。
+- He spoke to him about salvation and his soul.
+  译：约瑟夫向他讲述救赎与灵魂之事。
+- He spoke about the necessity of ruling his children rigidly.
+  译：他谈及严格管教孩子的必要性。
+- He criticized Hindley and Catherine, though he was careful not to anger him.
+  译：他批评辛德利和凯瑟琳，但小心翼翼地不激怒恩肖先生。
+
+B5-2 | character_refs: ["C14", "C4"] | scene_refs: ["S1"] | 预估格数: 2
+- He had no reason to criticize Heathcliff.
+  译：他没有理由批评希斯克利夫。
+- Finally, the master was persuaded to send Hindley away to school.
+  译：最终，主人被说服将辛德利送去上学了。
+- I thought then there might be some peace in the house.
+  译：我当时以为家里或许能得到片刻安宁。
+
+B5-3 | character_refs: ["C3", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- But Catherine was still at home, and she was a wild one.
+  译：但凯瑟琳还在家里，她实在是个野丫头。
+- From the moment she came downstairs in the morning to the moment she went to bed at night, she caused problems.
+  译：从每天早上下楼到晚上上床，她无时无刻不在制造麻烦。
+- She was always talking, singing, and laughing and teasing everyone who would not do the same.
+  译：她总是说说笑笑、唱歌逗趣，还去取笑那些不肯这样的人。
+- She ridiculed Joseph's religious speeches.
+  译：她嘲弄约瑟夫的布道讲话。
+
+B5-4 | character_refs: ["C3", "C7", "C14", "C1"] | scene_refs: ["S1"] | 预估格数: 3
+- She slapped me and told me what to do.
+  译：她打了我一巴掌，还对我发号施令。
+- She tormented her father by showing him how much more power she had over Heathcliff than he had.
+  译：她当着父亲的面炫耀自己对希斯克利夫的影响力远超父亲，以此折磨他。
+- She was much too fond of Heathcliff, and the worst punishment we could give her was to keep her separate from him.
+  译：她太喜欢希斯克利夫了，而对她最严厉的惩罚莫过于让她与他分离。
+- Yes, she was a wild, troublesome girl.
+  译：是的，她是个野性难驯、惹是生非的女孩。
+- But she had the prettiest eyes and the sweetest smile I ever saw.
+  译：但她有着我所见过的最漂亮的眼睛和最甜美的笑容。

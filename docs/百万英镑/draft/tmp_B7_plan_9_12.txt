@@ -1,0 +1,37 @@
+B7-9 | character_refs: ["C11"] | scene_refs: ["S9"] | 预估格数: 1
+- so he sat down and patiently started to tell me his story.
+  译：于是他坐下来，耐心地向我讲起他的故事。
+- To make a long story short, the owners of the gould and curry gold mine sent Henry to England to sell the shares of the mine for one million dollars, any money he received.
+  译：长话短说，古尔德与库里金矿的矿主派亨利来英格兰，以一百万美元的底价出售矿股，他所收款项中超出一百万美元的部分归他自己所有。
+- Over one million dollars, was his to keep.
+  译：超出一百万美元的部分归他留存。
+
+B7-10 | character_refs: ["C11"] | scene_refs: ["S9"] | 预估格数: 1
+- Hastings dream was to sell the shares for more than one million dollars and become rich.
+  译：黑斯廷斯的梦想是将矿股卖出超过一百万美元，从而一夜致富。
+- He had only one month to sell the shares.
+  译：他只有一个月的时间来售出这些股票。
+- He had done everything to sell them, but nobody wanted to buy them.
+  译：他已竭尽所能推销，却无人愿意购买。
+
+B7-11 | character_refs: ["C1", "C11"] | scene_refs: ["S9"] | 预估格数: 2
+- Then he jumped up and cried, Henry, you can help me.
+  译：随后他猛地跳起来喊道：亨利，你能帮我！
+- Will you do it?
+  译：你愿意吗？
+- Tell me how?
+  译：告诉我怎么做？
+- Give me a million dollars and I'll sell you all the shares.
+  译：给我一百万美元，我把所有股票都卖给你。
+- You will be the new owner of the gold mine.
+  译：你将成为这座金矿的新主人。
+- Don't, don't refuse
+  译：不，不要拒绝！
+
+B7-12 | character_refs: ["C1"] | scene_refs: ["S9"] | 预估格数: 1
+- I didn't know what to say.
+  译：我不知道该说什么。
+- I wanted to tell hastings the truth, but then an intelligent idea came to me.
+  译：我想告诉黑斯廷斯真相，但这时一个聪明的主意浮现在我脑海中。
+- I thought about it for a moment and then calmly said.
+  译：我思量了片刻，然后平静地说。

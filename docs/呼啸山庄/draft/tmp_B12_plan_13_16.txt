@@ -1,0 +1,57 @@
+B12-13 | character_refs: ["C7", "C1"] | scene_refs: ["S1"] | 预估格数: 2
+- "Mr. Heathcliff, you mustn't see her, and you never will with my help.
+  译："希斯克利夫先生，你不该去见她，我也绝不会帮你。
+- Another argument between you and my master will kill her."
+  译：你再和我的主人起冲突，会要了她的命的。"
+- "If you help me, I can see her without his knowledge," he said.
+  译："如果你帮我，我可以在他不知情的情况下见到她，"他说。
+- "If he died, would Catherine suffer greatly from his loss?
+  译："如果他死了，凯瑟琳会因此痛苦万分吗？
+- The fear that she would is the only thing that stops me from killing him.
+  译：我担心她会，这是阻止我杀死他的唯一原因。
+- I would never do anything to hurt her."
+  译：我永远不会做任何伤害她的事。"
+
+---
+
+B12-14 | character_refs: ["C7", "C1"] | scene_refs: ["S1"] | 预估格数: 2
+- "And yet," said I, "you are planning to go and see her now, when she has nearly forgotten you, even though that might make her ill again."
+  译："然而，"我说，"你计划现在去见她，而她几乎已经忘记了你，尽管这样做可能让她再次病倒。"
+- "You think she has nearly forgotten me?" he said.
+  译："你以为她几乎忘了我？"他说。
+- "Oh, Nelly, you know she has not.
+  译："哦，内莉，你知道她没有忘记。
+- You know as well as I do that she thinks of me much more than she thinks of Linton.
+  译：你和我一样清楚，她想到我的次数远比想到林顿多。
+- If I believed that she had forgotten me, my life would be hell."
+  译：如果我相信她已经忘了我，我的生活将是地狱。"
+
+---
+
+B12-15 | character_refs: ["C11", "C1", "C7"] | scene_refs: ["S1"] | 预估格数: 3
+- "Catherine and Edgar love each other!" cried Isabella, suddenly furious.
+  译："凯瑟琳和埃德加彼此相爱！"伊莎贝拉突然怒喊道。
+- "You have no right to talk like that."
+  译："你没有权利这么说。"
+- "What do you know about love?" said Heathcliff scornfully.
+  译："你懂什么是爱？"希斯克利夫轻蔑地说。
+- "You thought you loved me, and you were fool enough to think I might love you.
+  译："你以为你爱我，你还愚蠢地以为我会爱你。
+- But you know nothing about it.
+  译：但你对爱一无所知。
+
+---
+
+B12-16 | character_refs: ["C1", "C11", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- For you I was a kind of a hero of romance.
+  译：在你眼里，我不过是某种浪漫英雄。
+- You must have been mad to think so!
+  译：你那时一定是疯了才会这么想！
+- And, Nelly, how hard it was to persuade her to hate me!
+  译：内莉，要让她恨我是多么困难啊！
+- I hung her little dog before we left the Grange, and I said I wished I could hang everyone in that house except for one.
+  译：我们离开画眉田庄之前，我吊死了她的小狗，并说我恨不得把那栋房子里所有人都吊死，只留一个。
+- She, like a fool, thought I meant her.
+  译：她这个傻瓜，以为我说的那个人是她自己。
+
+---

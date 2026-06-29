@@ -1,0 +1,33 @@
+B11-1 | character_refs: ["C1", "C11"] | scene_refs: ["S2"] | 预估格数: 2
+- The next day I was standing by the window when Heathcliff arrived.
+  译：第二天我正站在窗边，希斯克利夫来了。
+- Isabella was in the courtyard below.
+  译：伊莎贝拉在下面的庭院里。
+- When he saw her, he went up to her and talked to her in an earnest, agitated way.
+  译：他看见她，走上前去，以一种急切而激动的方式和她说话。
+- Then he grabbed hold of her and kissed her.
+  译：然后他抓住她，吻了她。
+
+B11-2 | character_refs: ["C3b", "C1"] | scene_refs: ["S5"] | 预估格数: 2
+- I cried out, and Catherine came over to see what was the matter.
+  译：我叫了出来，凯瑟琳跑过来看出了什么事。
+- She called Heathcliff in, and locked herself in the kitchen with him.
+  译：她把希斯克利夫叫进来，和他一起把自己锁在厨房里。
+
+B11-3 | character_refs: ["C1", "C3b"] | scene_refs: ["S6"] | 预估格数: 2
+- There they had a terrible argument.
+  译：他们在那里大吵了一架。
+- I could hear bits of it as I passed by.
+  译：我路过时能听到一些争吵声。
+- Heathcliff told her that she had treated him infernally.
+  译：希斯克利夫告诉她，她对他的待遇极其残忍。
+
+B11-4 | character_refs: ["C1", "C10", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- He insulted my master and he swore he would have his revenge.
+  译：他侮辱了我的主人，并发誓要报复。
+- My master, meeting me on the stairs, asked where Mrs. Linton was.
+  译：我的主人在楼梯上碰见我，问林顿太太在哪里。
+- I told him she was shut in the kitchen with Heathcliff, and I told him what had happened in the courtyard.
+  译：我告诉他她和希斯克利夫一起被锁在厨房里，并告诉了他庭院里发生的事情。
+- He was furious.
+  译：他大发雷霆。

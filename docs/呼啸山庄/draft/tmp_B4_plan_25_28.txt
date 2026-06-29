@@ -1,0 +1,37 @@
+B4-25 | character_refs: ["C4", "C1"] | scene_refs: ["S1"] | 预估格数: 2
+- Hindley hit him and I pinched him.
+  译：辛德利打他，我掐他。
+- But he never cried.
+  译：但他从不哭泣。
+- Perhaps he was used to harsh treatment.
+  译：也许他早就习惯了粗暴的对待。
+- Later, when I knew him better, I stopped hating Heathcliff, and so Hindley lost his only ally.
+  译：后来，当我更了解他之后，我停止了对希斯克利夫的憎恨，辛德利也因此失去了唯一的同盟。
+
+B4-26 | character_refs: ["C14", "C1", "C4"] | scene_refs: ["S1"] | 预估格数: 2
+- Whenever Mr. Earnshaw found out that Hindley had been cruel to Heathcliff, he got very angry.
+  译：每当恩肖先生发现辛德利虐待希斯克利夫，他就会非常愤怒。
+- He was very fond of Heathcliff, and believed everything the boy said.
+  译：他非常疼爱希斯克利夫，相信这孩子说的每一句话。
+- To be fair, he did not say much, and it was usually the truth.
+  译：说公道话，他说话不多，而且通常是实话。
+- Heathcliff was clearly Mr. Earnshaw's favorite.
+  译：希斯克利夫显然是恩肖先生最喜爱的孩子。
+- So from the very beginning, Heathcliff brought bad feeling into the house.
+  译：因此从一开始，希斯克利夫就给这个家带来了不和的气氛。
+- Heathcliff knew the power he had over Mr. Earnshaw.
+  译：希斯克利夫清楚地知道自己对恩肖先生有多大的影响力。
+
+B4-27 | character_refs: ["C4", "C14"] | scene_refs: ["S1"] | 预估格数: 2
+- By the time Mr. Earnshaw died two years later, Hindley thought of his father as an oppressor and of Heathcliff as the usurper of his father's affection.
+  译：两年后恩肖先生去世时，辛德利已把父亲视为压迫者，把希斯克利夫视为篡夺父爱的人。
+- He grew bitter thinking about these injuries.
+  译：他越想越苦涩，内心充满怨愤。
+
+B4-28 | character_refs: ["C4", "C1", "C14"] | scene_refs: ["S4"] | 预估格数: 2
+- For example, I remember once Mr. Earnshaw bought two colts, one for each of the boys.
+  译：举个例子，我记得有一次恩肖先生给两个男孩各买了一匹小马驹。
+- Heathcliff took the handsomer colt, but soon it became lame.
+  译：希斯克利夫挑了那匹更漂亮的，但那匹马很快就瘸了。
+- When Heathcliff discovered this, he said to Hindley, 'You must exchange horses with me, if you refuse, I will tell your father of the three beatings you gave me this week. I will show him my arm, which is black to the shoulder.'
+  译：当希斯克利夫发现这一情况后，他对辛德利说：「你必须跟我换马，如果你拒绝，我就告诉你父亲你这周打了我三次。我会让他看我的手臂，从肩膀到手都是青紫的。」

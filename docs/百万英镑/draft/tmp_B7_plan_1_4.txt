@@ -1,0 +1,39 @@
+B7-1 | character_refs: ["C1", "C11"] | scene_refs: ["S2"] | 预估格数: 1
+- At the end of the dinner party, I returned to the hotel with hastings.
+  译：晚宴结束后，我和黑斯廷斯一起回到酒店。
+- He talked about his problems, but I didn't listen to him.
+  译：他一路谈着自己的烦恼，我却没在听。
+- I was thinking about portia the whole time.
+  译：我满脑子想的都是波西亚。
+
+B7-2 | character_refs: ["C1", "C11"] | scene_refs: ["S9"] | 预估格数: 2
+- When we arrived at the hotel, hastings said, let me just stand here and look at this marvelous hotel.
+  译：我们到了酒店后，黑斯廷斯说："让我站在这里欣赏一下这座了不起的酒店吧。"
+- It's a palace.
+  译：这简直是座宫殿。
+- What expensive furniture!
+  译：多么昂贵的家具啊！
+- You have everything you want.
+  译：你应有尽有。
+- You are rich, Henry, and I am poor
+  译：你很富有，亨利，而我是个穷人。
+
+B7-3 | character_refs: ["C1"] | scene_refs: ["S9"] | 预估格数: 1
+- his words scared me.
+  译：他的话吓到了我。
+- I, too, was poor.
+  译：我也是个穷人。
+- I didn't have a cent in the world and I had debts to pay.
+  译：我身无分文，还欠着债。
+- I needed to win the gentleman's bet.
+  译：我必须赢得那位绅士的赌注。
+
+B7-4 | character_refs: ["C1", "C11"] | scene_refs: ["S9"] | 预估格数: 2
+- This was my last hope
+  译：这是我最后的希望。
+- hastings didn't know the truth.
+  译：黑斯廷斯不知道真相。
+- Henry, just a tiny part of your income can save me
+  译：亨利，你的收入中哪怕一小部分就能救我。
+- I'm desperate hastings cried.
+  译：我走投无路了，黑斯廷斯哭喊道。

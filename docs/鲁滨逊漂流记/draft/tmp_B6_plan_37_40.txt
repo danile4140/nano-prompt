@@ -1,0 +1,27 @@
+B6-37 | character_refs: ["C1b"] | scene_refs: ["S7"] | 预估格数: 1
+- And thus I left the island on the nineteenth of December sixteen eighty six, having lived there for twenty eight years, two months and nineteen days.
+  译：就这样，我在1686年12月19日离开了这座岛，在此共生活了二十八年零两个月又十九天。
+- I was delivered on the! Same day of the same month that I escaped from slavery in sale.
+  译：上帝恩典，我获救的日子，竟与当年我逃脱萨勒奴役的日月完全相同。
+
+B6-38 | character_refs: ["C1b"] | scene_refs: ["S7"] | 预估格数: 1
+- I took with me my goatskin hat, my umbrella and apparelt,
+  译：我随身带走了山羊皮宽沿帽、雨伞和鹦鹉，
+- I also took the money that had been so useless to me.
+  译：还带走了那些对我毫无用处的钱。
+
+B6-39 | character_refs: ["C1b"] | scene_refs: ["S24"] | 预估格数: 1
+- After a long voyage I arrived in England in the thth of June, having been away for thirty five years.
+  译：经过漫长的航行，我于六月某日抵达英格兰，此前已离家整整三十五年。
+- We had many adventures afterwards.
+  译：此后我们又经历了许多冒险。
+- My man Friday and I I married and had three children, but then my wife died.
+  译：我的星期五和我——我结了婚，育有三个孩子，但后来妻子去世了。
+
+B6-40 | character_refs: ["C1b", "C14b"] | scene_refs: ["S24"] | 预估格数: 1
+- A friend came home from a successful voyage.
+  译：一位朋友从一次成功的航行归来。
+- He persuaded me to go in his ship to the east Indies.
+  译：他说服我随他乘船前往东印度群岛。
+- Our adventures on this later voyage may perhaps be the subject of another story.
+  译：我们在那次后来的航行中的冒险，或许将成为另一个故事的主题。

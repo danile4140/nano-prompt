@@ -1,0 +1,43 @@
+B3-21 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- In a different way.
+  译：以一种不同的方式。
+- Before, I had asked to be delivered from my island prison.
+  译：以前，我祈求的是从这座岛上的囚禁中得到解脱。
+- Now I asked to be delivered from the guilt of my sinful past.
+  译：如今，我祈求的是从过去罪孽的愧疚中得到解脱。
+- Deliver from sin is a far greater blessing than deliverance from misery.
+  译：从罪恶中获得拯救，远比从苦难中获救更为珍贵。
+
+B3-22 | character_refs: ["C1"] | scene_refs: ["S12"] | 预估格数: 2
+- My mind was now calm and comforted.
+  译：我的心灵如今平静而安慰。
+- I had been on this unhappy island for more than ten months.
+  译：我已经在这座荒凉的岛上待了十个多月了。
+- I believed that no human being had ever come here before.
+  译：我相信此前从未有人类踏足此地。
+- I was lord of the whole island.
+  译：我是这整座岛的主人。
+- If I liked, I could call myself king or emperor.
+  译：如果我愿意，可以自称国王或皇帝。
+
+B3-23 | character_refs: ["C1"] | scene_refs: ["S12"] | 预估格数: 2
+- I had enough wood to build twenty ships, enough food for an army forgotten.
+  译：我有足够的木材可以建造二十艘船，有足够的食物可以养活一支军队——只是无处可用。
+- However, if I could not use it, it was of no value to me.
+  译：然而，如果我用不上，那对我来说毫无价值。
+- I had enough to eat, so the rest was useless.
+  译：我已经有足够的食物，多余的都是无用的。
+- I would have gladly given all my money for a little ink.
+  译：我宁愿把所有的钱都换来一点墨水。
+- Because it would have been useful, my life was now much easier than before.
+  译：因为墨水是有用的——我的生活现在比以前容易多了。
+
+B3-24 | character_refs: ["C1"] | scene_refs: ["S12"] | 预估格数: 2
+- I thought much more about the blessings of my present life and much less about its misfortunes.
+  译：我越来越多地思索现有生活中的恩典，越来越少地抱怨它的不幸。
+- My ink had been gone for some time, my clothes were all worn out.
+  译：我的墨水已经用尽许久，衣物也全部破旧不堪。
+- I made new clothes for myself from the skins of the goats I killed.
+  译：我用猎取的山羊皮给自己缝制了新衣服。
+- This was very slow and difficult work since I had no needle.
+  译：由于没有针，这是一项极其缓慢而艰难的工作。

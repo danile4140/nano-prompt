@@ -1,0 +1,13 @@
+B7-17 | character_refs: ["C3b", "C7", "C10"] | scene_refs: ["S5", "S6"] | 预估格数: 3
+- But once outside the front door, he hesitated.
+  译：但他一到前门外，便犹豫了。
+- I called encouragement to him from the kitchen window.
+  译：我从厨房窗口向他喊话鼓励他。
+- "You had better go home, sir. Miss has a very bad temper indeed."
+  译："您还是回家去吧，先生。小姐的脾气实在太坏了。"
+- He turned abruptly and ran back into the sitting room.
+  译：他猛地转身，跑回了客厅。
+- When I went into the sitting room to tell them that Hindley was coming home drunk, I saw that a quarrel had only served to make them closer.
+  译：当我进入客厅告诉他们辛德利醉醺醺地回来了，我看到这场争吵反而使他们更亲近了。
+- It was clear that they were no longer merely friends; they were lovers.
+  译：显而易见，他们已不再只是朋友；他们是恋人了。

@@ -1,0 +1,43 @@
+B4-17 | character_refs: ["C1b", "C18"] | scene_refs: ["S12"] | 预估格数: 2
+- I had now been living on the island for twenty three years, and I had found some pleasant ways to pass the time.
+  译：我现在已经在岛上生活了二十三年，我找到了一些愉快的方式打发时间。
+- I taught my parrot to speak.
+  译：我教我的鹦鹉说话。
+- I taught him to say poor Robinson crusoe, he lived with me for twenty six years.
+  译：我教他说"可怜的鲁滨逊·克鲁索"，他和我一起生活了二十六年。
+- Perhaps he is still living on the island?
+  译：也许他还住在岛上？
+- Go out, poor Robinson crusoe.
+  译：出来吧，可怜的鲁滨逊·克鲁索。
+- I might have lived this way until I died contented in old age, but god had other plans for me.
+  译：我可能就这样生活下去直到满足地老死，但上帝对我另有安排。
+
+B4-18 | character_refs: ["C1b"] | scene_refs: ["S12"] | 预估格数: 1
+- How often in our lives the thing we fear most becomes the means of our deliverance.
+  译：在我们的生命中，我们最恐惧的事情有多少次成为了我们获救的手段。
+- I could give many examples of this in my strange life.
+  译：在我这奇特的生命中，我可以举出许多这样的例子。
+- However, the best example is that of my last years on the island.
+  译：然而，最好的例子就是我在岛上的最后几年。
+- It was December of my twenty third year.
+  译：那是我在岛上的第二十三年的十二月。
+
+B4-19 | character_refs: ["C1b"] | scene_refs: ["S12"] | 预估格数: 3
+- I went out early one morning when it was still dark.
+  译：一天清晨，天还很黑，我就出门了。
+- Suddenly I saw a fire on the shore about two miles away.
+  译：突然，我看到约两英里外的海岸上有一团火光。
+- I went back to my house and pulled the ladder up after me.
+  译：我回到房屋，把梯子拉了上来。
+- I loaded all my guns and prayed to god to protect me.
+  译：我给所有的枪装好子弹，向上帝祈求保护。
+
+B4-20 | character_refs: ["C1b"] | scene_refs: ["S10"] | 预估格数: 2
+- After about two hours, I wanted to know what was happening outside.
+  译：大约两小时后，我想知道外面发生了什么。
+- I climbed the hill behind my house, lay down in the grass and looked towards the shore with my perspective glass.
+  译：我爬上房屋后面的山丘，趴在草地上，用望远镜朝海岸望去。
+- There I saw nine naked savages sitting around a small fire.
+  译：我看到九个赤裸的野人围坐在一堆小火旁。
+- They had two canoes with them.
+  译：他们带来了两艘独木舟。

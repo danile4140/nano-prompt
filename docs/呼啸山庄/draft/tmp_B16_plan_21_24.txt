@@ -1,0 +1,45 @@
+B16-21 | character_refs: ["C6", "C7", "C12"] | scene_refs: ["S1"] | 预估格数: 2
+- When I confronted her, she told me everything.
+  译：当我当面质问她时，她告诉了我一切。
+- Every evening for the three weeks I had been ill, she had gone to Wuthering Heights to see her cousin.
+  译：在我生病的三周里，她每天晚上都去呼啸山庄看望她的表兄。
+- Sometimes they had passed the pleasant hours together, laughing and talking.
+  译：有时他们一起度过愉快的时光，谈笑风生。
+- But more often Linton had been peevish and irritable.
+  译：但更多时候，林顿烦躁易怒。
+- He and Catherine had argued more than once.
+  译：他和凯瑟琳争吵过不止一次。
+
+B16-22 | character_refs: ["C6", "C12", "C5"] | scene_refs: ["S1"] | 预估格数: 2
+- On other occasions, Linton argued with Hareton.
+  译：还有些时候，林顿和哈顿争吵。
+- Hareton seemed jealous that Catherine came to see Linton.
+  译：哈顿似乎嫉妒凯瑟琳来看林顿。
+- He often tried to engage her in conversation, but she was not interested in talking to him.
+  译：他常常试图与她搭话，但她对和他说话没有兴趣。
+- These evenings at Wuthering Heights, therefore, were not all happy ones, and yet she continued to go.
+  译：因此，在呼啸山庄的那些夜晚并不都是愉快的，然而她还是继续去了。
+
+B16-23 | character_refs: ["C6", "C12"] | scene_refs: ["S1"] | 预估格数: 2
+- Once she had told Linton that she would not visit him anymore, since he was so irritable with her and did not seem to enjoy her company.
+  译：有一次她告诉林顿她不再来看他了，因为他对她太烦躁，似乎并不享受她的陪伴。
+- Then he begged her to come again.
+  译：然后他恳求她再来。
+- He said he knew that he was weak and peevish and bad-tempered, and he was very sorry.
+  译：他说他知道自己软弱、烦躁、脾气差，他非常抱歉。
+- He said it was because he was ill, and he begged her to forgive him.
+  译：他说这是因为他生病了，他恳求她原谅他。
+
+B16-24 | character_refs: ["C6", "C7", "C10", "C12"] | scene_refs: ["S9"] | 预估格数: 3
+- The next day I told my master all that Catherine had told me.
+  译：第二天，我把凯瑟琳告诉我的一切都告诉了主人。
+- It made him very sad and worried.
+  译：这让他非常伤心和忧虑。
+- But finally he agreed to let the cousins meet on the moors once a week to walk or ride together.
+  译：但最终他同意让两个表兄妹每周在沼地见一次面，一起散步或骑马。
+- Because of Linton's health, they could not do this until the warm weather came.
+  译：由于林顿的健康状况，他们直到天气转暖才能这样做。
+- When finally they did meet, I accompanied Cathy to the meeting.
+  译：当他们终于见面时，我陪着凯西去赴约。
+- Linton looked even weaker and more sickly than he had the last time I saw him, though he said he felt stronger.
+  译：林顿看起来比我上次见到他时更加虚弱憔悴，尽管他说他感觉好些了。

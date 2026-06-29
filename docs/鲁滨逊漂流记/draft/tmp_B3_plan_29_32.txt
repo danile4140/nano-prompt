@@ -1,0 +1,41 @@
+B3-29 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: 3
+- One day around noon, something happened that changed my life on the island.
+  译：某天正午前后，发生了一件改变了我岛上生活的事。
+- I found the print of man's naked foot on the beach.
+  译：我在海滩上发现了一个赤裸脚印。
+- I stood and look at the footprint in amazement.
+  译：我站在那里，惊愕地注视着那个脚印。
+- I looked around me but saw nothing.
+  译：我环顾四周，什么也没有看到。
+- I went to higher ground and looked again but it was the same, I saw no one and no other footprint except that one, I was terrified and went home to hide myself.
+  译：我走到高处再次察看，情况依旧——我没看见任何人，除了那一个脚印之外再无其他，我惊恐万分，逃回家中藏了起来。
+
+B3-30 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- At first I thought it must have been the footprint of the devil, for how could a human being have come to this place?
+  译：起初我以为那必定是魔鬼的脚印，因为人类怎么可能来到这个地方？
+- I then began to think the print was left by savages from the mainland.
+  译：后来我开始思索，那脚印也许是来自大陆的野蛮人留下的。
+- They must have come in canoes and left again.
+  译：他们一定是乘独木舟来了又离去。
+- I was very thankful that they had not seen my boat.
+  译：我非常庆幸他们没有发现我的船。
+
+B3-31 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- How strange is the life of a man!
+  译：人的生命是多么奇妙啊！
+- Today we desire what tomorrow we fear.
+  译：今日渴望之物，明日却令我们恐惧。
+- For years I had desired human society.
+  译：多少年来，我一直渴望与人为伴。
+- Now I was terrified at the thought that another human being had set his foot upon the island.
+  译：如今，一想到另一个人类踏上了这座岛，我就不寒而栗。
+
+B3-32 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- I thought again of the words in the Bible, call upon me in the day of trouble and I will deliver you, and you will praise me I pray to god to deliver me from danger from danger.
+  译：我再次想起圣经中的话语：在患难之日呼求我，我必拯救你，你必颂赞我——我向上帝祈祷，求他使我脱离危险。
+- Afterwards I opened my Bible and I read.
+  译：随后，我打开圣经，开始阅读。
+- Wait on the lord and be of good courage, and he shall strengthen your heart.
+  译：等候耶和华，放胆壮心，等候耶和华，他必坚固你的心。
+- Although these words comforted me, I was still afraid.
+  译：尽管这些话语给了我安慰，我依然感到恐惧。

@@ -1,0 +1,31 @@
+B4-5 | character_refs: ["C1b"] | scene_refs: ["S14"] | 预估格数: 2
+- There the savages had made their inhuman feast, eating the bodies of their fellow men.
+  译：野人们在那里举行了他们残忍的盛宴，吃掉了同类的尸体。
+- I turned away from this terrible sight, I felt sick and vomited.
+  译：我转身离开这可怕的景象，感到恶心并呕吐了。
+
+B4-6 | character_refs: ["C1b"] | scene_refs: ["S12"] | 预估格数: 2
+- Then I ran back to my house.
+  译：然后我跑回了我的房屋。
+- My eyes were full of tears.
+  译：我的眼睛里充满了泪水。
+- I thanked god that I had been born a civilized man, quite different from these savages.
+  译：我感谢上帝让我生为一个文明人，与这些野人截然不同。
+- I thanked him for the comforts he had sent me in my distress.
+  译：我感谢他在我苦难中给予我的慰藉。
+
+B4-7 | character_refs: ["C1b"] | scene_refs: ["S12"] | 预估格数: 1
+- I thought I was probably safe from the savages.
+  译：我认为我大概可以安全地躲避野人。
+- I had been on the island for eighteen years and I had never met them.
+  译：我在岛上已经十八年了，从未遇见过他们。
+- I could live there safely eighteen more years if I did not choose to show myself to them.
+  译：只要我不主动显露自己，我还可以在那里安全地再生活十八年。
+
+B4-8 | character_refs: ["C1b"] | scene_refs: ["S17"] | 预估格数: 2
+- For two years after this, I stayed close to my house.
+  译：此后两年，我一直待在房屋附近。
+- Then I began to go about the island as before, but more cautiously.
+  译：然后我开始像以前一样在岛上走动，但更加谨慎了。
+- I did not fire my gun for fear that the savages should hear the shot.
+  译：我不敢开枪，怕野人听到枪声。

@@ -1,0 +1,37 @@
+B1-9 | character_refs: ["C1", "C3"] | scene_refs: ["S1"] | 预估格数: 2
+- I spoke to my mother.
+  译：我去找母亲谈话。
+- I told her that I still desired to go to sea and that nothing else would make me happy.
+  译：我告诉她我仍然渴望出海，没有别的事能让我快乐。
+- I said that I was eighteen years old, too old to begin another profession.
+  译：我说我已经十八岁了，太老了，没法再从事别的职业。
+- I asked her to persuade my father to let me go to see.
+  译：我请求她说服父亲让我出海。
+- This made her very angry.
+  译：这让她非常愤怒。
+- She said that it would be useless to speak to my father.
+  译：她说找父亲说也没用。
+
+B1-10 | character_refs: ["C1", "C3"] | scene_refs: ["S1"] | 预估格数: 2
+- If I wanted to ruin myself, she said, there was nothing she or my father could do to stop me.
+  译：她说，如果我想自毁前程，她和父亲都无法阻止我。
+- However, they would never agree to it.
+  译：但他们永远不会同意。
+
+B1-11 | character_refs: ["C1", "C6"] | scene_refs: ["S2"] | 预估格数: 1
+- A year later, I ran off to sea.
+  译：一年后，我私自跑去了海上。
+- This is how it happened.
+  译：事情是这样发生的。
+- One day I went to the port of hull.
+  译：有一天，我去了赫尔港。
+- A friend of mine was going by sea to London in his father's ship.
+  译：我的一位朋友正打算乘坐他父亲的船走水路去伦敦。
+
+B1-12 | character_refs: ["C1", "C6"] | scene_refs: ["S2"] | 预估格数: 2
+- He asked me to go with him.
+  译：他邀请我一同前往。
+- Since it would cost me nothing, I decided to go.
+  译：由于分文不费，我决定同行。
+- Without even telling my mother and father.
+  译：甚至没有告知父母。

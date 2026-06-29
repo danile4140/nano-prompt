@@ -1,0 +1,37 @@
+B3-13 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- June the nineteenth.
+  译：六月十九日。
+- I fell ill and began shivering.
+  译：我病倒了，开始发抖。
+- June the twentieth I did not sleep all night because of the fever.
+  译：六月二十日，我因发烧整夜未眠。
+- June the twenty first.
+  译：六月二十一日。
+- I was terrified by my illness and had no one to help me.
+  译：我被病情吓坏了，却没有任何人来帮助我。
+- I prayed to god for the first time since the storm on the sea by how I could not think clearly.
+  译：我自从那次海上风暴以来第一次向上帝祈祷，因为我已无法理性地思考。
+
+B3-14 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- For several days I lay shivering with fever.
+  译：好几天里，我都躺着发抖高烧。
+- June the twenty sixth.
+  译：六月二十六日。
+- I woke up feeling better.
+  译：我醒来感觉好多了。
+- Having no food, I took my gun and killed a goat.
+  译：由于没有食物，我拿起枪射杀了一只山羊。
+- I found it very difficult to carry the goat home because I was weak from my illness.
+  译：我发现把山羊扛回家非常困难，因为我还因病而虚弱无力。
+
+B3-15 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- This to me I asked myself, but then I remembered my wicked life and I said to myself, why do you ask why god has done this to you.
+  译：我这样问自己，但随后我回想起自己罪恶的过去，我对自己说：你为何质问上帝为何这样对你？
+- Ask instead why you were not killed long ago sadly disturbed by these thoughts, I went to my chest to look for some tobacco.
+  译：你应该问的是，为何你没有早就丧命——带着这些令人悲伤的念头，我走向箱子，想找些烟草。
+
+B3-16 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- There I also found the bibles I had taken from the ship.
+  译：在那里，我还找到了从船上带来的圣经。
+- I took one of the bibles and began to read.
+  译：我拿起一本圣经，开始阅读。

@@ -1,0 +1,29 @@
+B2-1 | character_refs: ["C2", "C3"] | scene_refs: ["S3"] | 预估格数: 1
+- The two old gentlemen were brothers.
+  译：这两位老绅士是兄弟。
+- For several days they argued about a very strange subject.
+  译：他们为一个非常奇怪的话题争论了好几天。
+- They decided to end their argument with a bet, as the English usually do.
+  译：他们决定像英国人惯常做的那样，以一场赌注来结束这场争论。
+- The following was the subject of the bet.
+  译：以下便是这场赌注的内容。
+
+B2-2 | character_refs: [] | scene_refs: ["S3"] | 预估格数: 1
+- The bank of England issued two bank notes of a million pounds each for a public transaction with a foreign country.
+  译：英格兰银行为一笔对外公共交易发行了两张各一百万英镑的钞票。
+- England used one banknote and the other remained in the bank.
+  译：英格兰使用了其中一张，另一张则留在了银行里。
+
+B2-3 | character_refs: ["C2", "C3"] | scene_refs: ["S3"] | 预估格数: 2
+- At this point, brother a said to brother b, if an honest and intelligent stranger arrives in London without a friend and without money except for the one million pound bank note, he will starve to death.
+  译：于是，兄长甲对兄长乙说：如果一个诚实而聪明的陌生人来到伦敦，身无朋友，身无分文，只有那张一百万英镑的钞票，他将会被饿死。
+- brother b answered, no, I don't agree.
+  译：兄长乙回答道：不，我不同意。
+
+B2-4 | character_refs: ["C2", "C3"] | scene_refs: ["S3"] | 预估格数: 2
+- Brother a said, if he goes to the bank or anywhere else to change this big note, the police will put him in prison.
+  译：兄长甲说：如果他去银行或任何地方兑换这张大额钞票，警察就会把他投入监狱。
+- Everyone will think he stole it.
+  译：所有人都会认为他是偷来的。
+- they continued arguing for days until brother b said, I'll bet twenty thousand pounds that the stranger will live for thirty days with the bank note and not go to prison.
+  译：他们继续争论了好几天，直到兄长乙说：我赌两万英镑，那个陌生人能带着这张钞票活过三十天，而且不坐牢。

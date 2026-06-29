@@ -1,0 +1,35 @@
+B2-1 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: 2
+- I looked up and thanked god for saving my life.
+  译：我仰望天空，感谢上帝救了我的命。
+- A short time before there has seemed to be no hope.
+  译：就在不久之前，似乎毫无生还的希望。
+- It is impossible to describe the joy of someone who has just escaped death.
+  译：难以言表一个刚从死亡边缘逃脱的人心中的喜悦。
+
+B2-2 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: 2
+- I alone had survived, all my companions were dead.
+  译：只有我一人生还，所有同伴都已遇难。
+- When I saw how far away the ship was, I was amazed that I had been able to get to shore.
+  译：当我看到船离岸边有多远时，我惊叹自己竟然游到了岸上。
+- I then began to look around me to see what kind of a place I was in.
+  译：然后我开始环顾四周，打量自己身处何地。
+
+B2-3 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: 2
+- My joy left me, I was wet, I had no other clothes and I had nothing to eat or drink.
+  译：我的喜悦消失了，我浑身湿透，没有换洗的衣服，也没有吃的喝的。
+- Surely I would die of starvation or be eaten by wild animals I had no gun with which to hunt for food or defend myself.
+  译：我肯定会饿死或被野兽吃掉，我没有枪来打猎觅食或保护自己。
+- For a while I ran around trembling and crying.
+  译：有一段时间，我浑身颤抖、哭泣着四处乱跑。
+
+B2-4 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: 3
+- Night came.
+  译：夜幕降临。
+- I walked around looking for fresh water.
+  译：我四处寻找淡水。
+- When I found some, I drank, then I climbed up a tree to sleep.
+  译：找到了之后，我喝了水，然后爬上一棵树睡觉。
+- When I awoke, the sun was shining.
+  译：当我醒来时，阳光普照。
+
+（四维度扫描：①视觉焦点未切换——始终为鲁滨逊在荒岛海滩；②时间推进有"Night came"→"When I awoke"但属连续行为序列同一节拍块；③空间位移在同一海滩范围内；④情绪基调为持续的绝望求生，无反转。总句数4句，未超4句上限，无需豁免说明。）

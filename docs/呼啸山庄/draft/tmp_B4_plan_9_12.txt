@@ -1,0 +1,27 @@
+B4-9 | character_refs: ["C7"] | scene_refs: ["S8"] | 预估格数: 1
+- "Yes, her father, Mr. Edgar Linton, lived here before you, sir. Heathcliff was married to Mr. Linton's sister, then Cathy married her cousin, Heathcliff's son."
+  译：「是的，她的父亲埃德加·林顿先生在您之前住在这里。希斯克利夫娶了林顿先生的妹妹，后来凯西又嫁给了她的表哥，希斯克利夫的儿子。」
+
+B4-10 | character_refs: ["C2", "C7"] | scene_refs: ["S8"] | 预估格数: 2
+- "Have you been to Wuthering Heights, sir?"
+  译：「您去过呼啸山庄吗，先生？」
+- "Yes."
+  译：「去过。」
+- "Oh, how is she? Sir. How is Cathy, if you don't mind me asking?"
+  译：「哦，她怎么样了？先生，凯西还好吗，您不介意我问吧？」
+- "She looked well and very handsome, though not happy, I think."
+  译：「她看起来气色不错，也很漂亮，不过我觉得她并不快乐。」
+
+B4-11 | character_refs: ["C2", "C7"] | scene_refs: ["S8"] | 预估格数: 2
+- "I am not surprised to hear it," said Mrs. Dean.
+  译：「听到这话我并不惊讶，」迪恩太太说道。
+- "And what did you think of the master? He seems a rough fellow, Mrs. Dean, am I right?"
+  译：「您觉得那位主人怎么样？他好像是个粗野的人，迪恩太太，我说得对吗？」
+- "As rough as the edge of a saw and as hard as stone. It's best to avoid him, sir."
+  译：「像锯齿一样粗糙，像石头一样坚硬。最好离他远点，先生。」
+
+B4-12 | character_refs: ["C2", "C7"] | scene_refs: ["S8"] | 预估格数: 2
+- "Do you know anything of his history?"
+  译：「您了解他的身世吗？」
+- "It's a cuckoo's history, sir," said Mrs. Dean. "I know all about it except where he was born, who were his parents, and how he got his money at first. Hareton has been cast out like the baby sparrow. Everyone except Hareton himself knows how he has been cheated."
+  译：「这是一段杜鹃鸟的历史，先生，」迪恩太太说道。「除了他的出身、父母是谁，以及他最初是如何得来钱财之外，我什么都清楚。哈里顿就像一只被赶出巢的雏麻雀。除了哈里顿本人之外，所有人都知道他是如何被欺骗的。」

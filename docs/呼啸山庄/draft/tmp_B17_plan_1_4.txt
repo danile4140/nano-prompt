@@ -1,0 +1,39 @@
+B17-1 | character_refs: ["C13", "C7"] | scene_refs: ["S11"] | 预估格数: 2
+- On the fifth day Zillah unlocked the door.
+  译：第五天，齐拉打开了门锁。
+- She was surprised to find me there and said that everyone in the village thought that Catherine and I had got lost on the moor.
+  译：她惊讶地发现我在那里，说村子里的人都以为凯瑟琳和我在沼地上迷路了。
+- I asked her where Catherine was, but she said she knew nothing.
+  译：我问她凯瑟琳在哪儿，但她说她什么都不知道。
+- Mr. Heathcliff, she said, was out.
+  译：她说，希斯克利夫先生不在家。
+
+B17-2 | character_refs: ["C7", "C12"] | scene_refs: ["S1"] | 预估格数: 2
+- Downstairs I found young Linton in the sitting room.
+  译：下楼后，我在客厅里找到了小林顿。
+- "Where is Miss Catherine?" I demanded.
+  译："凯瑟琳小姐在哪儿？"我追问道。
+- "She is upstairs, locked in her room," said Linton.
+  译："她在楼上，被锁在房间里，"林顿说。
+- "Yesterday she was allowed downstairs, but she cried and screamed so much that we had to lock her up again.
+  译："昨天允许她下楼，但她哭闹得太厉害，我们不得不再次把她锁起来。
+
+B17-3 | character_refs: ["C7", "C12"] | scene_refs: ["S1"] | 预估格数: 2
+- She gives me a headache.
+  译：她让我头疼。
+- Father says that she hates me.
+  译：父亲说她恨我。
+- She wants me to die.
+  译：她想让我死。
+- And she is my wife now, so it is shameful that she should hate me."
+  译：而且她现在是我的妻子，所以她恨我是可耻的。"
+
+B17-4 | character_refs: ["C7", "C12"] | scene_refs: ["S1"] | 预估格数: 2
+- "Do you know where the key is?" "Yes, but I won't tell you where it is!
+  译："你知道钥匙在哪儿吗？""知道，但我不告诉你！
+- I won't let her run away to Thrushcross Grange!
+  译：我不会让她跑回画眉田庄！
+- I am her husband now.
+  译：我现在是她的丈夫。
+- She should love me more than she loves her father, even if he is dying."
+  译：她应该爱我胜过爱她父亲，即使他快死了。"

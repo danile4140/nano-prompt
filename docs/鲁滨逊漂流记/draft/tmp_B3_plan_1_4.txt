@@ -1,0 +1,31 @@
+B3-1 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- One day I found among my goods a little bag that had once held grain on board our ship.
+  译：有一天，我在货物中发现了一只小袋子，那是船上曾用来装粮食的。
+- I decided to use it to store my powder.
+  译：我决定用它来存放火药。
+- So I shook it out near the rock outside my house.
+  译：于是我在屋外岩石旁把袋子抖空了。
+- Soon afterwards, the rains came.
+  译：不久之后，雨季来临了。
+
+B3-2 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- A month later I saw some young plants growing there.
+  译：一个月后，我发现那里长出了一些嫩芽。
+- I had forgotten all about the grain bag.
+  译：我早已忘记了那只粮食袋。
+- When the plants grew, I was surprised to see the some were our English barley and others were rice.
+  译：植物长大后，我惊讶地发现，其中一些是英国大麦，另一些是水稻。
+
+B3-3 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 1
+- Up to this point, I had very little idea of religion.
+  译：在此之前，我对宗教几乎没有什么概念。
+- I thought of everything that had happened to me as chance.
+  译：我把发生在我身上的一切都归结为偶然。
+
+B3-4 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- When I saw English barley growing there, I thought it was a miracle.
+  译：当我看到英国大麦在那里生长时，我认为这是个奇迹。
+- God had made it grow there to comfort me.
+  译：上帝让它在那里生长，是为了安慰我。
+- This thought brought tears to my eyes.
+  译：这个念头让我热泪盈眶。

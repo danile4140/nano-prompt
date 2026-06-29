@@ -1,0 +1,29 @@
+B1-5 | character_refs: ["C1"] | scene_refs: ["S2"] | 预估格数: 2
+- When I arrived in London, my clothes were old and dirty.
+  译：当我抵达伦敦时，衣衫破旧肮脏。
+- I had only one dollar in my pocket.
+  译：口袋里只剩一美元。
+- With this dollar I ate and slept for the first twenty four hours.
+  译：靠着这一美元，我撑过了头二十四小时，勉强吃上饭、睡上觉。
+- During the next twenty four hours I didn't eat and I didn't sleep.
+  译：而接下来的二十四小时，我既没有吃东西，也没有睡觉。
+
+B1-6 | character_refs: ["C1"] | scene_refs: ["S2"] | 预估格数: 1
+- At about ten o'clock the following morning I went to Portland place.
+  译：次日上午十点左右，我来到了波特兰广场。
+
+B1-7 | character_refs: ["C1", "C5"] | scene_refs: ["S2"] | 预估格数: 2
+- I saw a child walking past holding a big pear.
+  译：我看见一个孩子走过，手里拿着一个大梨。
+- The child ate one small piece and then threw the pear onto the street.
+  译：孩子咬了一小口，便把梨扔到了街上。
+
+B1-8 | character_refs: ["C1"] | scene_refs: ["S2"] | 预估格数: 2
+- I stopped and looked at it.
+  译：我停下脚步，盯着那个梨看。
+- I was very hungry and I really wanted that pear.
+  译：我饿极了，非常想要那个梨。
+- But every time I tried to get it, someone passed by and looked at me.
+  译：但每次我试图去捡起它，总有人路过，用目光打量着我。
+- I quickly turned in the other direction and waited for the person to pass by.
+  译：我赶紧转身朝另一个方向，等着那人走过去。

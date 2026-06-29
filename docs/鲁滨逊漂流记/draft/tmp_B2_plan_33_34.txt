@@ -1,0 +1,21 @@
+B2-33 | character_refs: ["C1"] | scene_refs: ["S12"] | 预估格数: 3
+- Good, but I am alive, not drowned as well the other men on the ship, but I have also been singled out to survive.
+  译：善：但我还活着，没有像船上其他人那样溺死，我同样被特别挑选——得以生还。
+- And he who saved me can deliver me from this condition, but I am not starving.
+  译：拯救了我的那位也能将我从这处境中解救出来，而且我并不挨饿。
+- There is food on the island.
+  译：岛上有食物。
+- But the weather is hot and I do not need clothes.
+  译：天气炎热，我不需要衣物。
+- But I see no wild beasts on this island.
+  译：而且我在岛上看不到野兽。
+- What if I had been ship wrecked on the coast of Africa, where I saw the lion and the leopard?
+  译：如果我是在非洲海岸触礁遇难，那里有我见过的狮子和豹子，那该怎么办？
+
+（四维度扫描：①视觉焦点为鲁滨逊的善/好处列表；②无时间跳跃；③空间同一营地；④情绪基调为持续的感恩盘点，无反转。总句数6句，已扫描5对相邻句，四维度均无切换，保留。）
+
+B2-34 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: 2
+- But god sent the ship near enough to the shore that I have been able to supply myself with many things.
+  译：但上帝把船送到离岸足够近的地方，使我得以从船上取来许多东西。
+- This showed me clearly that even in the most miserable conditions, there are things for which to be thankful.
+  译：这清楚地告诉我，即便在最悲惨的处境中，也有值得感恩的事情。

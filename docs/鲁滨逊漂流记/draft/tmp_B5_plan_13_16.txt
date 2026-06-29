@@ -1,0 +1,41 @@
+B5-13 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 2
+- Then I asked whether those they ate went to bed too.
+  译：然后我问那些被他们吃掉的人死后也去贝玛吗。
+- He said yes.
+  译：他说是的。
+- I then began to teach him about the true god.
+  译：于是我开始教他认识真正的上帝。
+- I told him that a great traitor of all things lived off here pointing towards heaven.
+  译：我告诉他，万物的主宰住在那里，并指向天空。
+
+B5-14 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 2
+- I said he was anipotent.
+  译：我说祂是全能的。
+- He could give everything to us and take everything away from us.
+  译：祂能把一切赐给我们，也能把一切从我们身上夺走。
+- Friday listened very attentively.
+  译：星期五听得非常专注。
+- He liked the idea that Jesus christ was sent to save us and that god could hear our prayers.
+  译：他很喜欢耶稣基督被差来拯救我们、上帝能听见我们祷告这个说法。
+
+B5-15 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 3
+- He said if god could hear us in heaven, he must be a greater god than benemaki.
+  译：他说，如果上帝在天上能听见我们，那他一定比贝纳玛基更伟大。
+- Benemaki only heard when people went to the mountains to speak to him.
+  译：贝纳玛基只有在人们上山去找他说话时才能听见。
+- Friday said he told me that only the old men were allowed to go to speak to benemaki.
+  译：星期五说，据告诉他，只有老人才被允许去和贝纳玛基说话。
+- Well, I thought, there are cunning priests even among the savages.
+  译：我心想，就连野蛮人中间也有狡猾的祭司。
+- I told Friday that the old men were not telling the truth when they said that they had spoken to Ben.
+  译：我告诉星期五，那些老人说曾与贝纳玛基交谈并不是实话。
+
+B5-16 | character_refs: ["C1", "C14b"] | scene_refs: ["S12"] | 预估格数: 2
+- I said perhaps they had spoken to the devil.
+  译：我说他们也许是和魔鬼说过话。
+- I then had to explain to Friday who the devil was.
+  译：于是我不得不向星期五解释魔鬼是什么。
+- Some days later I spoke to Friday about god again.
+  译：几天后，我再次和星期五谈起上帝。
+- Friday said if god is so strong, why does he not destroy the devil?
+  译：星期五问，如果上帝这么强大，为什么不消灭魔鬼？

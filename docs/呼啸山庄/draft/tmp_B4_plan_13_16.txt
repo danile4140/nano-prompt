@@ -1,0 +1,23 @@
+B4-13 | character_refs: ["C2", "C7"] | scene_refs: ["S8"] | 预估格数: 2
+- "Well, Mrs. Dean, it is a most intriguing story. Will you sit with me for an hour and tell me all about it?"
+  译：「好吧，迪恩太太，这真是个引人入胜的故事。您愿意陪我坐一个小时，把一切都告诉我吗？」
+- "Certainly, sir. Just let me get my sewing, and I'll bring you some hot soup, sir. I think you have caught a chill."
+  译：「当然，先生。请让我去拿针线活，顺便给您带些热汤，先生。我觉得您着凉了。」
+
+B4-14 | character_refs: ["C2", "C7"] | scene_refs: ["S8"] | 预估格数: 2
+- It was true, my head felt very hot and the rest of me felt cold.
+  译：的确如此，我的头发烫，身子其余部分却冰凉冰凉的。
+- A few minutes later she returned with her sewing and a steaming bowl of soup.
+  译：几分钟后她带着针线活和一碗冒着热气的汤回来了。
+- She gave me the soup, then sat down to begin her sewing and her story.
+  译：她把汤递给我，然后坐下来，开始一边做针线一边讲述她的故事。
+
+B4-15 | character_refs: ["C7"] | scene_refs: ["S8"] | 预估格数: 1
+- "Before I came to live here," she said, "I was almost always at Wuthering Heights. My mother had nursed Mr. Hindley Earnshaw, that's Hareton's father, and I had got used to playing with the children, Hindley and Cathy.
+  译：「在我来这里之前，」她说，「我几乎一直住在呼啸山庄。我母亲曾是辛德利·恩肖先生——也就是哈里顿的父亲——的奶妈，我也习惯了和辛德利、凯西这两个孩子一起玩耍。
+
+B4-16 | character_refs: ["C14"] | scene_refs: ["S1"] | 预估格数: 2
+- One fine summer morning, Mr. Earnshaw, the old master, went off to Liverpool on business.
+  译：一个晴朗的夏日早晨，恩肖老爷启程前往利物浦办事。
+- After three days he returned late in the evening, carrying something bundled up in his coat.
+  译：三天后的傍晚，他回来了，外套里裹着什么东西。

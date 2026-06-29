@@ -1,0 +1,37 @@
+B3-5 | character_refs: ["C1"] | scene_refs: ["S5"] | 预估格数: 2
+- This is what it said.
+  译：信里是这样写的。
+- You are an intelligent and honest man.
+  译：你是一个聪明而诚实的人。
+- You are also poor and a stranger.
+  译：你也是穷人，也是陌生人。
+- In this envelope you will find some money.
+  译：这个信封里有一些钱。
+- It is yours only for thirty days.
+  译：这钱只归你使用三十天。
+
+B3-6 | character_refs: ["C1"] | scene_refs: ["S5"] | 预估格数: 2
+- At the end of thirty days, return to this house.
+  译：三十天结束后，回到这所房子。
+- I have a bet on you.
+  译：我在你身上打了个赌。
+- If I win this bet, you can have any job with any salary that you want there were no signature, no address, no date on the letter.
+  译：如果我赢了这个赌，你可以得到任何你想要的工作和薪水——信上没有署名，没有地址，没有日期。
+
+B3-7 | character_refs: ["C1"] | scene_refs: ["S6"] | 预估格数: 2
+- How strange!
+  译：多么奇怪！
+- I didn't know what to think.
+  译：我不知道该怎么想。
+- I went to a park, sat down and thought about what to do.
+  译：我去了公园，坐下来思考该怎么办。
+
+B3-8 | character_refs: ["C1"] | scene_refs: ["S6"] | 预估格数: 2
+- After an hour I reached the decision that follows.
+  译：一个小时后，我做出了如下决定。
+- The two old gentlemen are playing a game that I don't understand.
+  译：两位老绅士在玩一个我不理解的游戏。
+- They are betting on me.
+  译：他们在拿我打赌。
+- But at that time, I didn't know anything about the details of the bet.
+  译：但那时，我对赌注的细节一无所知。

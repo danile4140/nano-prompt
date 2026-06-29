@@ -1,0 +1,37 @@
+B2-1 | character_refs: ["C2"] | scene_refs: ["S8"] | 预估格数: 1
+- Yesterday afternoon when I left Thrushcross Grange, it was misty and cold.
+  译：昨天下午我离开画眉田庄时，天气阴冷有雾。
+- I had wanted to stay by the fire in my study, but when I went in I found no fire there.
+  译：我本想待在书房炉火旁，可一进去却发现火炉已熄。
+- The maid was cleaning the fireplace, so I set out and walked four miles through the mud to Wuthering Heights.
+  译：女仆正在打扫壁炉，于是我只好出发，踏着泥泞步行四英里前往呼啸山庄。
+
+B2-2 | character_refs: ["C8"] | scene_refs: ["S2"] | 预估格数: 2
+- When I got to Heathcliff's door, a few feathery snowflakes were falling.
+  译：当我来到希斯克利夫的门前，几片羽毛般的雪花飘落而下。
+- No one answered my knock, though I knocked loudly.
+  译：我使劲敲门，却无人应答。
+- The only result was that the dogs inside began to howl.
+  译：唯一的结果是屋内的狗开始嗥叫。
+- Then Joseph put his head out of the barn window.
+  译：这时约瑟夫从谷仓窗口探出脑袋。
+- He was an old man with a sour expression.
+  译：他是个表情酸苦的老人。
+
+B2-3 | character_refs: ["C8", "C2"] | scene_refs: ["S2"] | 预估格数: 2
+- "What do you want?" he shouted.
+  译：「你来干什么？」他大喊道。
+- "The master's in the fields with the sheep. You will have to go there if you want to speak to him."
+  译：「主人在田里放羊，要找他就去那里。」
+- "Is there no one inside to open the door?" I shouted back.
+  译：「屋里就没人能来开门吗？」我回喊道。
+- "No one but the mistress, and she would not open the door if you knocked all night."
+  译：「只有女主人，她就算你敲一整夜的门也不会开的。」
+
+B2-4 | character_refs: ["C2", "C8"] | scene_refs: ["S2"] | 预估格数: 2
+- I was surprised to hear there was a mistress at Wuthering Heights.
+  译：我惊讶地得知呼啸山庄竟有女主人。
+- "Can't you tell her who I am, Joseph?"
+  译：「约瑟夫，你能不能告诉她我是谁？」
+- "No," he replied, and his head vanished.
+  译：「不能，」他回答，随即把脑袋缩了回去。

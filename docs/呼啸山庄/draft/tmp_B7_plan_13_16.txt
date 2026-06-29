@@ -1,0 +1,53 @@
+B7-13 | character_refs: ["C3b", "C7", "C10"] | scene_refs: ["S5"] | 预估格数: 3
+- When Edgar Linton arrived, Cathy told me to leave the room.
+  译：埃德加·林顿到来时，凯茜叫我离开房间。
+- I was polishing the silver.
+  译：我正在擦拭银器。
+- "You can go now, Nelly," she said, in that imperious way of hers.
+  译："你现在可以走了，内莉，"她用那傲慢的口吻说道。
+- Now the master had told me to stay with them whenever Edgar Linton came to visit, so I replied, "I will just finish polishing the silver."
+  译：主人曾吩咐我，每当埃德加·林顿来访时要陪在他们身旁，于是我回答："我只是擦完银器就好。"
+- "Miss Cathy, I'm sure Mr. Linton does not mind."
+  译："凯茜小姐，我想林顿先生不会介意的。"
+
+B7-14 | character_refs: ["C3b", "C5", "C7", "C10"] | scene_refs: ["S5"] | 预估格数: 3
+- She came up to me, and supposing that Edgar could not see her, she pinched my arm.
+  译：她走过来，以为埃德加看不见，便掐了我的胳膊。
+- It really hurt a lot, and I was determined that Mr. Linton should notice it.
+  译：真的很疼，我决意让林顿先生注意到这件事。
+- "Oh, miss," I cried, "why did you pinch me?"
+  译："哦，小姐，"我叫道，"你为什么掐我？"
+- "I didn't touch you. You lying creature," said Catherine, and she tried to pinch me again, her face red with rage.
+  译："我没碰你。你这撒谎的东西，"凯瑟琳说，又试图再掐我，她的脸因愤怒涨得通红。
+- "Yes, you did, miss. Here." And I showed the purple mark on my arm so that Mr. Linton could see it.
+  译："是的，你掐了，小姐。就在这里。"我把手臂上紫色的掐痕展示给林顿先生看。
+- She slapped my face so hard that my eyes filled with water.
+  译：她使劲打了我的脸，打得我眼眶都湿润了。
+
+B7-15 | character_refs: ["C3b", "C5", "C7", "C10"] | scene_refs: ["S5"] | 预估格数: 3
+- "Catherine, love, Catherine," cried Linton, shocked by her behavior.
+  译："凯瑟琳，亲爱的，凯瑟琳，"林顿惊呼，被她的举止震惊了。
+- "Leave the room," said Catherine, trembling all over.
+  译："离开这个房间，"凯瑟琳说，浑身颤抖。
+- Little Hareton, who followed me everywhere, was in the room, and when he saw her slap me, he began to cry.
+  译：无论我走到哪里都跟着我的小哈顿也在房间里，当他看见她打我时，开始哭泣。
+- Now she grabbed his shoulders and shook him violently.
+  译：她抓住他的肩膀猛烈地摇晃他。
+- I tried to free the child from her grasp, so she slapped him across the cheek as well.
+  译：我试图把孩子从她手中夺出，她便也打了他的脸颊。
+- I took little Hareton and went off to the kitchen.
+  译：我抱起小哈顿，离开去了厨房。
+
+B7-16 | character_refs: ["C3b", "C7", "C10"] | scene_refs: ["S5", "S6"] | 预估格数: 3
+- But I left the door open so that I could see what happened.
+  译：但我把门留开，好看着里面发生了什么。
+- Edgar turned pale and picked up his hat.
+  译：埃德加脸色煞白，拿起了帽子。
+- I thought, "That's right, you've seen her true character now. Take warning and go."
+  译：我心想："对了，你现在看清她的真面目了。引以为戒，离开吧。"
+- "Where are you going?" asked Catherine. "You must not go."
+  译："你要去哪里？"凯瑟琳问。"你不能走。"
+- "I must and shall," said Edgar.
+  译："我必须走，也一定要走，"埃德加说。
+- Catherine dropped onto her knees by a chair and burst into tears as Edgar left the sitting room.
+  译：凯瑟琳在埃德加离开客厅时跪倒在椅旁，放声大哭。

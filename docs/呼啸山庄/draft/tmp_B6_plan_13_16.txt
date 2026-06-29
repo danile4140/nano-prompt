@@ -1,0 +1,37 @@
+B6-13 | character_refs: ["C1", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- "At last," I said. "You have hurt Cathy, you know. I bet she sore as she came home. It looks as if you envy her for being so elegant and having friends."
+  译："总算开窍了，"我说，"你伤了凯茜的心，你知道的。我敢打赌她回家时很难过。看样子你是嫉妒她如此优雅、又有那么多朋友。"
+- The idea of envying Catherine was incomprehensible to him, but the idea of hurting her was clear enough.
+  译：嫉妒凯瑟琳的想法对他来说难以理解，但伤了她的心这一点他倒是明白的。
+- "What makes you think I hurt her, Nelly?"
+  译："你凭什么认为我伤了她，内莉？"
+- "She cried when I told her that you had gone off to the moors this morning."
+  译："我告诉她你今天早上去了荒野，她哭了。"
+
+B6-14 | character_refs: ["C1", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- "Well, I cried last night, and I have more reason to cry than she."
+  译："好吧，我昨晚也哭了，而且我比她更有理由哭。"
+- "Yes," said I, "you had a reason to go to bed with a proud heart and an empty stomach."
+  译："是啊，"我说，"你是带着一颗骄傲的心和一个空空的肚子去睡觉的。"
+- "If you are sorry now, you must say so to Cathy, kiss her and see you are sorry."
+  译："如果你现在感到抱歉，你必须去对凯茜说，亲亲她，让她知道你在道歉。"
+- "Come now, I'll wash you and dress you so nicely that Edgar Linton will look like a doll beside you! You're younger than he is, and you are taller and broader in the shoulders and stronger too."
+  译："来吧，我来帮你洗漱打扮，让你漂亮得埃德加·林顿站在你旁边像个玩偶！你比他年轻，又比他高、肩膀更宽、力气更大。"
+
+B6-15 | character_refs: ["C1", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- Heathcliff looked happy for a moment, then he frowned again.
+  译：希斯克利夫高兴了片刻，随即又皱起眉头。
+- "But Nelly, he is much more handsome than I am. I wish I had light hair and fair skin and fine clothes and the prospect of being rich as he does."
+  译："但内莉，他比我帅多了。我真希望我也有浅色的头发、白皙的皮肤、华美的衣服，还有他那样富有的前途。"
+- "Come to the mirror and I will show you what to wish," I said when I had finished washing and dressing him.
+  译："来镜子前，我来告诉你该许什么愿，"我帮他洗漱打扮完毕后说道。
+
+B6-16 | character_refs: ["C1", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- "You should wish that your frown would go away and your eyes would look out on the world broadly and confidently, instead of suspiciously as they do now."
+  译："你该许愿让你的蹙眉消失，让你的眼睛能坦然自信地看世界，而不是像现在这样疑神疑鬼。"
+- "I should wish for Edgar Linton's great blue eyes and smooth forehead, Nelly. But that won't help me get them."
+  译："我该许愿得到埃德加·林顿那双大蓝眼睛和光洁的额头，内莉。但那根本没用。"
+- "A good heart will help you to a handsome face," I said, "but look at yourself now. Now you have finished with the washing and dressing, don't you think you are rather handsome? I do. You look like a prince in disguise. Perhaps your father was emperor of China and your mother an Indian queen.
+  译："一颗善良的心会让你拥有英俊的面容，"我说，"但现在瞧瞧你自己。洗漱打扮完之后，难道你不觉得自己相当英俊吗？我觉得你是。你看起来像个乔装的王子。也许你的父亲是中国皇帝，你的母亲是印度女王。
+- If I were you, Heathcliff, I would believe something of the sort, and it would give me the courage and the dignity to endure the oppressions of a little farmer like Linton Earnshaw."
+  译：如果我是你，希斯克利夫，我会相信这类事情，那会给我勇气和尊严去忍受林顿·恩肖那样的小地主的欺压。"

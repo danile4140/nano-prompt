@@ -1,0 +1,41 @@
+B15-17 | character_refs: ["C6", "C7"] | scene_refs: ["S9"] | 预估格数: 2
+- "You have more than one cousin," I said, hurrying her out of the house.
+  译："你不止一个表兄，"我说，催促着她离开那座宅子。
+- On the way home, I explained to her about Wuthering Heights.
+  译：回家的路上，我向她解释了呼啸山庄的事。
+- I told her that her father did not want her to know about it and if he discovered that she had been there, he would be very angry with me.
+  译：我告诉她父亲不希望她知道此事，若父亲发现她去过那里，会非常生我的气。
+- Cathy promised to say nothing to her father on the subject.
+  译：凯西答应不向父亲提起此事。
+- After all, she was a sweet little girl.
+  译：毕竟，她是个乖巧的小女孩。
+
+B15-18 | character_refs: ["C6", "C10", "C12", "C7"] | scene_refs: ["S12"] | 预估格数: 2
+- The next day we received a letter saying that my master was coming home.
+  译：第二天，我们收到一封信，说主人就要回来了。
+- Isabella was dead, and Edgar was bringing her son Linton home to live with us.
+  译：伊莎贝拉已经去世，埃德加要带她的儿子林顿回来和我们同住。
+- Catherine was very excited when the carriage arrived.
+  译：马车到达时，凯瑟琳激动万分。
+- She ran to meet it, eager to see her cousin, but her father stopped her and said:
+  译：她跑上前去迎接，急切地想见表兄，但父亲拦住了她，说道：
+
+B15-19 | character_refs: ["C10", "C6"] | scene_refs: ["S12"] | 预估格数: 2
+- "Now Cathy, you must be very gentle and patient with Linton."
+  译："凯西，你要对林顿非常温柔、有耐心。"
+- "He is not well and he's very sad because his mother has just died."
+  译："他身体不好，而且因为母亲刚刚去世，他非常悲伤。"
+- "He won't be able to play with you yet."
+  译："他现在还不能和你玩耍。"
+
+B15-20 | character_refs: ["C6", "C12", "C10"] | scene_refs: ["S5"] | 预估格数: 3
+- Linton was carried into the house.
+  译：林顿被抱进屋内。
+- He looked very much like Edgar: the same fair curly hair, slim figure, delicate features, and pale skin.
+  译：他长得非常像埃德加：同样的金色卷发，纤细的身材，精致的五官，苍白的皮肤。
+- But his expression was sickly and peevish, not at all like the open, honest, affectionate expression of Edgar's face.
+  译：但他的神情病态而易怒，与埃德加脸上那种开朗、诚实、温情的表情截然不同。
+- At first Cathy sat by him, still and silent, but then she began to stroke his hair and kiss his cheek.
+  译：凯西起初静静地坐在他身旁，后来开始轻抚他的头发，亲吻他的脸颊。
+- He seemed to like this treatment and smiled at her weakly.
+  译：他似乎很享受这样的对待，有气无力地朝她微笑。

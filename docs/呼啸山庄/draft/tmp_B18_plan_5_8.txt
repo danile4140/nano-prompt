@@ -1,0 +1,31 @@
+B18-5 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- "Oh, indeed," said he, "but you must pay your rent till October, sir, as we agreed."
+  译：「哦，是吗，」他说，「但您必须按约定付到十月份的租金，先生。」
+- "Of course," I replied, irritated by his manner.
+  译：「当然，」我回答，对他的态度颇感恼火。
+- "I'll pay you now, if you like."
+  译：「如果您愿意，我现在就付给您。」
+
+B18-6 | character_refs: ["C2"] | scene_refs: ["S9"] | 预估格数: 1
+- Riding away from Wuthering Heights, I thought what a strange romantic fairy tale it would have been if Mrs. Linton, Heathcliff, and I had fallen in love and I had taken her away with me from this lonely place to the lively atmosphere of London.
+  译：骑马离开呼啸山庄时，我想着，倘若林顿夫人、希斯克利夫和我之间发生了爱情，我带着她离开这片孤寂之地、去往伦敦那热闹的氛围，那将是一段多么奇异浪漫的童话故事啊。
+
+B18-7 | character_refs: ["C2"] | scene_refs: ["S9"] | 预估格数: 1
+- The following September, as I was going to visit a friend in the north, I realized that my journey took me close to Thrushcross Grange.
+  译：翌年九月，我去北方拜访一位朋友，途中发现行程恰好经过画眉田庄附近。
+- I had a sudden impulse to spend the night there.
+  译：我突然起了在那里住一晚的念头。
+- After all I had paid the rent, it was mine until October.
+  译：毕竟我已付了租金，直到十月那里都还是我的。
+
+B18-8 | character_refs: ["C2"] | scene_refs: ["S12"] | 预估格数: 1
+- I stopped the carriage in the village and told my driver to sleep at the inn and be ready to drive on in the morning.
+  译：我在村里停下马车，让马夫在客栈住宿，准备翌日清晨出发。
+- Then I walked to the Grange.
+  译：然后我步行前往庄园。
+- When I got there, however, I found a strange woman in the kitchen.
+  译：然而到了那里，我却在厨房里发现了一个陌生女人。
+- I told her who I was and asked her to prepare a room for me.
+  译：我告诉她我是谁，并请她为我准备一间房间。
+- Then I asked her where Mrs. Dean was.
+  译：然后我问她迪恩太太在哪里。

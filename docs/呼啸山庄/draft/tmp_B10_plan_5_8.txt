@@ -1,0 +1,39 @@
+B10-5 | character_refs: ["C11", "C3b"] | scene_refs: ["S5"] | 预估格数: 2
+- "Yesterday on our walk on the moor, you told me to walk off on my own because you wanted Heathcliff all to yourself."
+  译："昨天我们在荒野散步时，你叫我自己走开，因为你想独占希斯克利夫。"
+- "Nonsense!
+  译："胡说！
+- I thought our conversation might bore you.
+  译：我只是以为那谈话会让你无聊。
+- That was all."
+  译：就是这样而已。"
+
+B10-6 | character_refs: ["C11", "C3b"] | scene_refs: ["S5"] | 预估格数: 2
+- "I didn't care about the conversation.
+  译："我根本不在乎谈话本身。
+- I just wanted to be close to—"
+  译：我只是想靠近——"
+- "Well," said Catherine, suddenly understanding.
+  译："嗯，"凯瑟琳说，忽然明白过来。
+- "You're always sending me away.
+  译："你总是把我赶走。
+- You want no one to be loved except yourself."
+  译：你只想让自己被人爱，不许别人也被人爱。"
+
+B10-7 | character_refs: ["C11", "C3b"] | scene_refs: ["S5"] | 预估格数: 2
+- "I love him more than you ever loved Edgar, and he might love me if you would let him."
+  译："我爱他远比你爱埃德加更深，若你肯让开，他或许也会爱上我。"
+- "I wouldn't be you for a kingdom," then declared Catherine emphatically, and she seemed to speak sincerely.
+  译："就算给我一个王国，我也不愿成为你，"凯瑟琳斩钉截铁地说，语气似乎出自真心。
+
+B10-8 | character_refs: ["C3b", "C7", "C11"] | scene_refs: ["S5"] | 预估格数: 3
+- "Nelly.
+  译："内莉。
+- Help me to convince her of her madness.
+  译：帮我让她清醒，让她明白自己的痴狂。
+- Tell her what Heathcliff is: a savage creature.
+  译：告诉她希斯克利夫是什么人：一个野蛮的生物。
+- You only think you love him because you do not know him.
+  译：你以为自己爱他，只是因为你不了解他。
+- Please don't imagine that he has a loving heart beneath that stern exterior.
+  译：请不要幻想他那冷峻的外表下藏着一颗慈爱的心。

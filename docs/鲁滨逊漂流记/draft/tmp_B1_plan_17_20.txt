@@ -1,0 +1,37 @@
+B1-17 | character_refs: ["C1", "C7"] | scene_refs: ["S3"] | 预估格数: 2
+- The sailors began to cry out that the ship would founder.
+  译：水手们开始呼喊，说船要沉了。
+- Fortunately, I did not know what the word founder meant.
+  译：幸好，我当时不知道"沉没"这个词的意思。
+- I saw the captain and some others praying to god.
+  译：我看见船长和其他几人在向上帝祈祷。
+- At last we were rescued by a boat from another ship.
+  译：最终我们被另一艘船的小艇救起。
+- As we escaped, we saw our own ship go down.
+  译：逃离时，我们眼看着自己的船沉入海中。
+- It was only then that I understood the word founder.
+  译：直到那时，我才明白"沉没"这个词的意思。
+
+B1-18 | character_refs: ["C1"] | scene_refs: ["S2"] | 预估格数: 1
+- When we reached the shore, the people were very kind to us.
+  译：当我们抵达岸边时，人们待我们非常友善。
+- They gave us money to return to hull or continue to London as we pleased.
+  译：他们给了我们钱，让我们随意选择返回赫尔或继续前往伦敦。
+
+B1-19 | character_refs: ["C1"] | scene_refs: ["S2"] | 预估格数: 1
+- If I had returned home, I would have been happy.
+  译：如果我那时回家了，本可以幸福。
+- My father, like the father in christ's story of the prodigal son, would have welcomed me.
+  译：父亲就像基督故事里浪子回头中的那位父亲，会张开双臂迎接我。
+- But I was foolish and I did not go home.
+  译：但我愚蠢，没有回家。
+
+B1-20 | character_refs: ["C1", "C7"] | scene_refs: ["S2"] | 预估格数: 2
+- The captain, who was my father's friend, said to me, young man, you should never go to sea again
+  译：那位船长是我父亲的朋友，他对我说：年轻人，你再也不该出海了。
+- why, sir said I, will you never go to sea again
+  译：为什么，先生？——我说道，难道您就不再出海了吗？
+- that is different said the captain, the sea is my profession, it is my duty to go to sea, but you made this voyage to see if you liked it.
+  译：那不一样——船长说，大海是我的职业，出海是我的职责；但你这次航行只是为了看看自己是否喜欢。
+- God has shown you that the sea is not for you.
+  译：上帝已经向你表明，大海不适合你。

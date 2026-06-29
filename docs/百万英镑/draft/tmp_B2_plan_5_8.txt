@@ -1,0 +1,39 @@
+B2-5 | character_refs: ["C2"] | scene_refs: ["S3"] | 预估格数: 2
+- brother a accepted the bet.
+  译：兄长甲接受了赌注。
+- He went to the bank and bought the one million pound bank note.
+  译：他去银行买下了那张一百万英镑的钞票。
+- after he returned home and prepared a letter.
+  译：回到家后，他准备了一封信。
+
+B2-6 | character_refs: ["C2", "C3"] | scene_refs: ["S3"] | 预估格数: 2
+- Then the two brothers sat by the window and waited for the right man for the bet.
+  译：然后两兄弟坐在窗边，等待那个适合这场赌注的人出现。
+- They saw a lot of honest faces go by, but they were not intelligent enough.
+  译：他们看到很多诚实的面孔走过，但这些人都不够聪明。
+- Several faces were intelligent, but they were not honest.
+  译：有几张脸聪明，但不够诚实。
+- A lot of faces were honest and intelligent, but they were not poor enough.
+  译：很多人既诚实又聪明，但不够穷。
+- Other faces were honest, intelligent and poor, but they were not strangers.
+  译：还有些人诚实、聪明又贫穷，但并非陌生人。
+
+B2-7 | character_refs: ["C1", "C2", "C3"] | scene_refs: ["S3"] | 预估格数: 2
+- When they saw me from the window, they thought I was the right man.
+  译：当他们从窗口看到我时，认为我就是合适的人选。
+- They asked me questions and soon they knew my story.
+  译：他们向我提问，很快便了解了我的经历。
+- Finally, they told me I was the right man for the bet.
+  译：最后，他们告诉我，我就是这场赌注所需要的人。
+- I asked them to explain the bet.
+  译：我请求他们解释这场赌注。
+
+B2-8 | character_refs: ["C1", "C2"] | scene_refs: ["S3"] | 预估格数: 2
+- One of the gentlemen gave me an envelope.
+  译：其中一位绅士给了我一个信封。
+- I wanted to open it, but he said, no, don't open it now.
+  译：我想打开它，但他说：不，现在别打开。
+- Wait until you are in your hotel room.
+  译：等到你回到旅馆房间再说。
+- Then read it very carefully.
+  译：然后仔细阅读里面的内容。

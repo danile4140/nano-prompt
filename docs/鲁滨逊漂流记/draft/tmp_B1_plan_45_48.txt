@@ -1,0 +1,45 @@
+B1-45 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: 2
+- Then a great wave came and the boat turned over.
+  译：随后一个巨浪袭来，小艇翻覆了。
+- Though I was a good swimmer, I could not get my breath in this stormy sea.
+  译：虽然我水性不错，但在这汹涌的大海中我无法呼吸。
+
+B1-46 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: 3
+- A wave carried me along towards the shore.
+  译：一个浪头把我向岸边推去。
+- It left me on the sand, half drowned.
+  译：它把我留在沙滩上，我半死不活。
+- I stood up and walked fast towards the beach.
+  译：我站起身，快步向沙滩走去。
+- I knew another wave would soon brave over me.
+  译：我知道另一个浪头很快就会打过来。
+- Sea rose behind me like a mountain.
+  译：身后的海浪如山般高耸而起。
+- I held my breath and the wave carried me closer to the shore.
+  译：我屏住呼吸，浪头把我推向更靠近岸边的地方。
+
+B1-47 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: 2
+- I tried to stand up and get my breath again, but another wave broke over me.
+  译：我试图站起来再次喘口气，但又一个浪头打了过来。
+- I was carried with great force and speed towards the shore.
+  译：我被巨大的力量和速度推向岸边。
+- Then my head shot above the water and I was able to breathe.
+  译：随后我的头冲出水面，终于能呼吸了。
+- For a moment I was covered with water again.
+  译：片刻后我又被水淹没。
+- Then that wave too began to withdraw.
+  译：随后那个浪头也开始退去。
+- I felt the earth under my feet.
+  译：我感到脚下踩到了地面。
+
+B1-48 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: 2
+- I ran towards the shore, but twice more the waves came over me.
+  译：我向岸边跑去，但又有两次浪头打过我。
+- The last time nearly killed me.
+  译：最后一次差点要了我的命。
+- The sea threw me hard against a rock.
+  译：大海猛地把我摔向一块岩石。
+- I held on to the rock as the next wave broke over me.
+  译：我紧抓住岩石，下一个浪头又打了过来。
+- When the wave withdrew, I ran to the beach, climbed over the rocks and lay down on the grass.
+  译：浪头退去后，我跑向沙滩，爬过礁石，倒在草地上。

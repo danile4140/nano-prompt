@@ -1,0 +1,33 @@
+B2-21 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 2
+- I found a little flat shelf on the side of a hill.
+  译：我在山腰找到了一块小小的平台。
+- There was a cliff behind it so that nothing could attack me from behind.
+  译：它背后是一道峭壁，什么都无法从背后袭击我。
+- In front, the hill descended to the beach.
+  译：前面，山坡向下延伸至沙滩。
+- It was on the north side of the hill so that it was sheltered from the sun all day.
+  译：它位于山的北侧，整天都能避开阳光。
+
+B2-22 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: 3
+- I built my tent against the cliff, then I built a high, strong wooden fence in a semicircle around the front of my tent.
+  译：我把帐篷搭靠在峭壁上，然后在帐篷前方建起一道高大坚固的半圆形木栅栏。
+- I made a ladder.
+  译：我做了一架梯子。
+- When I was inside, I could bring the ladder in after me.
+  译：进去之后，我可以把梯子也带进去。
+- In this way, neither man nor beast could enter my house.
+  译：这样，无论人还是野兽都无法进入我的住所。
+
+B2-23 | character_refs: ["C1"] | scene_refs: ["S13"] | 预估格数: 2
+- It took a lot of time and effort to carry all my goods inside.
+  译：把所有货物搬进去花了很多时间和体力。
+- Then I began to dig out a cave in the cliff behind my tent because I needed a place to store my property.
+  译：然后我开始在帐篷后面的峭壁上挖一个洞穴，因为我需要一个储存物品的地方。
+
+B2-24 | character_refs: ["C1"] | scene_refs: ["S12", "S13"] | 预估格数: 2
+- After a big storm, I was afraid that lightning might strike my great box of gunpowder.
+  译：经历了一场大暴风雨后，我担心闪电可能会击中我的大火药箱。
+- Therefore I made many small boxes and put the gunpowder in them.
+  译：因此我做了许多小箱子，把火药分装其中。
+- These I hid in places secure from lightning.
+  译：我把这些小箱子藏在安全防雷的地方。

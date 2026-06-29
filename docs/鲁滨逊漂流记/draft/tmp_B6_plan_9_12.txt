@@ -1,0 +1,39 @@
+B6-9 | character_refs: ["C1b", "C16"] | scene_refs: ["S23"] | 预估格数: 1
+- He wore clothes and was clearly an European.
+  译：他穿着衣服，显然是一个欧洲人。
+- I moved closer to the beach keeping myself hidden.
+  译：我保持隐蔽，悄悄靠近海滩。
+
+B6-10 | character_refs: ["C1b", "C14b", "C16"] | scene_refs: ["S23"] | 预估格数: 2
+- Behind the bushes two savages were approaching the poor Christian.
+  译：丛林后面，两个野蛮人正在向那可怜的基督徒逼近。
+- They were going to kill him and bring him piece by piece to the fire.
+  译：他们打算杀掉他，将他的身体一块一块地拖到篝火旁。
+- I told Friday to do as I did.
+  译：我告诉星期五照我的样子做。
+- I took one of my guns and aimed at the savages.
+  译：我拿起一支枪，瞄准野蛮人。
+- Friday did the same.
+  译：星期五也同样举枪瞄准。
+
+B6-11 | character_refs: ["C1b", "C14b"] | scene_refs: ["S23"] | 预估格数: 2
+- We both fired our guns at the same moment.
+  译：我们同时开枪射击。
+- Friday was a better shot than I, he killed two of them and wounded three more.
+  译：星期五的枪法比我更准，他打死了两个，打伤了三个。
+- All those who were not injured jumped up and looked around in fear and amazement.
+  译：那些没受伤的野蛮人全都跳起来，惊恐万分地四处张望。
+
+B6-12 | character_refs: ["C1b", "C14b"] | scene_refs: ["S23"] | 预估格数: 2
+- I threw down that gun and took up another.
+  译：我扔下那支枪，拿起另一支。
+- Friday did the same.
+  译：星期五也做了同样的动作。
+- Are you ready Friday said I,
+  译："准备好了吗，星期五？"我问。
+- yes!
+  译："是的！"
+- Then fire in the name of god again!
+  译："那么，以上帝的名义，再次开火！"
+- We both fired our guns at the same moment.
+  译：我们再次同时开枪。

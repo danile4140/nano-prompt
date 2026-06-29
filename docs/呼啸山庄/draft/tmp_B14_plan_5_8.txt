@@ -1,0 +1,37 @@
+B14-5 | character_refs: ["C7", "C11"] | scene_refs: ["S5"] | 预估格数: 1
+- "Miss Isabella, I will call no carriage until you have calmed down and changed into dry clothes.
+  译：「伊莎贝拉小姐，除非您先冷静下来、换上干衣服，否则我不会叫马车的。
+- What on earth has happened?"
+  译：到底发生了什么事？」
+
+B14-6 | character_refs: ["C11"] | scene_refs: ["S5"] | 预估格数: 2
+- "All week Heathcliff has stayed away from the house, returning late at night and shutting himself in his room.
+  译：「整整一周，希斯克利夫都不在家，深夜才回来，把自己关在房间里。
+- Hindley has been drinking more and more.
+  译：辛德利喝酒越来越多。
+- He got a gun and a knife.
+  译：他拿了一把枪和一把刀。
+- He told me he was going to kill Heathcliff.
+  译：他告诉我他要杀死希斯克利夫。
+- He says that Heathcliff has robbed him, and Hareton, and me too, that he has stolen all we have.
+  译：他说希斯克利夫抢劫了他、哈顿，还有我，偷走了我们所有的一切。
+- He said that Heathcliff now owns Wuthering Heights.
+  译：他说呼啸山庄现在已经归希斯克利夫所有了。
+
+B14-7 | character_refs: ["C11"] | scene_refs: ["S5"] | 预估格数: 1
+- He lent Hindley so much money for gambling and drink, and now the house belongs to him.
+  译：他借了大量钱财给辛德利用来赌博和饮酒，现在那栋房子已经属于他了。
+- Yet I could not stand by and watch Hindley shoot him.
+  译：然而我不能袖手旁观，眼睁睁看着辛德利开枪打死他。
+- When Heathcliff returned, I opened a window and warned him that Hindley had weapons and would kill him.
+  译：希斯克利夫回来时，我打开一扇窗户，警告他辛德利备有武器、会杀死他。
+
+B14-8 | character_refs: ["C1", "C4"] | scene_refs: ["S1", "S2"] | 预估格数: 3
+- Heathcliff forced his way into the house and tore the weapons from Hindley's hands, wounding him with a knife.
+  译：希斯克利夫强行冲进屋子，从辛德利手中夺走武器，并用刀划伤了他。
+- And he did so.
+  译：他就这样做了。
+- I rushed to Hindley to nurse his bleeding hand, and I said to Heathcliff, 'Oh, why did you come back to the house?
+  译：我冲上去照料辛德利流血的手，同时对希斯克利夫说：「你为什么要回这栋房子？
+- Why don't you just lie down on Catherine's grave like a faithful dog?'
+  译：为什么不像一条忠诚的狗那样躺在凯瑟琳的墓旁？」

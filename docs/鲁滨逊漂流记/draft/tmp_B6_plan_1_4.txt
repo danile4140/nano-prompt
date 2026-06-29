@@ -1,0 +1,33 @@
+B6-1 | character_refs: ["C1b", "C14b"] | scene_refs: ["S12"] | 预估格数: 1
+- I had now been on the island for twenty seven years.
+  译：我已经在这座岛上生活了二十七年。
+- One day I sent Friday to get a turtle.
+  译：一天，我让星期五去抓一只海龟。
+- He came running back from the shore crying, oh, master, master, there are three canes the poor fellow was terribly frightened.
+  译：他从岸边跑回来哭喊着："主人，主人，那里有三只独木舟！"那可怜的家伙吓坏了。
+
+B6-2 | character_refs: ["C1b", "C14b"] | scene_refs: ["S12"] | 预估格数: 2
+- Will you help me to fight them Friday said I,
+  译："你愿意帮我去和他们战斗吗？"我问星期五。
+- oh, yes said he, and will you do everything I tell you to do yes, yes, I will, said he,
+  译："哦，愿意，"他说，"你让我做什么我就做什么，是的，是的，我愿意，"他说。
+- then I will defend you Friday said I, giving him a loaded gun and a hatchet.
+  译："那我就保护你，星期五。"我说着，递给他一把装好子弹的枪和一把手斧。
+
+B6-3 | character_refs: ["C1b", "C14b"] | scene_refs: ["S12"] | 预估格数: 1
+- He said, master, I will die when you tell me to die
+  译：他说："主人，您叫我死，我就死。"
+- I took the pistols and my sword,
+  译：我拿起手枪和宝剑，
+- we went up the hill to see what was happening.
+  译：我们爬上山顶去察看情况。
+
+B6-4 | character_refs: ["C1b", "C14b"] | scene_refs: ["S10"] | 预估格数: 2
+- There were twenty one savages, three prisoners and three canoes.
+  译：那里有二十一个野蛮人、三名俘虏和三只独木舟。
+- They had landed closer to my house than ever before.
+  译：他们停靠的地方比以往任何时候都更靠近我的住所。
+- This filled me with anger.
+  译：这让我怒火中烧。
+- But then I thought, what right have I to kill men who have done me no harm?
+  译：但随即我想到：我有什么权利去杀那些从未伤害过我的人呢？

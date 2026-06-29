@@ -1,0 +1,39 @@
+B6-9 | character_refs: ["C7"] | scene_refs: ["S6"] | 预估格数: 2
+- I went into the kitchen and looked around with pleasure and pride at all my preparations for Christmas: the shining stove, the clean floor, the fragrant cakes.
+  译：我走进厨房，满怀愉悦与自豪地环顾四周为圣诞节做的一切准备：锃亮的炉灶、干净的地板、香气四溢的蛋糕。
+- I remembered how the old master used to come into the kitchen on Christmas Eve and thank me for my work and give me a shilling as a Christmas present.
+  译：我想起老主人从前如何在圣诞夜走进厨房，感谢我的辛劳，还给我一先令作圣诞礼物。
+- Then I began thinking about how fond the old master was of Heathcliff, and how worried he was that Heathcliff would be treated badly when he was no longer there to take care of him.
+  译：然后我开始想起老主人多么疼爱希斯克利夫，又多么担心自己不在后希斯克利夫会受人欺负。
+- Then I thought about poor Heathcliff's situation now, and it nearly made me cry.
+  译：接着我想到了可怜的希斯克利夫如今的处境，这几乎让我落泪。
+- However, there is no use in crying, so I went to find Heathcliff instead.
+  译：然而哭也无济于事，于是我去找希斯克利夫了。
+
+B6-10 | character_refs: ["C1", "C7"] | scene_refs: ["S4"] | 预估格数: 2
+- He was feeding the horses in the stable as usual at that hour.
+  译：那个时候他像往常一样在马厩里喂马。
+- "Come quickly, Heathcliff," I said. "Come to the kitchen and let me dress you nicely before Miss Cathy comes out. Then you can sit together by the fire and talk till bedtime."
+  译："快来，希斯克利夫，"我说，"到厨房来，让我把你打扮得漂漂亮亮的，趁凯茜小姐还没出来。然后你们可以一起坐在火边聊到睡觉。"
+- He went on feeding the horses in silence.
+  译：他默默地继续喂马。
+- "Are you coming?" I waited and waited, but receiving no answer, I finally left him.
+  译："你来不来？"我等了又等，但始终得不到回答，最终只好离开了他。
+
+B6-11 | character_refs: ["C1", "C3b", "C4", "C7", "C9"] | scene_refs: ["S1", "S6"] | 预估格数: 2
+- Cathy ate supper with her brother and sister-in-law.
+  译：凯茜和她的兄嫂一起吃晚饭。
+- While Joseph and I ate together in the kitchen, Heathcliff did not eat at all.
+  译：约瑟夫和我在厨房一起吃饭时，希斯克利夫根本没有吃东西。
+- He worked till nine o'clock, then went straight to bed.
+  译：他一直干活到九点，然后径直去睡觉了。
+- Cathy came into the kitchen to look for him once, but since he was not there, she went back to Hindley and Frances.
+  译：凯茜曾到厨房来找他一次，但他不在，她便回到辛德利和弗朗西丝那里去了。
+
+B6-12 | character_refs: ["C1", "C7"] | scene_refs: ["S9", "S1"] | 预估格数: 2
+- Heathcliff got up early in the morning and went out onto the moors.
+  译：希斯克利夫一大早就起身去了荒野。
+- He came back when the family had gone to church.
+  译：他回来时，全家人已经去做礼拜了。
+- "Nelly," he said, "dress me nicely as you said you would. I'm going to be good."
+  译："内莉，"他说，"像你说的那样把我打扮整洁。我要好好表现了。"

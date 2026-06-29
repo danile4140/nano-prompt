@@ -1,0 +1,43 @@
+B7-5 | character_refs: ["C3b", "C10"] | scene_refs: ["S1"] | 预估格数: 1
+- The curate stopped coming to visit.
+  译：教区牧师不再登门拜访了。
+- Nobody decent came near Wuthering Heights except Edgar Linton, who came to visit Cathy.
+  译：没有正派人靠近呼啸山庄，只有埃德加·林顿来拜访凯茜。
+- At fifteen years old, she was the queen of the countryside, the most beautiful girl around.
+  译：十五岁的她是乡间女王，周围最美丽的姑娘。
+
+B7-6 | character_refs: ["C3b", "C7"] | scene_refs: ["S1"] | 预估格数: 2
+- But she had become proud and bad-tempered.
+  译：但她变得傲慢而坏脾气。
+- I admit I did not like her at that time.
+  译：我承认那时我并不喜欢她。
+- She still liked me, though, she was always loyal to her old friends.
+  译：但她仍然喜欢我，她向来对老朋友忠诚。
+- And young Linton, despite his superiority, found it difficult to make an equally deep impression on her.
+  译：而年轻的林顿，尽管出身高贵，却难以在她心中留下同样深刻的印象。
+
+B7-7 | character_refs: ["C2", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- "Do you see that portrait over the fireplace?
+  译："你看到壁炉上方那幅肖像了吗？
+- That was Edgar Linton, my late master.
+  译：那是埃德加·林顿，我已故的主人。
+- He used to hang on one side, and his wife's portrait hung on the other side.
+  译：他的画像挂在一侧，他妻子的画像挂在另一侧。
+- But hers has been removed."
+  译：但她的那幅已被移走了。"
+- Mrs. Dean raised her candle and went to the fireplace.
+  译：迪恩太太举起蜡烛走向壁炉。
+
+B7-8 | character_refs: ["C2", "C7"] | scene_refs: ["S5"] | 预估格数: 2
+- The delicate features of Edgar Linton's portrait were very much like those of the young lady at Wuthering Heights, but his expression was gentle and thoughtful, very different from hers.
+  译：埃德加·林顿肖像中精致的五官与呼啸山庄那位年轻女子极为相像，但他的神情温柔沉思，与她截然不同。
+- His light hair was long and curly.
+  译：他浅色的头发又长又卷。
+- His eyes were large and serious.
+  译：他的眼睛又大又沉稳。
+- His features were almost too graceful.
+  译：他的五官几乎过于优雅。
+- I was not surprised that Catherine Earnshaw could forget her first friend for a man like this.
+  译：凯瑟琳·恩肖能为这样的男人忘记她的初友，我并不感到惊讶。
+- More surprising was that he, if his mind were as noble and delicate as his person, could fall in love with the kind of woman I imagined her to be.
+  译：更令人惊讶的是，他若真像外表那般高贵细腻，竟能爱上我心中所想象的那种女人。

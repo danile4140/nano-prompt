@@ -1,0 +1,43 @@
+B8-13 | character_refs: ["C1b", "C10"] | scene_refs: ["S11"] | 预估格数: 2
+- no, I I I didn't, but I know you'll forgive me
+  译：不，我……我没有，但我知道你会原谅我的。
+- don't be so sure!
+  译：别那么确定！
+- You told me a lie, Henry!
+  译：你对我撒谎了，亨利！
+- Dearest portche, it was only for fun!
+  译：最亲爱的波西亚，这只是个玩笑而已！
+
+---
+
+B8-14 | character_refs: ["C1b", "C10", "C2"] | scene_refs: ["S11"] | 预估格数: 2
+- Come, let's go now!
+  译：来，我们走吧！
+- But wait, wait!
+  译：但等等，等一下！
+- My gentleman said, I want to give you the job and the salary you choose
+  译：那位先生说，我想给你你自己选择的职位和薪水。
+- thank you, thank you with all my heart, but I don't want the job
+  译：谢谢您，衷心感谢，但我不想要那份工作。
+
+---
+
+B8-15 | character_refs: ["C10", "C2"] | scene_refs: ["S11"] | 预估格数: 2
+- Henry, you didn't thank the good gentleman in the right way.
+  译：亨利，你没有用正确的方式感谢这位好先生。
+- Can I do it for you portia said, of course.
+  译：我可以替你感谢吗？波西亚说，当然可以。
+- You can, my dear
+  译：你可以，我亲爱的。
+
+---
+
+B8-16 | character_refs: ["C10", "C2"] | scene_refs: ["S11"] | 预估格数: 2
+- portia walked to my gentleman, sat on his lap, and kissed him on the mouth.
+  译：波西亚走向那位先生，坐在他腿上，并亲吻了他的嘴。
+- Then the two old gentlemen shouted and laughed.
+  译：随后两位老先生大笑起来。
+- I was amazed what was happening.
+  译：我惊讶地看着这一切发生。
+
+---
