@@ -1,0 +1,75 @@
+# 批次 B9_1_4
+
+## 分镜 B9-1
+**叙事节拍**：福格获释后当即打倒福克斯探长
+**场景环境**：警察局室内，白天
+**节拍分析**：S1-S3为连续动作序列（自由→转向→出手→倒地），S4为帕斯帕图同一时刻的情绪反应，构成同一节拍块。四维度扫描：同场景、同话题、同情绪基调、无时间跳跃。句数=4，不触发强制拆分。
+
+S1: Phileas Fogg was free and he knew exactly what to do.
+译：菲利亚斯·福格获得了自由，他清楚地知道该做什么。
+
+S2: He looked at Inspector Fix and then he hit him: first with one hand, then with the other.
+译：他看向福克斯探长，然后打了他：先用一只手，再用另一只手。
+
+S3: Fix fell to the floor.
+译：福克斯倒在了地板上。
+
+S4: Passepartout was very happy.
+译：帕斯帕图非常高兴。
+
+---
+
+
+## 分镜 B9-2
+**叙事节拍**：帕斯帕图斥责倒地的福克斯
+**场景环境**：警察局室内，白天
+**节拍分析**：S5-S7为帕斯帕图的连续对白与动作（同一说话者）。与B9-1相比说话方切换（福格→帕斯帕图），焦点转移，构成新节拍。三句同话题同情绪同说话者，句数=3。
+
+S5: 'Good!' he told his master.
+译："好！"他对主人说。
+
+S6: Then he turned to Inspector Fix.
+译：然后他转向福克斯探长。
+
+S7: 'That's what happens to people who behave like you,' he shouted at the confused detective.
+译："这就是像你这样行事的人应有的下场，"他对那个不知所措的侦探大喊道。
+
+---
+
+
+## 分镜 B9-3
+**叙事节拍**：离开警察局、赶上火车、抵达伦敦、发现时间——输掉赌约
+**场景环境**：室外→火车→尤斯顿车站，白天
+**节拍分析**：S8出发→S9旅途/抵达/看钟→S10叙事结果，三句共同服务于"输掉赌约"这一节拍。四维度扫描：虽有空间位移，但语义高度关联，情绪统一（失败逼近），无主焦点切换，句数=3。
+
+S8: They left the police station and went towards the railway station immediately.
+译：他们立即离开了警察局，向火车站走去。
+
+S9: They were in time for the train, but the train was late and when they arrived in London they looked up at the clock in Euston Station to see that it was ten to nine.
+译：他们赶上了火车，但火车晚点了，当他们抵达伦敦时，他们抬头看了看尤斯顿车站的时钟，发现已经是八点五十分了。
+
+S10: Phileas Fogg lost his bet – by five minutes!
+译：菲利亚斯·福格输掉了他的赌约——仅差五分钟！
+
+---
+
+
+## 分镜 B9-4
+**叙事节拍**：输掉赌约后——福格平静 vs 奥达哭泣
+**场景环境**：萨维尔街宅邸，当晚
+**节拍分析**：S11-S14为输掉赌约后福格与奥达两人的情绪对比描述（S11平静，S12-S14激动哭泣）。时间跳跃（抵达伦敦→回到宅邸）触发新节拍。视觉焦点为S14奥达。句数=4，无需拆分。
+
+S11: Phileas Fogg accepted this in his usual way, without showing any particular emotion.
+译：菲利亚斯·福格以他一贯的方式接受了这一切，没有表现出任何特别的情绪。
+
+S12: Mrs Aouda, on the other hand, was very emotional.
+译：奥达夫人则截然相反，她情绪激动。
+
+S13: She continued to cry.
+译：她不断地哭泣。
+
+S14: She did not know what to do.
+译：她不知道该怎么办。
+
+---
+

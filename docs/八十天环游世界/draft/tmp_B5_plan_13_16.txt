@@ -1,0 +1,81 @@
+# 批次 B5_13_16
+
+## 分镜 B5-13
+
+覆盖句子：S41-S45（5句）
+节拍说明：Fix愤怒内心独白，同一角色同一情绪基调（愤怒+不甘），5句全为Fix连续内心独白，四维度均无切换。豁免：已扫描4对相邻句（S41-S42、S42-S43、S43-S44、S44-S45），四维度均无切换，保留5句。情绪标记：强度：强，类型：愤怒，推荐视觉手段：速度线/爆裂线+Fix近景特写，夸张愤怒表情，对白气泡承载独白。
+
+S41: 'Oh no!' thought Inspector Fix.
+译：「糟糕！」费克斯侦探心想。
+
+S42: 'He always thinks of something.
+译：「他总是能想出办法来。
+
+S43: That thief!
+译：这个小偷！
+
+S44: He can't escape!
+译：他不能逃掉！
+
+S45: Not now.'
+译：绝对不行。」
+
+---
+
+
+## 分镜 B5-14
+
+覆盖句子：S46-S47（2句）
+节拍说明：Fix的行动节拍——从内心独白转为外部行动（踱步，愤怒外化），直到Fogg注意到他（新事件：视线接触，叙事转折点），2句合规。
+
+S46: Fix was very angry and upset.
+译：费克斯又愤怒又沮丧。
+
+S47: He walked up and down near the ship, until Phileas Fogg noticed the poor man.
+译：他在船旁来回踱步，直到菲利亚斯·福格注意到了这个可怜的人。
+
+---
+
+
+## 分镜 B5-15
+
+覆盖句子：S48-S50（3句）
+节拍说明：Fogg主动邀请Fix同乘，Fogg主导说话（S48问候+S49-S50邀请，同一说话方连续），3句合规。
+
+S48: 'Are you looking for a ship, too, my good man?' he asked.
+译：「您也在找船吗，朋友？」他问道。
+
+S49: 'We're going to Japan.
+译：「我们要去日本。
+
+S50: If that's the direction you're going in, you're welcome to come with us.'
+译：如果您也是这个方向，欢迎与我们同行。」
+
+---
+
+
+## 分镜 B5-16
+
+覆盖句子：S51-S56（6句）
+节拍说明：触发-转折（规则4条件B）——Fix接受邀请（S51-S53，感谢+解释，同一说话方）→Fix内心独白（S54-S56，惊喜+决心+追捕誓言）。6句满足上限。已扫描5对相邻句，四维度：S53→S54之间存在模式切换（对话外显→内心独白），但属同一情绪基调下的信息层切换（Fix假装感谢同时内心盘算），场景/时间/空间均无切换，情绪无反转（均为Fix的功利性接受），豁免保留6句。已扫描5对相邻句，四维度均无切换，保留。
+
+S51: 'Thank you, sir.
+译：「谢谢您，先生。
+
+S52: That's very kind of you.
+译：您真是太好了。
+
+S53: My ship left early and I am in a terrible situation, in fact, I was just thinking about how I could find another ship to take me to Yokohama,' replied Inspector Fix.
+译：我的船提前出发了，我现在处境很糟，事实上，我正在想该如何找另一艘船去横滨，」费克斯侦探回答道。
+
+S54: He was amazed at his good luck but he was worried that things were not going exactly as he planned.
+译：他对自己的好运感到惊喜，但同时也担心事情并没有完全按计划进行。
+
+S55: He was determined to catch his thief.
+译：他下定决心要抓住那个小偷。
+
+S56: 'I'll have to follow Fogg around the world if that's the only way I can catch him,' he thought.
+译：「如果这是抓住他的唯一方法，我就得跟着福格环游世界，」他心想。
+
+---
+

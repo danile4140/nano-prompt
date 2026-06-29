@@ -1,0 +1,43 @@
+# 批次 B2_17_18
+
+### B2-17
+
+**覆盖句子：**
+- S50: After being in the newspapers Phileas Fogg's journey wasn't a secret.
+  译：见诸报端之后，菲利亚斯·福格的旅行便不再是秘密。
+- S51: Soon everybody in London was talking about Phileas Fogg's departure and his plan to go around the world in eighty days.
+  译：很快，伦敦全城都在谈论菲利亚斯·福格的出发和他八十天环游世界的计划。
+- S52: Some people thought he was mad, others said he was a genius.
+  译：有些人认为他疯了，另一些人则说他是天才。
+
+**节拍分析：** 叙述性段落（舆论/背景信息），无具体角色动作，伦敦众人反应。句数=3，符合上限。无指定场景，属全景叙述。
+
+**构图决策：** 多种民间观点并列（有人称疯子/有人称天才），使用**横排三格**：左格=人群议论（报纸上福格图像），中格="疯子"派（人群摇头），右格="天才"派（人群称赞）。
+
+**character_refs:** []（无具体主角出现，伦敦市民群体暗示）
+**scene_refs:** []（伦敦街头/公共场所，无已有场景资产匹配）
+
+---
+
+
+### B2-18
+
+**覆盖句子：**
+- S53: But a few days later, the front pages had another story.
+  译：但几天后，头版换了另一则故事。
+- S54: A certain Inspector Fix, a detective for Scotland Yard, said he knew the identity of the thief.
+  译：苏格兰场的某位费克斯探长声称，他知道那个窃贼的身份。
+- S55: All the evidence pointed in one direction: to a well-known and respectable member of the Reform Club – Mr Phileas Fogg.
+  译：所有证据都指向同一个方向：改革俱乐部一位广为人知、备受尊敬的成员——菲利亚斯·福格先生。
+
+**节拍分析：** S53=时间跳跃（"a few days later"），S54=费克斯侦探首次出场，S55=指认福格为嫌疑人（叙事高潮B类：身份揭晓）。时间跳跃+新人物出场+身份揭晓，属叙事节点密集段。句数=3，符合上限。
+
+**构图决策：** 身份揭晓高潮（B类），需至少2个视觉承载点。使用**左右二分1:1**：左格=费克斯侦探手持报纸（首次出场锚定外观），右格=画面中福格肖像或剪影（被指向，中心聚焦效果，暗示"嫌疑人"）。
+
+**character_refs:** ["C1", "C4"]
+**scene_refs:** []（叙述性场景，无已有资产匹配）
+
+---
+
+*阶段一完成。共 18 条分镜，覆盖 55 句原文，未覆盖句数 = 0。*
+

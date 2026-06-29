@@ -1,0 +1,70 @@
+# 批次 B6_5_8
+
+## 分镜 B6-5
+
+**归属句子**：S11–S14
+
+S11: When they arrived in San Francisco he made a note in his diary:
+译：当他们抵达旧金山时，他在日记中记下：
+
+S12: Tuesday – 2 hours ahead.
+译：周二——提前2小时。
+
+S13: Wednesday – 3 hours behind.
+译：周三——落后3小时。
+
+S14: Thursday – arrived in San Francisco on time.
+译：周四——准时抵达旧金山。
+
+**节拍分析**：S11 是叙述，S12–S14 是日记内容（连续三条时间记录）。四句均属同一场景（旧金山，记日记），时间标记属于日记内部枚举而非场景跳变。4 句，在上限内。四维度扫描：无视觉焦点切换（始终是日记/福格）、时间推进属日记内枚举非叙事跳跃、无空间位移、无情绪切换。可合并，使用日记画中画构图展示三条记录。
+
+---
+
+
+## 分镜 B6-6
+
+**归属句子**：S15–S17
+
+S15: The same evening, at exactly six o'clock, our adventurers left San Francisco to travel to New York.
+译：同一天傍晚，整整六点，我们的探险者们离开旧金山，前往纽约。
+
+S16: The journey that once took six months to complete, now took seven days on the new Union Pacific Railroad that took the passengers from San Francisco in the west, to Omaha in the central state of Nebraska.
+译：这段旅程曾经需要六个月才能完成，而现在乘坐新的联合太平洋铁路只需七天，铁路将旅客从西部的旧金山送到内布拉斯加州中部的奥马哈。
+
+S17: From there Phileas Fogg hoped to continue to New York for the final part of their journey: crossing the Atlantic to England on 11 December.
+译：从那里，菲利亚斯·福格希望继续前往纽约，完成旅程的最后一段：在12月11日横渡大西洋抵达英国。
+
+**节拍分析**：S15 是出发动作（旧金山火车站），S16–S17 是旅程说明与计划（叙述性，无空间跳变，属同一叙事节拍）。3 句，合并。可用地图/路线图构图表达旅程规划。
+
+---
+
+
+## 分镜 B6-7
+
+**归属句子**：S18–S19
+
+S18: On the train Passepartout sat next to Inspector Fix, but he did not want to talk to him.
+译：在火车上，帕斯帕图坐在费克斯探长旁边，但他不想和他说话。
+
+S19: He was still confused by his behaviour in the bar and he did not like him.
+译：他仍然对费克斯在酒吧里的行为感到困惑，他不喜欢他。
+
+**节拍分析**：S18–S19 同场景（火车车厢），同一视觉焦点（帕斯帕图与费克斯并排），情绪基调一致（警惕/厌恶），2 句合并。
+
+---
+
+
+## 分镜 B6-8
+
+**归属句子**：S20–S21
+
+S20: After just one hour it started to snow.
+译：仅仅一小时后，开始下雪了。
+
+S21: Fortunately the snow did not slow down the train.
+译：幸运的是，雪并没有让火车减速。
+
+**节拍分析**：2 句，同场景，同一叙事节拍（下雪但火车照行），合并。
+
+---
+

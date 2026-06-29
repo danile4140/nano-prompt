@@ -1,0 +1,59 @@
+# 批次 B8_5_8
+
+## 分镜 B8-5
+
+**覆盖句**：S7–S10
+**原文**：
+- S7. 'When is the ship leaving?' he asked the captain.
+  译："船什么时候出发？"他问船长。
+- S8. 'In an hour,' he replied.
+  译："一小时后，"船长回答。
+- S9. 'Where is the ship going to?' Phileas Fogg asked.
+  译："船要去哪里？"菲利亚斯·福格问道。
+- S10. 'To France. Bordeaux.'
+  译："去法国，波尔多。"
+
+**节拍分析**：4 句对话，两轮来回（出发时间 + 目的地），同一话题，同一空间，情绪基调平稳（信息交换）。4 句≤4，无情绪/焦点/时间/空间切换。保留为一镜。
+**场景环境**：纽约港口码头，白天，福格与船长初次对话
+
+---
+
+
+## 分镜 B8-6
+
+**覆盖句**：S11
+**原文**：
+- S11. 'Will you take myself and three other passengers to Liverpool?'
+  译："你愿意载我和另外三位乘客去利物浦吗？"
+
+**节拍分析**：条件 B — 触发-转折因果链之"触发"端。福格提出去利物浦的请求，这是触发动作，下一句为拒绝（转折），必须拆开。
+**场景环境**：纽约港口码头，白天
+
+---
+
+
+## 分镜 B8-7
+
+**覆盖句**：S12
+**原文**：
+- S12. 'To Liverpool? Certainly not,' said the captain, looking at him like he was mad. 'This ship must arrive in Bordeaux by 20 December.'
+  译："去利物浦？绝对不行，"船长说，看他的眼神像看疯子一样。"这艘船必须在12月20日前到达波尔多。"
+
+**节拍分析**：条件 B — 触发-转折因果链之"转折/拒绝"端。情绪方向与 S11 相反（期待→拒绝）。必须独立分镜。
+**场景环境**：纽约港口码头，白天
+
+---
+
+
+## 分镜 B8-8
+
+**覆盖句**：S13
+**原文**：
+- S13. Phileas Fogg thought for a moment. 'I'll give you two thousand dollars for each passenger if you take us to Bordeaux then,' he said.
+  译：菲利亚斯·福格思考了片刻。"如果你送我们去波尔多，我愿意为每位乘客支付两千美元，"他说。
+
+**节拍分析**：新动作节拍（福格思考→提出高价反提案），话题从"是否去利物浦"转为"金钱条件"。独立节拍。
+**场景环境**：纽约港口码头，白天
+
+---
+

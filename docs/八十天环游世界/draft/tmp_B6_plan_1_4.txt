@@ -1,0 +1,67 @@
+# 批次 B6_1_4
+
+## 分镜 B6-1
+
+**归属句子**：S1–S2
+
+S1: They were now sailing across the Pacific on the Carnatic in the direction of San Francisco.
+译：他们现在正乘坐卡纳蒂克号在太平洋上向旧金山方向航行。
+
+S2: On the journey Passepartout started to remember more details about his evening with Mr Fix and he began to ask questions.
+译：旅途中，帕斯帕图开始回忆起他与费克斯先生共度的那个夜晚的更多细节，他开始产生疑问。
+
+**节拍分析**：S1 建立空间（太平洋上航行），S2 切换到帕斯帕图的心理活动。两句同场景（甲板/船上），视觉焦点从环境转到人物心理，属于同一叙事节拍块的引入段。无场景跳变，无情绪反转，合并为同一分镜。
+
+---
+
+
+## 分镜 B6-2
+
+**归属句子**：S3–S6
+
+S3: Why did the man try and keep him in the bar for so long?
+译：那个男人为什么要把他留在酒吧里那么长时间？
+
+S4: Why was he doing the exact same journey as them?
+译：他为什么要走和他们完全相同的旅程？
+
+S5: It wasn't an unusual route, but why did he also want to do it so quickly?
+译：这条路线并不罕见，但他为什么也要走得这么快？
+
+S6: Was he following them?
+译：他是在跟踪他们吗？
+
+**节拍分析**：S3–S6 均为帕斯帕图内心的连续问句（思维气泡），同一说话者（帕斯帕图思维）、同一情绪基调（疑惑/警觉），无场景跳变，无视觉焦点切换。四个问句属同一心理节拍，合并。4 句恰在上限内，无需拆分。
+
+---
+
+
+## 分镜 B6-3
+
+**归属句子**：S7–S8
+
+S7: 'I'm going for a walk. I believe Mrs Aouda will join me. I'll see you in the morning at seven-fifteen,' said Phileas Fogg, interrupting his manservant's thoughts.
+译：「我去散步了。我相信奥达夫人会加入我。明早七点十五分见，」菲利亚斯·福格打断了仆人的思绪，说道。
+
+S8: His master certainly did not look worried and Passepartout decided that he had to think about just one thing: his master had to win his bet.
+译：他的主人看起来确实毫不担忧，帕斯帕图决定他只需专注一件事：他的主人必须赢得赌注。
+
+**节拍分析**：S7 是福格的台词（打断帕斯帕图思绪），S8 是帕斯帕图对主人态度的观察与内心决定。S7→S8 存在叙述权从对话到旁白的切换，但两句共享同一叙事目的（帕斯帕图放下疑虑、重新专注赌注），属触发-结果结构但情绪方向一致（非触发-转折因果链中情绪相反的情形）。合并为同一分镜，用对话双格或主画面+反应格呈现。
+
+---
+
+
+## 分镜 B6-4
+
+**归属句子**：S9–S10
+
+S9: In the next few days it became clear that Mrs Aouda was very close to Phileas Fogg.
+译：接下来的几天里，很明显奥达夫人与菲利亚斯·福格走得很近。
+
+S10: He, on the other hand, did not seem to notice the beautiful lady by his side.
+译：而他，却似乎完全没有注意到身旁这位美丽的女士。
+
+**节拍分析**：S9–S10 描述两个角色间的情感对比，是同一叙事段落的前后两面（夫人靠近 vs. 福格浑然不觉）。属同一叙事节拍，情绪基调相同（温馨/幽默对比），合并。两句，构图上需体现对比关系，适合左右二分。
+
+---
+

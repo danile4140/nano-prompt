@@ -1,0 +1,81 @@
+# 批次 B9_5_8
+
+## 分镜 B9-5
+**叙事节拍**：帕斯帕图为主人自责担忧
+**场景环境**：萨维尔街宅邸，当晚
+**节拍分析**：S15-S18均为帕斯帕图的心理描述。视觉焦点从奥达切换到帕斯帕图（S14→S15），触发新节拍。同一说话者/视角的连续心理叙述，4句，无需拆分。
+
+S15: Passepartout was also worried for his master, and his job.
+译：帕斯帕图也为他的主人和他的工作感到担心。
+
+S16: It was his master's choice to spend all his money on the bet, but he was such a good, honest person.
+译：用所有的钱来打赌是主人的选择，但他是个如此善良、诚实的人。
+
+S17: It was not good to see him like this.
+译：看到他这个样子真是令人难受。
+
+S18: He still could not stop thinking that it was his fault.
+译：他仍然无法停止地认为这是他的错。
+
+---
+
+
+## 分镜 B9-6
+**叙事节拍**：次日——惯例依旧，但福格未去俱乐部，宅邸如空城
+**场景环境**：萨维尔街宅邸，次日上午
+**节拍分析**：S19-S22为次日的叙事，时间跳跃（"The next day"）触发新节拍。S19-S22同场景同话题同情绪（压抑失落），4句，无需拆分。
+
+S19: The next day Passepartout followed the same routine, except for one thing.
+译：第二天，帕斯帕图遵循了同样的日常，只有一件事例外。
+
+S20: When they heard the sound of Big Ben at half past eleven the next day, Phileas Fogg did not go to the Reform Club.
+译：第二天当他们听到大本钟在十一点半敲响时，菲利亚斯·福格没有去改革俱乐部。
+
+S21: The house felt strange.
+译：房子里感觉很奇怪。
+
+S22: It was like no one lived there.
+译：就好像没有人住在那里一样。
+
+---
+
+
+## 分镜 B9-7
+**叙事节拍**：傍晚福格来到奥达房间，悲伤倾诉自己已是穷人
+**场景环境**：福格宅邸奥达客房，傍晚
+**节拍分析**：S23-S26，时间跳跃（"that evening"）触发新节拍。S23铺垫入场，S24-S26为福格的悲伤独白（同一说话者连续陈述）。4句，无需拆分。
+
+S23: At about half past seven that evening Phileas Fogg asked Mrs Aouda if he could come to her room to speak to her.
+译：那天傍晚大约七点半，菲利亚斯·福格询问奥达夫人他是否可以去她的房间和她说话。
+
+S24: 'Madam,' he began sadly.
+译："夫人，"他悲伤地开口道。
+
+S25: 'I wanted to take you back to England with me because I thought I could offer you a good life here.
+译："我想带你一起回到英格兰，因为我以为我可以在这里给你提供美好的生活。
+
+S26: Now I am a poor man… and I have nothing to offer you.'
+译：现在我是个穷人……我没有什么可以给你的了。"
+
+---
+
+
+## 分镜 B9-8
+**叙事节拍**：奥达夫人第一次见福格真心悲伤，并感激回应
+**场景环境**：福格宅邸奥达客房，傍晚
+**节拍分析**：S27叙事观察，S28-S30为奥达的对白（说话方从福格切换到奥达，触发新节拍）。同一场景同一话题，4句，无需拆分。
+
+S27: It was the first time Mrs Aouda saw Phileas Fogg looking really sad.
+译：这是奥达夫人第一次看到菲利亚斯·福格真正显露出悲伤的神情。
+
+S28: 'I know, Mr Fogg, and I'm so sorry.
+译："我知道，福格先生，我非常抱歉。
+
+S29: You saved my life.
+译：你救了我的命。
+
+S30: You took time to rescue me, and you lost your bet because of me.'
+译：你花时间救了我，却因为我输掉了赌约。"
+
+---
+

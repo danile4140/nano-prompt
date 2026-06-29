@@ -1,0 +1,79 @@
+# 批次 B1_13_16
+
+### B1-13（S39–S41）：帕斯帕图自信应答 + 福格问时间
+**句子：**
+- S39: 'Yes, sir.
+  译："是的，先生。
+- S40: I do, and I think I'm perfect for the job.'
+  译：我明白，我认为我非常适合这份工作。"
+- S41: 'Well then, what time is it now?'
+  译："那么，现在几点了？"
+
+**节拍分析：** 说话方切换（帕斯帕图答S39–S40，福格接问S41），≤2回合，同一情绪基调（自信→测试），同一空间。3句，无超限。
+**character_refs：** ["C1","C2"]
+**scene_refs：** ["S1"]
+**构图方向：** 对话双格（1:1，双方情绪均等——应答与测试）
+
+---
+
+
+### B1-14（S42–S44）：怀表时刻与录用宣布
+**句子：**
+- S42: 'Eleven twenty-two, Mr Fogg,' Passepartout replied, taking his pocket-watch out of a small side pocket.
+  译："十一点二十二分，福格先生，"帕斯帕图回答道，同时从侧袋掏出怀表。
+- S43: 'Exactly four minutes late,' noted Phileas Fogg, looking at his own watch.
+  译："整整迟了四分钟，"菲利亚斯·福格看着自己的表说道。
+- S44: 'So let's say you started working for me as from eleven twenty-six.'
+  译："那就说你从十一点二十六分起开始为我效力吧。"
+
+**节拍分析：** 关键道具首次出现（怀表），说话方来回（帕斯帕图→福格→福格），情绪：期待→轻微批评→录用，存在因果链（帕斯帕图报时→福格核对→宣布录用）。3句，无超限。关键道具特写（怀表）必须入镜。
+**character_refs：** ["C1","C2"]
+**scene_refs：** ["S1"]
+**构图方向：** 主画面（双方各持怀表核对）+ 圆形画中画特写（怀表表盘11:22）
+
+---
+
+
+### B1-15（S45）：福格起身离去
+**句子：**
+- S45: Phileas Fogg stood up from his armchair, picked up his hat, and went out of the door without saying another word.
+  译：菲利亚斯·福格从扶手椅上起身，拿起帽子，不再多说一个字便走出了门。
+
+**节拍分析：** 叙事阶段边界——对话结束，福格动身离去（条件D），必须独立成镜。1句，无超限。
+**character_refs：** ["C1"]
+**scene_refs：** ["S1"]
+**构图方向：** 动作单格（对角线组织：福格从扶手椅起身，步向大门，背影离去，帕斯帕图在背景目送）
+
+---
+
+
+### B1-16（S46–S53）：帕斯帕图观察印象——福格外貌描述
+**句子：**
+- S46: From this brief introduction, Passepartout was able to make note of his employer.
+  译：从这次短暂的接触中，帕斯帕图得以观察他的雇主。
+- S47: He was about forty years old, an elegant man with an attractive, gentle face.
+  译：他大约四十岁，是个举止优雅、面容温和俊朗的男人。
+- S48: He was tall, with blond hair and a moustache.
+  译：他身材高挑，金发，留着胡须。
+- S49: He was the sort of person who remained incredibly calm, even under pressure.
+  译：他是那种即使在压力下也能保持惊人冷静的人。
+- S50: He had gentle eyes that fixed you with a firm stare.
+  译：他有一双温柔的眼睛，却能以坚定的目光凝视你。
+- S51: He never seemed upset or worried.
+  译：他从来不显得沮丧或担忧。
+- S52: He was a typical Englishman.
+  译：他是个典型的英国人。
+- S53: It was always difficult to guess an Englishman's true feelings.
+  译：猜测一个英国人真实的内心感受永远都是件难事。
+
+**节拍分析：** 8句——超过6句绝对上限，必须强制拆分。四维度扫描：S46→S47→S48→S49→S50→S51→S52→S53，均为帕斯帕图对福格外貌/性格的叙事观察，说话方未切换（叙事者旁白），视觉焦点稳定（福格），情绪基调一致（欣赏/观察），空间未变，时间未推进。无明显切边界，但≥7句必须按上限切，按6句为一节切出一条，剩余独立一条：
+- B1-16a（S46–S51）：6句，叙述性格+外貌（仍处同一话题，但达到6句上限）
+- B1-16b（S52–S53）：2句，英国人气质总结
+
+> 重排编号：B1-16（S46–S51），B1-17（S52–S53）
+
+**B1-16** character_refs: ["C1","C2"]，scene_refs: ["S1"]
+**B1-17** character_refs: ["C1"]，scene_refs: ["S1"]
+
+---
+

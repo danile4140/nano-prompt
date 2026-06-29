@@ -1,0 +1,81 @@
+# 批次 B2_5_8
+
+### B2-5
+
+**覆盖句子：**
+- S14: "What do you mean?" said Andrew Stuart with a laugh. "The earth doesn't get any smaller!"
+  译："什么意思？"安德鲁·斯图亚特笑着问道。"地球又没有变小！"
+- S15: "Ah! But the earth is smaller," said Sir Ralph Gautier. "If you think that we can now go around it ten times quicker than we could one hundred years ago. Did you know that today a man can travel around the world in only three months?"
+  译："啊！但地球确实小了，"拉尔夫·高蒂爵士说。"想想看，我们现在环游地球的速度比一百年前快了十倍。你知道吗，今天一个人三个月就能环游世界？"
+- S16: "Eighty days to be exact," Phileas Fogg corrected him.
+  译："确切地说是八十天，"菲利亚斯·福格纠正道。
+
+**节拍分析：** 3回合对话：安德鲁（反驳）→拉尔夫（支持+三个月说法）→福格（精确更正"八十天"）。三个不同说话方，说话方切换2次。句数=3，符合上限。三方都有独立表态，且拉尔夫在S15是新说话方入场（视角切换）。
+
+**构图决策：** 三个不同说话方各有独立表态——使用**横排三格**：左格=安德鲁反驳，中格=拉尔夫支持，右格=福格精确更正。
+
+**character_refs:** ["C1", "C5", "C6"]
+**scene_refs:** ["S4"]
+
+---
+
+
+### B2-6
+
+**覆盖句子：**
+- S17: "Eighty days?" asked a surprised man at the table.
+  译："八十天？"桌边一位惊讶的成员问道。
+- S18: "Well, maybe that's true, but only if you don't consider bad weather, storms, shipwrecks, and other things," said another.
+  译："嗯，也许是真的，但前提是你不考虑恶劣天气、暴风雨、沉船以及其他意外，"另一人说道。
+- S19: "In eighty days, considering all possible events," continued Phileas Fogg.
+  译："八十天，考虑了所有可能发生的事件，"菲利亚斯·福格继续说。
+
+**节拍分析：** 继续同一话题（八十天可行性辩论），3回合：惊讶成员质疑→另一成员补充质疑→福格坚定反驳。说话方切换2次，同一牌戏室，情绪基调由质疑→坚定。句数=3，符合上限。
+
+**构图决策：** 三方表态（2名质疑成员+福格）——使用**横排三格**：左格=惊讶成员质疑，中格=另一成员补充，右格=福格坚定反驳（近景，情绪最强，占主格位）。
+
+**character_refs:** ["C1", "C5", "C6"]
+**scene_refs:** ["S4"]
+
+---
+
+
+### B2-7
+
+**覆盖句子：**
+- S20: "Ah! You think so, do you, Mr Fogg?" laughed Sir Ralph, "Well, I'll bet four thousand pounds that a journey like that is impossible in such a short time."
+  译："啊！那你这么认为，福格先生？"拉尔夫爵士大笑，"那好，我赌四千英镑，这种时间内环游世界是不可能的。"
+- S21: "I repeat that it is possible to do the journey in that time," said Phileas Fogg, his eyes fixed on Sir Ralph's smile.
+  译："我重申，在那段时间内完成旅程是可以的，"菲利亚斯·福格说，目光定在拉尔夫爵士微笑的脸上。
+
+**节拍分析：** 触发-回应结构（条件B）：S20=拉尔夫发起赌注（触发动作），S21=福格直视回应（回应/宣告）。两者因果依赖，情绪方向对立（嘲笑vs坚定）。句数=2，符合上限。
+
+**构图决策：** 触发-因果对话，说话方权重：拉尔夫主导嘲笑施压（2:1主格），福格回应同样有力——但本质是平等对峙，使用**左右二分1:1对话双格**（拉尔夫左格笑着下注，福格右格目光直视）。
+
+**character_refs:** ["C1", "C6"]
+**scene_refs:** ["S4"]
+
+---
+
+
+### B2-8
+
+**覆盖句子：**
+- S22: "Well, if you are so certain, then do it yourself!"
+  译："那好，如果你这么确定，就自己去做吧！"
+- S23: "I will," replied Phileas Fogg.
+  译："我会的，"菲利亚斯·福格回答。
+- S24: "When?"
+  译："什么时候？"
+- S25: "Immediately. And I'll bet not four, but twenty thousand pounds that I can go around the world in eighty days; I will return here in 1,920 hours, or, if you prefer, 115,220 minutes. Do you agree to the bet?"
+  译："立刻。而且我赌的不是四千，而是两万英镑，我能在八十天内环游世界；我将在1920小时后，或者如果你们愿意，115,220分钟后回到这里。你们接受这个赌注吗？"
+
+**节拍分析：** 这是赌注升级的关键对话链。S22=挑战（命令式），S23=福格接受，S24=追问，S25=福格宣布大额赌注（叙事高潮）。4回合，说话方切换3次。但S22-S23可视为同一因果对（挑战→接受），S24-S25为下一个因果对（追问→宣告）。全部4句在同一场景、同一话题、情绪持续升温（无情绪反转，只是升级）。句数=4，符合上限。
+
+**构图决策：** 4个叙事节拍，包含多方表态（施压方+福格×2）。使用**2×2网格**：左上=挑战者说"自己去！"，右上=福格简短"I will"，左下=追问"When?"，右下=福格宣布两万英镑赌注（最大格或与右上合并成主格）。但4格等比2×2最能体现节拍递进。
+
+**character_refs:** ["C1", "C5", "C6"]
+**scene_refs:** ["S4"]
+
+---
+

@@ -1,0 +1,81 @@
+# 批次 B5_25_28
+
+## 分镜 B5-25
+
+覆盖句子：S85-S87（3句）
+节拍说明：帕斯帕图的计划内心独白——喜出望外（S85），制定计划（S86-S87），同一角色同一情绪（希望萌生），3句合规。
+
+S85: 'What luck!' thought Passepartout.
+译：「真是天赐良机！」帕斯帕图心想。
+
+S86: 'I'll go to the circus owner.
+译：「我去找马戏团老板。
+
+S87: If he lets me go with them, I can go to America, and from there to England.'
+译：如果他让我跟着去，我就能去美国，再从那里回英国。」
+
+---
+
+
+## 分镜 B5-26
+
+覆盖句子：S88-S93（6句）
+节拍说明：Batulcar面试对话（3回合）——Batulcar问是否来自巴黎（S88-S89）→帕斯帕图回答（S90）→Batulcar说会做鬼脸（S91）→帕斯帕图不解但回答（S92-S93）。3回合对话，大于等于3回合需多格。6句满足上限，四维度：已扫描5对，同一场景（马戏团帐篷/办公室），同一话题（面试），情绪渐进（谨慎→困惑），无切换，保留。
+
+S88: 'So, you say you're from Paris?' said Mr Batulcar, a big man with a bald head and a moustache.
+译：「所以，你说你来自巴黎？」巴图尔卡先生说，他是个光头、留着浓密胡子的大块头。
+
+S89: He looked at Passepartout carefully.
+译：他仔细打量着帕斯帕图。
+
+S90: 'Yes, a true Parisian, from Paris,' replied Passepartout.
+译：「是的，地地道道的巴黎人，来自巴黎，」帕斯帕图回答道。
+
+S91: 'Well, you know how to make funny faces then,' said Mr Batulcar smiling from the corners of his moustache.
+译：「那你一定会做鬼脸了，」巴图尔卡先生说，胡子两端浮现出一丝笑意。
+
+S92: Passepartout did not understand what he meant.
+译：帕斯帕图不明白他的意思。
+
+S93: 'Err...yes,' he said uncertainly.
+译：「呃……是的，」他不确定地说道。
+
+---
+
+
+## 分镜 B5-27
+
+覆盖句子：S94-S96（3句）
+节拍说明：触发-转折（规则4条件B）——Batulcar宣布工作安排（S94-S95，触发：小丑+看老虎）→帕斯帕图不开心但接受（S96，转折/接受），3句合规。
+
+S94: 'Good! Then you can start as a clown,' said Mr Batulcar, 'and then you can do other jobs if we need an extra man.
+译：「好！那你就从小丑开始，」巴图尔卡先生说，「如果我们需要多余的人手，你还可以做其他工作。
+
+S95: You can look after the tigers, for example.'
+译：比如，你可以去照看老虎。」
+
+S96: Passepartout was not very happy about this offer, but he needed the job.
+译：帕斯帕图对这个提议并不太满意，但他需要这份工作。
+
+---
+
+
+## 分镜 B5-28
+
+覆盖句子：S97-S100（4句）
+节拍说明：叙事高潮C类（动作高潮）——当晚顶替（S97，触发），承压底层（S98，执行/状态），鼓声欢呼+人塔倒塌（S99，氛围渐强+结果），叙事悬念（S100，叙事者设问），4句合规。高潮加密：至少2个视觉承载点，构图需体现叠塔→倒塌的动作链。
+
+S97: That night an acrobat was ill, and Passepartout had to take his place as part of a human pyramid.
+译：当晚，一名杂技演员病了，帕斯帕图不得不顶替他，参与叠人塔的表演。
+
+S98: Passepartout was at the bottom of the pyramid and he had to carry the weight of several men on his shoulders.
+译：帕斯帕图位于人塔的最底层，必须用肩膀承受几个人的重量。
+
+S99: The audience shouted out loudly, the drums sounded like a thunderstorm, and then... the people in the pyramid fell to the floor like a pack of cards.
+译：观众大声欢呼，鼓声如同雷鸣，然后……人塔里的人像一叠纸牌一样轰然倒地。
+
+S100: What happened?
+译：发生了什么？
+
+---
+

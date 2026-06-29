@@ -1,0 +1,110 @@
+# 批次 B8_25_28
+
+## 分镜 B8-25
+
+**覆盖句**：S50–S52
+**原文**：
+- S50. He went out of the room.
+  译：他走出了房间。
+- S51. A policeman took Phileas Fogg away and Mrs Aouda started crying loudly.
+  译：一名警察将菲利亚斯·福格带走，奥达女士放声大哭。
+- S52. She put her head on Passeprtout's shoulder and they left.
+  译：她把头靠在帕斯帕图的肩上，两人随即离开了。
+
+**节拍分析**：空间动作节拍（费克斯离开、福格被带走、奥达哭泣、帕斯帕图安慰）。视角从费克斯内心转至外部动作（空间位移切换）。3 句≤4，同一动作序列，无焦点切换。情绪标记：奥达"crying loudly"（中度悲伤）。
+**场景环境**：利物浦警察局，夜晚
+
+---
+
+
+## 分镜 B8-26
+
+**覆盖句**：S53–S58（6 句豁免）
+**原文**：
+- S53. Phileas Fogg looked at the walls.
+  译：菲利亚斯·福格望着四壁。
+- S54. He had no money.
+  译：他身无分文。
+- S55. All his hopes were gone!
+  译：他所有的希望都破灭了！
+- S56. He was in a police station because they thought he was a thief.
+  译：他身陷警察局，因为他们以为他是小偷。
+- S57. He was losing a lot of money.
+  译：他正在损失大量金钱。
+- S58. He could only hope for one more amazing event to rescue him.
+  译：他只能寄望于再发生一次奇迹来拯救他。
+
+**节拍分析**：6 句，福格的绝望内心独白，关押在警察局牢房。四维度扫描（5 对）：S53→S54 无切换；S54→S55 无切换；S55→S56 无切换；S56→S57 无切换；S57→S58 无切换。同一角色、同一封闭空间（警察局牢房）、同一情绪基调（绝望）、无时间推进。**豁免：已扫描 5 对相邻句，四维度均无切换，保留 6 句。** 情绪标记：强烈绝望（"All his hopes were gone"）。
+**场景环境**：利物浦警察局羁押室，夜晚
+
+---
+
+
+## 分镜 B8-27
+
+**覆盖句**：S59–S62
+**原文**：
+- S59. It came sooner than he thought.
+  译：奇迹来得比他想象的要快。
+- S60. Passepartout ran back to the police station with Mrs Aouda.
+  译：帕斯帕图与奥达女士跑回了警察局。
+- S61. Then Inspector Fix arrived too.
+  译：接着费克斯督察也到了。
+- S62. His hair was untidy and he could not breathe.
+  译：他头发凌乱，气喘吁吁。
+
+**节拍分析**：S59 是叙事转折句（奇迹预告），S60–S62 是外部动作（众人赶回）。同一场景（警察局），同一动作方向（人物返回），情绪基调从绝望急转期待。4 句≤4，同一动作节拍（回来报信的序列），保留合并。
+**场景环境**：利物浦警察局，夜晚
+
+---
+
+
+## 分镜 B8-28
+
+**覆盖句**：S63
+**原文**：
+- S63. 'Mr Fogg,' he cried when he could finally speak. 'Mr Fogg! You are free to go! They caught the thief three days ago!'
+  译："福格先生，"他终于能开口说话了，喊道，"福格先生！您自由了！三天前他们已经抓住了真正的小偷！"
+
+**节拍分析**：情感高潮（条件 5 类型 D 情感高潮 / 类型 B 身份揭晓性反转）。独立节拍，强烈情绪爆发（"cried"），触发规则 5a（强度）。
+**场景环境**：利物浦警察局，夜晚
+
+---
+
+## 覆盖自检汇总
+
+| 分镜 | 覆盖句 | 句数 |
+|------|--------|------|
+| B8-1 | S1 | 1 |
+| B8-2 | S2–S4 | 3 |
+| B8-3 | S5 | 1 |
+| B8-4 | S6 | 1 |
+| B8-5 | S7–S10 | 4 |
+| B8-6 | S11 | 1 |
+| B8-7 | S12 | 1 |
+| B8-8 | S13 | 1 |
+| B8-9 | S14–S15 | 2 |
+| B8-10 | S16 | 1 |
+| B8-11 | S17 | 1 |
+| B8-12 | S18–S19 | 2 |
+| B8-13 | S20–S23 | 4 |
+| B8-14 | S24–S25 | 2 |
+| B8-15 | S26–S27 | 2 |
+| B8-16 | S28–S29 | 2 |
+| B8-17 | S30–S31 | 2 |
+| B8-18 | S32–S33 | 2 |
+| B8-19 | S34–S37 | 4 |
+| B8-20 | S38–S40 | 3 |
+| B8-21 | S41–S43 | 3 |
+| B8-22 | S44 | 1 |
+| B8-23 | S45 | 1 |
+| B8-24 | S46–S49 | 4 |
+| B8-25 | S50–S52 | 3 |
+| B8-26 | S53–S58 | 6 |
+| B8-27 | S59–S62 | 4 |
+| B8-28 | S63 | 1 |
+| **合计** | **S1–S63** | **63** |
+
+**未覆盖句数：0** ✓
+**分镜总数：28**
+

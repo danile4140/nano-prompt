@@ -1,0 +1,57 @@
+# 批次 B8_1_4
+
+## 分镜 B8-1
+
+**覆盖句**：S1
+**原文**：
+- S1. None of the boats in the port of New York were leaving before 14 December; too late to arrive at the Reform Club before eight forty-five on 21 December.
+  译：纽约港口的任何船只都不会在12月14日之前出发；这意味着他们将无法在12月21日晚上八点四十五分前赶到改革俱乐部。
+
+**节拍分析**：单一叙述句，纽约港口，白天，交代困境（时间压力）。无对话，无前后状态变化，单一信息点。
+**场景环境**：纽约港口，白天
+
+---
+
+
+## 分镜 B8-2
+
+**覆盖句**：S2–S4
+**原文**：
+- S2. Passepartout was very upset.
+  译：帕斯帕图非常沮丧。
+- S3. They were only forty-five minutes late and he was certain it was his fault.
+  译：他们只迟到了四十五分钟，而他确信这是他的过错。
+- S4. Phileas Fogg did not want Passepartout to feel responsible and he simply said, 'We'll see what happens tomorrow.'
+  译：菲利亚斯·福格不想让帕斯帕图感到自责，他平静地说："明天再说吧。"
+
+**节拍分析**：S2–S3 同一情绪节拍（帕斯帕图自责）；S4 福格安慰（同一场景、同一话题、无情绪反转，渐进推进）。3 句，≤4，无需拆分。对话为简短单回合安慰，无触发-转折结构。
+**场景环境**：纽约港口或附近街道，白天，带有沮丧/安慰情绪
+
+---
+
+
+## 分镜 B8-3
+
+**覆盖句**：S5
+**原文**：
+- S5. The next day at midday on 12 December, with just nine days, thirteen hours and forty-five minutes to return to London, Phileas Fogg went to look for a ship – large or small – to take them across the Atlantic.
+  译：第二天中午12月12日，距离返回伦敦只剩九天十三小时四十五分钟，菲利亚斯·福格出发寻找一艘船——无论大小——带他们横渡大西洋。
+
+**节拍分析**：明确时间跳跃（"the next day"），新场景，新动作。独立节拍。
+**场景环境**：纽约港口，白天正午，12月12日
+
+---
+
+
+## 分镜 B8-4
+
+**覆盖句**：S6
+**原文**：
+- S6. After trying several ships with no success, he spoke to the captain of a cargo ship, the Henrietta.
+  译：试过几艘船均未成功后，他找到了一艘货船亨利埃塔号的船长。
+
+**节拍分析**：叙事过渡句，引出关键人物（船长），叙事焦点切换至亨利埃塔号。单独节拍，为后续对话建立入场。
+**场景环境**：纽约港口码头，白天
+
+---
+

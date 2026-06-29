@@ -1,0 +1,67 @@
+# 批次 B6_9_12
+
+## 分镜 B6-9
+
+**归属句子**：S22–S23
+
+S22: However, about nine o'clock the next morning, the train stopped.
+译：然而，第二天早上约九点，火车停了下来。
+
+S23: To their amazement it was not because of the snow but because hundreds of buffalos were crossing the tracks in front of the train.
+译：令他们惊讶的是，不是因为雪，而是因为数百头野牛正在穿越铁轨。
+
+**节拍分析**：S22–S23 次日早晨，火车停+野牛出现，时间节拍新开，2 句合并。
+
+---
+
+
+## 分镜 B6-10
+
+**归属句子**：S24–S26
+
+S24: Passepartout became very impatient.
+译：帕斯帕图变得非常不耐烦。
+
+S25: 'I can't believe this!' he shouted.
+译：「真不敢相信！」他喊道。
+
+S26: 'This country has a modern railway and the train must stop for a group of animals!'
+译：「这个国家有现代铁路，火车居然要为一群动物停下来！」
+
+**节拍分析**：S24–S26 帕斯帕图的情绪爆发（同一人、同一情绪、连续台词），属同一叙事节拍，合并。含情绪词（shouted/impatient），需情绪标记。
+
+---
+
+
+## 分镜 B6-11
+
+**归属句子**：S27–S29
+
+S27: The train driver told them he had no choice.
+译：火车司机告诉他们没有办法。
+
+S28: The buffalos were not moving and they could damage the engine.
+译：野牛不肯移动，它们可能会损坏发动机。
+
+S29: They had to wait until the buffalos moved across the tracks – three hours later!
+译：他们不得不等待，直到野牛穿过铁轨——三小时后！
+
+**节拍分析**：S27–S29 司机解释原因+等待三小时结果，同一叙事节拍（野牛阻路，等待结果），3 句合并。无情绪反转，属同一基调（无奈等待）。
+
+---
+
+
+## 分镜 B6-12
+
+**归属句子**：S30–S31
+
+S30: As they went through the mountains in Wyoming, Phileas Fogg taught Mrs Aouda how to play cards.
+译：当他们穿越怀俄明山区时，菲利亚斯·福格教奥达夫人打牌。
+
+S31: Mrs Aouda was a very patient learner, and they were soon so occupied with their games that they did not even seem to notice the deep ravines below them.
+译：奥达夫人是个非常有耐心的学生，他们很快就沉浸在牌局中，甚至似乎没有注意到脚下深邃的峡谷。
+
+**节拍分析**：S30–S31 同场景（火车车厢，怀俄明山区），同一视觉焦点（福格与奥达夫人），情绪基调（温馨），2 句合并。场景指纹：火车车厢+窗外峡谷。需体现空间对比（牌局温馨 vs 窗外危险峡谷），可用主画面+画中画或左右二分。
+
+---
+

@@ -1,0 +1,75 @@
+# 批次 B5_29_32
+
+## 分镜 B5-29
+
+覆盖句子：S101-S103（3句）
+节拍说明：高潮揭晓（身份揭晓B类）——帕斯帕图跑向某人（S101，悬念保持），揭晓是Fogg（S102，身份揭晓），叙事者设问引导闪回（S103），3句合规。
+
+S101: Passepartout was running towards someone in the audience, someone he was very happy to see.
+译：帕斯帕图正在朝观众席中的某人跑去，那是一个让他非常高兴见到的人。
+
+S102: It was his old employer, Phileas Fogg.
+译：那正是他的老雇主，菲利亚斯·福格。
+
+S103: But how did he get there?
+译：但他是怎么到这里来的呢？
+
+---
+
+
+## 分镜 B5-30
+
+覆盖句子：S104-S107（4句）
+节拍说明：闪回解释（时间跳跃"a week later"）——Fogg到横滨，查乘客名单找到帕斯帕图名字（S104），想在船离港前找到他（S105），Fix被迫同行成为「朋友」（S106-S107），4句合规。
+
+S104: When Fogg and Mrs Aouda arrived in Yokohama a week later, they spoke to the captain of the Carnatic and found Passepartout's name among the list of passengers, but his ticket only took him to Yokohama.
+译：一周后，福格和奥达女士抵达横滨，与卡那提克号船长交谈，在乘客名单中发现了帕斯帕图的名字，但他的船票只到横滨为止。
+
+S105: Phileas Fogg and Mrs Aouda wanted to find Passepartout before the ship left for its next destination - San Francisco.
+译：菲利亚斯·福格和奥达女士想在船驶向下一站旧金山之前找到帕斯帕图。
+
+S106: Inspector Fix, on the other hand, had no choice.
+译：另一方面，费克斯侦探别无选择。
+
+S107: He went with them and became their 'friend'.
+译：他跟着他们一起行动，成了他们的「朋友」。
+
+---
+
+
+## 分镜 B5-31
+
+覆盖句子：S108-S113（6句）
+节拍说明：全城寻找帕斯帕图→商量决定去马戏团——找遍全城未果（S108），Fogg提议去马戏（S109，新决定），对话建议（S110-S112，Fogg说），Fix和奥达同意（S113），6句满足上限。已扫描5对相邻句（S108-S109、S109-S110、S110-S111、S111-S112、S112-S113），四维度：同一场景（横滨城市），同一话题（找帕斯帕图），情绪从沮丧→新希望属渐进推进，无明显反转，无时间跳跃，无视觉焦点切换，保留。
+
+S108: They looked all over the city but they could not find him anywhere.
+译：他们找遍了整座城市，却哪里都找不到他。
+
+S109: In the end, Phileas Fogg decided he wanted to go and see the circus.
+译：最后，菲利亚斯·福格决定去看马戏团演出。
+
+S110: 'We haven't much time left in the city.
+译：「我们在城里的时间已经不多了。
+
+S111: Let's go and see the circus.
+译：去看马戏团吧。
+
+S112: I believe it's very good,' he told the others.
+译：我相信那里很精彩，」他告诉其他人。
+
+S113: Mr Fix and Mrs Aouda agreed.
+译：费克斯先生和奥达女士都表示同意。
+
+---
+
+
+## 分镜 B5-32
+
+覆盖句子：S114（1句）
+节拍说明：叙事高潮D类（情感高潮/意外反转）——帕斯帕图在演出中发现Fogg，立刻冲下舞台，造成人塔全部倒塌。这是整章的情感顶点，视觉信息密度极高，独立成镜。高潮加密：至少2个视觉承载点（帕斯帕图认出Fogg的时刻 + 冲下舞台人塔倒塌结果）。
+
+S114: Phileas Fogg did not see his manservant among the acrobats, but his manservant certainly saw him, and he left everyone else in the human pyramid in a big group of arms and legs on the floor.
+译：菲利亚斯·福格没有在杂技演员中认出他的仆人，但他的仆人却一眼认出了他，随即抛下人塔中的所有人，让他们乱成一团手脚交错倒在地上。
+
+---
+

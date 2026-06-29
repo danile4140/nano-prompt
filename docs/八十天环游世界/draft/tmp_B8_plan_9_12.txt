@@ -1,0 +1,57 @@
+# 批次 B8_9_12
+
+## 分镜 B8-9
+
+**覆盖句**：S14–S15
+**原文**：
+- S14. 'Two thousand dollars each?' he repeated, amazed at such a generous offer. He scratched his head. Why was this man offering him so much money? Did he have something to hide? It was a lot of money.
+  译："每人两千美元？"他重复道，对这份慷慨的报价惊讶不已。他挠了挠头。这个人为什么要给这么多钱？他是否有什么要隐瞒？这可是一大笔钱。
+- S15. He agreed. 'The ship leaves at nine,' he said.
+  译：他同意了。"船九点出发，"他说。
+
+**节拍分析**：S14 = 船长的内心反应与迷惑（amazed）；S15 = 最终同意并确认出发时间。同一角色（船长）的连续心理过渡→决定，无焦点切换，无时间跳跃。2 句≤4，保留。注意：S14 含情绪词"amazed"，触发情绪标记（中度：惊讶/疑惑）。
+**场景环境**：纽约港口码头，白天
+
+---
+
+
+## 分镜 B8-10
+
+**覆盖句**：S16
+**原文**：
+- S16. Two hours later our four travelers were on the Henrietta and they were leaving the port of New York on their way to Bordeaux.
+  译：两小时后，四位旅行者登上了亨利埃塔号，船正从纽约港出发，驶向波尔多。
+
+**节拍分析**：明确时间跳跃（"Two hours later"），场景从码头转为船只出港，独立节拍。
+**场景环境**：纽约港口，傍晚/下午，四人登船出发
+
+---
+
+
+## 分镜 B8-11
+
+**覆盖句**：S17
+**原文**：
+- S17. The next day, on 13 December, Phileas Fogg was the new captain of the ship, and the Henrietta was going to Bordeaux.
+  译：第二天，12月13日，菲利亚斯·福格成了这艘船的新船长，亨利埃塔号正驶向波尔多。
+
+**节拍分析**：明确时间跳跃（"the next day"），重大戏剧性事件（福格成为船长）。独立节拍。叙事功能：悬念——船驶向波尔多，但下一镜揭晓真相。
+**场景环境**：亨利埃塔号甲板，白天，12月13日
+
+---
+
+
+## 分镜 B8-12
+
+**覆盖句**：S18–S19
+**原文**：
+- S18. However, Phileas Fogg gave the sailors some money and they agreed to go to Liverpool instead.
+  译：然而，菲利亚斯·福格给了船员们一些钱，他们同意改道前往利物浦。
+- S19. The crew locked the captain in his cabin, and he was now in there shouting and trying to free himself unsuccessfully.
+  译：船员们把船长关进了船舱，他在里面大喊大叫，拼命想挣脱出来，却徒劳无功。
+
+**节拍分析**：S18 = 福格行贿船员（触发）；S19 = 船长被关入舱（直接结果/执行）。因果相连，同一时间空间序列，无情绪/焦点切换。2 句≤4，合并。这是计谋执行的关键动作对。
+**场景环境**：亨利埃塔号甲板/舱内，白天
+
+---
+

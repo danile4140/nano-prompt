@@ -1,0 +1,78 @@
+# 批次 B5_5_8
+
+## 分镜 B5-5
+
+覆盖句子：S13-S15（3句）
+节拍说明：帕斯帕图解释船提前出发的消息（S13-S14，同一说话方连续），Fix提出陪走（S15，回合切换），共2回合对话。
+
+S13: 'I need to go back to the hotel to tell my master that the Carnatic, isn't leaving tomorrow morning.
+译：「我需要回酒店告诉我的主人，卡那提克号明天早上不会出发了。
+
+S14: The repairs are complete and the ship is going to leave tonight.'
+译：修理已经完成，船今晚就要启航。」
+
+S15: 'Oh, I understand, but let me walk with you on the way to your hotel,' said Inspector Fix.
+译：「哦，我明白了，但请让我陪你一起走到酒店吧，」费克斯侦探说。
+
+---
+
+
+## 分镜 B5-6
+
+覆盖句子：S16-S18（3句）
+节拍说明：叙述过渡+情绪锚点切换——两人聊天（S16，叙事过渡）→Fix突然有了主意（S17，新的戏剧性事件/情绪转折）→Fix内心独白（S18，心理），三者构成"普通陪走→阴谋萌生"的叙事节拍转折，独立成镜。
+
+S16: The two men talked about Hong Kong, and their journey.
+译：两人边走边聊，谈起香港，谈起各自的旅程。
+
+S17: Suddenly Fix had an idea.
+译：突然，费克斯脑中闪过一个主意。
+
+S18: 'Maybe I can stop Passepartout from telling Phileas Fogg about the ship, and then the ship will leave without him!' he thought to himself.
+译：「也许我能阻止帕斯帕图把消息告诉菲利亚斯·福格，这样船就会在没有他的情况下开走！」他心中暗想。
+
+---
+
+
+## 分镜 B5-7
+
+覆盖句子：S19-S24（6句）
+节拍说明：触发-转折结构（规则4条件B）——Fix发出邀请喝酒（S19-S23，同一说话方连续劝说，5句连续独白无四维度切换）→帕斯帕图接受（S24，转折/接受）。6句满足上限，豁免：已扫描5对相邻句（S19-S20、S20-S21、S21-S22、S22-S23、S23-S24），四维度均无切换（Fix全程劝说同一话题，S24为帕斯帕图接受，无空间/时间/情绪锚点切换），保留。构图需拆2格（劝酒格+接受格）以体现条件B因果链。
+
+S19: 'It's still early,' Inspector Fix began.
+译：「现在还早，」费克斯侦探开口说道。
+
+S20: 'Why don't we have a drink, Monsieur Passepartout?
+译：「何不我们去喝一杯呢，帕斯帕图先生？
+
+S21: I know a nice place near the hotel.
+译：我知道酒店附近有个好地方。
+
+S22: I'm sure we can stop for a drink.
+译：我相信我们可以停下来喝一杯。
+
+S23: It's difficult to find a good friend to talk to after such a long journey away from home.'
+译：离家这么久的旅途中，能找到一个好朋友聊天真是难得。」
+
+S24: 'Well, just one drink...' said Passepartout, who was enjoying his conversation with Inspector Fix.
+译：「好吧，就一杯……」帕斯帕图说，他一直很享受与费克斯侦探的谈话。
+
+---
+
+
+## 分镜 B5-8
+
+覆盖句子：S25-S27（3句）
+节拍说明：计谋执行链（规则4条件C）——S25进入酒吧（布局完成）→S26下迷药（执行）→S27帕斯帕图醉倒（结果），3步骤相互依赖，必须多格承载。
+
+S25: When they were inside the bar the detective's plan was complete.
+译：当他们走进酒吧时，侦探的计划已经完整成形了。
+
+S26: He ordered the drinks and asked the barman to make a very strong drink for Passepartout.
+译：他点了饮料，并让调酒师为帕斯帕图调制一杯非常烈的酒。
+
+S27: Less than an hour later Passepartout was drunk and fell asleep at the table.
+译：不到一个小时，帕斯帕图就醉倒，趴在桌上睡着了。
+
+---
+

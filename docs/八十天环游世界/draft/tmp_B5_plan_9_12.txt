@@ -1,0 +1,72 @@
+# 批次 B5_9_12
+
+## 分镜 B5-9
+
+覆盖句子：S28-S29（2句）
+节拍说明：Fix计谋得逞后的得意独白，同一角色同一情绪同一空间，2句合规。情绪标记：强度：中，类型：喜悦（得意），推荐视觉手段：Fix站在醉倒的帕斯帕图旁边，夸张满意表情+对白气泡。
+
+S28: 'Ah! Phileas Fogg will never know about the ship now,' he said to himself.
+译：「啊！菲利亚斯·福格现在永远不会知道船的消息了，」他自言自语道。
+
+S29: 'And, now Mr Fogg, I just need to wait until I have the warrant for your arrest, and it won't be long now, you can be certain of that!'
+译：「而且，福格先生，我现在只需要等到逮捕令到手，时日不多了，你可以对此深信不疑！」
+
+---
+
+
+## 分镜 B5-10
+
+覆盖句子：S30-S32（3句）
+节拍说明：时间跳跃（"The next day"）触发新分镜——Fogg在酒店醒来，发现帕斯帕图不见，自行收拾行李，前往港口。S30-S31为酒店室内，S32为出发去港口，涉及空间位移，但属同一"出发"节拍连续动作链，3句合规。
+
+S30: The next day, when Phileas Fogg woke up, he was a little surprised to see that Passepartout was not there.
+译：第二天，菲利亚斯·福格醒来时，发现帕斯帕图不在，颇感意外。
+
+S31: He packed the suitcases himself and paid the hotel bill.
+译：他自己收拾行李，并结清了酒店账单。
+
+S32: Then he went straight to the port with Mrs Aouda.
+译：然后他与奥达女士直奔港口而去。
+
+---
+
+
+## 分镜 B5-11
+
+覆盖句子：S33-S36（4句）
+节拍说明：港口场景——发现帕斯帕图和卡那提克号都不在（S33-S34），Fogg表现出超乎寻常的镇静（S35，人物属性），转而询问其他船长（S36，新行动），同一场景同一情绪基调（Fogg镇定应对），4句合规。
+
+S33: But Passepartout was not there.
+译：但帕斯帕图并不在那里。
+
+S34: 'How strange!' thought Phileas Fogg, but he showed no surprise to find that the Carnatic was not at the port.
+译：「真奇怪！」菲利亚斯·福格心想，但当他发现卡那提克号也不在港口时，他没有表现出任何惊讶。
+
+S35: In fact, he did not seem worried about the departure of the ship or his manservant.
+译：事实上，他似乎对船的离港或仆人的失踪毫不担忧。
+
+S36: Instead he went to speak to the captains of the different boats in the port.
+译：相反，他走去与港口里各艘船的船长交谈。
+
+---
+
+
+## 分镜 B5-12
+
+覆盖句子：S37-S40（4句）
+节拍说明：视角在Fix跟踪Fogg——Fix跟随（S37），叙事交代卡那提克号已走（S38），Fix心中疑问（S39），看见Fogg雇小船（S40，新的戏剧性事件）。同一场景（香港港口），Fix视角，4句合规。
+
+S37: Inspector Fix, who was waiting for Phileas Fogg, followed behind.
+译：一直在等候菲利亚斯·福格的费克斯侦探跟在后面。
+
+S38: The Carnatic was on its way to Yokohama.
+译：卡那提克号已经在前往横滨的途中了。
+
+S39: What was Phileas Fogg's new plan?
+译：菲利亚斯·福格的新计划是什么？
+
+S40: Fix saw him pay the captain of a small ship, who agreed to leave immediately.
+译：费克斯看见他付钱给一艘小船的船长，那位船长同意立即出发。
+
+---
+

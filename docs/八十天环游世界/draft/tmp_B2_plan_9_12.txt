@@ -1,0 +1,75 @@
+# 批次 B2_9_12
+
+### B2-9
+
+**覆盖句子：**
+- S26: They all looked at one another.
+  译：众人互相对望。
+- S27: They could not decide if he was serious.
+  译：他们无法判断他是否认真。
+- S28: "We agree," they said.
+  译："我们同意，"众人说道。
+
+**节拍分析：** 条件B（触发-转折因果链）：S26–S27=众人犹豫（心理状态），S28=宣布接受（结果）。情绪从犹豫→决定，有因果依赖。但三句仍属同一叙事节拍（集体反应→集体决定），可用多格构图内部表达。句数=3，符合上限。
+
+**构图决策：** 前→后状态变化（犹豫→接受），同时多人的集体反应。使用**左右二分2:1**：左格较大=众人面面相觑的集体反应（主格），右格较小=众人齐声"We agree"（结果格）。
+
+**character_refs:** ["C1", "C5", "C6"]
+**scene_refs:** ["S4"]
+
+---
+
+
+### B2-10
+
+**覆盖句子：**
+- S29: "Good. I'll take the train for Dover at a quarter to nine this evening. The bet starts as from…" Phileas Fogg took a small notebook and pencil from his pocket and made a note:
+  译："好。今晚八点四十五分我乘火车去多佛尔。赌注从……"菲利亚斯·福格从口袋里掏出一个小笔记本和铅笔，记下了一行字：
+- S30: 2 October, 8:45p.m.
+  译：10月2日，晚上8:45
+- S31: "And I will return here to the Reform Club at eight forty-five on Saturday 21 December. If I am not here by that time, this cheque for twenty thousand pounds is yours, gentlemen."
+  译："我将在12月21日，星期六晚上八点四十五分回到改革俱乐部。如果届时我不在，这张两万英镑的支票就是你们的了，先生们。"
+
+**节拍分析：** 三句均为福格的宣告动作链（一段连续独白+道具动作），同一时刻、同一焦点、同一空间，叙事权重均属福格。句数=3，符合上限。
+
+**构图决策：** 单一说话者连续动作（掏笔记本→记日期→宣告归期）。使用**主画面+画中画**：主画面为福格在牌戏室宣告，左下角圆形画中画特写笔记本上的日期"2 Oct 8:45"。
+
+**character_refs:** ["C1", "C5", "C6"]
+**scene_refs:** ["S4"]
+
+---
+
+
+### B2-11
+
+**覆盖句子：**
+- S32: And with these words he left the cheque for twenty thousand pounds on the table, picked up his hat and went out of the door.
+  译：说完这番话，他把两万英镑的支票留在桌上，拿起礼帽，走出了房门。
+
+**节拍分析：** 单一动作节拍（福格戏剧性退场）。情绪高潮节点（E类：重要宣告执行的戏剧性离场）。句数=1。
+
+**构图决策：** 叙事高潮动作，单格中心聚焦：福格背影走向门口，桌上支票特写用卫星格（圆形画中画下角）承载，众人目送的反应在主画面后景可见。使用**主导格+卫星格**：主格=福格背身走向出口，左下角圆形画中画=支票特写。
+
+**character_refs:** ["C1", "C5", "C6"]
+**scene_refs:** ["S4"]
+
+---
+
+
+### B2-12
+
+**覆盖句子：**
+- S33: At ten to eight his manservant was surprised to see his new employer come through the door.
+  译：七点五十分，他的仆人惊讶地看到新雇主走进门来。
+- S34: "Passepartout, we're leaving in ten minutes. We're taking a train to Dover," he said. "From there, a boat leaves for Calais at eleven o'clock tonight. We're going to go around the world – in eighty days. We haven't another second to lose."
+  译："帕斯帕图，我们十分钟后出发。我们要乘火车去多佛尔，"他说，"从那里，今晚十一点有船去加莱。我们要环游世界——在八十天内。我们没有一秒可以浪费了。"
+
+**节拍分析：** 条件B（触发-回应）：S33=帕斯帕图惊讶看到雇主（触发/震惊），S34=福格下达出发令（宣告）。场景跳变（从俱乐部→萨维尔街书房），叙事进入新阶段（条件D）。句数=2，符合上限。
+
+**构图决策：** 场景新开（书房）+触发-宣告结构。使用**左右二分对话双格2:1**：左格较小=帕斯帕图惊讶反应（被说话方，震惊更重要→主格），右格较大=福格从容站立宣告（说话方占主格）。注：被说话方反应是关键（震惊时刻），按对话比例映射规则，被说话方占主格——故左格占大（帕斯帕图惊讶2格），右格占小（福格宣告1格），即2:1帕斯帕图为主。
+
+**character_refs:** ["C1", "C2"]
+**scene_refs:** ["S1"]
+
+---
+

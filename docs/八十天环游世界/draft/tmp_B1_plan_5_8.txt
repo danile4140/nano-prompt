@@ -1,0 +1,65 @@
+# 批次 B1_5_8
+
+### B1-5（S16–S19）：福格的日常时间表
+**句子：**
+- S16: He has lunch at the Reform Club every day, in the same room, at the same table.
+  译：他每天在改革俱乐部用午餐，总是同一个房间、同一张桌子。
+- S17: He goes home at midnight.
+  译：他在午夜回家。
+- S18: He lives in his house in Savile Row, a good address in central London.
+  译：他住在萨维尔街的房子里，那是伦敦市中心一个体面的地址。
+- S19: No one ever goes there, except his manservant, who must always be on time and be completely loyal to Phileas Fogg.
+  译：没有人去那里，除了他的男仆——他的男仆必须随时守时，对菲利亚斯·福格绝对忠诚。
+
+**节拍分析：** 时间跨度覆盖午餐→午夜回家→萨维尔街住所，空间从俱乐部→住宅，但这是叙事旁白的时间表描述，焦点稳定在"福格的日常规律"这一单一话题，无情绪反转。4句，无超限。用时间轴序列条体现多时间节点。
+**character_refs：** ["C1"]
+**scene_refs：** ["S3","S4","S1"] （俱乐部餐厅/牌戏室/书房，时间序列条）
+**构图方向：** 横排序列条（3格：午餐→回家路→书房深夜）
+
+---
+
+
+### B1-6（S20–S21）：前任男仆被解雇——故事开端
+**句子：**
+- S20: In fact, this very morning, his manservant lost his job because the water he brought Phileas Fogg was too hot to shave with.
+  译：事实上，就在今天早上，他的男仆因为端来的水太烫、无法用来刮胡子而丢了工作。
+- S21: And this is where our story begins.
+  译：我们的故事就从这里开始。
+
+**节拍分析：** 话题从"日常规律描述"切换到"具体戏剧事件"（男仆被解雇），情绪从中性描述→叙事引入点（戏剧性开端）。必拆（条件D：叙事阶段边界——"背景描述"→"故事开始"）。2句，无超限。
+**character_refs：** ["C1"]
+**scene_refs：** ["S1"] （书房，剃须场景）
+**构图方向：** 主画面（福格皱眉盯着热水盆）+ 画中画特写（水冒热气/蒸汽）
+
+---
+
+
+### B1-7（S22–S24）：福格坐等新男仆，看时钟
+**句子：**
+- S22: Phileas Fogg was sitting in his armchair waiting for his new manservant at some time between eleven and half past eleven.
+  译：菲利亚斯·福格坐在扶手椅上，在十一点到十一点半之间的某个时刻等待他的新男仆。
+- S23: At exactly half past eleven Mr Fogg goes to the Reform Club.
+  译：十一点半整，福格先生准时前往改革俱乐部。
+- S24: He looked up at the hands of the large clock by the wall that counted every second with a loud tick.
+  译：他抬头望向墙边那口大钟——那钟每一秒都发出响亮的嘀嗒声。
+
+**节拍分析：** 同一场景（书房），同一焦点（福格等待），时间细节集中描写。3句，无超限。S24视线转向时钟，可用画中画特写承载。
+**character_refs：** ["C1"]
+**scene_refs：** ["S1"] （书房）
+**构图方向：** 单格（路径动线单格）：福格坐于高背椅，视线引向墙上大钟，钟面作为视觉焦点。
+
+---
+
+
+### B1-8（S25）：帕斯帕图入门
+**句子：**
+- S25: There was a knock at the door and a young man of about thirty came in.
+  译：门被敲响，一个约三十岁的年轻人走了进来。
+
+**节拍分析：** 新角色登场（帕斯帕图），戏剧性事件（新人物首次出现），必须独立成镜（条件D：叙事阶段边界——等待→登场）。1句。
+**character_refs：** ["C1","C2"]
+**scene_refs：** ["S1"] （书房）
+**构图方向：** 过肩视角（从福格背后看向开门进来的帕斯帕图）
+
+---
+

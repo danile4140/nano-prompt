@@ -1,0 +1,75 @@
+# 批次 B1_1_4
+
+### B1-1（S1–S4）：福格人物总介绍
+**句子：**
+- S1: Let me begin by introducing a mysterious English gentleman called Phileas Fogg.
+  译：让我从介绍一位神秘的英国绅士开始——他叫菲利亚斯·福格。
+- S2: Most people don't know very much about him, but because he does the same thing every day, some people think they know everything about him.
+  译：大多数人对他所知甚少，但因为他每天做的事情都一模一样，有些人以为自己对他了如指掌。
+- S3: He is very handsome and he is a true gentleman.
+  译：他非常英俊，是个真正的绅士。
+- S4: He is certainly rich, but no one knows how he made his money.
+  译：他无疑很富有，但没有人知道他是如何积累财富的。
+
+**节拍分析：** 叙事旁白介绍同一人物，同一情绪基调（神秘）、无空间切换、无时间推进。4句，无超限。单一节拍块。
+**character_refs：** ["C1"]
+**scene_refs：** [] （人物介绍旁白，无具体场景）
+**构图方向（阶段一标注）：** 人物全景+旁白介绍风格，中心聚焦，展示福格形象。
+
+---
+
+
+### B1-2（S5–S8）：福格的旅行之谜
+**句子：**
+- S5: Has he ever been to another country?
+  译：他去过其他国家吗？
+- S6: He can name a lot of countries on a world map and he knows the most incredible things about them.
+  译：他能在世界地图上说出很多国家的名字，也知道关于这些国家令人叹为观止的事情。
+- S7: He probably travelled at one time, but some people insist that he has not left London for many years.
+  译：他也许曾经旅行过，但有些人坚持认为他已经多年没有离开伦敦了。
+- S8: Maybe he only travels in his head.
+  译：也许他只是在脑海中旅行。
+
+**节拍分析：** 话题从人物外貌/财富切换到"旅行之谜"，S8触发想象视觉（脑海中旅行）。4句，无超限。单一节拍，情绪转向好奇/神秘。
+**character_refs：** ["C1"]
+**scene_refs：** [] （地图+人物想象画面，无具体室内场景）
+**构图方向：** 主画面（福格手指地图）+ 云状气泡（想象旅行画面）
+
+---
+
+
+### B1-3（S9–S10）：私人性格与俱乐部习惯
+**句子：**
+- S9: He is a very private man and he does not have many friends.
+  译：他是个非常内敛的人，没有多少朋友。
+- S10: The only time he speaks to other people is at the Reform Club, where he goes to read newspapers and play cards.
+  译：他唯一与他人交谈的时间是在改革俱乐部——他去那里读报纸、打牌。
+
+**节拍分析：** S9描述私人性格，S10空间切换到改革俱乐部（视觉焦点从抽象性格到具体地点），构成可切边界（从B1-2的话题"旅行谜团"→"社交习惯"）。从原来B1-3拆出，2句。
+**character_refs：** ["C1"]
+**scene_refs：** ["S3"] （改革俱乐部阅报厅）
+**构图方向：** 左右二分：左格（福格在家，孤独形象）/右格（改革俱乐部全景，福格读报）
+
+---
+
+
+### B1-4（S11–S15）：牌局哲学——不为赢而玩
+**句子：**
+- S11: He does not play to win.
+  译：他打牌不是为了赢。
+- S12: He plays for the enjoyment of the game.
+  译：他打牌是为了享受游戏本身。
+- S13: He often wins, but he does not keep the money.
+  译：他经常赢，但他不留下赢来的钱。
+- S14: He gives it to charity.
+  译：他把赢来的钱捐给慈善机构。
+- S15: He likes to see his games as a challenge; a challenge that does not require any physical effort.
+  译：他喜欢把牌局视为一种挑战——一种不需要任何体力付出的挑战。
+
+**节拍分析：** 同一场景（改革俱乐部牌戏室），同一话题（牌局态度），同一情绪基调（从容自信），无视觉焦点切换，无时间推进，无空间位移，无情绪基调转变。5句符合豁免条件（四维度均无切换，已逐对扫描：S11→S12→S13→S14→S15，全程牌桌，无切换）。
+**character_refs：** ["C1"]
+**scene_refs：** ["S4"] （改革俱乐部牌戏室）
+**构图方向：** 主导格（福格在牌桌神情泰然）+ 卫星格（手持赢得筹码/钱币→指向慈善捐出的手势）
+
+---
+

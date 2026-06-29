@@ -1,0 +1,83 @@
+# 批次 B2_1_4
+
+### B2-1
+
+**覆盖句子：**
+- S1: Every day, Phileas Fogg left his house at half past eleven.
+  译：每天，菲利亚斯·福格都在十一点半离开家。
+- S2: He put his right foot in front of his left foot 575 times – he knew the exact length of every step – and he put his left foot in front of his right foot 576 times before arriving at the steps of the Reform Club.
+  译：他右脚迈在左脚前575次——他知道每一步的精确长度——然后左脚迈在右脚前576次，才到达改革俱乐部的台阶。
+
+**节拍分析：** 同一时刻（每日例行出发）、同一焦点（福格的步行动作）、同一空间（从家到俱乐部的路上）。两句属同一节拍块，核心意象是"精确步数走向俱乐部"。句数=2，满足上限。
+
+**构图决策：** 单格无法同时表达"精确步数"的量感（575+576的数字意象）和"从家门到俱乐部"的路径移动。使用**路径/S形动线组织**：单格，福格从画面左下角（萨维尔街门口）沿街道路径向右上方（俱乐部台阶）行进，路径上方用简笔数字"575+576"暗示步数。
+
+**character_refs:** ["C1"]
+**scene_refs:** ["S3"]（改革俱乐部阅报厅作为目的地锚点；萨维尔街到俱乐部街道外景由画面路径呈现）
+
+---
+
+
+### B2-2
+
+**覆盖句子：**
+- S3: He usually waited a little before having lunch at thirty minutes to one.
+  译：他通常会稍作等候，在十二点三十分用午餐。
+- S4: Then he went to the lounge room where he spent the afternoon reading the newspapers.
+  译：然后他去休息室，整个下午都在那里阅读报纸。
+- S5: At five o'clock he had afternoon tea and at twenty to six it was time to go to the Games Room to play cards with other wealthy and respected members of the club, like Sir Ralph Gautier and Andrew Sutart.
+  译：五点喝下午茶，五点二十去牌戏室与俱乐部其他富有而受人尊敬的成员打牌，例如拉尔夫·高蒂爵士和安德鲁·斯图亚特。
+
+**节拍分析：** 三句均为连续时间序列的日常活动（午餐→阅报→下午茶→牌戏），视觉焦点持续为福格，地点均在俱乐部内，情绪基调一致（从容有序）。属同一节拍块。句数=3，满足上限。
+
+**构图决策：** 三个时间节点（午餐/阅报/牌戏室），信息跨越时间且多焦点——使用**横排序列条**（三格）：左格=福格午餐，中格=福格阅报，右格=福格在牌戏室与众人坐定。
+
+**character_refs:** ["C1", "C5", "C6"]
+**scene_refs:** ["S3", "S4"]（阅报厅S3承载S3/S4，牌戏室S4承载S5）
+
+---
+
+
+### B2-3
+
+**覆盖句子：**
+- S6: On this particular day Andrew Stuart started to read a story to them from the evening newspaper about a robbery at the Bank of England.
+  译：就在这一天，安德鲁·斯图亚特开始从晚报上朗读一篇关于英格兰银行劫案的报道。
+- S7: The robbery took place on 29 September.
+  译：抢劫发生在9月29日。
+- S8: The thief stole fifty-five thousand pounds while the head cashier was busy writing a receipt for just a few pence.
+  译：小偷趁首席出纳员忙着为几便士开收据时，盗走了五万五千英镑。
+- S9: England's best detectives were looking for the thief after hearing that the Bank of England was offering a reward of two thousand pounds to the person who was able to catch the thief.
+  译：英格兰最好的侦探们正在追缉此人，因为英格兰银行悬赏两千英镑给能抓住窃贼的人。
+- S10: From the first investigations into the robbery they knew only one thing for certain: he was an elegant, well-spoken gentleman.
+  译：从最初的调查中，他们只确定了一件事：窃贼是位衣着考究、谈吐优雅的绅士。
+
+**节拍分析：** S6是"安德鲁读报"的动作触发，S7–S10均是报纸内容的信息展示（叙述视角保持在俱乐部牌戏室，无场景跳变，无情绪大幅反转，同一话题）。五句候选块，四维度扫描：视觉焦点从安德鲁→报纸内容（信息嵌套），时间推进在报纸内容层（案发日期），情绪基调平稳（陈述案情），空间无位移。S6与S7–S10之间存在"视角嵌套"（现实场景→报纸内容），但可用画中画/云气泡吸收，不必拆镜。句数=5，满足≤6豁免条件（四维度均为叙述性渐进，无明显切换），保留。
+
+**构图决策：** 现实层（安德鲁在牌戏室朗读）+ 视角嵌套（报纸内容要在画面中承载）——使用**主画面+云状气泡内场景**：主画面为安德鲁坐于牌戏室大型手持晚报，主格大；云气泡内展示案情画面（出纳台+大额钞票消失的示意简笔）。
+
+**character_refs:** ["C1", "C5", "C6"]
+**scene_refs:** ["S4"]
+
+---
+
+
+### B2-4
+
+**覆盖句子：**
+- S11: While the other members of the club sat at the table, ready to play their game of cards, Andrew Stuart continued to talk about the robbery.
+  译：其他俱乐部成员坐在桌边准备打牌，而安德鲁·斯图亚特继续谈论那桩劫案。
+- S12: "Where do you think the thief is hiding? He could be anywhere. The world is so big!"
+  译："你觉得那个小偷藏在哪里？他可能在任何地方。世界太大了！"
+- S13: "It isn't so big any more," replied Phileas Fogg.
+  译："世界没那么大了，"菲利亚斯·福格回答道。
+
+**节拍分析：** S11为场景过渡（众人坐定，安德鲁继续说），S12为安德鲁发言，S13为福格首次回应。这是对话节拍（2回合：安德鲁发问→福格回答），说话方切换一次=1次切换，构成对话触发-回应结构。句数=3，符合上限。安德鲁的发问主导（施压、质问）→福格简短有力回应，情绪反差需体现。
+
+**构图决策：** 对话2回合，双方情绪反差明显（安德鲁夸张感叹 vs 福格平静断言）——使用**左右二分对话双格，1:1**（双方情绪均等，互相呈现）：左格=安德鲁大声发问，右格=福格平静回应。
+
+**character_refs:** ["C1", "C5", "C6"]
+**scene_refs:** ["S4"]
+
+---
+

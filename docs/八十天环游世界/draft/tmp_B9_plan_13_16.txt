@@ -1,0 +1,72 @@
+# 批次 B9_13_16
+
+## 分镜 B9-13
+**叙事节拍**：奥达的惊喜反应与喜悦
+**场景环境**：福格宅邸奥达客房，傍晚
+**节拍分析**：S44-S45，奥达对福格表白的惊喜回应（说话方切换：福格→奥达），构成新节拍。情绪：惊喜/喜悦。2句，高潮节点D类延续。
+
+S44: 'Oh…!' said Mrs Aouda with a surprised cry.
+译："哦……！"奥达夫人惊喜地叫了出来。
+
+S45: She was so happy that she put her hand to her heart.
+译：她高兴得将手放在了心口。
+
+---
+
+
+## 分镜 B9-14
+**叙事节拍**：帕斯帕图进入房间，看到两人相依，立刻明白，欢呼
+**场景环境**：福格宅邸奥达客房，傍晚
+**节拍分析**：S46-S49，新角色（帕斯帕图）入镜，场景焦点转移，触发新节拍。S46-S47叙事，S48-S49帕斯帕图对白（同一说话者）。4句，无需拆分。
+
+S46: Passepartout came into the room and saw his master standing close to Mrs Aouda.
+译：帕斯帕图走进房间，看到主人站在奥达夫人旁边。
+
+S47: He understood immediately.
+译：他立刻明白了。
+
+S48: 'This is wonderful news!' he said.
+译："这真是太好的消息了！"他说道。
+
+S49: 'We all need some good news.'
+译："我们大家都需要一些好消息。"
+
+---
+
+
+## 分镜 B9-15
+**叙事节拍**：福格宣布立即结婚，命帕斯帕图去找威尔逊牧师
+**场景环境**：福格宅邸奥达客房，傍晚
+**节拍分析**：S50-S52，说话方切换（帕斯帕图→福格），话题转移（结婚计划），触发新节拍。S50-S52为福格的连续宣告。3句，无需拆分。
+
+S50: 'Yes,' said Phileas Fogg.
+译："是的，"菲利亚斯·福格说道。
+
+S51: 'If you agree Mrs Aouda, we can get married immediately.
+译："如果你同意，奥达夫人，我们可以立刻成婚。
+
+S52: Passepartout, do you know where Reverend Wilson lives?'
+译：帕斯帕图，你知道威尔逊牧师住在哪里吗？"
+
+---
+
+
+## 分镜 B9-16
+**叙事节拍**：帕斯帕图跑去又跑回——带来惊天消息（悬念铺垫）
+**场景环境**：福格宅邸，傍晚（帕斯帕图跑出又回来）
+**节拍分析**：S53-S56，帕斯帕图完成跑步来回（空间位移）并带来"不能结婚"的消息，构成悬念铺垫节拍（情绪从喜悦转向困惑/紧张），触发新节拍。4句，无需拆分。
+
+S53: Passepartout ran to Reverend Wilson's house, but five minutes later, at twenty-five to eight he was already back at the house.
+译：帕斯帕图跑去威尔逊牧师家，但五分钟后，在七点三十五分时他已经回到了家里。
+
+S54: 'Tomorrow morning…' he said out of breath.
+译："明天早上……"他气喘吁吁地说道。
+
+S55: 'You can't get married!'
+译："你们不能结婚！"
+
+S56: 'Why?' asked Phileas Fogg.
+译："为什么？"菲利亚斯·福格问道。
+
+---
+

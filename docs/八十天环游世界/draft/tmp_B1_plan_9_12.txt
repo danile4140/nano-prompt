@@ -1,0 +1,71 @@
+# 批次 B1_9_12
+
+### B1-9（S26–S28）：姓名核实对话
+**句子：**
+- S26: 'You say that you are French, but your name is John?' asked Phileas Fogg, looking at him carefully.
+  译："你说你是法国人，但你的名字是约翰？"菲利亚斯·福格仔细打量着他，问道。
+- S27: 'Jean, sir, not John,' said the young man.
+  译："是让，先生，不是约翰，"年轻人说。
+- S28: 'Jean Passepartout.'
+  译："让·帕斯帕图。"
+
+**节拍分析：** 对话1回合——福格问（S26），帕斯帕图答（S27–S28，同一说话者连续）。2回合内，情绪基调（核实/轻松），同一空间。3句，无超限。
+**character_refs：** ["C1","C2"]
+**scene_refs：** ["S1"]
+**构图方向：** 对话双格（左：福格审视问，右：帕斯帕图自我介绍）；说话方（福格）主导→2:1，福格占主格
+
+---
+
+
+### B1-10（S29–S31）：帕斯帕图自述经历
+**句子：**
+- S29: 'I am an honest man, sir, and I must tell you that I haven't been a manservant all my life.
+  译："先生，我是个诚实的人，我必须告诉您，我这辈子并不是一直做男仆的。
+- S30: I was a physical education teacher and a music teacher; then I became a singer.
+  译：我当过体育老师和音乐老师，后来又当了歌手。
+- S31: I once rode a horse in a circus, and for a time I worked for the fire brigade in Paris.'
+  译：我还在马戏团骑过马，也曾在巴黎的消防队工作过。"
+
+**节拍分析：** 同一说话者（帕斯帕图）的连续独白，无说话方切换，同一话题（自述经历），同一情绪基调（自我介绍，热情）。3句，无超限。
+**character_refs：** ["C2"]
+**scene_refs：** ["S1"]
+**构图方向：** 主导格（帕斯帕图说话，手势夸张）+ 卫星格（列举职业的简笔图标气泡：教师/歌手/马戏骑手/消防队员）
+
+---
+
+
+### B1-11（S32–S36）：帕斯帕图为何来此
+**句子：**
+- S32: 'I found out that a certain Mr Fogg was looking for a manservant.
+  译："我得知有位福格先生在寻找男仆。
+- S33: "He is a very clever, careful man," they told me.
+  译："他们告诉我：'他是个非常聪明、细心的人。'
+- S34: "You won't find a quieter man in all of England.
+  译：'在整个英格兰，你找不到比他更安静的人了。
+- S35: He does the same thing every day."
+  译：他每天做同样的事情。'"
+- S36: And so I came here to ask about the job, in the hope of finally being able to live a quiet life.'
+  译："于是我来这里应聘，希望终于能过上安静的生活。"
+
+**节拍分析：** 同一说话者（帕斯帕图）的连续独白，话题从"自述经历"切换到"来应聘的原因"（新话题，但同一说话方，同一情绪基调——期待安静生活）。5句，已对四维度逐对扫描：S32→S33→S34→S35→S36，说话方未切换，话题稳定（述说来意），情绪未反转，空间未变，视觉焦点未变。5句豁免保留。
+**character_refs：** ["C2"]
+**scene_refs：** ["S1"]
+**构图方向：** 主画面（帕斯帕图讲述，面向福格）+ 云状气泡（想象安静生活的画面）
+
+---
+
+
+### B1-12（S37–S38）：福格确认了解情况
+**句子：**
+- S37: 'Yes, someone at the Reform Club told you this I believe probably the same person who told me about you.
+  译："是的，是改革俱乐部的某人告诉了你这些——我想也是同一个人把你告诉了我。
+- S38: Do you understand what type of person I'm looking for?'
+  译：你明白我在寻找什么样的人吗？"
+
+**节拍分析：** 说话方切换到福格（从帕斯帕图的独白→福格的回应）。新对话回合，视觉焦点切换到福格。2句，无超限。
+**character_refs：** ["C1","C2"]
+**scene_refs：** ["S1"]
+**构图方向：** 对话双格（反打，切换到福格视角）；福格主导（确认、质问）→2:1，福格占主格
+
+---
+

@@ -1,0 +1,69 @@
+# 批次 B5_1_4
+
+## 分镜 B5-1
+
+覆盖句子：S01-S04（4句）
+节拍说明：Fix在香港的处境与心理焦虑，叙事背景建立。同一角色（Fix）、同一空间（香港）、同一情绪（焦虑），四维度无切换，4句合规。
+
+S01: Hong Kong was the last country they traveled to under British law.
+译：香港是他们在英国法律管辖下旅行的最后一个地方。
+
+S02: This was the inspector's final opportunity to get an arrest warrant for Phileas Fogg.
+译：这是侦探最后一次为菲利亚斯·福格申请逮捕令的机会。
+
+S03: It was not difficult to imagine his anger when he discovered that the British officials in Hong Kong knew nothing about the warrant and told him he had to wait for it.
+译：不难想象，当他发现香港的英国官员对逮捕令一无所知，并告知他必须等候时，他有多么愤怒。
+
+S04: His only chance to arrest Phileas Fogg was to keep him in Hong Kong, but how?
+译：他唯一能逮捕菲利亚斯·福格的机会，就是把他留在香港——但该怎么做呢？
+
+---
+
+
+## 分镜 B5-2
+
+覆盖句子：S05-S06（2句）
+节拍说明：新事件触发——Fix认出帕斯帕图从卡那提克号走下，情绪从焦虑转为兴奋，视觉焦点从Fix的内心转向码头外部行动，节拍切换。
+
+S05: While he was thinking about this, Fix recognized Passepartout walking down the steps of the Carnatic, the ship which was taking them to Yokohama.
+译：正当他思索这个问题时，费克斯认出了帕斯帕图正走下卡那提克号的舷梯，那艘要将他们带往横滨的船。
+
+S06: An excited Inspector Fix ran towards him.
+译：兴奋的费克斯侦探朝他跑了过去。
+
+---
+
+
+## 分镜 B5-3
+
+覆盖句子：S07-S10（4句）
+节拍说明：Fix主导的打招呼阶段——问候、自我介绍、握手、喘气。同一说话方Fix的连续行为，同一时刻，四维度无切换，4句合规。
+
+S07: 'Nice to meet you again, Mr...?'
+译：「很高兴再次见到您，先生……？」
+
+S08: 'Fix. We met in Egypt, in the Suez.'
+译：「费克斯。我们在埃及，在苏伊士见过面。」
+
+S09: He shook his hand.
+译：他与帕斯帕图握了握手。
+
+S10: He was a little out of breath.
+译：他有些气喘吁吁。
+
+---
+
+
+## 分镜 B5-4
+
+覆盖句子：S11-S12（2句）
+节拍说明：触发-转折结构（规则4条件B）——S11帕斯帕图拒绝聊天（转折/拒绝），S12 Fix反问挽留（触发新一轮接触），说话方切换，情绪对立（急着离开 vs 想留住），必须独立处理。
+
+S11: 'I'm sorry, Mr Fix, but I really don't have time to talk,' said Passepartout, and he continued walking.
+译：「抱歉，费克斯先生，我真的没时间聊，」帕斯帕图说，并继续向前走去。
+
+S12: 'Of course, I won't stop you, but tell me, do you always go everywhere so quickly?'
+译：「当然，我不会拦你，但告诉我，你总是这么急匆匆的吗？」
+
+---
+

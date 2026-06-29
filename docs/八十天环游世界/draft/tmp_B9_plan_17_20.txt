@@ -1,0 +1,81 @@
+# 批次 B9_17_20
+
+## 分镜 B9-17
+**叙事节拍**：帕斯帕图揭晓真相——今天是星期六！时差！（B类：关键发现揭晓）
+**场景环境**：福格宅邸，傍晚
+**节拍分析**：S57-S62，帕斯帕图揭晓"时差"真相的核心对话（B类高潮：关键发现）。四维度扫描（超过4句）：视觉焦点持续在帕斯帕图（主要说话方），S58福格反驳但不切换主焦点，无空间位移，情绪一致（震惊→理解），无时间跳跃。已扫描5对相邻句，四维度均无切换，保留6句豁免。
+
+S57: 'Because today is Saturday and tomorrow is Sunday!' he said excitedly.
+译："因为今天是星期六，明天是星期天！"他兴奋地说道。
+
+S58: 'Saturday? Impossible!' replied Phileas Fogg.
+译："星期六？不可能！"菲利亚斯·福格回答道。
+
+S59: 'Yes, yes it is.
+译："是的，是的，就是今天。
+
+S60: Do you remember?
+译：你还记得吗？
+
+S61: We went around the world and we traveled east and time changes as you go around the world and we're now twenty-four hours ahead.
+译：我们环游了世界，我们向东旅行，环绕世界时时间会发生变化，我们现在提前了整整二十四小时。
+
+S62: It's Saturday!
+译：今天是星期六！
+
+---
+
+
+## 分镜 B9-18
+**叙事节拍**：帕斯帕图催促福格——只有十分钟，快去！
+**场景环境**：福格宅邸，傍晚
+**节拍分析**：S63-S65，帕斯帕图对福格的连续紧急催促（情绪基调从"震惊揭晓"切换到"紧迫行动"），触发新节拍。同一说话者连续短句，3句，无需拆分。
+
+S63: Hurry, Mr Fogg!
+译：快点，福格先生！
+
+S64: We only have ten minutes.
+译：我们只有十分钟了。
+
+S65: You can still win your bet.'
+译：你还可以赢得赌约。"
+
+---
+
+
+## 分镜 B9-19
+**叙事节拍**：驾车飞奔赶往改革俱乐部（惊险赶路）
+**场景环境**：伦敦街道，夜晚
+**节拍分析**：S66-S68，从宅邸出发驾车赶路（空间位移，新场景），触发新节拍。S66出发，S67帕斯帕图抢着驾车，S68赶路险况及抵达，3句，同话题同情绪（紧张刺激），无需拆分。
+
+S66: They took Phileas Fogg's carriage to go to the Reform Club.
+译：他们乘坐菲利亚斯·福格的马车前往改革俱乐部。
+
+S67: Passepartout wanted to drive.
+译：帕斯帕图要求亲自驾车。
+
+S68: He almost hit two dogs and they almost had more accidents before they arrived at the Reform Club at eight forty-four.
+译：他差点撞上两只狗，还差点出了好几次事故，最终在八点四十四分抵达了改革俱乐部。
+
+---
+
+
+## 分镜 B9-20
+**叙事节拍**：福格踏入牌戏室，宣布赢得赌约（叙事高潮）
+**场景环境**：改革俱乐部牌戏室，夜晚（八点四十四至四十五分）
+**节拍分析**：S69-S72，场景切换到改革俱乐部室内（新场景，新节拍）。S69友人焦急等待，S70福格入场问候，S71宣告赢得，S72众人赞同。4句，无需拆分。
+
+S69: Phileas Fogg's friends were waiting around the table impatiently.
+译：菲利亚斯·福格的朋友们正焦急地围坐在桌旁等待着。
+
+S70: 'Well, hello my friends,' he said, when he stepped into the Games Room at eight forty-five.
+译："哦，你好，我的朋友们，"他在八点四十五分踏入牌戏室时说道。
+
+S71: 'I believe that I am now a rich man,' he said with a small smile.
+译："我相信我现在是个富人了，"他微微一笑说道。
+
+S72: They all agreed.
+译：众人都表示赞同。
+
+---
+

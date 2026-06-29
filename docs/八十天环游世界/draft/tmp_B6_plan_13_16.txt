@@ -1,0 +1,85 @@
+# 批次 B6_13_16
+
+## 分镜 B6-13
+
+**归属句子**：S32–S35
+
+S32: Passepartout was looking out of the window, thinking about the bet, when he almost hit the seat in front of him.
+译：帕斯帕图正望着窗外，思考着赌注，这时他差点撞上前面的座位。
+
+S33: The train stopped suddenly and gave several loud whistles.
+译：火车突然停了下来，发出几声响亮的汽笛声。
+
+S34: He got up to see what the problem was.
+译：他站起来查看是什么问题。
+
+S35: He saw the driver talking to a man from the next station, a place called Medicine Bow.
+译：他看见司机正在与下一站——一个叫梅迪辛鲍的地方来的人交谈。
+
+**节拍分析**：S32–S35 连续动作链（帕斯帕图望窗→火车急停→起身查看→看到司机与来人交谈），同一场景（火车车厢/站台边），视觉焦点始终在帕斯帕图，无情绪反转，属连续行动节拍。4 句，需四维度检查：视觉焦点（始终帕斯帕图/车厢区域）、时间推进（连续瞬间）、空间位移（车内起身→向外看，同一车厢）、情绪（疑惑/惊讶，基调一致）。四维度均无重大切换，可合并保留。
+
+---
+
+
+## 分镜 B6-14
+
+**归属句子**：S36–S38
+
+S36: 'The station guard sent me to tell you that you can't go any further,' he said.
+译：「车站卫兵派我来告诉你们，你们无法继续前行了，」他说道。
+
+S37: 'The bridge across the ravine is not safe and it can't take the weight of the train.
+译：「峡谷上的桥不安全，承受不住火车的重量。
+
+S38: We have sent a telegram to Omaha, but it will be six hours before another train arrives.'
+译：我们已经发了电报到奥马哈，但还需要六小时另一列火车才能到达。」
+
+**节拍分析**：S36–S38 来人传达消息（同一说话者连续陈述，无说话方切换），属同一叙事节拍，3 句合并。
+
+---
+
+
+## 分镜 B6-15
+
+**归属句子**：S39–S42
+
+S39: 'We can't stay here all night.
+译：「我们不能在这里待一整夜。
+
+S40: We'll die of cold in this snow!' shouted one of the passengers.
+译：我们会在这雪里冻死的！」一名乘客喊道。
+
+S41: Hearing their conversation.（碎片句，归入上下文）
+译：（叙述过渡）
+
+S42: 'Yes, but it will take six hours to go on foot to the next station,' said the train driver's assistant.
+译：「是的，但步行到下一站需要六小时，」火车司机的助手说道。
+
+**节拍分析**：S39–S40 乘客投诉（一个说话方），S42 是司机助手回应（另一说话方）。这是对话来回（1回合，乘客说→助手回），属同一对话节拍块，情绪基调（困境/无奈），2回合≤2，可合并。S41 是碎片过渡句，附入本镜。含情绪词（shouted），需情绪标记。
+
+---
+
+
+## 分镜 B6-16
+
+**归属句子**：S43–S47
+
+S43: 'I think I have an idea,' said the train driver.
+译：「我想我有个主意，」火车司机说道。
+
+S44: 'We can get our train across the bridge, if we go fast enough.'
+译：「如果我们跑得足够快，就能让火车过桥。」
+
+S45: Passepartout was interested to hear more.
+译：帕斯帕图很感兴趣，想听更多。
+
+S46: 'If the train moves at its top speed, the train won't be as heavy on the bridge,' he continued.
+译：「如果火车以最高速度行驶，它对桥的压力就不会那么大，」他继续说道。
+
+S47: 'And we can get across before the bridge breaks.'
+译：「这样我们就能在桥断之前过去。」
+
+**节拍分析**：S43–S47 司机提出并解释方案（同一说话者连续陈述，中间插入帕斯帕图的心理反应 S45），5 句。四维度扫描：视觉焦点（司机+帕斯帕图），时间（连续），空间（同一地点），情绪（兴奋/方案提出，基调一致）。S45 是帕斯帕图的心理状态，属同场景同时刻的补充，不切换主焦点。豁免条件：5 句、四维度均无切换，可保留，需在 prompt ⑦写明。
+
+---
+

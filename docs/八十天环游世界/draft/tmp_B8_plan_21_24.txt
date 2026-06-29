@@ -1,0 +1,63 @@
+# 批次 B8_21_24
+
+## 分镜 B8-21
+
+**覆盖句**：S41–S43
+**原文**：
+- S41. Inspector Fix put his hand on Phileas Fogg's shoulder.
+  译：费克斯督察把手放在了菲利亚斯·福格的肩膀上。
+- S42. 'You are Mr Phileas Fogg. Is that correct?' he said.
+  译："您是菲利亚斯·福格先生，对吗？"他说。
+- S43. 'Yes,' said Phileas Fogg slowly. He was a little confused by the question.
+  译："是的，"菲利亚斯·福格缓慢地回答，对这个问题感到有些困惑。
+
+**节拍分析**：条件 B 触发端——费克斯接近、确认身份（S41–S43 为"陷阱"布置阶段）；S44 是拘捕声明（转折/结果），必须分开。3 句≤4，合并。情绪基调：紧张/疑惑。
+**场景环境**：利物浦港口/街道，夜晚，12月20日
+
+---
+
+
+## 分镜 B8-22
+
+**覆盖句**：S44
+**原文**：
+- S44. 'Phileas Fogg, I am arresting you in the name of the law,' he said. In a moment two policemen stood next to Phileas Fogg.
+  译："菲利亚斯·福格，我以法律的名义逮捕你，"他说。片刻间，两名警察站到了菲利亚斯·福格身旁。
+
+**节拍分析**：条件 B 转折端——拘捕宣告（与 S41–S43 的身份确认构成因果链）。戏剧性高潮节点（条件 5 类型 B 身份揭晓性时刻 / 类型 C 物理事件）。独立分镜。
+**场景环境**：利物浦港口/街道，夜晚，12月20日
+
+---
+
+
+## 分镜 B8-23
+
+**覆盖句**：S45
+**原文**：
+- S45. Phileas Fogg was very angry. 'You…!' he began. 'I don't like men who have no loyalty to people who help them like his own friends. How could you do this, when I thought you were an honest person? You are worse than a criminal!'
+  译：菲利亚斯·福格非常愤怒。"你……！"他开口道，"我不喜欢对帮助过自己的人毫无忠诚的人。你怎么能这样做，我还以为你是个正直的人！你比罪犯还不如！"
+
+**节拍分析**：情绪显著反转（被捕愤怒爆发），新节拍，单句独白爆发。情绪标记：强烈愤怒（"very angry"，强烈言辞），触发规则 5a。
+**场景环境**：利物浦警察局附近，夜晚
+
+---
+
+
+## 分镜 B8-24
+
+**覆盖句**：S46–S49
+**原文**：
+- S46. For the first time Inspector Fix felt bad.
+  译：费克斯督察第一次感到了愧疚。
+- S47. He did not know what to do now that he did not have to follow Phileas Fogg around the world.
+  译：他不知道该如何是好，毕竟他已不再需要追随菲利亚斯·福格走遍世界。
+- S48. He could see that he was not really a bad man.
+  译：他能看出福格其实并不是坏人。
+- S49. But… he was a thief, and he wanted the reward for his efforts.
+  译：但是……他是个小偷，而他想要得到自己努力的回报。
+
+**节拍分析**：视角切换至费克斯内心（与 S45 福格愤怒形成对比）。4 句，同一角色同一心理内部冲突，无时间/空间/情绪切换（渐进的内心矛盾）。4 句≤4，通过。四维度扫描：S46→S47→S48→S49 均为同一费克斯内心，无切换。
+**场景环境**：利物浦警察局，夜晚
+
+---
+

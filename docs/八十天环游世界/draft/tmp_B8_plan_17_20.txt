@@ -1,0 +1,67 @@
+# 批次 B8_17_20
+
+## 分镜 B8-17
+
+**覆盖句**：S30–S31
+**原文**：
+- S30. When they came close to Ireland, only the outside metal of the body of the ship remained.
+  译：当他们接近爱尔兰时，船上只剩下船体外部的金属骨架了。
+- S31. The ship could not get to Liverpool, so they stopped in Ireland.
+  译：船已无法驶抵利物浦，于是他们在爱尔兰停靠。
+
+**节拍分析**：新地理位置（near Ireland），时间推进（after burning wood）。S30 = 船的状态；S31 = 决定停靠。同一时刻同一结论，2 句≤4，合并。视觉：满目疮痍的船体骨架是高潮视觉。
+**场景环境**：大西洋近爱尔兰海域，白天
+
+---
+
+
+## 分镜 B8-18
+
+**覆盖句**：S32–S33
+**原文**：
+- S32. Phileas Fogg took the ship to a port called Queenstown.
+  译：菲利亚斯·福格把船开进了一个叫昆士敦的港口。
+- S33. From there they took a train to Dublin and then a ship to Liverpool.
+  译：从那里他们乘火车去都柏林，再乘船前往利物浦。
+
+**节拍分析**：S32 = 昆士敦停靠；S33 = 接下来的旅程路线（火车→轮船）。同一连续移动序列，2 句≤4，合并。地图/路线图组织适用。
+**场景环境**：爱尔兰昆士敦港口，白天
+
+---
+
+
+## 分镜 B8-19
+
+**覆盖句**：S34–S37
+**原文**：
+- S34. Inspector Fix did not understand the man.
+  译：费克斯督察不明白这个人。
+- S35. What was in Liverpool?
+  译：利物浦有什么值得回去的？
+- S36. What was in London that he wanted to return for?
+  译：伦敦又有什么让他非要回去不可？
+- S37. This voyage seemed endless.
+  译：这趟旅程似乎没有尽头。
+
+**节拍分析**：费克斯的内心独白/困惑，4 句，同一角色同一心理状态，无焦点切换，无时间/空间/情绪切换。4 句≤4，通过。四维度扫描：S34→S35→S36→S37 均无切换（同一思绪流）。保留。
+**场景环境**：旅途中（昆士敦→都柏林→利物浦途中），白天
+
+---
+
+
+## 分镜 B8-20
+
+**覆盖句**：S38–S40
+**原文**：
+- S38. At twenty to midnight on 20 December, they finally arrived in Liverpool.
+  译：12月20日深夜差二十分，他们终于抵达利物浦。
+- S39. They were exactly six hours away from London.
+  译：距离伦敦还有整整六个小时的路程。
+- S40. Enough time to get to the Reform Club to win the bet.
+  译：还来得及赶到改革俱乐部赢得赌注。
+
+**节拍分析**：到达利物浦，充满希望的情绪节拍。3 句，同一时刻同一焦点（到达/时间盘算/希望），无切换。S41 开始费克斯接近福格，情绪由"希望"急转"威胁"，属于重大情绪反转，强制拆分。
+**场景环境**：利物浦港口/街道，夜晚（差二十分午夜），12月20日
+
+---
+

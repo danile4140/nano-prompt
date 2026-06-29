@@ -1,0 +1,78 @@
+# 批次 B5_17_20
+
+## 分镜 B5-17
+
+覆盖句子：S57-S60（4句）
+节拍说明：场景跳变——视角从香港港口（Fix/Fogg）切换到香港酒吧（帕斯帕图），S57叙事者问句引导切换，S58帕斯帕图醒来（新场景新角色），S59-S60想起船的消息（心理+事件回忆），4句合规。
+
+S57: But where was our friend Passepartout?
+译：但是，我们的朋友帕斯帕图在哪里呢？
+
+S58: Passepartout woke up in the bar a few hours later.
+译：几个小时后，帕斯帕图在酒吧里醒了过来。
+
+S59: His head hurt and he could not remember anything, except that he came into a bar with someone he met and that he talked to a man about... the ship!
+译：他头痛欲裂，什么都想不起来，只记得自己和一个认识的人走进了一家酒吧，还和某人谈到了……那艘船！
+
+S60: The Carnatic was leaving that evening.
+译：卡那提克号当晚就要出发。
+
+---
+
+
+## 分镜 B5-18
+
+覆盖句子：S61-S64（4句）
+节拍说明：帕斯帕图看表惊觉已迟——看表（S61，动作）→惊叫（S62，情绪反应）→内心独白（S63-S64，意识到危机），情绪从回忆惊悸→急迫，4句合规。情绪标记：强度：强，类型：惊吓，推荐视觉手段：速度线+帕斯帕图近景，夸张惊恐表情，手表特写画中画或气泡。
+
+S61: He looked at his watch.
+译：他看了看手表。
+
+S62: 'Oh no!' he thought.
+译：「糟了！」他心想。
+
+S63: 'I'm late.
+译：「我迟了。
+
+S64: Mr Fogg will be at the port now.'
+译：福格先生现在应该已经在港口了。」
+
+---
+
+
+## 分镜 B5-19
+
+覆盖句子：S65-S67（3句）
+节拍说明：帕斯帕图跑上船——奔跑上船（S65，动作节拍），寻找Fogg未果（S66，结果），想起Fix（S67，心理），场景从酒吧→码头→船上，3句连续行动+心理，合规。
+
+S65: He ran to the boat and got on.
+译：他跑向那艘船，跳了上去。
+
+S66: He looked everywhere for Mr Fogg and Mrs Aouda, but he could not see them.
+译：他到处寻找福格先生和奥达女士，但找不到他们的踪影。
+
+S67: It was then that he started to remember his afternoon with the man he met at the port.
+译：就在这时，他开始回想起在港口认识的那个人陪着他度过的那个下午。
+
+---
+
+
+## 分镜 B5-20
+
+覆盖句子：S68-S71（4句）
+节拍说明：帕斯帕图恍然大悟的内心独白——「明白了！」（S68）→独白推理（S69-S71），同一角色同一情绪（恍悟+懊悔），4句合规。
+
+S68: 'But of course!' he thought.
+译：「这下明白了！」他心想。
+
+S69: 'Mr Fogg doesn't know.
+译：「福格先生不知道这件事。
+
+S70: How could he?
+译：他怎么可能知道呢？
+
+S71: I was still in that bar with Mr Fix, and then I ...'
+译：我还在和费克斯先生待在那家酒吧里，然后我就……」
+
+---
+

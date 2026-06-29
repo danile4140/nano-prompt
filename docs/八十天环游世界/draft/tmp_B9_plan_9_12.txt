@@ -1,0 +1,72 @@
+# 批次 B9_9_12
+
+## 分镜 B9-9
+**叙事节拍**：福格安慰奥达——将房子给她，并承认自己不需要任何东西
+**场景环境**：福格宅邸奥达客房，傍晚
+**节拍分析**：S31-S34，说话方切换回福格，构成新节拍。S31-S32福格独白，S33奥达追问，S34福格回答，2回合对话，同话题。4句，无需拆分。
+
+S31: 'Madam, I couldn't let you die that terrible death, but now you are here, and you need a way to live.
+译："夫人，我不能让你遭受那种可怕的死法，但现在你在这里，你需要一种生活方式。
+
+S32: I have my house and my possessions…'
+译：我还有我的房子和财产……"
+
+S33: 'But what about you?'
+译："那你自己怎么办呢？"
+
+S34: 'I don't need anything.'
+译："我什么都不需要。"
+
+---
+
+
+## 分镜 B9-10
+**叙事节拍**：对话继续——朋友？亲人？都没有（孤独境地）
+**场景环境**：福格宅邸奥达客房，傍晚
+**节拍分析**：S35-S38，奥达提出新方向（话题微转：朋友→亲人），触发新节拍。2回合对话，同一话题（福格孤立无援），同场景同情绪（悲伤）。4句，无需拆分。
+
+S35: 'Maybe your friends could…'
+译："也许你的朋友们可以……"
+
+S36: 'I have no friends,' he said sadly.
+译："我没有朋友，"他悲伤地说道。
+
+S37: 'Well, what about your relatives?'
+译："那，你的亲戚呢？"
+
+S38: 'I have no relatives.'
+译："我没有亲戚。"
+
+---
+
+
+## 分镜 B9-11
+**叙事节拍**：奥达求婚——"我想成为你的妻子"（情感高潮D类）
+**场景环境**：福格宅邸奥达客房，傍晚
+**节拍分析**：S39-S40，奥达的求婚宣告伴随肢体动作（拉起手臂），是从"问答对话"到"情感宣告"的重大情绪反转，触发新节拍（必拆充要条件B：触发-转折因果链的前半部分）。2句，高潮节点。
+
+S39: 'It is easier to live in poverty when there are two of us to share it,' said Mrs Aouda taking his arm.
+译："当有两个人一起分担贫困时，生活就会容易些，"奥达夫人拉起他的手臂说道。
+
+S40: 'I want to be your wife.'
+译："我想成为你的妻子。"
+
+---
+
+
+## 分镜 B9-12
+**叙事节拍**：福格起身，奥达看到泪水，福格表白
+**场景环境**：福格宅邸奥达客房，傍晚
+**节拍分析**：S41-S43，福格对奥达求婚的回应（起身→泪水→表白），构成触发-结果因果链的后半（必拆充要条件B对应的结果格）。说话方切换（奥达→福格），触发新节拍。3句，无需拆分。
+
+S41: Mr Fogg got up.
+译：福格先生站了起来。
+
+S42: Mrs Aouda saw that there was a small tear in his eye.
+译：奥达夫人看到他眼中含着一滴小小的泪水。
+
+S43: 'I love you,' he said, 'And I want to spend my life with you.'
+译："我爱你，"他说，"我想与你共度一生。"
+
+---
+

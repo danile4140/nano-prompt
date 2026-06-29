@@ -1,0 +1,76 @@
+# 批次 B6_17_20
+
+## 分镜 B6-17
+
+**归属句子**：S48–S50
+
+S48: Passepartout was worried for himself and the other passengers.
+译：帕斯帕图为自己和其他乘客感到担心。
+
+S49: The bridge could break before the train reached the other side!
+译：桥可能在火车到达对岸之前就断裂！
+
+S50: He could not understand why the other passengers seemed to think this was a good idea.
+译：他无法理解为什么其他乘客似乎认为这是个好主意。
+
+**节拍分析**：S48–S50 帕斯帕图内心的担忧与困惑（同一人、同一心理节拍），3 句，合并。含情绪词（worried），需情绪标记。
+
+---
+
+
+## 分镜 B6-18
+
+**归属句子**：S51–S53
+
+S51: 'Isn't there a simpler solution, perhaps…?' he began to ask the driver.
+译：「也许有更简单的办法……？」他开始向司机询问。
+
+S52: The driver was not listening.
+译：司机没有在听。
+
+S53: 'No, no, this is the best solution we have,' he said.
+译：「不不，这是我们现有的最佳方案，」他说道。
+
+**节拍分析**：S51 帕斯帕图提问，S52–S53 司机不听+拒绝。这是条件B触发-转折因果链（S51提出请求→S52–S53拒绝），情绪方向相反（期待→拒绝）。必须至少拆2格分别呈现请求与拒绝。3 句合并为一分镜但必须用对话双格构图（帕斯帕图提问格 + 司机拒绝格）。
+
+---
+
+
+## 分镜 B6-19
+
+**归属句子**：S54–S57
+
+S54: 'Yes, but maybe not the safest…'
+译：「是的，但也许不是最安全的……」
+
+S55: Passepartout tried to explain that he had another idea.
+译：帕斯帕图试图解释他有另一个主意。
+
+S56: 'Maybe the passengers can go across the bridge on foot.
+译：「也许乘客们可以步行过桥。
+
+S57: Then the train could follow afterwards,' he said to the train driver's assistant.
+译：然后火车再跟上，」他对火车司机的助手说道。
+
+**节拍分析**：S54–S57 帕斯帕图提出替代方案（同一说话者/视觉焦点，向助手解释），4 句。四维度扫描：视觉焦点（帕斯帕图始终），时间（连续），空间（同一地点），情绪（坚持/劝说，基调一致）。4 句在上限内，合并。
+
+---
+
+
+## 分镜 B6-20
+
+**归属句子**：S58–S60
+
+S58: 'No, the driver is right.
+译：「不，司机是对的。
+
+S59: If we go at top speed, we can get across the bridge.
+译：如果我们以最高速度行驶，我们可以过桥。
+
+S60: The train's leaving!' cried his assistant.
+译：火车要出发了！」助手喊道。
+
+**节拍分析**：S58–S60 助手拒绝帕斯帕图方案并宣布出发（同一说话者连续台词），是对 B6-19 方案的拒绝回应，属触发-转折因果链（帕斯帕图提案→助手拒绝），本镜为结果格。3 句合并。含情绪词（cried），需情绪标记。
+
+---
+

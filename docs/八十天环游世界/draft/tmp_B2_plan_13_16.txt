@@ -1,0 +1,89 @@
+# 批次 B2_13_16
+
+### B2-13
+
+**覆盖句子：**
+- S35: His employer did not seem to be in a hurry.
+  译：雇主看起来并不着急。
+- S36: The opposite in fact.
+  译：事实上恰恰相反。
+- S37: He spoke a little quicker, but he behaved in the same calm way.
+  译：他说话稍快了一些，但举止依然从容。
+- S38: "Around the world?" said Passepartout to himself. "Well really!" he thought, shaking his head.
+  译："环游世界？"帕斯帕图自言自语。"真是的！"他一边摇头，一边心想。
+- S39: Just when he finally thought he had the perfect job.
+  译：就在他终于以为自己找到了完美工作的时候。
+- S40: He wanted to work for Phileas Fogg because he was a gentleman who lived a quiet life, who always did the same things.
+  译：他之所以想为菲利亚斯·福格工作，是因为对方是个过着安静生活、总是重复相同事情的绅士。
+- S41: And now? How could this be a quiet life?
+  译：而现在呢？这怎么可能是安静的生活？
+
+**节拍分析：** 句数=6，触发豁免条件检查：S35-S37为福格神态描述（视觉焦点在福格），S38-S41为帕斯帕图内心独白（视觉焦点切换到帕斯帕图）。焦点切换=视觉焦点切换触发"第一层强制拆分评估"——但两组均在同一书房、同一时刻、同一情绪基调（帕斯帕图惊讶/困惑）。逐对扫描：S37→S38之间视觉焦点从福格切换到帕斯帕图，构成"多焦点"但非时间/空间/情绪切换（情绪连续递进：惊讶→困惑→内心独白）。保留6句，四维度均无强切换，记豁免。
+
+**构图决策：** 同一场景两个视觉焦点（福格从容 vs 帕斯帕图内心独白），需多格。使用**左右二分1:1**：左格=福格从容站立（神态描述承载S35-S37），右格=帕斯帕图摇头+云状思维气泡内显示"梦想中的安静生活"简笔画对比"环游世界"简笔画（承载S38-S41内心独白）。
+
+豁免声明：已扫描5对相邻句（S35-S36、S36-S37、S37-S38、S38-S39、S39-S40、S40-S41），视觉焦点在S37→S38处有轻微切换（福格→帕斯帕图），但时间/空间/情绪基调均无切换，仍属同一叙事单元（书房内福格宣告后的同一时刻），保留6句。
+
+**character_refs:** ["C1", "C2"]
+**scene_refs:** ["S1"]
+
+---
+
+
+### B2-14
+
+**覆盖句子：**
+- S42: "Pack a small bag with just my night things in it, please, and pack one for yourself. We can buy everything else when we need it," added Phileas Fogg, and with these orders he left the room.
+  译："请帮我收拾一个小包，只放我的夜间用品，也给你自己收拾一个。其他的东西等需要时再买，"菲利亚斯·福格补充道，说完这些命令便离开了房间。
+
+**节拍分析：** 单一动作节拍（福格补充命令+离开）。与B2-13之间有叙事阶段分界（帕斯帕图独白→福格命令，叙事功能不同，条件D）。句数=1。
+
+**构图决策：** 单格，福格站在书房门口转身补充命令、随即走出——使用**中心聚焦组织**（门口作为视觉焦点汇聚点，帕斯帕图在画面内目送）。
+
+**character_refs:** ["C1", "C2"]
+**scene_refs:** ["S1"]
+
+---
+
+
+### B2-15
+
+**覆盖句子：**
+- S43: Passepartout continued to feel a little confused but he followed his master's orders.
+  译：帕斯帕图依旧有些困惑，但还是按照主人的命令去做了。
+- S44: He quickly packed their bags and at eight o'clock they were ready to leave the house.
+  译：他很快收拾好了行李，八点钟他们就准备好出发了。
+- S45: Phileas Fogg opened Passepartout's bag and put twenty thousand pounds into it.
+  译：菲利亚斯·福格打开了帕斯帕图的包，把两万英镑放了进去。
+- S46: He closed it tightly.
+  译：他把包紧紧地关上。
+
+**节拍分析：** 连续行动链（收拾行李→放钱→锁包），同一时间段（晚8点前）、同一地点（书房/玄关）、同一情绪基调（帕斯帕图困惑但执行）。四维度扫描：S44→S45之间动作主体从帕斯帕图（收拾）→福格（放钱），视觉焦点有轻微切换。句数=4，触发强制拆分评估，但四维度中仅"焦点"有轻微切换（从帕斯帕图→福格），时间/空间/情绪无切换，且属同一叙事目的（出发准备），按规则可保留。4句恰好触及边界，正好用4格构图（2×2）。
+
+**构图决策：** 4个动作步骤，时间跨度+多焦点——使用**2×2网格**：左上=帕斯帕图困惑收拾行李，右上=两人准备好行李站在门口，左下=福格打开包放入两万英镑（关键道具），右下=福格锁紧包（特写）。
+
+**character_refs:** ["C1", "C2"]
+**scene_refs:** ["S1"]
+
+---
+
+
+### B2-16
+
+**覆盖句子：**
+- S47: Twenty minutes later they were at the station.
+  译：二十分钟后，他们到了车站。
+- S48: "It must be the money for the journey," thought Passepartout as he sat on the train thinking nervously about the money in his bag.
+  译："这一定是旅途的费用，"帕斯帕图一边坐在火车上，一边紧张地想着包里的钱。
+- S49: He did not want to lose the bag.
+  译：他不想失去那个包。
+
+**节拍分析：** S47=场景跳变（从萨维尔街书房→火车站→火车上）；S48–S49=帕斯帕图的心理独白。场景跳变构成节拍切换，但这里S47可视为过渡句（叙述权重最轻），S48–S49是主要叙事节点。将三句合并为一镜（3句内），用多格承载空间跳变。句数=3，符合上限。
+
+**构图决策：** 空间跳变（书房出发→抵达车站→坐上火车）+心理独白。使用**左右二分2:1**：左格较小=抵达火车站站台（S47，空间建立），右格较大=帕斯帕图坐在火车上紧抱行李包，云状思维气泡内画"一叠英镑简笔画+问号"（S48–S49内心）。
+
+**character_refs:** ["C1", "C2"]
+**scene_refs:** ["S5"]
+
+---
+

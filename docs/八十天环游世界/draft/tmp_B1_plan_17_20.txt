@@ -1,0 +1,69 @@
+# 批次 B1_17_20
+
+### B1-17（S52–S53）：福格打发帕斯帕图
+
+**句子：**
+- S52–S53：帕斯帕图被打发去休息（根据最终分镜表，从原B1-16拆出）
+
+**character_refs：** ["C1"]
+**scene_refs：** ["S1"]
+**句数：** 2
+**环境：** 室内/白天/萨维尔街福格书房
+**情绪基调：** 平静、中性过渡
+
+### B1-18（S54–S57）：帕斯帕图外貌描述
+**句子：**
+- S54: And our Frenchman?
+  译：那我们的法国人呢？
+- S55: Passepartout had an attractive face and he was incredibly strong.
+  译：帕斯帕图面容俊朗，力气极大。
+- S56: He had blue eyes, and untidy, curly brown hair.
+  译：他有一双蓝色的眼睛，棕色卷发蓬乱。
+- S57: He was a sweet person who understood the meaning of true friendship and loyalty.
+  译：他是个温柔的人，深知真诚的友谊与忠诚的意义。
+
+**节拍分析：** 视觉焦点从福格切换到帕斯帕图（S54明确切换，"And our Frenchman?"），叙事阶段边界。4句，无超限。
+**character_refs：** ["C2"]
+**scene_refs：** ["S1"]
+**构图方向：** 中心聚焦（帕斯帕图近景人物全貌，展示外貌特征）
+
+---
+
+
+### B1-19（S58–S62）：帕斯帕图探索新家+发现时钟
+**句子：**
+- S58: It was just after half past eleven and Passepartout, who was now alone in his new home, decided to look around.
+  译：十一点半刚过，现在独自一人在新家的帕斯帕图决定四处看看。
+- S59: After looking in all the different rooms, he finally came to his own bedroom.
+  译：在逐一看过各个房间之后，他终于来到了自己的卧室。
+- S60: Above the fireplace there was an electric clock; it was the same electric clock that Phileas Fogg had in his room.
+  译：壁炉上方有一台电钟——和菲利亚斯·福格房间里那台一模一样的电钟。
+- S61: The two clocks ticked at the exact same second.
+  译：两台钟以完全相同的节拍走着。
+- S62: Below the clock there was a piece of paper listing the details of Mr Fogg's day.
+  译：钟的下方贴着一张纸，上面列出了福格先生一天的日程安排。
+
+**节拍分析：** 时间标记（just after half past eleven），空间移动（各个房间→卧室），发现关键道具（电钟+日程纸），构成新叙事阶段。5句，逐对扫描：S58→S59（空间位移：探索→卧室，但属连续移动过渡）→S60（发现关键道具，戏剧性）→S61→S62（道具细节叠加）。S59→S60有视觉焦点切换（从探索移动→时钟特写），但属同一节拍内的镜头推进，5句内四维度：主焦点从"探索"→"发现时钟"有轻微切换，但叙事一脉相承，5句豁免（已扫描4对相邻句，四维度中：仅S59→S60有空间位移轻微切换但属过渡动作，整体仍同一情绪/话题/场景，保留）。
+**character_refs：** ["C2"]
+**scene_refs：** ["S2"]
+**构图方向：** 路径动线单格（帕斯帕图探索各房间动线）+ 画中画（卧室电钟特写）
+
+---
+
+
+### B1-20（S63–S65）：帕斯帕图内心独白——满意
+**句子：**
+- S63: 'Not bad at all,' thought Passepartout.
+  译："还不错嘛，"帕斯帕图心想。
+- S64: 'A man who is as regular as clockwork!'
+  译："这个人像钟表一样守规律！"
+- S65: 'This is just what I was looking for.'
+  译："这正是我一直在找的。"
+
+**节拍分析：** 视觉焦点从"探索发现"切换到"内心独白"（心理状态），新节拍。同一说话者（帕斯帕图内心），同一情绪（满意/安慰），3句，无超限。
+**character_refs：** ["C2"]
+**scene_refs：** ["S2"]
+**构图方向：** 心理/独白类（帕斯帕图满意表情近景 + 思维气泡承载"clockwork"想象）
+
+---
+

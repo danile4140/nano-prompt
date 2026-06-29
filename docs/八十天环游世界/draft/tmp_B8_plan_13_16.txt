@@ -1,0 +1,65 @@
+# 批次 B8_13_16
+
+## 分镜 B8-13
+
+**覆盖句**：S20–S23
+**原文**：
+- S20. His companions were surprised to find that Phileas Fogg was a good sailor.
+  译：他的同伴们惊讶地发现，菲利亚斯·福格原来是个出色的水手。
+- S21. Passepartout tried to ask him about this, but Phileas Fogg did not want to talk.
+  译：帕斯帕图试着问他这件事，但菲利亚斯·福格不想谈。
+- S22. He had to try and cross the Atlantic in stormy weather and his mind was concentrating on arriving in England on time.
+  译：他必须在暴风雨天气中横渡大西洋，心思全部集中在按时抵达英格兰上。
+- S23. He also did not want to lose the ship and all its crew!
+  译：他也不想失去这艘船和全体船员！
+
+**节拍分析**：4 句，同一场景（亨利埃塔号甲板），同一焦点（福格作为船长的状态），同一情绪基调（专注/坚定），无时间/空间/情绪切换。4 句≤4，通过。四维度扫描：S20→S21 无切换；S21→S22 无切换；S22→S23 无切换。保留。
+**场景环境**：亨利埃塔号甲板，白天，大西洋
+
+---
+
+
+## 分镜 B8-14
+
+**覆盖句**：S24–S25
+**原文**：
+- S24. Fix decided that Phileas Fogg was not just a thief, he was a pirate.
+  译：费克斯断定菲利亚斯·福格不仅仅是个小偷，他简直是个海盗。
+- S25. 'He's not taking the ship to Liverpool,' he thought, 'but to some unknown place where it's safe for him to escape. If I don't get help from the police there, all is lost!'
+  译："他不是要把船开去利物浦，"他心想，"而是去某个他可以安全逃跑的不知名地方。如果我在那里得不到警察的帮助，一切就全完了！"
+
+**节拍分析**：视角切换至费克斯的内心（叙述焦点转换）。S24 = 费克斯的判断；S25 = 费克斯的内心独白/思维。同一角色连续心理，2 句≤4，无切换。
+**场景环境**：亨利埃塔号某处，白天，大西洋
+
+---
+
+
+## 分镜 B8-15
+
+**覆盖句**：S26–S27
+**原文**：
+- S26. They were half-way across the Atlantic with only five days to go.
+  译：他们已横渡大西洋到一半，只剩五天时间。
+- S27. They were going at top speed and everything was going well, until one of the men came to speak to Phileas Fogg.
+  译：船正以最快速度行驶，一切顺利，直到一名船员来找菲利亚斯·福格说话。
+
+**节拍分析**：时间标记（halfway across, 5 days to go），但无场景跳变，同一叙事焦点。S27 末尾引出新事件（船员来报）作为下一镜铺垫。2 句≤4，合并。
+**场景环境**：亨利埃塔号甲板，白天，大西洋中途
+
+---
+
+
+## 分镜 B8-16
+
+**覆盖句**：S28–S29
+**原文**：
+- S28. 'If we continue at this speed, we won't have enough coal to get the ship to Liverpool,' he said. 'We must slow down!'
+  译："如果我们继续保持这个速度，煤炭就不够把船开到利物浦了，"他说，"我们必须减速！"
+- S29. 'We can't,' replied Phileas Fogg. 'We'll burn all the wood on the ship, if we have to,' he told the worried crew member.
+  译："不行，"菲利亚斯·福格回答，"如果必要的话，我们就把船上所有的木头都烧掉，"他告诉那位忧心忡忡的船员。
+
+**节拍分析**：一轮对话，船员警告→福格回应。同一话题（煤炭危机），同一空间，无情绪显著反转（这是问题呈报→决定，非触发-拒绝结构）。2 句≤4，合并。
+**场景环境**：亨利埃塔号甲板，白天，大西洋
+
+---
+
