@@ -1,0 +1,53 @@
+{
+  "storyboard_assets": [
+    {
+      "id": "B17-9",
+      "character_refs": ["C1", "C7"],
+      "scene_refs": ["S5"],
+      "covered_sentences": [
+        "He was the master now.",
+        "\"I have come to take young Catherine home,\" he said.",
+        "\"There will be no more running away.",
+        "She is Linton's wife and she belongs at his side.\""
+      ],
+      "prompt": "Medium shot, slightly low angle looking up at Heathcliff as he stands in the center of the sitting room, commanding the full height of the space; Nelly positioned to the left edge, smaller in frame, facing him.\n\nHeathcliff stands upright and rigid, one hand resting on the back of an armchair, his posture radiating ownership and finality; Nelly faces him with hands clasped tightly at her waist, body slightly turned as if bracing against his authority.\n\nS5: spacious elegant sitting room, deep red carpet, tall windows left and front with heavy dark curtains and gold tassels, white ceiling with gold carved moldings, glass chandelier overhead, carved marble fireplace to the right.\n\nCold winter light filters through the heavy curtains casting long pale shafts across the red carpet; the chandelier above casts a warm but dim glow; deep shadows fill the corners, giving the room a subdued, oppressive atmosphere; muted reds and charcoals dominate.\n\nC1 Heathcliff: tall adult male ~40, dark brown skin, short black slightly messy hair, sharp black eyes, dark gentleman's coat and white shirt and dark trousers and leather boots, his head exceeding the door frame height by half a head; C7 Nelly Dean: middle-aged woman ~35-45, dark brown hair neatly pinned up, round kind face, stocky medium frame, dark housekeeper dress and white apron.\n\nSTYLE_PLACEHOLDER\n\nNo text, no speech bubbles, no watermarks, no signatures; keep faces clearly readable; period Victorian interior; single unified scene."
+    },
+    {
+      "id": "B17-10",
+      "character_refs": ["C1", "C7"],
+      "scene_refs": ["S5"],
+      "covered_sentences": [
+        "\"Why not let Catherine and Linton live here?\" I asked.",
+        "\"I am seeking a tenant for the Grange,\" said Heathcliff.",
+        "\"Besides, I want my children to live with me.",
+        "Get ready, Catherine.",
+        "Go home to your husband.\""
+      ],
+      "prompt": "Two-shot, eye-level; Nelly on the left steps slightly forward with a beseeching gesture, Heathcliff on the right turns a fraction toward her but his gaze is already directed toward the upper staircase, dismissing both her and the room.\n\nNelly raises one open hand palm-up in a pleading appeal, leaning her weight forward; Heathcliff's arm drops to his side, his chin lifted, issuing the command with absolute calm; the emotional current runs from her desperation toward his cold indifference.\n\nS5: spacious elegant sitting room, deep red carpet, tall windows left and front with heavy dark curtains and gold tassels, white ceiling with gold carved moldings, glass chandelier center, carved marble fireplace right with oval gold-framed portrait above.\n\nAfternoon light from the left windows catches the side of Nelly's face, leaving Heathcliff partially in shadow; warm amber from the fireplace glow on the right competes with the cool window light, creating a split-tone tension of amber and grey-blue; deep red of the carpet anchors the composition.\n\nC1 Heathcliff: tall adult male ~40, dark brown skin, short black slightly messy hair, sharp black eyes, dark gentleman's coat and white shirt and dark trousers and leather boots; C7 Nelly Dean: middle-aged woman ~35-45, dark brown hair neatly pinned up, round kind face, stocky medium frame, dark housekeeper dress and white apron.\n\nSTYLE_PLACEHOLDER\n\nNo text, no speech bubbles, no watermarks, no signatures; period Victorian interior; mood of inevitable authority; no anachronistic elements."
+    },
+    {
+      "id": "B17-11",
+      "character_refs": ["C1", "C6b", "C7"],
+      "scene_refs": ["S5"],
+      "covered_sentences": [
+        "\"I will,\" said Catherine.",
+        "\"Linton is all I have to love in the world now, and you cannot make us hate each other.",
+        "I know he has a bad nature.",
+        "But I forgive him."
+      ],
+      "prompt": "Three-shot, medium close-up; Catherine steps forward into the center foreground, facing Heathcliff across the room; Nelly stands behind and to Catherine's left in the mid-ground; Heathcliff looms in the background right, filling the upper portion of the frame.\n\nCatherine's chin is lifted, her small fists slightly clenched at her sides, meeting Heathcliff's gaze with quiet defiance despite her frail appearance; Nelly's hand hovers near Catherine's shoulder, restrained; Heathcliff's expression shifts to a cold, unreadable stillness as he registers her words.\n\nS5: spacious elegant sitting room, deep red carpet, tall windows left and front with heavy dark curtains and gold tassels, white ceiling with gold carved moldings, glass chandelier center, carved marble fireplace right with oval gold-framed portrait above, red armchairs and small round tables.\n\nThe chandelier casts a focused warm light on Catherine's face, isolating her in a gentle halo against the dimmer background; Heathcliff recedes into shadow broken only by faint firelight on his jaw and shoulder; the contrast between her illuminated vulnerability and his shadowed power defines the palette — ivory and amber against charcoal and dark red.\n\nC1 Heathcliff: tall adult male ~40, dark brown skin, short black slightly messy hair, sharp black eyes, dark gentleman's coat and white shirt and dark trousers and leather boots, head exceeding door frame by half a head; C6b young Catherine: young woman ~17-18, dark eyes, golden curly hair slightly disheveled, fair but haggard complexion, petite slender, plain dark dress past knee, suppressed expression, head slightly below adult shoulder; C7 Nelly Dean: middle-aged woman ~35-45, dark brown hair neatly pinned up, round kind face, stocky medium frame, dark housekeeper dress and white apron.\n\nSTYLE_PLACEHOLDER\n\nNo text, no speech bubbles, no watermarks, no signatures; period Victorian interior; emotional confrontation between fragile courage and imposing authority; no anachronistic elements."
+    },
+    {
+      "id": "B17-12",
+      "character_refs": ["C1", "C6b", "C7"],
+      "scene_refs": ["S5"],
+      "covered_sentences": [
+        "I know he loves me, and therefore I will love him.",
+        "Mr. Heathcliff, you have nobody to love you.",
+        "However miserable you make us, we will have the comfort of knowing that you are more miserable still.",
+        "You are miserable, are you not?"
+      ],
+      "prompt": "Close-up split: left half frames Catherine's face in three-quarter view, eyes direct and burning with restrained grief; right half frames Heathcliff's face in profile, jaw tight, a barely perceptible flinch at the corner of his eye; Nelly is a soft blur in the background center.\n\nCatherine's lips press together after delivering her accusation, her gaze unwavering; Heathcliff's body has gone very still, his hands no longer gripping anything, one shoulder turned slightly as if the words have found a gap in his armor — a rare crack of involuntary feeling crosses his features.\n\nS5: carved marble fireplace visible in the deep background right, its fire casting a low amber glow; heavy dark curtains frame the edges; the room feels contracted and charged.\n\nFirelight from the right throws warm orange across the lower half of both faces; the upper halves are cooler and dimmer; Heathcliff's dark skin catches the flame at cheekbone and jaw; Catherine's pale complexion glows faintly gold; the composition is tense and intimate, heavy shadows pressing in from all sides.\n\nC1 Heathcliff: tall adult male ~40, dark brown skin, short black slightly messy hair, sharp black eyes, dark gentleman's coat and white shirt; C6b young Catherine: young woman ~17-18, dark eyes, golden curly hair slightly disheveled, fair but haggard complexion, petite slender, plain dark dress, suppressed expression; C7 Nelly Dean: middle-aged woman ~35-45, dark brown hair neatly pinned up, round kind face, soft and unfocused in background.\n\nSTYLE_PLACEHOLDER\n\nNo text, no speech bubbles, no watermarks, no signatures; intimate dual-portrait composition; period Victorian; emotion conveyed through expression and light alone; no anachronistic elements."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "storyboard_assets": [
+    {
+      "id": "B16-25",
+      "character_refs": ["C6", "C7", "C12"],
+      "scene_refs": ["S9"],
+      "covered_sentences": [
+        "He was too weak to walk or ride, and he fell asleep for some of the time we were together.",
+        "He often coughed.",
+        "At once I saw blood on his lips.",
+        "I was certain that he was lying about his health, and I could not imagine why he would do so."
+      ],
+      "prompt": "Two panels. Panel 1: medium wide shot on the moorland, the sickly boy seated on a low flat rock, head drooped to one side in fitful sleep, the girl seated nearby watching him, the housekeeper standing slightly behind with arms folded; Panel 2: close-up on the sickly boy's lower face and mouth mid-cough, a thin red mark visible at the corner of his lips, the housekeeper's eyes in the upper edge of frame widened in recognition.\n\nPanel 1: boy's body lists sideways with gravity, hands slack beside him; girl's posture tense, leaning slightly forward; housekeeper's folded arms and furrowed brow convey suppressed alarm; Panel 2: boy's chin slightly raised during cough, thin hand raised partway to mouth too late, housekeeper's gaze fixed on the blood detail with sharp attention.\n\nOpen moorland, heather and moss around the flat rock, winding sheep path visible receding into mid-ground, rolling hills and overcast pale sky behind; Panel 2 tight crop reduces background to blurred heather.\n\nPanel 1: diffuse cool overcast light, muted greens and greys of heather under cloud cover, no strong shadows, overall subdued and melancholy palette; Panel 2: same cool light but extremely close, skin tones ashen, the thin red mark at the lip corner rendered with sharp clarity against pale skin and blurred warm-brown heather bokeh behind.\n\nSickly teenage boy: light golden curly hair, delicate pale face deeply hollowed, slender frail frame in light gentleman's shirt and trousers, seated on moorland rock; skin noticeably more ashen than prior scenes. Teenage girl: golden natural curly hair, fair skin, slender petite frame, light cream dress. Housekeeper: middle-aged woman, dark brown hair neatly pinned up, round kind face, stocky medium frame, dark dress with white apron.\n\nSTYLE_PLACEHOLDER\n\nNo speech bubbles, no text, no watermark; Panel 2 blood detail must be minimal and clinically precise — a thin line at the lip corner only, not dramatic gore; heather in Panel 2 background must be out of focus to isolate the face; maintain overcast lighting consistency across both panels."
+    },
+    {
+      "id": "B16-26",
+      "character_refs": ["C6", "C7", "C12"],
+      "scene_refs": ["S9"],
+      "covered_sentences": [
+        "However, just before we left him, he said something that seemed to explain his strange behavior.",
+        "\"Miss Catherine, if you see my father and he asks you how I was, please do not tell him that I slept or that I was silent and stupid,\" he begged anxiously.",
+        "\"Is your father unkind to you, Master Linton?\" I asked.",
+        "\"He would be angry, and I am afraid of making him angry,\" said the poor weakling.",
+        "\"And do please come again next Thursday.",
+        "Please come to see me here again.\""
+      ],
+      "prompt": "Two panels. Panel 1: medium three-shot, the sickly boy now sitting upright with urgent posture facing the girl and housekeeper who are preparing to leave; Panel 2: close two-shot on the sickly boy and the housekeeper, boy's face tilted up toward her in fearful pleading, housekeeper's expression shifting from firm to pitying.\n\nPanel 1: boy's thin hands grip his own knees as he leans forward, eyes darting between the two women who are half-turned toward departure; Panel 2: boy's gaze wide and desperate, mouth slightly open mid-plea, one hand extended palm-up toward the housekeeper; housekeeper's head inclined attentively, brow creased with concern.\n\nOpen moorland at late afternoon, heather and moss around the rock where the boy sits, the sheep path curving away behind the departing figures, rolling hills and a pale cooling sky; in Panel 2 background dissolves to soft heather bokeh.\n\nPanel 1: low afternoon light casting long amber shadows across the heather, the two standing figures backlit creating mild rim light, the seated boy catching the last warm light on his face; Panel 2: softer diffuse version of the same amber warmth, the boy's pale face glowing faintly against a cool-toned blurred background.\n\nSickly teenage boy: light golden curly hair, delicate pale face, slender frail frame, light gentleman's shirt and trousers; expression anxious and beseeching. Teenage girl: golden natural curly hair, fair skin, slender petite frame, light cream dress; half-turned mid-departure. Housekeeper: middle-aged woman, dark brown hair neatly pinned up, round kind face, stocky medium frame, dark dress with white apron.\n\nSTYLE_PLACEHOLDER\n\nNo speech bubbles, no text, no watermark; the boy's fearful expression must clearly read as different from illness weakness — it should show active anxiety, not mere exhaustion; Panel 1 must convey imminent departure through the postures of the two women; keep the moorland environment recognizable in both panels."
+    },
+    {
+      "id": "B16-27",
+      "character_refs": ["C6", "C7", "C12"],
+      "scene_refs": ["S9"],
+      "covered_sentences": [
+        "As we rode away Catherine looked anxious and disappointed.",
+        "\"Nelly, he acts as if he only wants to see me to stop his father from being angry with him,\" she said at last.",
+        "The following Thursday we went to the same place.",
+        "Linton was waiting there, looking paler than ever."
+      ],
+      "prompt": "Two panels. Panel 1: medium wide shot, two riders on horseback moving away across the moorland, the girl's body turned backward in the saddle to look behind her, her expression troubled and searching; Panel 2: wide establishing shot of the same moorland spot one week later, the sickly boy standing alone waiting beside the flat rock, a solitary slight figure against the open hills, visibly frailer and paler than before.\n\nPanel 1: girl's torso rotated to look over her right shoulder while riding, one hand on the saddle, expression caught between worry and dawning suspicion; housekeeper rides slightly ahead, profile neutral; Panel 2: boy stands alone, arms held close to his body for warmth despite the season, head slightly bowed, his small silhouette isolated against the vast moor.\n\nOpen moorland, winding sheep path receding into distance, rolling heather-covered hills, weather-beaten dwarf tree leaning right at left edge visible in Panel 2; Panel 1 shows the path from behind the departing riders, Panel 2 shows the waiting spot from a slight distance with the boy centered.\n\nPanel 1: late afternoon cooling light, long shadows in the heather, warm amber dissolving to pale grey at the horizon — melancholy palette; Panel 2: fresh Thursday morning, slightly brighter pale sky, soft cool morning light, the boy's white-pale face the brightest element against the muted greens and browns of the moor.\n\nSickly teenage boy: light golden curly hair, extremely pale delicate face, slender frail frame in light gentleman's shirt and trousers; stands alone, smaller-seeming against the open landscape. Teenage girl: golden natural curly hair, fair skin, slender petite frame, light cream dress; twisted in the saddle with a troubled expression. Housekeeper: dark brown hair neatly pinned up, stocky medium frame in dark dress and white apron; riding posture steady.\n\nSTYLE_PLACEHOLDER\n\nNo speech bubbles, no text, no watermark; Panel 1 must show backward glance convincingly — avoid ambiguity in the girl's torso rotation; Panel 2 must make the boy's solitary waiting feel exposed and vulnerable; maintain consistent moorland topography between both panels."
+    },
+    {
+      "id": "B16-28",
+      "character_refs": ["C6", "C12"],
+      "scene_refs": ["S9"],
+      "covered_sentences": [
+        "\"Linton,\" said Catherine sternly.",
+        "\"I know that you do not really wish to see me.",
+        "Why do you make me come here if you do not wish it?",
+        "My father is dying.",
+        "I want to spend every moment by his bedside.",
+        "I will not come here again.\""
+      ],
+      "prompt": "Two panels. Panel 1: medium two-shot, the girl stands facing the boy with a firm upright posture and direct gaze, arms loose but body unyielding; the boy faces her, smaller, slightly hunched; Panel 2: extreme close-up on the girl's face, jaw set, eyes steady and tearless but deeply pained — grief and resolve held together.\n\nPanel 1: girl's feet planted squarely in the heather, chin level, voice coming from a place of controlled anguish; boy's shoulders curved inward, gaze dropping; Panel 2: girl's lips barely parted after finishing her final words, light catching moisture at the inner corner of one eye — not crying, but close; expression of someone choosing duty over feeling.\n\nOpen moorland, the flat rock between them in Panel 1, heather at knee level, rolling hills and open sky behind; Panel 2 crops tightly to the girl's face with the moor sky blurred behind her.\n\nPanel 1: cool overcast midday light, palette muted grey-green and cream, minimal shadow warmth — emotionally cold; the boy in slightly more shadow than the girl; Panel 2: the same cool flat light on the girl's face, pale and even, no warm tones — clinical emotional clarity, grief held in cold control.\n\nTeenage girl: golden natural curly hair, fair skin, slender petite frame, light cream dress; expression stern and decided, grief contained behind a composed surface. Sickly teenage boy: light golden curly hair, extremely pale delicate face, slender frail frame, light gentleman's shirt and trousers; posture diminished, unable to meet her gaze.\n\nSTYLE_PLACEHOLDER\n\nNo speech bubbles, no text, no watermark; the girl's expression in Panel 2 must read as grief-driven determination, not anger — keep the brow smooth, tension in the jaw and eyes only; maintain consistent moorland light across both panels; do not soften the confrontational dynamic with sympathetic boy close-ups in Panel 1."
+    }
+  ]
+}

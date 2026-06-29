@@ -1,0 +1,55 @@
+{
+  "storyboard_assets": [
+    {
+      "id": "B16-21",
+      "character_refs": ["C6", "C7", "C12"],
+      "scene_refs": ["S1"],
+      "covered_sentences": [
+        "When I confronted her, she told me everything.",
+        "Every evening for the three weeks I had been ill, she had gone to Wuthering Heights to see her cousin.",
+        "Sometimes they had passed the pleasant hours together, laughing and talking.",
+        "But more often Linton had been peevish and irritable.",
+        "He and Catherine had argued more than once."
+      ],
+      "prompt": "Two panels. Panel 1: medium two-shot, housekeeper faces the teenage girl across a wooden table, slight forward lean of authority, girl's head tilts down in reluctant confession; Panel 2: memory inset, oval vignette frame, teenage girl and sickly teenage boy seated near the fireplace, split expression—one side laughing, the other in mid-argument.\n\nPanel 1: housekeeper's hands rest flat on the table in a confrontational gesture, girl's fingers knot together in her lap; Panel 2 inset: left half shows both leaning toward each other with open mouths in laughter, right half shows the boy's arms crossed tightly, girl's palm raised in frustrated protest.\n\nLarge stone-walled sitting room, white stone floor, oak dresser visible at left corner with tin plates and silver jugs, large stone fireplace glowing at right; the main scene is evening lamplight, the vignette inset shows firelight warmth.\n\nPanel 1: cool grey ambient light from stone walls, single oil lamp casting warm amber on the two faces, housekeeper lit from above to emphasize stern expression, girl's face half in shadow; Panel 2 inset: warm golden firelight overall, left half tinted honey-yellow, right half tinted grey-blue to mark the shift from laughter to quarrel.\n\nHousekeeper: middle-aged woman, dark brown hair neatly pinned up, round kind face, stocky medium frame, dark dress with white apron and tied neckline. Teenage girl: about sixteen, golden natural curly hair, fair skin, slender petite frame, light cream dress hemline past the knee. Sickly teenage boy (in inset): light golden curly hair, delicate pale face, slender frail frame, light gentleman's shirt.\n\nSTYLE_PLACEHOLDER\n\nNo text, no speech bubbles, no watermark, no border outside the panels; keep stone texture visible on walls; the vignette inset must be clearly smaller than the main panel and softly feathered at its oval edge; faces must remain on-model across both panels."
+    },
+    {
+      "id": "B16-22",
+      "character_refs": ["C6", "C12", "C5"],
+      "scene_refs": ["S1"],
+      "covered_sentences": [
+        "On other occasions, Linton argued with Hareton.",
+        "Hareton seemed jealous that Catherine came to see Linton.",
+        "He often tried to engage her in conversation, but she was not interested in talking to him.",
+        "These evenings at Wuthering Heights, therefore, were not all happy ones, and yet she continued to go."
+      ],
+      "prompt": "Two panels in horizontal sequence. Panel 1: wide shot, two teenage boys stand facing each other in aggressive posture near the fireplace, the girl stands slightly behind to one side watching; Panel 2: medium shot on the girl in three-quarter view, expression politely closed-off, the stocky boy beside her speaks with open eager body language she ignores.\n\nPanel 1: sickly boy jabs a thin finger toward the stocky boy's chest, stocky boy's broad shoulders squared and fists loosely balled; girl's arms loosely crossed, gaze averted downward; Panel 2: stocky boy's torso angled toward the girl, mouth open mid-sentence, one hand gesturing; girl's body angles away, chin slightly lifted, eyes directed elsewhere.\n\nStone-walled sitting room, white stone floor, fireplace fire low and sullen at right, hunting rifles silhouetted on wall behind, wooden beams overhead; evening, dim and slightly oppressive.\n\nDeep amber firelight from right creating strong side shadows on all three figures; overall palette cool charcoal and ochre; Panel 2 lit from the fireplace side so the stocky boy is warm-lit while the girl is in cooler side light, emphasizing her emotional distance.\n\nSickly teenage boy: light golden curly hair, delicate pale face, slender frail build, light gentleman's shirt and trousers. Stocky teenage boy: thick dark brown messy hair, rough young face, broad-shouldered frame, dark coarse work shirt and trousers, leather boots, rough hands, head slightly taller than the sickly boy. Teenage girl: golden natural curly hair, fair skin, slender petite frame, light cream dress hemline past the knee.\n\nSTYLE_PLACEHOLDER\n\nNo speech bubbles, no text overlays, no watermark; maintain consistent character heights relative to each other across both panels; fireplace must remain on the same side in both panels; do not obscure faces with hair."
+    },
+    {
+      "id": "B16-23",
+      "character_refs": ["C6", "C12"],
+      "scene_refs": ["S1"],
+      "covered_sentences": [
+        "Once she had told Linton that she would not visit him anymore, since he was so irritable with her and did not seem to enjoy her company.",
+        "Then he begged her to come again.",
+        "He said he knew that he was weak and peevish and bad-tempered, and he was very sorry.",
+        "He said it was because he was ill, and he begged her to forgive him."
+      ],
+      "prompt": "Two panels. Panel 1: medium shot, the girl stands near the door with a firm departing posture, back half-turned, looking over her shoulder at the boy; the boy sits in a dark wood chair looking diminished and stricken; Panel 2: close two-shot, boy leaning forward from the chair with clasped hands raised toward her in a pleading gesture, girl's expression softened but unresolved.\n\nPanel 1: girl's hand rests on the door frame, weight shifted toward exit; boy's spine curved inward, shoulders dropped, hands limp on his knees; Panel 2: boy's thin fingers laced together at chest height, knuckles white with earnest appeal; girl's arms uncross slightly, head tilted with a trace of reluctant compassion.\n\nStone-walled sitting room, large stone fireplace at right with dying embers, main door at left; Panel 1 uses depth with the door in background and the chair prominent in foreground; Panel 2 compresses the space to a tight intimate framing near the chair.\n\nPanel 1: cold draught light from the doorway edge contrasting with the warm dying ember glow from the fireplace, the boy caught in the warmer zone and the girl at the cooler threshold; Panel 2: soft warm ember light on both faces, shadows under the boy's eyes emphasizing sickness and sincerity.\n\nSickly teenage boy: light golden curly hair, delicate pale face with dark shadows under eyes, slender frail frame, light gentleman's shirt and trousers, seated. Teenage girl: golden natural curly hair, fair skin, slender petite frame, light cream dress hemline past the knee, standing near door.\n\nSTYLE_PLACEHOLDER\n\nNo text, no speech bubbles, no watermark; keep the doorway architecture consistent with scene reference; ember glow must be visibly weaker than a full fire to convey late hour; boy's frailty must read clearly without exaggerating into caricature."
+    },
+    {
+      "id": "B16-24",
+      "character_refs": ["C6", "C7", "C10", "C12"],
+      "scene_refs": ["S9"],
+      "covered_sentences": [
+        "The next day I told my master all that Catherine had told me.",
+        "It made him very sad and worried.",
+        "But finally he agreed to let the cousins meet on the moors once a week to walk or ride together.",
+        "Because of Linton's health, they could not do this until the warm weather came.",
+        "When finally they did meet, I accompanied Cathy to the meeting.",
+        "Linton looked even weaker and more sickly than he had the last time I saw him, though he said he felt stronger."
+      ],
+      "prompt": "Three panels. Panel 1: interior medium two-shot (master and housekeeper), master seated at a desk in grief-stricken posture, housekeeper standing beside delivering news; Panel 2: wide establishing shot of open moorland in warm light, three figures on horseback approaching along a winding path; Panel 3: close three-shot on the moorland, housekeeper and the girl flank the sickly boy who sits slumped on his horse, his frail silhouette stark against the sky.\n\nPanel 1: master's elbow on desk, head lowered into his hand, housekeeper's posture upright and careful; Panel 2: riders small against rolling hills, heather in foreground, warm afternoon light; Panel 3: sickly boy's shoulders barely above the saddle line, housekeeper's eyes scanning him critically, girl looking at him with barely concealed worry.\n\nPanel 1: implied interior, glimpse of a window with moorland beyond; Panels 2 and 3: open moorland, heather and moss in foreground, winding sheep path through mid-ground, rolling hills and wide pale sky behind, a single weather-beaten dwarf tree leaning right at the left edge.\n\nPanel 1: soft grey interior light from window, master's face in partial shadow; Panel 2: warm golden afternoon sun low from the side, long shadows stretching across heather, pale amber sky; Panel 3: same warm light but closer, highlighting the ashen pallor of the sickly boy's face against the warm tones of the moor.\n\nMaster: adult male, light golden long curly hair, large calm light-blue eyes, refined elegant face, slender elegant frame, light gentleman's coat and white shirt, currently slumped in grief. Housekeeper: middle-aged woman, dark brown hair neatly pinned up, round kind face, stocky medium frame, dark dress with white apron. Teenage girl: golden natural curly hair, fair skin, slender petite frame, light cream dress. Sickly teenage boy: light golden curly hair, delicate pale face, slender frail frame, light gentleman's shirt and trousers, visibly more hollow and exhausted than before.\n\nSTYLE_PLACEHOLDER\n\nNo speech bubbles, no text, no watermark; Panel 1 background must differ clearly from the moorland panels; maintain consistent character appearances across all three panels; do not show blood or graphic illness symptoms in Panel 3, only visible frailty and pallor."
+    }
+  ]
+}
