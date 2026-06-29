@@ -1,0 +1,57 @@
+{
+  "storyboard_assets": [
+    {
+      "id": "B17-25a",
+      "character_refs": ["C6b", "C12"],
+      "scene_refs": ["S1"],
+      "covered_sentences": [
+        "Catherine nursed Linton alone.",
+        "Catherine was up day and night with her dying husband."
+      ],
+      "prompt": "Medium shot, slightly low angle, intimate and claustrophobic framing; Catherine kneels beside a low bed or chair near the fireplace, leaning forward toward Linton who lies propped against cushions.\n\nCatherine (young woman ~17-18, golden curly hair slightly disheveled, plain dark dress) bends close to Linton (teenage boy ~13-15, light golden curly hair, frail, pale, languid), tending him with exhausted devotion; Linton's hand rests limp, Catherine's hands support him gently; her posture conveys sleepless vigil.\n\nS1 呼啸山庄客厅 interior: stone walls, large stone fireplace on the right casting unsteady warmth, heavy wooden beams overhead, dark wood chairs visible in background; sparse and oppressive atmosphere.\n\nSingle source of light from the dying fireplace, casting deep amber glow across Catherine's haggard face and Linton's pallid skin; shadows dominate the rest of the room; cool blue-grey darkness in the background; mood of exhaustion and grief.\n\nCatherine foreground left, Linton reclined right; both figures small against the stone interior; Catherine's fair but haggard complexion lit from firelight; Linton's delicate pale face turned slightly toward her; no other figures present, emphasizing isolation.\n\nSTYLE_PLACEHOLDER\n\nNo text, no watermarks, no anachronistic objects; Victorian era setting; single light source only; somber and muted palette; no crowd; no exterior elements."
+    },
+    {
+      "id": "B17-25b",
+      "character_refs": ["C6b", "C13"],
+      "scene_refs": ["S1"],
+      "covered_sentences": [
+        "Heathcliff had told Zillah not to interfere, and Zillah, being a selfish, stupid woman, obeyed him.",
+        "Sometimes Zillah saw her sitting on the stairs at night, weeping.",
+        "But she never tried to comfort my poor young lady."
+      ],
+      "prompt": "Wide shot from above, staircase framing; stone staircase leading from the main hall of the farmhouse, Catherine seated alone on a middle step, Zillah visible at the top or bottom landing, watching from a distance.\n\nCatherine (young woman ~17-18, golden curly hair disheveled, plain dark dress, head bowed) sits hunched on the stone stair, weeping silently, arms wrapped around herself; Zillah (middle-aged woman ~40, dark hair neat, tall stocky frame, dark housekeeper dress + white apron + tied neckline) stands at a distance, arms folded, expression cold and indifferent, making no move to approach.\n\nS1 呼啸山庄客厅 adjacent stone staircase: rough stone walls, dim corridor, faint moonlight or candlelight filtering through a narrow window; heavy shadow, oppressive silence.\n\nNight scene; single cold moonlight beam or faint candle glow illuminates Catherine from above, casting her shadow long down the steps; Zillah half-lit in background, her indifference underlined by the separating darkness between the two figures; overall palette: deep navy, charcoal grey, cold silver.\n\nCatherine small and isolated in the center of the staircase; Zillah deliberately distanced, silhouetted or partially lit; the empty space between them is the emotional core of the image; no warmth, no connection.\n\nSTYLE_PLACEHOLDER\n\nNo text, no watermarks; night interior, no exterior; no anachronistic elements; cold palette throughout; distance between figures must be visually unmistakable; no other characters present."
+    },
+    {
+      "id": "B17-26a",
+      "character_refs": ["C6b", "C13"],
+      "scene_refs": ["S1"],
+      "covered_sentences": [
+        "Her master had told her not to interfere, and she obeyed her master's orders.",
+        "Finally, young Linton died.",
+        "Catherine was ill for two weeks after his death."
+      ],
+      "prompt": "Medium wide shot, static and somber; Catherine lies on a dark wood chair or settee near the cold fireplace, face pale and turned away, eyes closed or staring blankly; Zillah stands in the background near the doorway, arms at sides, expression flat, neither helping nor approaching.\n\nCatherine (young woman ~17-18, golden curly hair limp and loose, plain dark dress, fair haggard complexion) reclines weakly, visibly ill and grief-stricken; posture collapsed, no strength; Zillah (middle-aged woman ~40, dark hair neat, tall stocky frame, dark housekeeper dress + white apron) positioned near back-right door, observing without sympathy, fulfilling only the minimum required presence.\n\nS1 呼啸山庄客厅: stone walls, white stone floor, large stone fireplace right — fire now low or extinguished, cold ash visible; oak dresser left; heavy wooden beams above; the absence of warmth from the hearth mirrors the emotional abandonment.\n\nOvercast daylight or fading afternoon light through an unseen window; cold grey-white illumination, no warmth; Catherine's face in shadow; Zillah partially lit but emotionally in shadow; palette: ash grey, pale stone white, muted dark brown; mood: desolation and abandonment.\n\nCatherine occupies the foreground left, physically diminished and vulnerable; Zillah stands background right, near the door — proximity in the room but absolute emotional distance; the vast stone interior dwarfs both figures.\n\nSTYLE_PLACEHOLDER\n\nNo text, no watermarks; no fire or warm light — hearth cold; no anachronistic objects; Victorian interior strictly observed; palette cold and desaturated throughout; no other figures."
+    },
+    {
+      "id": "B17-26b",
+      "character_refs": ["C6b"],
+      "scene_refs": ["S1"],
+      "covered_sentences": [
+        "When she recovered, Heathcliff showed her Linton's will.",
+        "Linton had left everything to his father."
+      ],
+      "prompt": "Close medium shot, slightly high angle looking down at Catherine; she sits rigidly at a plain wooden table, a document (the will) open before her, eyes fixed on the page with dawning horror; Heathcliff's presence implied by a hand or sleeve edge entering from outside the frame.\n\nCatherine (young woman ~17-18, golden curly hair slightly disheveled, plain dark dress, fair but haggard complexion) seated, spine straight with shock rather than strength, hands flat on the table on either side of the document; expression: disbelief transitioning to despair; the will itself is the visual focal point between her hands.\n\nS1 呼啸山庄客厅: stone walls, wooden table in center, dim interior; window light falls directly onto the document on the table; dark wood and stone surround Catherine, emphasizing her entrapment.\n\nHarsh directional daylight from a side window illuminates the document and Catherine's face starkly; shadows are deep and angular; no warm tones; palette: cold daylight white on paper, dark stone grey, Catherine's dark dress; the brightness of the document contrasts with the surrounding darkness, making it feel like a trap closing.\n\nCatherine centered, slightly below eye level; the open will document is the second focal point; Heathcliff's physical presence only hinted at by a shadow or partial arm — he does not need to be fully visible; the composition traps Catherine between the document and the dark walls.\n\nSTYLE_PLACEHOLDER\n\nNo text visible on the will document; no watermarks; Heathcliff's face must NOT appear — only implied presence; no anachronistic objects; cold and oppressive lighting; Victorian interior strictly observed."
+    },
+    {
+      "id": "B17-27",
+      "character_refs": ["C6b"],
+      "scene_refs": ["S1"],
+      "covered_sentences": [
+        "Heathcliff must have forced him to write that will.",
+        "Catherine was left penniless, completely dependent upon her father-in-law.",
+        "Thus ended Mrs. Dean's story."
+      ],
+      "prompt": "Wide shot, static and elegiac; Catherine stands alone in the center of the S1 客厅, surrounded by the vast stone interior; her posture is still, resigned, not defeated but hollowed; she faces slightly away from the viewer or looks toward the cold fireplace.\n\nCatherine alone (young woman ~17-18, golden curly hair loose and slightly disheveled, plain dark dress, fair but haggard complexion, petite slender frame); arms at her sides or one hand resting on the back of a dark wood chair; expression unreadable — numbness, endurance; she occupies the center of the frame but is dwarfed by the room around her.\n\nS1 呼啸山庄客厅: full room visible — stone walls, white stone floor, large cold stone fireplace right (no fire), oak dresser left, heavy wooden beams above, dark wood chairs; the scale of the room emphasizes Catherine's smallness and isolation; no other people.\n\nLate afternoon or early evening light, fading and cool, entering from an unseen high window; long shadows cross the stone floor; the fireplace is dark and cold; palette: pale stone grey, deep shadow brown, muted dark for Catherine's dress; a sense of ending and stillness; no warmth anywhere in the frame.\n\nCatherine as sole figure, centered but small; the room's architecture — beams, fireplace, walls — frames and contains her; the composition reads as a final tableau, the conclusion of a chapter; emptiness and silence are the dominant visual qualities.\n\nSTYLE_PLACEHOLDER\n\nNo text, no watermarks; fireplace must be cold — no fire; no other characters; no anachronistic elements; Victorian farmhouse interior strictly observed; mood of finality and quiet desolation; no dramatic gesture from Catherine — stillness only."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "storyboard_assets": [
+    {
+      "id": "B18-33",
+      "character_refs": ["C1", "C7"],
+      "scene_refs": ["S1"],
+      "covered_sentences": [
+        "Finally he came home.",
+        "He was pale and trembling, but there was a strange, joyful glitter in his eyes.",
+        "I asked him where he had been all night, but he did not answer me.",
+        "I offered him food, but he did not eat.",
+        "He sat by the window, looking out eagerly, that strange smile on his face."
+      ],
+      "prompt": "Medium-wide two-shot; camera at chest height, slightly below eye level looking up toward the tall figure; fixed frame with window as anchor point on the right side of composition.\n\nA tall dark-skinned man (C1: ~40, short black slightly messy hair, sharp black eyes, dark gentleman's coat, white shirt, dark trousers, leather boots, head taller than a door frame by half a head) sits rigidly in a dark wood chair positioned beside a large stone window, body angled toward the glass, one hand resting on the sill; his pale, trembling face carries an unsettling radiant smile directed outward at nothing visible; a stocky middle-aged woman (C7: ~35-45, dark brown hair neatly pinned up, round kind face, dark housekeeper dress, white apron) stands a step behind him holding a plate of bread, her posture cautious, expression puzzled and slightly worried, gaze fixed on the man's profile.\n\nInterior of a rugged stone-walled parlour (S1): white stone floor, large stone fireplace visible on the far right edge of frame, an oak dresser to the left bearing tin and silver dishes, dark wooden ceiling beams hung with cured meats overhead, two rifles mounted on the stone wall behind, the main door slightly ajar at the far left, grey morning light entering the window beside the seated man, casting long horizontal bars of pale light across the stone floor.\n\nOverall cold grey-blue ambient light from the window; the man's face and hands receive the strongest illumination, bleaching his already pale complexion; the woman stands in partial shadow; faint orange ember-glow from dying fireplace coals at right edge warms the background slightly without competing with the dominant cold light; long directional shadows stretch leftward across the floor.\n\nSubject: C1 Heathcliff — tall adult male ~40, dark brown skin, short black slightly messy hair, sharp black eyes, dark gentleman's coat + white shirt + dark trousers + leather boots; Subject: C7 Nelly Dean — middle-aged woman ~35-45, dark brown hair neatly pinned up, round kind face, stocky medium frame, dark housekeeper dress + white apron.\n\nSTYLE_PLACEHOLDER\n\nNo text, no speech bubbles, no watermarks, no modern objects; stone walls must show visible mortar lines; window glass should be period wavy glass with slight distortion; fireplace coals should be low and ashen, not blazing; Heathcliff's smile must read as simultaneously joyful and unsettling, not warmly happy; Nelly's plate of food must be clearly untouched and still offered."
+    },
+    {
+      "id": "B18-34",
+      "character_refs": ["C1", "C7"],
+      "scene_refs": ["S1"],
+      "covered_sentences": [
+        "Later I brought him coffee but he did not touch it.",
+        "He sat there looking at the wall with intense interest.",
+        "'Come, master,' I said, 'drink your coffee before it gets cold.'",
+        "'Be quiet,' he cried.",
+        "'Turn round and tell me!",
+        "Are we alone in this room?'"
+      ],
+      "prompt": "Two-panel composition: left panel close-up, right panel medium shot; left — extreme close-up on the man's face in sharp profile, right eye filling the left third, gaze locked on an empty section of stone wall; right — medium shot showing both figures, woman stepping forward holding a steaming coffee cup, leaning slightly toward the seated man.\n\nLeft panel: the tall dark-skinned man (C1) sits motionless, jaw tight, eyes fixed with hypnotic intensity on a bare patch of stone wall; his sharp black eyes are wide, pupils slightly dilated, lips parted as if about to speak; his dark coat is slightly dishevelled from an all-night absence; right panel: the stocky middle-aged woman (C7) extends a ceramic coffee cup toward him, steam curling upward, her round face showing concern shading into alarm as his head snaps toward her with sudden urgency, his mouth open mid-command.\n\nSame parlour interior (S1): the left panel shows only the textured white stone wall in the background — blank, empty, no figure or shape upon it; the right panel reveals the broader room: stone fireplace right, oak dresser left, wooden beams above, pale grey daylight from the window, the coffee cup steaming on a small wooden side table beside the chair.\n\nLeft panel: cold raking sidelight across the man's face emphasising sharp bone structure, deep shadow on the far side of his face, the stone wall behind him flat and shadowless; right panel: diffuse grey window light fills the space, steam from the coffee cup catching the light as a thin white wisp, both figures lit evenly but coolly.\n\nSubject: C1 Heathcliff — tall adult male ~40, dark brown skin, short black slightly messy hair, sharp black eyes, dark gentleman's coat + white shirt + dark trousers + leather boots; Subject: C7 Nelly Dean — middle-aged woman ~35-45, dark brown hair neatly pinned up, round kind face, stocky medium frame, dark housekeeper dress + white apron.\n\nSTYLE_PLACEHOLDER\n\nNo text, no speech bubbles, no watermarks, no modern objects; the stone wall in the left panel must be completely empty — no figures, shadows, or shapes that could be mistaken for an apparition; the coffee cup must appear full and untouched; Heathcliff's expression in the right panel should convey sudden sharp agitation, not anger or violence."
+    },
+    {
+      "id": "B18-35",
+      "character_refs": ["C1", "C7"],
+      "scene_refs": ["S1"],
+      "covered_sentences": [
+        "'Of course we are alone, Mr. Heathcliff,' I replied.",
+        "'Look,' he whispered.",
+        "I turned and looked.",
+        "Now it seemed to me that he was not looking at the wall, but rather at something two yards in front of him.",
+        "Something that seemed to cause him great pleasure and great pain.",
+        "But there was nothing there."
+      ],
+      "prompt": "Over-the-shoulder medium shot from behind the woman, camera positioned at her left shoulder facing into the empty room; her back fills the lower left foreground, her head turned slightly to glance back at the man; the man's face is fully visible over her shoulder in mid-ground, eyes directed at a point in the empty space between them and the stone wall.\n\nThe stocky middle-aged woman (C7) stands in the left foreground, back to camera, head turning right to look toward the wall; her white apron and pinned dark hair are clearly visible from behind; the tall dark-skinned man (C1) stands or leans in the right mid-ground, his gaze fixed on a point in the empty air roughly two yards in front of him, his face a mask of mingled ecstasy and anguish — brows raised, lips parted, eyes glistening; the space between them is completely empty stone floor, no figure, no shape, nothing.\n\nThe same parlour (S1): white stone floor stretching between the two figures, the bare stone wall visible beyond in the background, dark wooden beams above, the oak dresser and its dishes visible at left edge; grey ambient light from off-screen window; the scene must read as an empty room with two people and nothing else present.\n\nCold grey ambient light dominant; a faint warm glow from the fireplace behind and to the right of the man illuminates the right side of his face with a barely perceptible amber tint, reinforcing the emotional duality of pleasure and pain in his expression; the empty floor between figures is evenly lit, deliberately unambiguous — no shadows or light patterns that suggest a third presence.\n\nSubject: C1 Heathcliff — tall adult male ~40, dark brown skin, short black slightly messy hair, sharp black eyes, dark gentleman's coat + white shirt + dark trousers + leather boots; Subject: C7 Nelly Dean — middle-aged woman ~35-45, dark brown hair neatly pinned up, round kind face, stocky medium frame, dark housekeeper dress + white apron.\n\nSTYLE_PLACEHOLDER\n\nNo text, no speech bubbles, no watermarks, no modern objects; the empty space between the figures must contain absolutely nothing — no ghost, no shimmer, no shadow figure; Heathcliff's expression of simultaneous joy and torment is essential and must be legible; the woman's posture should convey mild unease and confusion, not fear."
+    },
+    {
+      "id": "B18-36",
+      "character_refs": ["C1", "C7"],
+      "scene_refs": ["S1"],
+      "covered_sentences": [
+        "The object he stared at seemed to move, for his gaze moved with it.",
+        "'Come, Mr. Heathcliff, eat some bread, at least.",
+        "You have eaten nothing for days.'",
+        "But he did not answer me.",
+        "He stood up and walked out of the house and disappeared through the gate.",
+        "He did not return until after midnight."
+      ],
+      "prompt": "Two-beat wide shot: the tall man rising from the chair on the left half of the frame, the woman holding a piece of bread in the right half; a second beat or inset in the lower corner shows the man's silhouette passing through the main door, receding into grey exterior light.\n\nThe tall dark-skinned man (C1) is caught mid-rise from his dark wood chair, both hands pushing off the armrests, his gaze still drifting to the side as if tracking something invisible moving through the air; his long dark coat falls open slightly; the stocky woman (C7) stands close, one hand extended holding a small piece of dark bread, her round face set in worried appeal; the man's trajectory carries him toward the main door at the far left of the frame; in the secondary beat the man's tall silhouette — coat, boots, broad shoulders — is visible from behind as he passes through the doorway into the pale grey outdoors, gate visible beyond.\n\nMain parlour (S1) in the primary beat: stone walls, white stone floor, fireplace right, oak dresser left, wooden beams above, the main door open at far left revealing a sliver of grey moor sky; the secondary inset beat shows the doorframe and the overgrown moor path beyond the gate, no interior detail.\n\nPrimary beat: cold grey diffuse light throughout the room, the open doorway providing the brightest point in the frame — a rectangle of pale moor light that draws the eye toward the man's exit; secondary beat: flat overcast exterior light, silhouette of man rendered in deep shadow against the pale grey sky, gate a dark iron outline.\n\nSubject: C1 Heathcliff — tall adult male ~40, dark brown skin, short black slightly messy hair, sharp black eyes, dark gentleman's coat + white shirt + dark trousers + leather boots; Subject: C7 Nelly Dean — middle-aged woman ~35-45, dark brown hair neatly pinned up, round kind face, stocky medium frame, dark housekeeper dress + white apron.\n\nSTYLE_PLACEHOLDER\n\nNo text, no speech bubbles, no watermarks, no modern objects; the bread in Nelly's hand must appear plain and rustic, not ornate; Heathcliff's departure posture should convey purposeful movement pulled by an invisible force rather than anger or haste; the gate in the secondary beat should be a simple period iron or wooden farm gate; midnight return is not depicted in this panel."
+    }
+  ]
+}

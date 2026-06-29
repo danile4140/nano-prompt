@@ -1,0 +1,52 @@
+{
+  "storyboard_assets": [
+    {
+      "id": "B17-13",
+      "character_refs": ["C1", "C6b", "C7"],
+      "scene_refs": ["S5"],
+      "covered_sentences": [
+        "Lonely like the devil, and envious like him!",
+        "Nobody loves you.",
+        "Nobody will cry when you die.",
+        "I wouldn't be you.\"",
+        "She ran upstairs to pack her things."
+      ],
+      "prompt": "Wide shot of the sitting room; Catherine is caught mid-motion at the far left, one foot on the first stair visible through the open double doors, her dark dress swirling behind her as she turns to flee; Heathcliff stands immovable in the center, his figure rigid as stone; Nelly remains to the right, one hand over her mouth.\n\nCatherine's body language is electric — she has just delivered her final volley and spun away, the momentum of her exit carrying the eye toward the hallway; Heathcliff does not move or reach out, he simply absorbs the blow in perfect stillness, a controlled blankness that is more devastating than rage; Nelly shrinks slightly, caught between shock and awe.\n\nS5: spacious elegant sitting room, deep red carpet, tall windows left and front with heavy dark curtains and gold tassels, white ceiling with gold carved moldings, glass chandelier center, carved marble fireplace right with oval gold-framed portrait above, double wooden doors to hall left open.\n\nThe open doorway to the hall floods the left edge with cooler corridor light, silhouetting Catherine's departing figure; the sitting room itself is lit warmly from the chandelier and fireplace, yet the warmth feels hollow; the deep red carpet leads the eye from Catherine's exit back to Heathcliff's unmoving form like an accusatory arrow.\n\nC1 Heathcliff: tall adult male ~40, dark brown skin, short black slightly messy hair, sharp black eyes, dark gentleman's coat and white shirt and dark trousers and leather boots, head exceeding door frame by half a head; C6b young Catherine: young woman ~17-18, dark eyes, golden curly hair slightly disheveled, fair but haggard complexion, petite slender, plain dark dress past knee, caught in movement at the threshold; C7 Nelly Dean: middle-aged woman ~35-45, dark brown hair neatly pinned up, round kind face, stocky medium frame, dark housekeeper dress and white apron.\n\nSTYLE_PLACEHOLDER\n\nNo text, no speech bubbles, no watermarks, no signatures; period Victorian interior; dynamic exit contrasted with static authority; motion blur on Catherine's hem optional; no anachronistic elements."
+    },
+    {
+      "id": "B17-14",
+      "character_refs": ["C1", "C7"],
+      "scene_refs": ["S5"],
+      "covered_sentences": [
+        "Heathcliff stood by the fire, looking at the portraits of my master and mistress.",
+        "\"I will take her portrait back to Wuthering Heights,\" he said.",
+        "\"I don't need it, but –\"",
+        "He turned away from the fire with a strange smile on his face."
+      ],
+      "prompt": "Medium shot; Heathcliff stands before the carved marble fireplace, his back three-quarters to the viewer, head tilted upward toward the oval gold-framed portrait above the mantle; Nelly lingers in the mid-ground left, watching him warily; in the second implied beat he has half-turned, the strange smile just visible at the corner of his mouth.\n\nHeathcliff's posture is deceptively relaxed as he contemplates the portrait, one hand resting on the mantle ledge; the slight tension in his shoulders betrays a controlled longing; when he turns, the smile does not reach his eyes — it is the smile of a man who has just made a decision that satisfies some private, unfathomable need; Nelly watches him the way one watches something dangerous that has gone quiet.\n\nS5: carved marble fireplace right with oval gold-framed portrait above it, firelight active, the mantle detailed; deep red carpet, heavy dark curtains, white ceiling with gold carved moldings visible above.\n\nFirelight from below illuminates Heathcliff's face from beneath, casting upward shadows that dramatize his jaw and brow; the portrait above catches the same warm flicker, the painted face within it ambiguously lit; the rest of the room recedes into warm shadow; palette is deep amber, burnt sienna, and near-black.\n\nC1 Heathcliff: tall adult male ~40, dark brown skin, short black slightly messy hair, sharp black eyes, dark gentleman's coat and white shirt and dark trousers and leather boots; C7 Nelly Dean: middle-aged woman ~35-45, dark brown hair neatly pinned up, round kind face, stocky medium frame, dark housekeeper dress and white apron, expression cautious and observant.\n\nSTYLE_PLACEHOLDER\n\nNo text, no speech bubbles, no watermarks, no signatures; period Victorian interior; firelight as primary source; the portrait above the mantle is a key visual element; strange smile must be subtle, not theatrical; no anachronistic elements."
+    },
+    {
+      "id": "B17-15",
+      "character_refs": ["C1", "C7"],
+      "scene_refs": ["S5"],
+      "covered_sentences": [
+        "\"I will tell you what I did yesterday.",
+        "I asked the man who was digging Edgar Linton's grave to remove the earth of her coffin lid and I opened it.",
+        "When I saw her face, it is still her face.",
+        "I thought I would stay there forever, but the man told me that the air would damage her face, so I covered her up again.",
+        "But then I removed one side of her coffin."
+      ],
+      "prompt": "Close medium shot; Heathcliff has turned fully from the fireplace and faces Nelly at a slight diagonal, his expression distant and inward as he recounts what he did; Nelly faces him in three-quarter view, her body gone rigid, her face a mask of horrified disbelief; the fireplace glows behind Heathcliff's left shoulder.\n\nHeathcliff speaks in a low, steady tone, his gaze drifting past Nelly as if seeing the churchyard in his mind rather than the room; his hands are clasped loosely in front of him, the posture almost confessional; Nelly's hands have dropped to her sides, fingers stiff, her chin pulled back involuntarily from what she is hearing; the air between them is dense with the obscene intimacy of his revelation.\n\nS5: the fireplace behind Heathcliff's shoulder provides the dominant light source; the rest of the sitting room — dark curtains, red carpet, chandelier dimmed — recedes into background shadow; a red armchair is visible at the far left edge.\n\nDeep chiaroscuro: firelight rims Heathcliff's coat and the back of his hair with orange-gold while his face catches a cooler reflected glow from ahead; Nelly's face is lit by the same indirect firelight, every line of her expression visible; the background is a gradient of deep umber and near-black, giving the scene the weight of a confession booth.\n\nC1 Heathcliff: tall adult male ~40, dark brown skin, short black slightly messy hair, sharp black eyes, dark gentleman's coat and white shirt and dark trousers and leather boots; C7 Nelly Dean: middle-aged woman ~35-45, dark brown hair neatly pinned up, round kind face showing horror and revulsion, stocky medium frame, dark housekeeper dress and white apron.\n\nSTYLE_PLACEHOLDER\n\nNo text, no speech bubbles, no watermarks, no signatures; period Victorian interior; mood is intimate and macabre; Heathcliff's expression is calm obsession, not madness; no anachronistic elements."
+    },
+    {
+      "id": "B17-16",
+      "character_refs": ["C1", "C7"],
+      "scene_refs": ["S5"],
+      "covered_sentences": [
+        "Not the side next to Linton, damn him!",
+        "I paid the man some money and he agreed to bury me beside her, on the side where her coffin is open, and to leave the side of my coffin open too, so that by the time Edgar Linton gets to us he won't know which is which.\""
+      ],
+      "prompt": "Extreme close-up of Heathcliff's face in three-quarter profile, firelight catching the faint gleam of his dark eyes as he speaks the final words; Nelly is reduced to a soft pale shape at the extreme right edge of the frame, barely present — this is entirely Heathcliff's moment.\n\nHeathcliff's jaw is set, his voice has dropped to something almost tender; his gaze has turned inward to a vision only he can see — himself lying beside her in the dark earth, their open coffins merging; the faint smile from B17-14 returns here, but now it is nakedly sorrowful beneath its composure, the grief of a man who has planned his own dissolution with meticulous care.\n\nS5: fireplace glow dominates; the carved mantle edge is just visible at the bottom left corner; everything beyond the immediate foreground dissolves into warm amber darkness.\n\nFull chiaroscuro portrait: fierce orange-amber firelight from below-left sculpts Heathcliff's cheekbone, jaw, and the bridge of his nose; deep shadow fills the eye socket and the hollow of his cheek; the effect is both monumental and haunted; palette is restricted to deep black, burnt orange, and dull gold — no cool tones; Nelly's edge of face catches only a ghost of reflected warmth.\n\nC1 Heathcliff: tall adult male ~40, dark brown skin, short black slightly messy hair, sharp black eyes catching firelight, dark gentleman's coat and white shirt; C7 Nelly Dean: middle-aged woman ~35-45, soft blur at frame edge, expression stricken and speechless.\n\nSTYLE_PLACEHOLDER\n\nNo text, no speech bubbles, no watermarks, no signatures; extreme close-up portrait; the expression must hold both obsessive love and a profound, self-aware desolation — not villainy, not madness; period Victorian; no anachronistic elements."
+    }
+  ]
+}
