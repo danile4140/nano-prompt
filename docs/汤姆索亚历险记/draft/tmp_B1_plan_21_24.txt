@@ -1,0 +1,45 @@
+B1-21 | character_refs: ["C1", "C5"] | scene_refs: ["S2"] | 预估格数: ?
+- Ben watched Tom.
+  译：本盯着汤姆看。
+- He painted slowly and carefully.
+  译：汤姆刷得慢条斯理，认认真真。
+- He often stopped and moved back from the fence.
+  译：他常常停下来，退后几步欣赏自己的作品。
+- He looked at his work and smiled.
+  译：他看了看，满意地微笑着。
+- Ben was suddenly interested in the fence and said, "Let me paint a little, Tom."
+  译：本突然对这道栅栏来了兴趣，说道：「让我刷一点吧，汤姆。」
+
+---
+
+B1-22 | character_refs: ["C1", "C5"] | scene_refs: ["S2"] | 预估格数: ?
+- Tom thought for a moment.
+  译：汤姆思索了片刻。
+- "I'm sorry, Ben.
+  译：「对不起啊，本。
+- Aunt Polly wants me to do it because I'm very good at painting.
+  译：波莉姨妈让我来刷，因为我非常擅长粉刷。
+- My brother Sid wanted to do it, but he's not good at painting."
+  译：我兄弟锡德也想刷，但他刷得不好。」
+
+---
+
+B1-23 | character_refs: ["C1", "C5"] | scene_refs: ["S2"] | 预估格数: ?
+- "Oh, please, Tom!
+  译：「哦，求你了，汤姆！
+- Please can I paint?
+  译：让我刷一下好不好？
+- I'm good at painting too.
+  译：我也很擅长粉刷的。
+- Here, you can have some of my apple."
+  译：给你，你可以吃我的苹果。」
+
+---
+
+B1-24 | character_refs: ["C1", "C5"] | scene_refs: ["S2"] | 预估格数: ?
+- "No, Ben, I can't -"
+  译：「不行，本，我不能——」
+- "Then take all of my apple!"
+  译：「那你把我整个苹果都拿去！」
+
+---

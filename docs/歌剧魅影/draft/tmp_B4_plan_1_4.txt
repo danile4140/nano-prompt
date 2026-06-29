@@ -1,0 +1,28 @@
+## B4-1 | character_refs: [C2] | scene_refs: [] | 格数: 1
+
+- Christine Daae did not appear in public for some time after the gala performance.
+- She seemed to disappear completely.
+
+---
+
+## B4-2 | character_refs: [C3] | scene_refs: [S20] | 格数: 2（左格：拉乌尔写信；右格：收到克里斯汀来信）
+
+- The young Vicomte de Chagny wrote to her, asking if he could come to see her.
+- He received no reply to his letter, and then one day a letter came to his house.
+
+---
+
+## B4-3 | character_refs: [] | scene_refs: [] | 格数: 1（信件内容图示）
+
+- Monsieur, I have not forgotten the little boy who went into the sea for my scarf.
+- I am going to the country tomorrow, to see my father's grave.
+- He is buried where we played when we were children.
+
+---
+
+## B4-4 | character_refs: [C3] | scene_refs: [] | 格数: 1（火车车厢，无对应 scene，路径动线单格）
+
+- Raoul decided to follow Christine to her father's grave.
+- It was a long train journey into the country, and he passed the time remembering his childhood.
+
+---

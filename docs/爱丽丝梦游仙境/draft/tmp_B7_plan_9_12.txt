@@ -1,0 +1,38 @@
+B7-9 | character_refs: [C14, C1] | scene_refs: [S11] | 预估格数: ?
+- 'Of course not.
+译："当然告诉不了。
+- Does your watch tell you what year it is?' asked the March Hare.
+译：你的表能告诉你现在是哪一年吗？"三月野兔问道。
+- 'No,' Alice answered, 'but that's because it's the same year for a very long time.'
+译："不能，"爱丽丝回答，"但那是因为同一年已经过了很久了。"
+
+---
+
+---
+B7-10 | character_refs: [C14, C1] | scene_refs: [S11] | 预估格数: ?
+- 'Take some more tea,' said the March Hare.
+译："再喝点茶吧，"三月野兔说。
+- 'Thank you, but I didn't drink any tea so I can't take more,' replied Alice.
+译："谢谢，但我根本没喝过茶，所以没办法再多喝，"爱丽丝回答道。
+
+---
+
+---
+B7-11 | character_refs: [C15, C1] | scene_refs: [S11] | 预估格数: ?
+- 'Yes, you can,' he Hatter said.
+译："你当然可以，"帽匠说。
+- 'Anyone can take more than nothing.'
+译："从没有到有一点，谁都可以叫做'更多'。"
+
+---
+
+---
+B7-12 | character_refs: [C1, C15] | scene_refs: [S11] | 预估格数: ?
+- Alice didn't like the Hatter's comments so she wanted to tell him, 'I don't think ...'
+译：爱丽丝不喜欢帽匠的话，想要反驳他："我觉得……"
+- The Hatter interrupted her, 'Then you must not speak,' he said.
+译：帽匠打断了她："那你就不该开口说话，"他说。
+
+---
+
+---

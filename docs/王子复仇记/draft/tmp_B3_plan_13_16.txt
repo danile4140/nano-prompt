@@ -1,0 +1,35 @@
+B3-13 | character_refs: ["C2", "C4", "C5", "C6", "C3", "C9", "C10", "C8"] | scene_refs: ["S5"] | 预估格数: 1
+- all the court of Denmark watch the play.
+  译：丹麦全体朝臣都在观看演出。
+- ophelia, polonius, horatio, rosencrantz and guildenstern are all there.
+  译：奥菲莉亚、波洛涅斯、霍雷肖、罗森克兰茨和吉尔登斯吞都在场。
+- but nobody knows the secret of king hamlet's death.
+  译：但没有人知道哈姆雷特国王死亡的秘密。
+- except claudius and hamlet.
+  译：除了克劳迪斯和哈姆雷特。
+
+---
+
+B3-14 | character_refs: ["C2", "C5"] | scene_refs: ["S5"] | 预估格数: 2
+- on the stage, while the player king is sleeping.
+  译：舞台上，戏中国王正在沉睡。
+- the murderer pours poison in his ear.
+  译：凶手将毒药倒入他的耳中。
+- hamlet watches claudius's face carefully.
+  译：哈姆雷特仔细地观察着克劳迪斯的神情。
+
+---
+
+B3-15 | character_refs: ["C2"] | scene_refs: ["S5"] | 预估格数: 1
+- this is the ghost's story.
+  译：这就是鬼魂所说的故事。
+- if claudius is afraid.
+  译：如果克劳迪斯感到恐惧。
+- I shall know he is guilty.
+  译：我就知道他是有罪的。
+
+---
+
+B3-16 | character_refs: ["C5"] | scene_refs: ["S5"] | 预估格数: 1
+- suddenly, claudius stands up and runs out of the court.
+  译：突然，克劳迪斯站起身来，跑出了宫廷剧场。

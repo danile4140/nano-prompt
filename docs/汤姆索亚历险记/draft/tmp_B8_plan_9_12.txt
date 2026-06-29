@@ -1,0 +1,23 @@
+B8-9 | character_refs: ["C1"] | scene_refs: ["S14"] | 预估格数: ?
+- Then I found another entrance to the cave.
+  译：然后我发现了山洞的另一个入口。
+- It was very small and it was near the river."
+  译：那个入口非常小，就在河边。"
+
+B8-10 | character_refs: ["C1", "C7"] | scene_refs: ["S3"] | 预估格数: ?
+- Tom and Becky were happy but very tired and hungry.
+  译：汤姆和贝基又高兴，但也非常疲惫和饥饿。
+- Becky stayed in bed for many days because she was weak.
+  译：贝基因为虚弱，在床上待了好多天。
+- Tom stayed in bed for a few days too.
+  译：汤姆也在床上待了几天。
+
+B8-11 | character_refs: ["C1"] | scene_refs: ["S17"] | 预估格数: ?
+- Some time after the adventure in the cave, Tom went to visit Becky.
+  译：山洞历险过去一段时间后，汤姆去探望贝基。
+
+B8-12 | character_refs: ["C1", "C15"] | scene_refs: ["S17"] | 预估格数: ?
+- Mr Thatcher asked Tom, "Do you want to go to the cave again?"
+  译：萨切尔先生问汤姆："你还想再去山洞吗？"
+- "Oh, I'm not afraid of the cave," said Tom.
+  译："哦，我不怕山洞，"汤姆说。

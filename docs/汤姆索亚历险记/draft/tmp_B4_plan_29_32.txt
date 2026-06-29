@@ -1,0 +1,33 @@
+B4-29 | character_refs: ["C1", "C12", "C6"] | scene_refs: ["S10"] | 预估格数: ?
+- Huck and Joe looked at him with big eyes.
+  译：哈克和乔瞪大了眼睛盯着他。
+- "And now I have a great idea.
+  译："我现在有个好主意。
+- Listen — "
+  译：听着——"
+
+B4-30 | character_refs: ["C1", "C12", "C6"] | scene_refs: ["S10"] | 预估格数: ?
+- Tom told Huck and Joe his great idea.
+  译：汤姆把他的好主意告诉了哈克和乔。
+- They liked it and laughed.
+  译：他们很喜欢，都笑了起来。
+
+B4-31 | character_refs: ["C2", "C3", "C4", "C8"] | scene_refs: ["S4"] | 预估格数: ?
+- Sunday was the day of the funeral.
+  译：星期天是葬礼的日子。
+- There were no happy faces in St Petersburg.
+  译：圣彼得堡没有一张笑脸。
+- Everyone in the village was in the small church.
+  译：村子里所有人都聚在小教堂里。
+- Aunt Polly, Sid, Mary and Joe Harper's family were all dressed in black.
+  译：波莉姨妈、锡德、玛丽和乔·哈珀的家人全都穿着黑色丧服。
+
+B4-32 | character_refs: ["C2", "C8", "C7"] | scene_refs: ["S4"] | 预估格数: ?
+- The Reverend said many kind words about the three boys.
+  译：牧师对三个男孩说了许多深情的话。
+- The boys' families cried and cried.
+  译：男孩们的家人哭个不停。
+- Becky Thatcher cried.
+  译：贝基·萨切尔也哭了。
+- Everyone cried a lot.
+  译：所有人都哭了很久。

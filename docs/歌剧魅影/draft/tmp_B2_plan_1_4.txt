@@ -1,0 +1,20 @@
+B2-1 | character_refs: [] | scene_refs: ["S11"] | 预估格数: 1
+- The gala performance for the two managers continued.
+- Everyone in the audience was pleased with the music and the singing.
+
+B2-2 | character_refs: ["C2"] | scene_refs: ["S10"] | 预估格数: 1
+- One of the singers in particular gave great pleasure.
+- This was Christine Daae.
+- She was new to the Opera, and she had not sung many important roles before.
+- She was not one of the best singers at the Opera House.
+
+B2-3 | character_refs: ["C2"] | scene_refs: ["S10", "S11"] | 预估格数: 2
+- That night, however, she sang some short pieces from the famous operas Romeo and Juliet and Faust.
+- Her voice was strong and pure.
+- No one had heard anything like it before.
+- They were astonished by the beauty of her voice.
+
+B2-4 | character_refs: ["C3", "C14"] | scene_refs: ["S11"] | 预估格数: 1
+- There was one man in the audience who listened to Christine Daae with special intensity.
+- This was the young Vicomte de Chagny, Raoul.
+- He had come to the performance with his older brother the Comte de Chagny, Philippe.

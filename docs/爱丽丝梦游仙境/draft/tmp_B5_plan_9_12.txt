@@ -1,0 +1,32 @@
+B5-9 | character_refs: [C1, C10] | scene_refs: [S8] | 预估格数: ?
+- 'You must never be angry,' says the Caterpillar.
+  译："你绝对不能生气，"毛毛虫说。
+- 'Is that all?' Alice asks angrily.
+  译："就这些？"爱丽丝生气地问。
+- 'No.'
+  译："不。"
+
+---
+B5-10 | character_refs: [C1, C10] | scene_refs: [S8] | 预估格数: ?
+- The Caterpillar smokes his pipe for a while then he gets down off the mushroom and tells Alice: 'One side will make you grow bigger, and the other side will make you grow smaller.'
+  译：毛毛虫抽了一会儿烟斗，然后爬下蘑菇，告诉爱丽丝："一边会让你变大，另一边会让你变小。"
+
+---
+B5-11 | character_refs: [C1, C10] | scene_refs: [S8] | 预估格数: ?
+- Alice thinks, 'One side of what?
+  译：爱丽丝想，"什么的哪一边？
+- The other side of what?'
+  译：什么的另一边？"
+- The Caterpillar guesses her thoughts and says, 'Of the mushroom.'
+  译：毛毛虫猜到了她的心思，说："蘑菇的。"
+
+---
+B5-12 | character_refs: [C1] | scene_refs: [S8] | 预估格数: ?
+- The mushroom is round like all mushrooms so Alice thinks: 'How can it have two sides?'
+  译：蘑菇是圆的，像所有蘑菇一样，所以爱丽丝想："它怎么可能有两边呢？"
+- Then she puts her arms round the top and takes a bit of mushroom with each hand.
+  译：然后她把手臂环绕在蘑菇顶部，用每只手各取了一小块蘑菇。
+- 'Which bit will make me bigger?' she asks herself.
+  译："哪块会让我变大呢？"她自问道。
+
+---

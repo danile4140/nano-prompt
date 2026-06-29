@@ -1,0 +1,25 @@
+B7-33 | character_refs: ["C1", "C7"] | scene_refs: ["S15"] | 预估格数: ?
+- They continued walking in the dark tunnels.
+  译：他们继续在黑暗的隧道里行走。
+- They were both tired and hungry.
+  译：他们两个又累又饿。
+
+B7-34 | character_refs: ["C7", "C1"] | scene_refs: ["S15"] | 预估格数: ?
+- Becky started crying.
+  译：贝基开始哭泣。
+- "No one will ever find us, Tom.
+  译："没有人会找到我们的，汤姆。
+- There are too many tunnels and rooms.
+  译：这里有太多的隧道和房间了。
+- Oh, we're going to die here!"
+  译：哦，我们要死在这里了！"
+
+B7-35 | character_refs: ["C1"] | scene_refs: ["S15"] | 预估格数: ?
+- "We'll get out of this cave, Becky, you'll see," said Tom.
+  译："我们一定能走出这个山洞的，贝基，你等着瞧，"汤姆说道。
+
+B7-36 | character_refs: ["C1", "C7"] | scene_refs: ["S15"] | 预估格数: ?
+- They ate their last piece of cake.
+  译：他们吃掉了最后一块蛋糕。
+- Soon their last candle went out.
+  译：很快，他们最后一根蜡烛也熄灭了。

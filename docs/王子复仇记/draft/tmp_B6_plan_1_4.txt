@@ -1,0 +1,34 @@
+B6-1 | character_refs: ["C2", "C6", "C4"] | scene_refs: ["S9"] | 预估格数: ?
+- while he is standing in the graveyard, hamlet sees a procession approaching.
+  译：哈姆雷特站在墓地里，看见一支送葬队伍走来。
+- it is ophelia's funeral.
+  译：那是奥菲莉亚的葬礼。
+- the queen throws flowers into the grave.
+  译：王后把鲜花抛入墓穴。
+- and says sweets to the sweet.
+  译：她说："愿芬芳伴随芬芳。"
+
+---
+B6-2 | character_refs: ["C2"] | scene_refs: ["S9"] | 预估格数: ?
+- hamlet did not know that ophelia was dead.
+  译：哈姆雷特不知道奥菲莉亚已经死了。
+- he is shocked.
+  译：他震惊了。
+
+---
+B6-3 | character_refs: ["C2", "C7"] | scene_refs: ["S9"] | 预估格数: ?
+- he jumps into the grave and fights with lai ties.
+  译：哈姆雷特跳入墓穴，与莱阿提斯扭打在一起。
+- you killed my father and my sister.
+  译："你害死了我的父亲，还有我的妹妹！"
+- I loved ophelia more than forty thousand brothers.
+  译："我对奥菲莉亚的爱，胜过四万个兄长！"
+
+---
+B6-4 | character_refs: ["C7", "C5"] | scene_refs: ["S2"] | 预估格数: ?
+- lay yat tis wants his revenge.
+  译：莱阿提斯一心想要复仇。
+- he and clari us decide how to kill hamlet.
+  译：他与克劳狄斯密谋如何杀死哈姆雷特。
+
+---

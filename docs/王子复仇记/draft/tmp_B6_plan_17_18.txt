@@ -1,0 +1,20 @@
+B6-17 | character_refs: ["C2", "C3"] | scene_refs: ["S10"] | 预估格数: ?
+- hamlet is dying.
+  译：哈姆雷特奄奄一息。
+- polonius aphelia lair ties, gertrude and claudius are all dead.
+  译：波洛涅斯、奥菲莉亚、莱阿提斯、葛特鲁德和克劳狄斯全都死了。
+- it is time for a new beginning in Denmark.
+  译：哈姆雷特说："丹麦迎来了新的开始。"
+
+---
+B6-18 | character_refs: ["C2", "C3"] | scene_refs: ["S10"] | 预估格数: ?
+- I shall kill myself too.
+  译：霍雷肖说："我也要随你而去。"
+- no horatio, you must live.
+  译：哈姆雷特说："不，霍雷肖，你必须活下去。"
+- tell the truth to the world after I am dead.
+  译："在我死后，将真相告诉这个世界。"
+- tell my story.
+  译："讲述我的故事。"
+
+---

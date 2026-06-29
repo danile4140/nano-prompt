@@ -1,0 +1,59 @@
+### B11-33（4句）
+| 原文句子 | 环境状态 |
+|---|---|
+| He sat down in a chair. | 波斯人公寓，白天 |
+| 'I didn't kill Raoul's brother. | 同上 |
+| He was dead when I arrived at the lake. | 同上 |
+| He fell into the water and he drowned.' | 同上 |
+
+- character_refs：C1（Erik），C4（波斯人）
+- scene_refs：S21
+- 预估格数：1格（Erik坐下辩白，同一说话者连续陈述，含悲伤手势）
+- 四维度检查（3对）：同一说话者，同一话题，无切换，4句可保留
+
+---
+
+### B11-34（3句）
+| 原文句子 | 环境状态 |
+|---|---|
+| He stopped talking for a moment and looked unhappily at the Persian. | 波斯人公寓，白天 |
+| 'This is the end for me. | 同上 |
+| I love her. She allowed me to kiss her. It was so... beautiful!' | 同上，情感高潮 |
+
+- character_refs：C1（Erik），C4（波斯人）
+- scene_refs：S21
+- 预估格数：2格（Erik停顿/沉默对视 + 情感高潮告白，情感高潮D类：接吻告白，至少2个视觉承载点）
+- 【情绪标记】强度：强，类型：感动/悲伤，推荐视觉手段：中心聚焦组织 + 近景特写 + 泪线
+
+---
+
+### B11-35（3句）
+| 原文句子 | 环境状态 |
+|---|---|
+| 'Where are they?' the Persian demanded. | 波斯人公寓，白天 |
+| 'What have you done with them, you monster?' | 同上 |
+| 'Christine and Raoul are safe,' Erik replied. | 同上 |
+
+- character_refs：C4（波斯人），C1（Erik）
+- scene_refs：S21
+- 预估格数：2格（波斯人质问 + Erik回应安慰，对话双格，说话方切换，条件B：质问→出人意料结果"they are safe"）
+
+---
+
+### B11-36（6句，豁免）
+| 原文句子 | 环境状态 |
+|---|---|
+| 'She saved you both, you know. | 波斯人公寓，白天 |
+| She turned the scorpion because she wanted you both to live. | 同上 |
+| It was so brave of her. | 同上 |
+| She promised to be my wife if I let you both live. | 同上 |
+| And then I kissed her. | 同上，情感高潮 |
+| I was happy and I wept. It was the first kiss of my life. Even my own mother never kissed me! She just gave me a mask to put over my face. Then she ran away from me.' | 同上 |
+
+- character_refs：C1（Erik），C4（波斯人）
+- scene_refs：S21
+- 预估格数：2格（Erik叙述Christine的勇气和承诺 + Erik接吻/哭泣/母亲未吻过我 的情感爆发，情感高潮D类加密）
+- 豁免理由：逐对扫描5对：①-⑤均为Erik同一说话者连续独白，话题连贯（Christine的勇气→接吻→人生中第一次被关爱），视觉焦点=Erik，空间不变，情绪=感动/悲伤持续升温（无反转）。已扫描5对相邻句，四维度均无切换，保留6句。
+- 【情绪标记】强度：强，类型：感动/悲伤，推荐视觉手段：近景特写 + 泪线 + 速度线/爆裂线（情绪爆发点）
+
+---

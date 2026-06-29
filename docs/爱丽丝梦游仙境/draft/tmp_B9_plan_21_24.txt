@@ -1,0 +1,31 @@
+B9-21 | character_refs: [C1] | scene_refs: [S13] | 预估格数: ?
+- Alice felt very strange.
+  译：爱丽丝感到非常奇怪。
+- 'This courtroom seems so small.
+  译：「这个法庭好像变得好小。
+- Perhaps I'm growing again!' Alice thought.
+  译：也许我又在长大了！」爱丽丝心想。
+
+---
+
+B9-22 | character_refs: [C18] | scene_refs: [S13] | 预估格数: ?
+- 'Next witness!' the King called out.
+  译：「下一位证人！」国王喊道。
+
+---
+
+B9-23 | character_refs: [C12] | scene_refs: [S13] | 预估格数: ?
+- The next witness was the Duchess' cook.
+  译：下一位证人是公爵夫人的厨师。
+- When she entered the courtroom she had a pepper pot so everybody started to sneeze.
+  译：她进入法庭时带着一只胡椒瓶，于是所有人都开始打喷嚏。
+
+---
+
+B9-24 | character_refs: [C18, C3] | scene_refs: [S13] | 预估格数: ?
+- 'Tell us what you know,' said the King.
+  译：「把你知道的都告诉我们，」国王说。
+- 'Your Majesty, you must ask her questions,' said the White Rabbit.
+  译：「陛下，您必须向她提问，」白兔说。
+
+---

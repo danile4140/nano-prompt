@@ -1,0 +1,17 @@
+B6-17 | character_refs: ["C10b", "C20"] | scene_refs: ["S8"] | 预估格数: ?
+- "This is the treasure of the old Murrel family — now it's ours!" said Injun Joe.
+  译："这是默雷尔家族的旧宝藏——现在是我们的了！"印第安乔说。
+- "Where can we hide this gold?" asked the small man, "Can we put it back under the stone?"
+  译："我们把这些金子藏在哪里？"小个子男人问，"能把它放回石头下面吗？"
+- "Yes," said Injun Joe, "No, no! The stone isn't a good place. Someone may find it. Let's put it under the cross tonight."
+  译："好……不，不！石头那里不安全，有人可能找到。今晚我们把它放在十字架下面，"印第安乔说。
+
+B6-18 | character_refs: ["C1", "C6"] | scene_refs: ["S8"] | 预估格数: ?
+- When it was dark outside the two men took the silver and gold away.
+  译：天黑之后，两个男人带着银币和金子离开了。
+- Tom and Huck did not follow them because they were afraid of Injun Joe.
+  译：汤姆和哈克没有跟上去，因为他们害怕印第安乔。
+- But they wanted to find "the cross" and the treasure.
+  译：但他们很想找到"十字架"和那笔宝藏。
+- Where was "the cross"?
+  译："十字架"究竟在哪里？

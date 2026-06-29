@@ -1,0 +1,65 @@
+B4-6（6句）：已扫描5对相邻句，四维度均无切换（同一时刻Hamlet拉开帘子的连续发现动作，同一空间，震惊情绪渐进），保留。
+-
+
+---
+
+B4-7（5句）：已扫描4对相邻句，同一话题对话≤2回合（王后指责→哈姆雷特辩解），无场景/时间/空间切换，保留。
+-
+
+---
+
+B4-5 | character_refs: ["C2", "C4"] | scene_refs: ["S7"] | 预估格数: 2（触发-转折必拆，§4条件B：杀人后王后恐惧反应）
+- are you going to murder me?
+- 译：你要杀我吗？
+- help,help,help,murder.
+- 译：救命，救命，救命，有人行凶。
+
+---
+
+---
+
+B4-6 | character_refs: ["C2", "C4", "C8"] | scene_refs: ["S7"] | 预估格数: 2（画中画：发现尸体，高潮节点）
+- what's that?
+- 译：那是什么？
+- is it direct?
+- 译：是真人吗？
+- is it the king?
+- 译：是国王吗？
+- when hamlet pulls back the curtain.
+- 译：当哈姆雷特拉开帘子时。
+- he sees polonius.
+- 译：他看到了波洛涅斯。
+- dead.
+- 译：已经死了。
+【已扫描5对相邻句，四维度均无切换（同一时刻拉帘发现全过程），保留6句】
+
+---
+
+---
+
+B4-7 | character_refs: ["C2", "C4"] | scene_refs: ["S7"] | 预估格数: 2（对话双格，§4条件B：指责-辩解）
+- what have you done?
+- 译：你做了什么？
+- you have murdered polonia s.
+- 译：你杀了波洛涅斯。
+- I thought it was the king.
+- 译：我以为那是国王。
+- I'm sorry that I have killed this poor fool.
+- 译：我很遗憾杀死了这个可怜的蠢货。
+- but mother.
+- 译：但是，母亲。
+【已扫描4对相邻句，同一话题对话≤2回合，四维度无切换，保留5句】
+
+---
+
+---
+
+B4-8 | character_refs: ["C2", "C4"] | scene_refs: ["S7"] | 预估格数: 2（对话双格，Hamlet道德指控）
+- I'm not as bad as you.
+- 译：我没有你那么坏。
+- you killed a king and married his brother.
+- 译：你杀死了一位国王，然后嫁给了他的兄弟。
+- what do you mean?
+- 译：你什么意思？
+
+---

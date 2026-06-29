@@ -1,0 +1,34 @@
+B1-1 | character_refs: [C1, C2] | scene_refs: [S1] | 预估格数: ?
+- It is a beautiful, sunny afternoon.
+  译：这是一个美丽晴朗的下午。
+- Alice and her sister are sitting by the river.
+  译：爱丽丝和她的姐姐坐在河边。
+- Alice's sister is reading a book.
+  译：爱丽丝的姐姐在看书。
+- Alice has nothing to do.
+  译：爱丽丝没有事做。
+
+---
+B1-2 | character_refs: [C1, C2] | scene_refs: [S1] | 预估格数: ?
+- She looks at her sister's book.
+  译：她看了看姐姐的书。
+- There are no pictures in it.
+  译：书里没有图画。
+- 'And what's the use of a book without pictures?' Alice thinks.
+  译：「没有图画的书有什么用呢？」爱丽丝心想。
+
+---
+B1-3 | character_refs: [C1, C3] | scene_refs: [S1] | 预估格数: ?
+- It is very, very hot.
+  译：天气非常非常热。
+- Alice is sleepy.
+  译：爱丽丝很困。
+- Suddenly she sees a White Rabbit with pink eyes.
+  译：突然她看见一只有着粉红色眼睛的白兔。
+
+---
+B1-4 | character_refs: [C3] | scene_refs: [S1] | 预估格数: ?
+- 'Oh dear! Oh dear! I'm late!' he says.
+  译：「哎呀！哎呀！我要迟到了！」他说道。
+
+---

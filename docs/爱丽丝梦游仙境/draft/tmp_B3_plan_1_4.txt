@@ -1,0 +1,32 @@
+B3-1 | character_refs: [C1, C6, C4, C5, C7, C8] | scene_refs: [S4] | 预估格数: ?
+- After being in the pool Alice and all the animals are wet and cold.
+  译：从水池里出来后，爱丽丝和所有动物都又湿又冷。
+
+---
+B3-2 | character_refs: [C1, C6] | scene_refs: [S5] | 预估格数: ?
+- 'Why don't we organise a Callcus-Race? It's the best thing to do if you're cold,' says the Dodo.
+  译：「我们何不来一场高卡斯赛跑？这是在冷的时候最好的办法，」渡渡鸟说。
+- Alice asks: 'What's a Callcus-Race?'
+  译：爱丽丝问道：「高卡斯赛跑是什么？」
+- 'I can tell you,' the Dodo replies, 'but the best thing is to do it.'
+  译：「我可以告诉你，」渡渡鸟回答，「但最好的办法是亲身去做。」
+
+---
+B3-3 | character_refs: [C1, C6, C4, C5, C7, C8] | scene_refs: [S5] | 预估格数: ?
+- First the Dodo marks a big circle on the ground and everybody must stand on different parts of the circle.
+  译：首先渡渡鸟在地上画了一个大圆圈，每个人必须站在圆圈的不同位置上。
+- There is no 'one, two, three, go', but they begin running when they like.
+  译：没有「一、二、三、跑！」，大家想什么时候开始跑就什么时候跑。
+- They stop when they are tired.
+  译：累了就停下来。
+- Only the Dodo knows when the race is finished.
+  译：只有渡渡鸟知道比赛什么时候结束。
+
+---
+B3-4 | character_refs: [C1, C6, C4, C5, C7, C8] | scene_refs: [S5] | 预估格数: ?
+- After half an hour they are all dry again and the Dodo shouts: 'The race is over!'
+  译：半小时后大家都干了，渡渡鸟大喊：「比赛结束了！」
+- The animals sit down in a circle and ask: 'Who's the winner?'
+  译：动物们围坐成一圈，问道：「谁是赢家？」
+
+---

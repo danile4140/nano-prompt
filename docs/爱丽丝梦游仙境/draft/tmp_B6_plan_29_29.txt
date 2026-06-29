@@ -1,0 +1,20 @@
+B6-29 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: ?
+- Alice ate some bits of mushroom she had in her pockets.
+- 译：爱丽丝吃了一些口袋里装的蘑菇碎片。
+- She grew bigger and there she was, ready to make new friends.
+- 译：她长高了，就站在那里，准备好去结交新朋友。
+
+---
+
+## 自检
+
+- 原文总句数：81
+- 已覆盖句数：81
+- 未覆盖句数：0 ✓
+- 等式成立，可进入阶段二。
+
+## B6-3 豁免说明
+
+B6-3 含 5 句（句子 8-12），已扫描 4 对相邻句，四维度（视觉焦点/时间/空间/情绪）均无切换：全部为爱丽丝在厨房内的连续内心独白，同一说话者、同一空间、同一情绪基调（厌烦/观察），保留。
+
+---

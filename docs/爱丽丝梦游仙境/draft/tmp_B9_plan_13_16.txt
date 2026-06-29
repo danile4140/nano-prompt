@@ -1,0 +1,35 @@
+B9-13 | character_refs: [C18, C15] | scene_refs: [S13] | 预估格数: ?
+- 'Let's continue now.
+  译：「我们继续吧。
+- What did you see?' asked the King.
+  译：你看到了什么？」国王问道。
+
+---
+
+B9-14 | character_refs: [C15, C14] | scene_refs: [S13] | 预估格数: ?
+- 'Well, your Majesty, I was having my tea when the March Hare said ...'
+  译：「好吧，陛下，我正在喝茶的时候三月野兔说了……」
+- 'I didn't!' protested the March Hare.
+  译：「我没有！」三月野兔抗议道。
+- 'I mean ... the Dormouse said.'
+  译：「我是说……睡鼠说的。」
+
+---
+
+B9-15 | character_refs: [C16, C15] | scene_refs: [S13] | 预估格数: ?
+- The Dormouse didn't protest.
+  译：睡鼠没有抗议。
+- He was asleep, so the Hatter went on.
+  译：他睡着了，于是帽匠继续说道。
+- 'Well, I cut more bread and butter.'
+  译：「好吧，我切了更多的面包和黄油。」
+
+---
+
+B9-16 | character_refs: [C18, C15] | scene_refs: [S13] | 预估格数: ?
+- 'But what did the Dormouse say?' inquired the King.
+  译：「但睡鼠说了什么？」国王追问道。
+- 'I can't remember,' replied the Hatter.
+  译：「我记不得了，」帽匠回答。
+
+---

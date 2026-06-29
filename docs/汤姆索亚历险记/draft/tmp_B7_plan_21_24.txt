@@ -1,0 +1,21 @@
+B7-21 | character_refs: ["C6"] | scene_refs: ["S17"] | 预估格数: ?
+- Huck ran quickly to Bill Welsh's house.
+  译：哈克飞快地跑向比尔·威尔士的家。
+- "Mr Welsh, help, help!"
+  译："威尔士先生，救命，救命啊！"
+
+B7-22 | character_refs: ["C14"] | scene_refs: ["S17"] | 预估格数: ?
+- Mr Welsh opened the door.
+  译：威尔士先生打开了门。
+
+B7-23 | character_refs: ["C6", "C14"] | scene_refs: ["S17"] | 预估格数: ?
+- "Mr Welsh, please help me!
+  译："威尔士先生，请帮帮我！
+- Two men want to kill Widow Douglas!"
+  译：有两个男人想要杀死道格拉斯寡妇！"
+
+B7-24 | character_refs: ["C14"] | scene_refs: ["S17"] | 预估格数: ?
+- Mr Welsh and his sons took their rifles.
+  译：威尔士先生和他的儿子们拿起了他们的步枪。
+- They ran to the widow's house.
+  译：他们跑向寡妇的家。

@@ -1,0 +1,26 @@
+B2-21 | character_refs: ["C1"] | scene_refs: ["S4"] | 预估格数: 2
+- The strange figure took no notice of the remarks that people were making.
+- After a few minutes, he looked up.
+- 'The ballet girls are right,' he announced loudly.
+- 'The death of poor Buquet was not suicide.'
+（4句，幽灵淡定→抬头→宣告，叙事节拍：过渡动作+宣告，含高潮B类宣告，用聚焦定格+双格）
+
+B2-22 | character_refs: ["C10", "C11", "C12", "C13"] | scene_refs: ["S4"] | 预估格数: 2
+- Debienne and Poligny were shocked.
+- They had not heard of the scene-shifter's death.
+- They looked at the strange man, and then they stood up hurriedly.
+- They made a quick sign to the two new managers to join them, and then they left the room.
+（4句，经理们震惊+起身+打手势离去，连续反应动作链，同场景）
+
+B2-23 | character_refs: ["C10", "C11", "C12", "C13"] | scene_refs: ["S5"] | 预估格数: 1
+- Soon Debienne and Poligny were sitting in their office talking to the new managers, Monsieur Richard and Monsieur Moncharmin.
+- 'We've given you all the help we can, gentlemen,' Monsieur Debienne said to the new managers.
+- 'There is just one final thing you need to know about the Opera.
+- It's the question of the ghost.'
+（4句，场景切换至办公室，德比安开口说话，建立镜+对话首格）
+
+B2-24 | character_refs: ["C12", "C10"] | scene_refs: ["S5"] | 预估格数: 2
+- Monsieur Richard smiled.
+- He did not believe in the stories about the ghost, and he thought Monsieur Debienne was joking.
+- 'What does the ghost want?' he joked.
+（3句，说话方从德比安切换到理查德：微笑→不信→开玩笑，对话双格）

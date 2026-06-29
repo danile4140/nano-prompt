@@ -1,0 +1,40 @@
+B7-1 | character_refs: [C1, C14, C15, C16] | scene_refs: [S11] | 预估格数: ?
+- Alice walked towards the house.
+译：爱丽丝朝那栋房子走去。
+- There was a tree in front of the house.
+译：房子前面有一棵大树。
+- Under the tree there was a big table with places for a lot of people.
+译：大树下摆着一张大桌子，桌边有很多座位。
+- There were only three people sitting at the table: the Hatter, the March Hare, and a Dormouse.
+译：桌子旁边只坐着三个人：帽匠、三月野兔，还有一只睡鼠。
+- The Dormouse was asleep and the other two were sitting next to him.
+译：睡鼠睡着了，另外两个坐在他旁边。
+
+---
+
+---
+B7-2 | character_refs: [C14, C15] | scene_refs: [S11] | 预估格数: ?
+- When the Hatter and the March Hare saw Alice, they shouted: 'No! No! There isn't a place for you!'
+译：帽匠和三月野兔看到爱丽丝，大喊道："不行！不行！这里没有你的位子！"
+
+---
+
+---
+B7-3 | character_refs: [C1, C14, C15] | scene_refs: [S11] | 预估格数: ?
+- 'There are a lot of places,' said Alice and she sat in a big chair.
+译："有很多位子，"爱丽丝说，然后坐进了一把大椅子里。
+
+---
+
+---
+B7-4 | character_refs: [C1, C15] | scene_refs: [S11] | 预估格数: ?
+- The Hatter looked at Alice and took a watch out of his pocket.
+译：帽匠盯着爱丽丝，然后从口袋里掏出一块怀表。
+- 'What day is it?' he asked.
+译："今天是星期几？"他问道。
+- Alice thought a bit and answered, 'Wednesday, I think.'
+译：爱丽丝想了想，回答说："我想是星期三。"
+
+---
+
+---

@@ -1,0 +1,7 @@
+B2-25 | character_refs: ["C1", "C4", "C5", "C6", "C7", "C8"] | scene_refs: ["S4"] | 预估格数: ?
+- In the pool there are other strange animals: a duck, a dodo, a parrot and a small eagle.
+  译：水池里还有其他奇怪的动物：一只鸭子、一只渡渡鸟、一只鹦鹉和一只小鹰。
+- Alice has some company at last!
+  译：爱丽丝终于有了伴！
+
+---

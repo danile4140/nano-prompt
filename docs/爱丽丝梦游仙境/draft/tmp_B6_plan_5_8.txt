@@ -1,0 +1,42 @@
+B6-5 | character_refs: ["C1", "C13"] | scene_refs: ["S9"] | 预估格数: ?
+- Near the fire Alice saw a big cat.
+- 译：炉火旁，爱丽丝看见了一只大猫。
+- It had a big grin on its face.
+- 译：那只猫脸上挂着一个大大的笑容。
+
+---
+
+---
+B6-6 | character_refs: ["C1", "C11", "C13"] | scene_refs: ["S9"] | 预估格数: ?
+- Alice was very curious about the cat's grin so she asked the Duchess, 'I would like to know why your cat grins like that.'
+- 译：爱丽丝对那只猫的笑容非常好奇，于是问公爵夫人："我想知道您的猫为什么这样咧嘴笑。"
+- 'Because it's a Cheshire cat.
+- 译："因为它是一只柴郡猫。
+- Pig!' said the Duchess.
+- 译：猪！"公爵夫人说。
+
+---
+
+---
+B6-7 | character_refs: ["C1", "C11", "C22"] | scene_refs: ["S9"] | 预估格数: ?
+- Alice thought the Duchess was shouting at her.
+- 译：爱丽丝以为公爵夫人是在对她喊叫。
+- But she wasn't.
+- 译：但她不是。
+- She was shouting at her baby.
+- 译：她是在对自己的婴儿喊叫。
+
+---
+
+---
+B6-8 | character_refs: ["C1", "C11"] | scene_refs: ["S9"] | 预估格数: ?
+- 'It's very strange,' said Alice.
+- 译："这真是太奇怪了，"爱丽丝说。
+- 'What?' asked the Duchess.
+- 译："什么？"公爵夫人问。
+- 'A grinning cat,' answered Alice.
+- 译："一只咧嘴笑的猫，"爱丽丝回答。
+
+---
+
+---

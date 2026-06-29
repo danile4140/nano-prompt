@@ -1,0 +1,53 @@
+B1-1 | character_refs: ["C2"] | scene_refs: ["S1"] | 预估格数: ?
+- "Tom! Tom!"
+  译：「汤姆！汤姆！」
+- There was no answer.
+  译：没有人回答。
+- "Where is that boy? Tom!" Aunt Polly looked under the bed but she only found the cat.
+  译：「那孩子跑哪儿去了？汤姆！」波莉姨妈弯腰看了看床底，却只找到了猫。
+- "Tom!" she cried.
+  译：「汤姆！」她喊道。
+- Then she heard a noise behind her.
+  译：就在这时，她听见身后传来一阵声响。
+- A small boy ran past and she stopped him with her hand.
+  译：一个小男孩飞奔而过，她伸出手把他拦住了。
+
+---
+
+B1-2 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: ?
+- "What are you doing, Tom?" she asked.
+  译：「汤姆，你在做什么？」她问道。
+- "Nothing."
+  译：「没做什么。」
+- "Nothing.
+  译：「没做什么。
+- Look at your hand and your mouth.
+  译：你看看你的手和嘴。
+- I told you not to eat the jam."
+  译：我不是告诉过你不许吃果酱吗。」
+
+---
+
+B1-3 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: ?
+- "Oh, Aunt Polly, look behind you!"
+  译：「哦，波莉姨妈，你快看你身后！」
+- The old lady looked and Tom ran away.
+  译：老太太回头一看，汤姆撒腿就跑。
+- Aunt Polly was surprised and then she laughed.
+  译：波莉姨妈先是一愣，随后哈哈大笑起来。
+
+---
+
+B1-4 | character_refs: ["C2"] | scene_refs: ["S1"] | 预估格数: ?
+- "I never learn.
+  译：「我真是没长记性。
+- Tom always plays tricks on me and I never learn.
+  译：汤姆总是捉弄我，我却从来没有吸取教训。
+- I love Tom.
+  译：我爱这个孩子。
+- He's my sister's child - she's dead.
+  译：他是我姐姐的孩子——我姐姐已经去世了。
+- But it's not easy to look after him.
+  译：但是照顾他实在不容易。
+
+---

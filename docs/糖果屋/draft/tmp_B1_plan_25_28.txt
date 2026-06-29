@@ -1,0 +1,63 @@
+B1-25 | character_refs: ["C1", "C2"] | scene_refs: ["S5"] | 预估格数: 2
+- At midday Grettel divided her bread with Hansel, for he had strewn his all along their path.
+  译：中午时分，格蕾特尔把面包与汉泽尔分着吃，因为他已经把自己的面包屑都撒在了路上。
+- Then they fell asleep, and evening passed away, but nobody came to the poor children.
+  译：然后他们睡着了，傍晚过去了，但没有人来接这两个可怜的孩子。
+- They didn't awake till it was pitch dark, and Hansel comforted his sister, saying: "Only wait, Grettel, till the moon rises, then we shall see the bread-crumbs I scattered along the path; they will show us the way back to the house."
+  译：他们一直没有醒来，直到天色漆黑，汉泽尔安慰妹妹说："等一下，格蕾特尔，等月亮升起来，我们就能看到我撒在路上的面包屑了；它们会带我们回家的。"
+- When the moon appeared they got up, but they found no crumbs, for the thousands of birds that fly about the woods and fields had picked them all up.
+  译：月亮出来后他们起身，却发现面包屑不见了，因为飞翔在林间田野的成千上万只鸟已经把它们全部啄食一空了。
+
+【节拍分析】4句，覆盖：（1）中午分面包（S57）；（2）睡着等待→天黑无人来（S58）；（3）汉泽尔安慰+说有面包屑（S59）；（4）起身找不到面包屑（S60）。逐对四维度扫描：S57→S58：时间推进（中午→傍晚→天黑），触发拆分评估；S58→S59：情绪从"等待绝望"到"汉泽尔安慰"，但属同一场景内的渐进推进；S59→S60：时间推进（等月亮→月亮出来），有明确时序词"When"。切点：S57是"分面包"（白天行为）→S58起是夜晚等待/绝望，明确时间切换。但S58-S60（等待→安慰→发现面包屑没了）属于同一"发现面包屑消失"节拍，可用两格：左格（S57中午分面包）；右格（S58-S60夜晚：醒来漆黑→找不到面包屑，汉泽尔安慰气泡）。总4句两格承载，合理。
+
+---
+
+---
+
+B1-26 | character_refs: ["C1", "C2"] | scene_refs: ["S5"] | 预估格数: 2
+- "Never mind," said Hansel to Grettel; "you'll see we'll find a way out"; but all the same they did not.
+  译：汉泽尔对格蕾特尔说："没关系，你会看到的，我们一定能找到出路"；但事实上他们没有。
+- They wandered about the whole night, and the next day, from morning till evening, but they could not find a path out of the wood.
+  译：他们在林子里游荡了整整一夜，又从早到晚走了第二天，却始终找不到出路。
+- They were very hungry, too, for they had nothing to eat but a few berries they found growing on the ground.
+  译：他们也极度饥饿，因为除了在地上找到的几粒野浆果，什么都没得吃。
+- And at last they were so tired that their legs refused to carry them any longer, so they lay down under a tree and fell fast asleep.
+  译：最终他们疲惫到双腿无法支撑，便躺在一棵树下沉沉睡去。
+
+【节拍分析】4句，描述迷失一整天一整夜的绝望历程。逐对四维度扫描：S61→S62：汉泽尔说"有出路"→事实上没有，情绪骤转（希望破灭），触发拆分；S62→S63→S64：同一情绪基调（饥饿+绝望+疲惫），连续叙述，无焦点切换。切点在S61→S62（情绪反转：宣告有出路→实则没有）。两格：左格（汉泽尔安慰+宣告有出路，与格蕾特尔对话）；右格（二人游荡疲惫，最终倒下树旁睡着，大空间小人物的比例压迫构图表达绝望）。
+
+---
+
+---
+
+B1-27 | character_refs: ["C1", "C2", "C6"] | scene_refs: ["S5"] | 预估格数: 2
+- On the third morning after they had left their father's house they set about their wandering again, but only got deeper and deeper into the wood, and now they felt that if help did not come to them soon they must perish.
+  译：离开父亲家的第三天早上，他们再次开始游荡，却只是越走越深入森林，此刻他们感到，如果帮助不快点降临，他们就要死在这里了。
+- At midday they saw a beautiful little snow-white bird sitting on a branch, which sang so sweetly that they stopped still and listened to it.
+  译：中午时分，他们看到一只美丽的雪白小鸟坐在树枝上，唱着甜美的歌，他们停下脚步静静聆听。
+- And when its song was finished it flapped its wings and flew on in front of them.
+  译：当鸟儿唱完歌，它扑扇翅膀，飞到了他们前方引路。
+- They followed it and came to a little house, on the roof of which it perched; and when they came quite near they saw that the cottage was made of bread and roofed with cakes, while the window was made of transparent sugar.
+  译：他们跟着它来到一座小屋，鸟儿停在屋顶上；当他们走近，发现这座小屋是用面包砌成的，屋顶铺着蛋糕，窗户则是透明的糖块做的。
+
+【节拍分析】4句：（1）第三天继续游荡，濒死绝望；（2）发现白鸟+停下聆听；（3）鸟儿飞走引路；（4）跟随鸟儿来到糖果屋，惊喜发现。逐对四维度扫描：S65→S66：视觉焦点从"二人游荡绝望"切换到"发现白鸟"（新戏剧性事件），触发拆分评估；S66→S67：同一焦点（鸟儿），时间连续；S67→S68：空间位移（从游荡中→到达糖果屋），触发拆分。切点：S65→S66（发现白鸟，叙事节点）；S67→S68（到达糖果屋，叙事高潮入场）。但S66→S67属同一"跟随鸟引路"节拍，可合并。两格：左格（S65，二人在深林绝望游荡，比例压迫）；右格（S66-S68，白鸟出现+引路+到达糖果屋惊喜全景）。
+
+---
+
+---
+
+B1-28 | character_refs: ["C1", "C2"] | scene_refs: ["S6"] | 预估格数: 2
+- "Now we'll hop in," said Hansel, "and stuck our faces with the food. I'll eat a bit of the roof, and you, Grettel, can eat some of the window, which you'll find a tasty little snack."
+  译：汉泽尔说："我们进去吧，把脸埋进食物里。我来吃一点屋顶，你，格蕾特尔，可以吃一点窗户，你会发现那是道美味小吃。"
+- Hansel stretched up his hand and broke off a little bit of the roof to see what it was like, and Grettel went to the window and began to nibble at it.
+  译：汉泽尔伸手掰下一小块屋顶尝了尝，格蕾特尔则走到窗户前开始啃咬。
+- At that moment a shrill voice came out from the room inside:
+  译：就在那一刻，屋内传来一声尖厉的喊声：
+- "Nibble, nibble, little mouse, Who's nibbling at my house?"
+  译："啃啊啃啊，小老鼠，是谁在啃我的房子？"
+- The children answered: "Tis Heaven's own child, The tempest wild," and went on eating, for they were ever so hungry.
+  译：孩子们回答："是上天的孩子，是狂风一般，"然后继续吃，因为他们实在太饿了。
+
+【节拍分析】5句：（1）汉泽尔说分工吃屋子；（2）两人开始啃食；（3-4）屋内传来尖叫声；（5）孩子们应答继续吃。逐对四维度扫描：S69→S70：说话（计划）→行动，同一焦点；S70→S71→S72：行动过程中突现新事件（尖叫声），§5新的戏剧性事件触发；S72→S73：孩子回答+继续吃，视觉焦点回到孩子。切点：S70→S71（尖叫声出现，新戏剧事件）。两格：左格（汉泽尔说话+两人开始啃食，S69-S70）；右格（屋内尖叫声+孩子回答继续吃，S71-S73）。5句两格，无单格>4句。
+
+---

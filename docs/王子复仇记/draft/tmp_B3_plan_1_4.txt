@@ -1,0 +1,29 @@
+B3-1 | character_refs: ["C2", "C9", "C10"] | scene_refs: ["S4"] | 预估格数: 1
+- three, the play.
+  译：第三章，戏中戏。
+- two university friends come to visit hamlet.
+  译：两位大学同学来拜访哈姆雷特。
+- their names are rosencrantz and guildenstern.
+  译：他们的名字是罗森克兰茨和吉尔登斯吞。
+
+---
+
+B3-2 | character_refs: ["C2", "C9", "C10"] | scene_refs: ["S4"] | 预估格数: 1
+- at first.
+  译：起初。
+- hamlet is very pleased to see them.
+  译：哈姆雷特见到他们非常高兴。
+
+---
+
+B3-3 | character_refs: ["C2", "C9", "C10"] | scene_refs: ["S4"] | 预估格数: 2
+- but they ask a lot of questions, and he becomes suspicious.
+  译：但他们问了很多问题，他开始起疑心。
+
+---
+
+B3-4 | character_refs: ["C2", "C9", "C10"] | scene_refs: ["S4"] | 预估格数: 2
+- why are you behave so strangely?
+  译：你为什么行为如此奇怪？
+- what's the matter with you?
+  译：你怎么了？

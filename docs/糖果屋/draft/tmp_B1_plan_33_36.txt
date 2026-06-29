@@ -1,0 +1,69 @@
+B1-33 | character_refs: ["C5", "C1", "C2"] | scene_refs: ["S7"] | 预估格数: 3
+- Early in the morning, before the children were awake, she rose up, and when she saw them both sleeping so peacefully, with their round rosy cheeks, she muttered to herself: "That'll be a dainty bite to eat."
+  译：清晨，在孩子们还没醒来之前，她起身，看到他们两人睡得如此安详，圆润红润的脸颊，她低声自语道："那会是道可口的点心。"
+- Then she seized Hansel with her bony hand and carried him into a little stable, and locked the door on him; he might scream as much as he liked, it did him no good.
+  译：然后她用她枯骨般的手抓住汉泽尔，把他带进一间小马厩，锁上了门；他哭喊也没有用。
+- Then she went to Grettel, shook her till she awoke, and cried: "Get up, you lazy-bones, fetch water and cook something for your brother. When he's fat I'll eat him up."
+  译：然后她走向格蕾特尔，摇醒她，喊道："起来，你这个懒骨头，去打水，给你哥哥做点吃的。等他长胖了我就把他吃掉。"
+- Grettel began to cry bitterly, but it was of no use; she had to do what she was told.
+  译：格蕾特尔开始大哭，但没有用；她不得不照吩咐去做。
+
+【节拍分析】§4条件C计谋执行链：（1）女巫起身观察孩子、心生恶意（布局）；（2）抓走汉泽尔关进马厩（触发执行）；（3）命令格蕾特尔服务（分配任务）；（4）格蕾特尔哭泣被迫服从（结果）。四个步骤相互依赖，必须分格。三格（§4条件C）：左格（女巫俯身看熟睡孩子+说"可口"，邪恶凝视）；中格（女巫抓汉泽尔推进马厩锁门，动作关键帧）；右格（女巫喊醒格蕾特尔发命令+格蕾特尔哭泣服从）。
+
+【情绪标记】强度：强，类型：恐惧，推荐视觉手段：速度线（抓取动作）+ 格蕾特尔哭泣特写 + 中近景压迫感。
+
+---
+
+---
+
+B1-34 | character_refs: ["C5", "C1"] | scene_refs: ["S8"] | 预估格数: 2
+- So the best food was cooked for poor Hansel, but Grettel got nothing but crab-shells.
+  译：可怜的汉泽尔得到了最好的食物，但格蕾特尔只得到蟹壳。
+- Every morning the old woman hobbled out to the stable and cried: "Hansel, put out your finger that I may feel if you are getting fat."
+  译：每天早晨，老妇人都蹒跚走到马厩，喊道："汉泽尔，伸出你的手指来，让我摸摸你是否长胖了。"
+- But Hansel always stretched out a bone, and the old dame, whose eyes were dim, couldn't see it, and thinking always it was Hansel's finger, wondered why he fattened so slowly.
+  译：但汉泽尔总是伸出一根骨头，而视力模糊的老妇人看不出来，以为那是汉泽尔的手指，不明白他为什么长得这么慢。
+- When four weeks had passed and Hansel still remained thin, she lost patience and decided to wait no longer.
+  译：四周过去了，汉泽尔仍然很瘦，她失去了耐心，决定不再等待。
+
+【节拍分析】4句，描述一段时间内的循环状态：（1）日常喂食对比（格蕾特尔vs汉泽尔）；（2-3）每天早晨女巫检验+汉泽尔骗局（循环行为）；（4）女巫失去耐心（状态变化，节拍切换）。逐对四维度扫描：S89→S90：同一时间段的叙述；S90→S91：连续行为描述；S91→S92：时间跳跃（"四周后"）+情绪变化（耐心→失去耐心），触发拆分。切点：S91→S92。两格：左格（S89-S91：女巫每天检验、汉泽尔骗局循环场景，序列条或单格+时间暗示）；右格（S92：四周后女巫失去耐心，特写近景）。
+
+---
+
+---
+
+B1-35 | character_refs: ["C5", "C2"] | scene_refs: ["S7"] | 预估格数: 2
+- "Hi, Grettel," she called to the girl, be quick and get some water. Hansel may be fat or thin, I'm going to kill him tomorrow and cook him."
+  译："嘿，格蕾特尔，"她对女孩喊道，"快去打水。汉泽尔不管胖瘦，我明天就要杀了他烹了他吃。"
+- Oh! How the poor little sister sobbed as she carried the water, and how the tears rolled down her cheeks!
+  译：哦！可怜的妹妹提着水哭泣，泪水顺着脸颊滚落！
+- "Kind heaven help us now!" she cried; "if only the wild beasts in the wood had eaten us, then at least we should have died together."
+  译："仁慈的上天帮帮我们！"她哭喊道，"要是森林里的野兽吃了我们就好了，至少我们还能死在一起。"
+
+【节拍分析】§4条件B：女巫宣告"明天杀汉泽尔"（触发）→格蕾特尔绝望痛哭（情绪转折结果），必须分格。两格：左格（女巫傲慢宣告，近景仰角）；右格（格蕾特尔哭泣，眼泪，情绪高潮）。S96（女巫回怼"闭嘴"）附属于第三句，与格蕾特尔哭泣同在右格承载（格蕾特尔哭+女巫冷漠回怼气泡）。
+
+【情绪标记】强度：强，类型：悲伤，推荐视觉手段：夸张哭泣表情 + 泪水落地细节特写 + 速度线方向表达绝望。
+
+---
+
+---
+
+B1-36 | character_refs: ["C5", "C2"] | scene_refs: ["S9"] | 预估格数: 4
+- Early in the morning Grettel had to go out and hang up the kettle full of water, and light the fire.
+  译：清晨，格蕾特尔不得不出门把装满水的水壶挂上，并生起火来。
+- "First we'll make a pie," said the old witch; "I've heated the oven already and rolled the pastry."
+  译：老女巫说："先来做个馅饼，我已经把烤箱加热了，面团也擀好了。"
+- She pushed Grettel out to the oven, from which fiery flames were already jumping.
+  译：她把格蕾特尔推到烤箱前，烤箱里已经有火焰蹿出。
+- "Creep in," said the witch, "and see if it's properly heated, so that we can shove in the pie."
+  译：女巫说："爬进去，看看烤箱有没有烧好，这样我们才能把馅饼放进去。"
+- For when she had got Grettel in she meant to close the oven and let the girl roast, that she might eat her up too.
+  译：因为一旦格蕾特尔进去，她就打算关上烤箱门让女孩烤熟，把她也吃掉。
+- But Grettel saw through her wicked trick, and said: "I don't know how I'm going to do it; how do I get in?"
+  译：但格蕾特尔看穿了她的恶毒计谋，说道："我不知道怎么进去，要怎么爬进去呢？"
+
+【节拍分析】§4条件C计谋执行链：（1）清晨格蕾特尔被强迫生火（布局准备）；（2）女巫说做馅饼+推格蕾特尔到炉前（设局）；（3）女巫命令"爬进去"（触发）；（4）叙述者揭晓女巫真实意图（内情）；（5）格蕾特尔识破、装傻应对（反制触发）。6句5步骤，§4条件C要求≥3步骤必须按步骤分格，但格数上限4格（2×2网格）。句数6句，满足第二层上限6句（无豁免标注不需要因为恰好6句）。四格：左上格（S97：格蕾特尔被迫生火，布局准备）；右上格（S98-S99：女巫说做馅饼，把格蕾特尔推到炉前）；左下格（S100-S101：女巫命令爬进去+叙述者揭晓邪恶意图）；右下格（S102：格蕾特尔识破装傻，表情特写）。2×2网格构图。
+
+已扫描5对相邻句（S97→S98, S98→S99, S99→S100, S100→S101, S101→S102），§4条件C强制分格优先，保留6句（条件C步骤链）。
+
+---

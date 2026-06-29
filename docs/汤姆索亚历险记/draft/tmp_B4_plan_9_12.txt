@@ -1,0 +1,35 @@
+B4-9 | character_refs: ["C1"] | scene_refs: ["S9"] | 预估格数: ?
+- "Let's run away!
+  译："我们离家出走吧！
+- We can go and live on Jackson's Island.
+  译：我们可以去杰克逊岛上住。
+- We can be pirates.
+  译：我们可以当海盗。
+- A pirate's life is exciting," said Tom.
+  译：海盗的生活很刺激，"汤姆说。
+
+B4-10 | character_refs: [] | scene_refs: ["S9"] | 预估格数: ?
+- Jackson's Island was a small island in the Mississippi River.
+  译：杰克逊岛是密西西比河中的一座小岛。
+- It was about three miles south of St Petersburg.
+  译：它在圣彼得堡以南大约三英里处。
+- No one lived on the island.
+  译：岛上无人居住。
+
+B4-11 | character_refs: ["C1", "C12"] | scene_refs: ["S9"] | 预估格数: ?
+- "Huckleberry Finn can come with us too," said Tom, "Remember, Joe, don't tell your mother, father or anyone about our adventure.
+  译："赫克贝利·芬也可以和我们一起去，"汤姆说，"记住，乔，别告诉你妈妈、爸爸或任何人我们的冒险计划。
+- Go home and bring some food.
+  译：回家带些食物来。
+- We'll meet here at midnight."
+  译：我们午夜在这里碰头。"
+- Tom and Joe were excited.
+  译：汤姆和乔都很兴奋。
+
+B4-12 | character_refs: ["C1", "C12", "C6"] | scene_refs: ["S9"] | 预估格数: ?
+- At midnight the three boys met on the river.
+  译：午夜时分，三个男孩在河边会合了。
+- Tom brought some meat to eat.
+  译：汤姆带来了些肉。
+- Joe brought some bread and Huck brought a frying pan.
+  译：乔带来了面包，哈克带来了一口煎锅。

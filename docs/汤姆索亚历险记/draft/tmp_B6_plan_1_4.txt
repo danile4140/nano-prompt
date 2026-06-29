@@ -1,0 +1,23 @@
+B6-1 | character_refs: [] | scene_refs: ["S3"] | 预估格数: ?
+- Every young boy wants to find a treasure.
+  译：每个男孩都梦想找到宝藏。
+- And Tom did too.
+  译：汤姆也不例外。
+- One hot summer day he told Huck about his idea.
+  译：一个炎热的夏日，他把自己的想法告诉了哈克。
+
+B6-2 | character_refs: ["C1", "C6"] | scene_refs: ["S6"] | 预估格数: ?
+- "Where can we look for a treasure?" asked Huck happily.
+  译："我们去哪里找宝藏？"哈克兴高采烈地问道。
+- "Robbers put treasure under old trees or in old houses. We can start digging under the old tree on Cardiff Hill. Come on! Let's go!"
+  译："强盗们把宝藏藏在老树下或旧房子里。我们可以先去挖加的夫山丘上那棵老树下面。来吧！走！"
+
+B6-3 | character_refs: ["C1", "C6"] | scene_refs: ["S13"] | 预估格数: ?
+- The boys went to Cardiff Hill and started digging.
+  译：两个男孩来到加的夫山丘，开始挖土。
+- It was a hot day and they dug for a few hours.
+  译：天气炎热，他们挖了好几个小时。
+
+B6-4 | character_refs: ["C1", "C6"] | scene_refs: ["S13"] | 预估格数: ?
+- "There's nothing under this tree," said Huck.
+  译："这棵树下什么都没有，"哈克说。

@@ -1,0 +1,35 @@
+B4-13 | character_refs: ["C1", "C12", "C6"] | scene_refs: ["S9", "S10"] | 预估格数: ?
+- They found a small raft and they went down the river to Jackson's Island.
+  译：他们找到一只小木筏，顺河漂到了杰克逊岛。
+- When they arrived on the island they made a fire and cooked some meat.
+  译：到达岛上后，他们生起火，烤起肉来。
+
+B4-14 | character_refs: ["C1", "C12", "C6"] | scene_refs: ["S10"] | 预估格数: ?
+- "This is fun!" said Joe.
+  译："这太有趣了！"乔说。
+- "We're free and we can do everything we want!" said Tom.
+  译："我们自由了，想做什么就做什么！"汤姆说。
+- "What do pirates do?" asked Huck.
+  译："海盗都做什么？"哈克问道。
+- "They go on ships and take the money.
+  译："他们登上船夺取财宝。
+- Then they go to an island and hide it in a secret place," said Tom.
+  译：然后去一座岛上把它藏在秘密地点，"汤姆说。
+- The three boys were happy and slept under the stars.
+  译：三个男孩都很开心，在星空下入睡了。
+
+B4-15 | character_refs: ["C1", "C12", "C6"] | scene_refs: ["S10"] | 预估格数: ?
+- The next morning they went swimming in the river.
+  译：第二天早晨，他们下河游泳。
+- Then they went fishing.
+  译：然后又去钓鱼。
+- They cooked the fish on the fire and ate it.
+  译：他们把鱼在火上烤熟吃了。
+- It was delicious.
+  译：味道好极了。
+
+B4-16 | character_refs: ["C1", "C12", "C6"] | scene_refs: ["S10"] | 预估格数: ?
+- After breakfast they walked around the island and went swimming again.
+  译：吃过早饭后他们绕岛走了一圈，又去游了泳。
+- In the afternoon they sat around the fire and ate some meat.
+  译：下午他们围坐在篝火旁吃肉。

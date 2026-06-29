@@ -1,0 +1,17 @@
+B4-37 | character_refs: ["C1", "C8"] | scene_refs: ["S4"] | 预估格数: ?
+- Tom was very proud of his great idea.
+  译：汤姆对自己的好主意感到非常自豪。
+- Then the Reverend said, "Let us sing and be happy!"
+  译：然后牧师说："让我们唱歌，快乐起来吧！"
+- Everybody sang and laughed.
+  译：大家都唱着歌，笑声连连。
+- It was a very happy day.
+  译：这是非常快乐的一天。
+
+---
+
+## 自检
+
+总句数：125
+已覆盖句数：125
+未覆盖句数：0

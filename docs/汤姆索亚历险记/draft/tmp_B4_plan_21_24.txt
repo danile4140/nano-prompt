@@ -1,0 +1,33 @@
+B4-21 | character_refs: ["C1", "C12", "C6"] | scene_refs: ["S10"] | 预估格数: ?
+- The three boys felt like heroes and laughed.
+  译：三个男孩觉得自己像英雄一样，哈哈大笑起来。
+- "The people of St Petersburg are looking for us.
+  译："圣彼得堡的人正在找我们。
+- They're talking about us.
+  译：他们都在议论我们。
+- We're famous!" said Tom happily.
+  译：我们出名了！"汤姆高兴地说。
+
+B4-22 | character_refs: ["C1", "C12", "C6"] | scene_refs: ["S10"] | 预估格数: ?
+- This was an exciting adventure for Tom, Huck and Joe!
+  译：这对汤姆、哈克和乔来说是一场令人兴奋的冒险！
+- They felt like real pirates on Jackson's island.
+  译：他们感觉自己就是杰克逊岛上真正的海盗。
+- The boats and the steamboat went away.
+  译：那些船和蒸汽船都离开了。
+
+B4-23 | character_refs: ["C1", "C12", "C6"] | scene_refs: ["S10"] | 预估格数: ?
+- The boys went fishing again and had fish for dinner.
+  译：男孩们又去钓鱼，把鱼当晚饭吃了。
+- Then they slept under the stars.
+  译：然后他们在星空下入睡了。
+- But Tom could not sleep.
+  译：但汤姆睡不着。
+
+B4-24 | character_refs: ["C1", "C12", "C6"] | scene_refs: ["S10"] | 预估格数: ?
+- The next morning he wasn't there.
+  译：第二天早上，他不见了。
+- "Where's Tom?" asked Joe.
+  译："汤姆去哪了？"乔问道。
+- "I don't know," said Huck.
+  译："我不知道，"哈克说。

@@ -1,0 +1,47 @@
+B3-25 | character_refs: ["C2"] | scene_refs: ["S2"] | 预估格数: 1
+- first of all, you shouldn't speak too loudly or too quietly.
+  译：首先，你们不应该说得太响或太轻。
+- if the audience can't hear you.
+  译：如果观众听不到你们的声音。
+- they won't be pleased.
+  译：他们不会满意的。
+- but if you shout.
+  译：但如果你们大吼大叫。
+- they won't like it.
+  译：他们也不会喜欢。
+- secondly, you shouldn't move your hands too much.
+  译：其次，你们不应该过多挥动双手。
+
+---
+
+B3-26 | character_refs: ["C2"] | scene_refs: ["S2"] | 预估格数: 1
+- but it's important to speak clearly, so the audience will understand you.
+  译：但吐字清晰很重要，这样观众才能听懂你们。
+- next, remember to pay attention to the meaning of the words.
+  译：其次，记住要注意台词的含义。
+- last of all.
+  译：最后。
+- don't add any extra lines to the play and don't change the writer's words.
+  译：不要在戏中加入任何多余台词，也不要更改作者的原文。
+
+---
+
+B3-27 | character_refs: ["C2"] | scene_refs: ["S2"] | 预估格数: 1
+- i'll repeat all that because it's important.
+  译：我要再重复一遍，因为这很重要。
+- first of all, don't speak too loudly or too quietly.
+  译：首先，不要说得太响或太轻。
+- secondly.
+  译：其次。
+
+---
+
+B3-28 | character_refs: ["C2"] | scene_refs: ["S2"] | 预估格数: 1
+- don't move your hands too much.
+  译：不要过多挥动双手。
+- thirdly, you should speak clearly.
+  译：第三，你们应该吐字清晰。
+- next, you should pay attention to the meaning of the words.
+  译：其次，你们应该注意台词的含义。
+- finally, don't add any extra lines or change the words of the play.
+  译：最后，不要加入任何多余台词，也不要更改戏中的台词。

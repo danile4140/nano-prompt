@@ -1,0 +1,45 @@
+B2-17 | character_refs: ["C4"] | scene_refs: ["S2"] | 预估格数: 1
+- "poor hamlet.everybody admired him before.he was the perfect prince.now.his mind is ruined.help him sweet heavens."
+- 译："可怜的哈姆雷特，以前大家都敬仰他，他曾是完美的王子，如今他的心智已经崩溃了，愿上天保佑他。"
+
+---
+
+---
+
+B2-18 | character_refs: ["C2", "C8"] | scene_refs: ["S4"] | 预估格数: 2
+- hamlet enjoyed making fun of Polonius.one day,the prince was reading a book.when he met the foolish old lord.
+- 译：哈姆雷特喜欢捉弄波洛涅斯。某天，王子正在读书，遇见了这个愚蠢的老贵族。
+
+---
+
+---
+
+B2-19 | character_refs: ["C2", "C8"] | scene_refs: ["S4"] | 预估格数: 3
+- "what,what are you reading ？"
+- 译："什么，你在读什么？"
+- "words，words."
+- 译："字，字。"
+- "but what is the book about?"
+- 译："但书的内容是什么？"
+- "it's full of lies,the writer says that old men are foolish,weak and have great.grey hair."
+- 译："满是谎言，作者说老人愚蠢、软弱，长着一头灰发。"
+- "hum."
+- 译："嗯。"
+
+（五句四维度扫描：视觉焦点=哈姆雷特与波洛涅斯同框无切换；时间=无推进；空间=无位移；情绪=哈姆雷特轻蔑调侃贯穿全段无反转。四维度均无切换，保留。）
+
+---
+
+---
+
+B2-20 | character_refs: ["C2", "C8"] | scene_refs: ["S4"] | 预估格数: 3
+- "can you see that cloud ？Polonius "
+- 译："你看到那朵云了吗，波洛涅斯？"
+- "yes,my lord? "
+- 译："是的，殿下。"
+- "it looks like a camel,doesn't it? "
+- 译："它看起来像骆驼，对吧？"
+- "yes,my lord."
+- 译："是的，殿下。"
+
+---

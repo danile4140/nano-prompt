@@ -1,0 +1,51 @@
+B2-1 | character_refs: ["C1", "C3", "C4"] | scene_refs: ["S5"] | 预估格数: ?
+- The next day was Sunday.
+  译：第二天是星期天。
+- Tom wore his clean Sunday clothes - he hated this!
+  译：汤姆穿上了干净的周日礼拜服——他最讨厌这件事了！
+- Tom, Sid and Mary always went to Sunday school on Sunday morning.
+  译：汤姆、锡德和玛丽每个周日早上都去主日学校。
+- But Tom was not a good student and never listened to the teacher.
+  译：但汤姆不是一个好学生，从不认真听讲。
+
+---
+
+B2-2 | character_refs: ["C1", "C2", "C8"] | scene_refs: ["S4"] | 预估格数: ?
+- After Sunday school Tom and his family went to church.
+  译：主日学校结束后，汤姆和家人去了教堂。
+- This Sunday he had a big black beetle in his pocket.
+  译：这个星期天，他口袋里藏着一只大黑甲虫。
+- When the Reverend started speaking, Tom took the black beetle out of his pocket.
+  译：当牧师开始讲道时，汤姆把黑甲虫从口袋里掏了出来。
+- He put it on the floor.
+  译：他把它放在了地板上。
+
+---
+
+B2-3 | character_refs: ["C1"] | scene_refs: ["S4"] | 预估格数: ?
+- There was a little dog in the church.
+  译：教堂里有一只小狗。
+- It saw the beetle and wanted to play with it.
+  译：它看见了甲虫，想跟它玩。
+- Suddenly the beetle bit the dog's nose.
+  译：突然，甲虫咬了小狗的鼻子。
+- The little dog barked and everyone looked at it.
+  译：小狗汪汪叫起来，所有人都看向它。
+- It jumped and ran after the black beetle.
+  译：它跳起来，追着黑甲虫跑。
+- It ran all about the church barking and making a lot of noise.
+  译：它在教堂里到处乱跑、叫个不停，闹得一团糟。
+
+---
+
+B2-4 | character_refs: ["C1", "C8"] | scene_refs: ["S4"] | 预估格数: ?
+- The people in the church laughed silently.
+  译：教堂里的人们憋着笑。
+- Their faces were red.
+  译：他们的脸都憋红了。
+- The Reverend continued talking but no one listened to him.
+  译：牧师继续讲道，但没有人在听他说话。
+- Tom was happy because he had an interesting morning in church.
+  译：汤姆很高兴，因为今天在教堂度过了一个有趣的早晨。
+
+---

@@ -1,0 +1,56 @@
+### B11-9（4句）
+| 原文句子 | 环境状态 |
+|---|---|
+| Then she told them what Erik was planning to do. | 隔壁，夜晚 |
+| 'He says he'll kill everybody if I won't marry him. | 同上 |
+| He says everybody will be dead if I don't agree. | 同上 |
+| He says he'll kill himself, too. He's mad, Raoul — mad with love.' | 同上 |
+
+- character_refs：C2（Christine）
+- scene_refs：S16
+- 预估格数：1格（Christine独白揭露Erik威胁，同一说话者连续，含情绪标记）
+- 四维度检查（3对）：同一说话者连续陈述，无切换，4句可保留
+- 【情绪标记】强度：中，类型：恐惧/悲伤，推荐视觉手段：夸张惊恐表情 + 气泡内地雷/爆炸简笔画
+
+---
+
+### B11-10（2句）
+| 原文句子 | 环境状态 |
+|---|---|
+| Raoul and the Persian were desperate now. | 刑室，夜晚 |
+| They had to escape from the room they were in, and Christine couldn't help them. | 同上 |
+
+- character_refs：C3（拉乌尔），C4（波斯人）
+- scene_refs：S17
+- 预估格数：1格（两人绝望状态，心理节拍）
+- 【情绪标记】强度：中，类型：悲伤/恐惧，推荐视觉手段：夸张绝望表情 + B级符号图标（汗滴/阴影线）
+
+---
+
+### B11-11（4句）
+| 原文句子 | 环境状态 |
+|---|---|
+| Then the Persian found the mechanism to open a trap-door in the room. | 刑室，夜晚 |
+| He pushed it, and the two men escaped. | 同上 |
+| They walked down some stairs, and then found themselves in a cellar. | 地下通道→地窖，夜晚 |
+| There were a lot of barrels in the cellar. | 地窖，夜晚 |
+
+- character_refs：C3（拉乌尔），C4（波斯人）
+- scene_refs：S17，S18
+- 预估格数：3格（发现活门 + 逃出+下楼梯 + 进入地窖/看到木桶，连续动作序列条，条件C：计谋执行链≥3步）
+- 四维度检查（3对）：空间位移（刑室→通道→地窖）触发必须多格
+
+---
+
+### B11-12（3句）
+| 原文句子 | 环境状态 |
+|---|---|
+| 'This is Erik's wine cellar,' Raoul said. | 地窖，夜晚 |
+| 'Wine,' said the Persian thoughtfully. | 同上 |
+| 'I wonder if it's really wine in those barrels.' | 同上 |
+
+- character_refs：C3（拉乌尔），C4（波斯人）
+- scene_refs：S18
+- 预估格数：2格（Raoul认定 + 波斯人质疑，对话双格，说话方切换）
+
+---

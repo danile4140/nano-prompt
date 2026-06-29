@@ -1,0 +1,27 @@
+B9-17 | character_refs: [C18, C15] | scene_refs: [S13] | 预估格数: ?
+- 'You must remember or I'll cut off your head!' threatened the King.
+  译：「你必须记得，否则我就砍掉你的头！」国王威胁道。
+- The Hatter was shaking with fear.
+  译：帽匠吓得浑身颤抖。
+
+---
+
+B9-18 | character_refs: [C15] | scene_refs: [S13] | 预估格数: ?
+- 'Please, your Majesty, I'm a poor man.
+  译：「求求您，陛下，我是个穷人。
+- Let me go!' cried the Hatter.
+  译：放我走吧！」帽匠哭喊道。
+
+---
+
+B9-19 | character_refs: [C17] | scene_refs: [S13] | 预估格数: ?
+- 'Cut off his head!' ordered the Queen.
+  译：「砍掉他的头！」王后命令道。
+
+---
+
+B9-20 | character_refs: [C15] | scene_refs: [S13] | 预估格数: ?
+- The Hatter ran away so quickly that the executioner couldn't catch him.
+  译：帽匠跑得飞快，刽子手根本追不上他。
+
+---

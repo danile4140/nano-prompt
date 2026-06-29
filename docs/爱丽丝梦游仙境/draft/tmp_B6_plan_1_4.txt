@@ -1,0 +1,46 @@
+B6-1 | character_refs: ["C1"] | scene_refs: ["S6"] | 预估格数: ?
+- Alice went near the house.
+- 译：爱丽丝走近那栋房子。
+- 'It's very noisy,' she thought, 'and they can't hear the bell with all that noise.'
+- 译："真吵啊，"她想，"这么嘈杂，他们根本听不见门铃声。"
+- Alice decided to go in.
+- 译：爱丽丝决定走进去。
+
+---
+
+---
+B6-2 | character_refs: ["C11", "C12", "C22"] | scene_refs: ["S9"] | 预估格数: ?
+- In the house she found the Duchess and the cook.
+- 译：屋子里，她看见了公爵夫人和厨师。
+- The Duchess was sitting on a very small chair with a baby in her arms.
+- 译：公爵夫人坐在一把很小的椅子上，怀里抱着一个婴儿。
+- The cook was at the fire.
+- 译：厨师站在炉火旁。
+- She was very busy: She was preparing soup in a very big pot.
+- 译：她非常忙碌：她正在一口大锅里熬汤。
+
+---
+
+---
+B6-3 | character_refs: ["C1"] | scene_refs: ["S9"] | 预估格数: ?
+- 'Too much pepper in that soup,' Alice said to herself.
+- 译："那汤里放了太多胡椒，"爱丽丝自言自语。
+- 'With all this pepper everybody is sneezing.'
+- 译："放了这么多胡椒，人人都要打喷嚏。"
+- 'Noisy, noisy.
+- 译："吵啊，吵啊。
+- It's a very noisy place!
+- 译：这里真是太吵了！
+- The baby's crying and the cook's making a lot of noise,' Alice thought.
+- 译：婴儿在哭，厨师在制造一堆噪音，"爱丽丝想。
+
+---
+
+---
+B6-4 | character_refs: [] | scene_refs: ["S9"] | 预估格数: ?
+- CRASH! BANG! SMASH!
+- 译：哗啦！砰！哐当！
+
+---
+
+---

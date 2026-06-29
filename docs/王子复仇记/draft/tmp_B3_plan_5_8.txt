@@ -1,0 +1,37 @@
+B3-5 | character_refs: ["C2", "C9", "C10"] | scene_refs: ["S4"] | 预估格数: 2
+- tell us what you are thinking about, we are your friends.
+  译：告诉我们你在想什么，我们是你的朋友。
+
+---
+
+B3-6 | character_refs: ["C2"] | scene_refs: ["S4"] | 预估格数: 1
+- I think the king has sent them.
+  译：我觉得是国王派他们来的。
+- they are spying on me.
+  译：他们在监视我。
+- I shall not tell them anything.
+  译：我什么都不会告诉他们。
+- i cannot trust anyone except horatio.
+  译：除了霍雷肖，我谁都不能信任。
+
+---
+
+B3-7 | character_refs: ["C2"] | scene_refs: ["S2"] | 预估格数: 3
+- some travelling actors arrive at elsinore.
+  译：一群巡演的演员来到了埃尔西诺。
+- hamlet loves the theatre and he greets them like old friends.
+  译：哈姆雷特热爱戏剧，像迎接老朋友一样招待他们。
+- welcome to elsinore.
+  译：欢迎来到埃尔西诺。
+- we have come to perform a play for the king and queen.
+  译：我们来为国王和王后献演一出戏。
+
+---
+
+B3-8 | character_refs: ["C2"] | scene_refs: ["S2"] | 预估格数: 1
+- that gives me an idea horatio.
+  译：这给了我一个主意，霍雷肖。
+- I shall put some extra words in their play.
+  译：我要在他们的戏里加几句台词。
+- I shall put the ghost's story on the stage.
+  译：我要把鬼魂的故事搬上舞台。

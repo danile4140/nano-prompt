@@ -1,0 +1,35 @@
+B2-9 | character_refs: ["C1", "C6"] | scene_refs: ["S6"] | 预估格数: ?
+- "Hello, Huckleberry!
+  译："你好，赫克贝利！
+- What's that?"
+  译：那是什么？"
+- "It's a dead cat," said Huck.
+  译："是一只死猫，"哈克说。
+
+---
+
+B2-10 | character_refs: ["C1", "C6"] | scene_refs: ["S6"] | 预估格数: ?
+- "What will we do with it?" asked Tom.
+  译："我们拿它怎么办？"汤姆问。
+- "I want to take it to the graveyard after midnight," Huck said, "A dead cat can call ghosts out of their graves." "Really?" asked Tom.
+  译："我想在午夜后带它去墓地，"哈克说，"一只死猫能把鬼魂从坟墓里召唤出来。""真的吗？"汤姆问。
+
+---
+
+B2-11 | character_refs: ["C1", "C6"] | scene_refs: ["S6"] | 预估格数: ?
+- "Well, old Mrs Hopkins told me.
+  译："嗯，老霍普金斯太太告诉我的。
+- She's a witch and she knows about these things," said Huck.
+  译：她是个女巫，这些事她都懂，"哈克说。
+
+---
+
+B2-12 | character_refs: ["C1", "C6"] | scene_refs: ["S6"] | 预估格数: ?
+- "Can I come with you?" asked Tom.
+  译："我能和你一起去吗？"汤姆问。
+- "Of course!
+  译："当然！
+- Or are you afraid of ghosts?" asked Huck.
+  译：还是说你怕鬼？"哈克问。
+
+---

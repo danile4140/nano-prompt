@@ -1,0 +1,33 @@
+B1-41 | character_refs: ["C1", "C2", "C7"] | scene_refs: ["S10"] | 预估格数: 1
+- The good bird did this, and when they were landed safely on the other side, and had to walk for a while, the wood became more and more familiar to them, and at last they saw their father's house in the distance.
+  译：善良的鸟儿照做了，当他们安全抵达对岸，走了一段路后，森林变得越来越熟悉，最终他们在远处看到了父亲的家。
+- Then they set off to run, and bounding into the room jumped up to hug their father.
+  译：他们飞奔起来，一进屋就跳起来拥抱父亲。
+
+【节拍分析】两句连续：鸭子送过湖→认出熟悉森林→看到家→奔跑回家拥抱父亲。这是单一"回家"路径节拍，路径动线组织表达整段归途。句数2句，可合并单格。
+
+---
+
+---
+
+B1-42 | character_refs: ["C3", "C1", "C2"] | scene_refs: ["S11"] | 预估格数: 2
+- The man had not passed a happy hour since he left them in the wood, but his wife had died.
+  译：自从把他们留在林子里，这个男人就没有过过一刻快乐的时光，而他的妻子已经去世了。
+- Grettel shook out her apron so that the pearls and precious stones rolled about the room, and Hansel threw down one handful after the other out of his pocket.
+  译：格蕾特尔抖开围裙，让珍珠和宝石滚满地板，汉泽尔也一把一把地从口袋里掏出来往下扔。
+- And so all their troubles were ended, and they lived happily ever after.
+  译：就这样，他们所有的烦恼都结束了，从此过上了幸福快乐的生活。
+
+【节拍分析】三句，包含：（1）叙述者说明父亲一直不快乐+妻子已死（背景信息，情绪铺垫）；（2）孩子们倾倒宝藏（具体动作，欢庆）；（3）结语"幸福生活"。逐对：S120→S121：视觉焦点从"父亲状态"切换到"宝石洒落"，焦点切换触发拆分；S121→S122：同一情绪（圆满），结语收尾。切点S120→S121。两格：左格（父亲独自憔悴在家，孩子们归来拥抱，情感重聚，S120）；右格（格蕾特尔抖落宝石+汉泽尔掏出宝石，欢庆结局，S121-S122）。
+
+---
+
+## 自检：未覆盖句数 = 0
+
+所有原文句子已逐句分配到以上各分镜，覆盖完整。
+
+总句数统计：S1-S122共122句（含部分合并叙述），全部归属对应分镜。
+
+分镜总数：B1-1 至 B1-42，共42条。
+
+S96（"Just hold your peace..."）已并入B1-35右格（格蕾特尔哭泣+女巫冷漠回怼气泡），不单独成镜。

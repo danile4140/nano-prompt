@@ -1,0 +1,29 @@
+B4-5 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: ?
+- Aunt Polly was worried about him.
+  译：波莉姨妈很担心他。
+- She gave him a lot of different medicines.
+  译：她给了他各种各样的药。
+- But Tom did not feel better.
+  译：但汤姆并没有好转。
+
+B4-6 | character_refs: ["C1", "C7"] | scene_refs: ["S5"] | 预估格数: ?
+- He was unhappy at school too.
+  译：他在学校里也闷闷不乐。
+- Becky Thatcher didn't talk to him anymore.
+  译：贝基·萨切尔不再和他说话了。
+- "No one loves me," thought Tom, "What a horrible life!"
+  译："没有人爱我，"汤姆心想，"多么可怕的生活！"
+
+B4-7 | character_refs: ["C1", "C12"] | scene_refs: ["S9"] | 预估格数: ?
+- It was now summer and there was no more school.
+  译：现在是夏天，学校已经放假。
+- Tom and his friend Joe Harper went to sit by the Mississippi River.
+  译：汤姆和好友乔·哈珀来到密西西比河边坐着。
+- They fished, talked and looked at the boats.
+  译：他们钓鱼、聊天、看来往的船只。
+
+B4-8 | character_refs: ["C1", "C12"] | scene_refs: ["S9"] | 预估格数: ?
+- One day Tom said, "Let's go do something exciting!"
+  译：一天，汤姆说："我们去做点刺激的事吧！"
+- "OK!" said Joe, "But where can we go and what can we do?"
+  译："好啊！"乔说，"但我们能去哪儿、能做什么呢？"

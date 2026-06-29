@@ -1,0 +1,33 @@
+B1-17 | character_refs: ["C2"] | scene_refs: ["S1"] | 预估格数: 3
+- I shall pretend to be mad.
+  译：我要假装疯癫。
+- nobody will pay attention to a poor,crazy prince.
+  译：没有人会在意一个可怜的疯王子。
+- I shall investigate my father's dare.
+  译：我要调查我父亲的死（原文疑误，应为"death"）。
+- if the ghost's story is true.
+  译：如果幽灵所说的是真的。
+- I shall kill my uncle.
+  译：我就会杀死我的叔父。
+
+---
+
+B1-18 | character_refs: ["C2"] | scene_refs: ["S2"] | 预估格数: 2-3
+- so hamlet,who was very intelligent,began to play the part of a mad慢.
+  译：于是哈姆雷特——一个非常聪明的人——开始扮演起疯子的角色。
+- he did strange things and he talked in a crazy way.
+  译：他做出奇怪的举动，用疯癫的方式说话。
+- he often said things with a hidden meaning,which only he understood.
+  译：他常常说些话中有话的话，只有他自己才明白其中的含义。
+
+---
+
+B1-19 | character_refs: ["C2", "C3", "C4", "C13"] | scene_refs: ["S2"] | 预估格数: 2-3
+- the people believed that hamlet was mad.
+  译：人们相信哈姆雷特疯了。
+- and they hoped that he would soon get better.
+  译：他们希望他很快能好起来。
+- the queen was very worried because she loved her son.
+  译：王后非常担心，因为她深爱着她的儿子。
+- only horatio and the gods knew the secret of hamlet's meeting with the ghost.
+  译：只有霍雷肖和那几位卫兵知道哈姆雷特与幽灵相遇的秘密。

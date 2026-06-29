@@ -1,0 +1,51 @@
+B2-17 | character_refs: ["C1"] | scene_refs: ["S5"] | 预估格数: ?
+- Tom thought quickly and said, "I stopped to talk to Huckleberry Finn.
+  译：汤姆急中生智，说："我在路上停下来和赫克贝利·芬说话了。
+- The teacher was very angry.
+  译：老师非常生气。
+- "You know you must never talk to that boy!" The teacher took his stick and hit Tom.
+  译："你知道不可以和那个男孩说话！"老师拿起戒尺打了汤姆。
+- "Now go and sit with the girls!" said the teacher.
+  译："现在去和女孩们坐在一起！"老师说。
+
+---
+
+B2-18 | character_refs: ["C1", "C7"] | scene_refs: ["S5"] | 预估格数: ?
+- The children laughed at Tom.
+  译：孩子们嘲笑汤姆。
+- He sat down next to the new girl.
+  译：他坐到了新来女孩的旁边。
+- He looked at her.
+  译：他看着她。
+- Then he drew a picture of a house.
+  译：然后他画了一幅房子的画。
+
+---
+
+B2-19 | character_refs: ["C1", "C7"] | scene_refs: ["S5"] | 预估格数: ?
+- "Let me see it," she whispered.
+  译："让我看看，"她低声说。
+- Tom put the picture in front of her.
+  译：汤姆把画放到她面前。
+- "It's nice.
+  译："画得真好。
+- Draw a man," she said.
+  译：再画一个人，"她说。
+- Tom drew a man near the house.
+  译：汤姆在房子旁边画了一个人。
+- It was a terrible picture, but the girl liked it.
+  译：画得很糟糕，但女孩很喜欢。
+
+---
+
+B2-20 | character_refs: ["C1", "C7"] | scene_refs: ["S5"] | 预估格数: ?
+- "You draw beautifully.
+  译："你画得真好看。
+- I can't draw," said the girl.
+  译：我不会画画，"女孩说。
+- "I can teach you after school," said Tom.
+  译："放学后我可以教你，"汤姆说。
+- "Oh, thank you!" "What's your name?" Tom asked.
+  译："哦，谢谢你！""你叫什么名字？"汤姆问。
+
+---

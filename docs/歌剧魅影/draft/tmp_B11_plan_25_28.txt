@@ -1,0 +1,52 @@
+### B11-25（2句）
+| 原文句子 | 环境状态 |
+|---|---|
+| The sound of the water was clear now. | 刑室/地窖，夜晚 |
+| The cellar below the torture chamber was soon full, and the gunpowder was wet. | 同上，地窖满水 |
+
+- character_refs：[]（空镜/环境叙述）
+- scene_refs：S18，S17
+- 预估格数：2格（水声图示 + 地窖满水/火药泡湿，左右二分，环境状态对比）
+
+---
+
+### B11-26（2句）
+| 原文句子 | 环境状态 |
+|---|---|
+| But the water did not stop, and soon it arrived at the torture chamber. | 刑室，夜晚，水淹 |
+| Raoul and the Persian began to swim. They swam to the top of the chamber, but there was no way out. They were going to drown! Both men fought against the water, but they began to lose consciousness. | 同上，溺水危机 |
+
+- character_refs：C3（拉乌尔），C4（波斯人）
+- scene_refs：S17
+- 预估格数：3格（水位升至刑室 + 两人游泳挣扎 + 失去意识/溺亡危机，条件C：危机升级链，物理冲突C类高潮加密）
+- 【情绪标记】强度：强，类型：恐惧，推荐视觉手段：速度线/气泡水流 + 仰角俯角交替 + 近景特写
+
+---
+
+### B11-27（4句）
+| 原文句子 | 环境状态 |
+|---|---|
+| The Persian woke up and looked around him. | Erik家客厅，时间不明（苏醒后） |
+| He was lying on a sofa in Erik's house. | 同上 |
+| Erik was standing over him. | 同上 |
+| He could see Christine in the room, too. | 同上 |
+
+- character_refs：C4（波斯人），C1b（Erik），C2（Christine）
+- scene_refs：S16
+- 预估格数：2格（波斯人苏醒环顾 + 发现Erik和Christine在场，多焦点，视角嵌套）
+- 四维度检查（3对）：视觉焦点从波斯人主观视角→发现Erik→发现Christine，多焦点切换，需多格；但时间/空间连续，情绪=困惑/苏醒。4句可保留。
+
+---
+
+### B11-28（2句）
+| 原文句子 | 环境状态 |
+|---|---|
+| 'I saved your lives,' Erik told him. | Erik家客厅，苏醒后 |
+| 'I did it to please my wife.' He handed the Persian a glass. 'Drink this,' he commanded. The Persian drank from the glass and fell asleep. | 同上 |
+
+- character_refs：C1b（Erik），C4（波斯人）
+- scene_refs：S16
+- 预估格数：2格（Erik告知救命 + 递杯命令喝/波斯人入睡，条件B：命令→执行，喂药+入睡）
+- 注：第28行"He handed...fell asleep"在原文中是同一叙述段内的连续动作，视为1句处理（行42b）
+
+---

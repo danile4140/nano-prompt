@@ -1,0 +1,33 @@
+B6-23 | character_refs: [] | scene_refs: ["S6"] | 预估格数: ?
+- words without thoughts never to heaven go.
+  译：（回声）"没有思想的话语永远到不了天堂。"
+- how no war at.
+  译：（回声）"……"
+- dead for a duck ET dead.
+  译：（回声）"一命呜呼。"
+- thou turn'st my eyes into my very soul.
+  译：（回声）"你把我的眼睛转向我自己的灵魂深处。"
+
+---
+B6-24 | character_refs: ["C4", "C6"] | scene_refs: ["S7"] | 预估格数: ?
+- sweet ladies, good night.
+  译：（回声）"善良的女士们，晚安。"
+- good night.
+  译：（回声）"晚安。"
+- alas.
+  译：（回声）"唉。"
+- poor yorick.
+  译：（回声）"可怜的约里克。"
+
+---
+B6-25 | character_refs: ["C2", "C11", "C3"] | scene_refs: ["S9"] | 预估格数: ?
+- I knew him horatio.
+  译：（回声）"我认识他，霍雷肖。"
+- there's a divinity that shapes our ends.
+  译：（回声）"有一种神明在主宰着我们的命运。"
+- the rest.
+  译：（回声）"其余的……"
+- is silence.
+  译：（回声）"是沉默。"
+
+---

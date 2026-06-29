@@ -1,0 +1,37 @@
+B8-9 | character_refs: [C1, C17, C23, C24, C25] | scene_refs: [S12] | 预估格数: ?
+- 'And who are these?' asked the Queen pointing at the three gardeners.
+译："那这些又是谁？"女王指着三位园丁问道。
+- 'Don't ask me. How should I know?' Alice was very rude to the Queen, this time.
+译："别问我。我怎么知道？"爱丽丝这一次对女王非常无礼。
+
+---
+
+---
+
+B8-10 | character_refs: [C1, C17] | scene_refs: [S12] | 预估格数: ?
+- The Queen looked at Alice.
+译：女王盯着爱丽丝看。
+- She was red with anger.
+译：她气得满脸通红。
+- She shouted: 'Off with her head!'
+译：她大喊道："砍掉她的脑袋！"
+
+---
+
+---
+
+B8-11 | character_refs: [C17, C18] | scene_refs: [S12] | 预估格数: ?
+- The King tried to calm her: 'Don't be so angry, my darling. She's only a child.'
+译：国王试图平息她的怒气："别这么生气嘛，亲爱的。她只是个孩子。"
+
+---
+
+---
+
+B8-12 | character_refs: [C17, C23, C24, C25] | scene_refs: [S12] | 预估格数: ?
+- 'I want to look at their faces, now! ... Get up! ... What! White roses! I wanted red roses not white! Off with their heads!' shouted the angry Queen.
+译："我要看看他们的脸，现在！……起来！……什么！白玫瑰！我要的是红玫瑰不是白玫瑰！砍掉他们的脑袋！"愤怒的女王大喊道。
+
+---
+
+---

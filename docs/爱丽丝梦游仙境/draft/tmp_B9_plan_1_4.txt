@@ -1,0 +1,35 @@
+B9-1 | character_refs: [C17, C18, C19] | scene_refs: [S13] | 预估格数: ?
+- The King and the Queen were sitting on the throne.
+  译：国王和王后坐在王座上。
+- The Knave of Hearts was standing in front of them.
+  译：红心杰克站在他们面前。
+- There were two soldiers near the Knave.
+  译：杰克旁边有两名士兵。
+- It was the Knave of Hearts' trial.
+  译：这是红心杰克的审判。
+
+---
+
+B9-2 | character_refs: [C1] | scene_refs: [S13] | 预估格数: ?
+- 'I must be in a courtroom.
+  译：「我肯定是在法庭上。
+- Here's the judge with his wig and gown and that's the jury,' thought Alice, Looking at the twelve animals and birds in the jury-box.
+  译：那位戴假发穿长袍的就是法官，那是陪审团，」爱丽丝心想，望着陪审席上的十二只动物和鸟儿。
+
+---
+
+B9-3 | character_refs: [C1, C18] | scene_refs: [S13] | 预估格数: ?
+- Alice sat down.
+  译：爱丽丝坐了下来。
+- When everybody was ready the King, who was the judge, said: 'Read the accusation!'
+  译：等所有人都准备好后，身兼法官的国王说道：「宣读起诉书！」
+
+---
+
+B9-4 | character_refs: [C3] | scene_refs: [S13] | 预估格数: ?
+- The White Rabbit read from a big roll of paper:
+  译：白兔从一卷大纸上朗读道：
+- 'The Queen of Hearts, she made some tarts / All on a summer day: / The Knave of Hearts, he stole those tarts, / And took them all away!'
+  译：「红心王后做了些馅饼，在一个夏日的日子里；红心杰克偷走了那些馅饼，全都带走了！」
+
+---

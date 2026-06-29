@@ -1,0 +1,49 @@
+B1-9 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- "Why don't you try?" said the boy.
+  译：「那你为什么不试试？」那男孩说。
+- "Well, I can," said Tom.
+  译：「好，我可以，」汤姆说。
+- "No, you can't."
+  译：「不，你不行。」
+- "Yes, I can."
+  译：「不，我行。」
+- There was silence.
+  译：两人沉默下来。
+
+---
+
+B1-10 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- "You're afraid," said the boy.
+  译：「你胆小鬼，」那男孩说。
+- "I'm not afraid," said Tom.
+  译：「我才不怕，」汤姆说。
+- "Yes, you are."
+  译：「你就是怕。」
+- No, I'm not.
+  译：我才不怕。
+- There was more silence.
+  译：两人又沉默了。
+
+---
+
+B1-11 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- Then Tom pushed the boy and the boy pushed Tom.
+  译：随后，汤姆推了那男孩一把，那男孩也推了汤姆一把。
+- Soon they were on the ground.
+  译：没一会儿，两人都扑倒在地上。
+- Tom pulled the boy's hair and hit him hard.
+  译：汤姆扯住那男孩的头发，使劲揍他。
+- They both fought a lot.
+  译：两人打得不可开交。
+
+---
+
+B1-12 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- The big boy was angry and started crying.
+  译：那个大男孩又急又气，哭了起来。
+- "Stop," he said, "Stop!"
+  译：「住手，」他说，「住手！」
+- "Now, that will teach you something," said Tom.
+  译：「这下你长记性了吧，」汤姆说。
+
+---

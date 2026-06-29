@@ -1,0 +1,35 @@
+B5-21 | character_refs: ["C7", "C4"] | scene_refs: ["S2"] | 预估格数: 1
+- Was it suicide?
+  译：这是自杀吗？
+- Nobody knows.
+  译：没有人知道。
+- Perhaps it was an accident.
+  译：也许是意外。
+
+---
+
+B5-22 | character_refs: ["C4"] | scene_refs: ["S2"] | 预估格数: 1
+- Oh, sweet Ophelia.
+  译：哦，甜美的奥菲莉亚。
+- I hoped she would marry Hamlet.
+  译：我曾希望她能嫁给哈姆雷特。
+- Come, let us go and bury her.
+  译：来吧，让我们去埋葬她。
+
+---
+
+B5-23 | character_refs: ["C7"] | scene_refs: ["S2"] | 预估格数: 1
+- Now Hamlet has killed my father and my sister.
+  译：现在哈姆雷特已经杀了我的父亲和我的妹妹。
+
+---
+
+B5-24 | character_refs: ["C2", "C3", "C12"] | scene_refs: ["S9"] | 预估格数: 2
+- Hamlet meets Horatio in the graveyard.
+  译：哈姆雷特在墓地与霍雷肖相遇。
+- They see a gravedigger.
+  译：他们看见一个挖墓人。
+- He is preparing a new grave and he has uncovered some old bones.
+  译：他正在准备一个新墓穴，并挖出了一些旧骸骨。
+- Hamlet begins to talk about death.
+  译：哈姆雷特开始谈论死亡。

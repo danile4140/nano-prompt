@@ -1,0 +1,39 @@
+B8-5 | character_refs: [C1] | scene_refs: [S12] | 预估格数: ?
+- Alice turned round and saw a great crowd of people.
+译：爱丽丝转过身，看见一大群人向这边走来。
+- It was a pack of cards, walking through the garden.
+译：那是一副纸牌，正穿行在花园里。
+- There were soldiers carrying clubs  courtiers with diamonds  and the royal children with hearts.
+译：有拿着梅花的士兵，有带着方块的廷臣，还有捧着红心的王室子女。
+
+---
+
+---
+
+B8-6 | character_refs: [C1, C3, C19, C17, C18] | scene_refs: [S12] | 预估格数: ?
+- Then Alice saw the White Rabbit and behind him the Knave of Hearts.
+译：随后爱丽丝看见了白兔，白兔身后跟着红心杰克。
+- Last of all came the King and Queen of Hearts!
+译：最后出场的是红心国王和红心皇后！
+
+---
+
+---
+
+B8-7 | character_refs: [C1, C17] | scene_refs: [S12] | 预估格数: ?
+- Suddenly everybody stopped.
+译：忽然间，所有人都停了下来。
+- The Queen looked at Alice and asked: 'What's your name, child?'
+译：女王凝视着爱丽丝，问道："你叫什么名字，孩子？"
+
+---
+
+---
+
+B8-8 | character_refs: [C1, C17] | scene_refs: [S12] | 预估格数: ?
+- 'My name is Alice,' Alice answered and she said to herself, 'I must not be afraid, they are only cards.'
+译："我叫爱丽丝，"爱丽丝回答，心里默默告诉自己："我不能害怕，他们只不过是纸牌罢了。"
+
+---
+
+---

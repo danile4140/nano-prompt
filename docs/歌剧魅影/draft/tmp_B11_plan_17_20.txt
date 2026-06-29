@@ -1,0 +1,58 @@
+### B11-17（2句）
+| 原文句子 | 环境状态 |
+|---|---|
+| 'Listen to me,' Raoul said. | 刑室，夜晚 |
+| 'The cellar is full of gunpowder. Erik will blow up the Opera House if you don't marry him.' | 同上 |
+
+- character_refs：C3（拉乌尔）
+- scene_refs：S17
+- 预估格数：1格（Raoul警告，单一说话者，气泡内爆炸简笔画）
+
+---
+
+### B11-18（4句）
+| 原文句子 | 环境状态 |
+|---|---|
+| Just then they all heard Erik's footsteps. | 刑室/隔壁，夜晚 |
+| He came into the room where Christine was. | 隔壁，夜晚 |
+| 'Who are you talking to, my love?' he asked her. | 同上 |
+| He crossed the room and knocked on the wall of the torture chamber. Then he smiled at her. | 同上 |
+
+- character_refs：C1b（Erik戴面具，正式场合），C2（Christine）
+- scene_refs：S16，S17（壁两侧）
+- 预估格数：2格（Erik出现/问话 + Erik敲墙冷笑，条件B：紧张触发→冷酷回应）
+- 四维度检查（3对）：视觉焦点=Erik全程；情绪=紧张→冷酷，小幅升级但同一方向；4句可保留
+- 【情绪标记】强度：中，类型：恐惧，推荐视觉手段：仰角镜头 + 强势威胁视觉手段
+
+---
+
+### B11-19（2句，条件B）
+| 原文句子 | 环境状态 |
+|---|---|
+| 'Ah,' he said, 'it's the little viscount, is it?' | 隔壁房间，夜晚 |
+| 'Let Raoul go,' Christine begged him. | 同上 |
+
+- character_refs：C1b（Erik），C2（Christine）
+- scene_refs：S16
+- 预估格数：2格（Erik冷嘲 + Christine恳求，条件B：嘲弄→恳求，情绪对立/说话方切换，触发条件B）
+- 【情绪标记】强度：中，类型：悲伤/恐惧，推荐视觉手段：对话双格，被说话方（Christine）反应占主格
+
+---
+
+### B11-20（6句，豁免）
+| 原文句子 | 环境状态 |
+|---|---|
+| 'You must decide what you're going to do,' Erik told her. | 隔壁房间，夜晚 |
+| 'There are two boxes in this room. | 同上 |
+| One contains the figure of a grasshopper, and the other a scorpion. | 同上，关键道具首次出现 |
+| You must turn one of them to show what you've decided. | 同上 |
+| If you turn the scorpion, then you agree to marry me. | 同上 |
+| If you turn the grasshopper, then you refuse to marry me. I'll leave you alone while you think about it. Decide, Christine, decide!' Erik walked out of the room. | 同上 |
+
+- character_refs：C1b（Erik），C2（Christine）
+- scene_refs：S16
+- 预估格数：3格（Erik宣告两个选项 + 蝗虫/蝎子盒子特写 + Erik离场，条件C：计谋布局，关键道具首次出现）
+- 豁免理由：逐对扫描5对：①-⑤均为Erik同一说话者对Christine的连续说明，视觉焦点=Erik，空间不变，时间连续，情绪=冷酷威慑持续。已扫描5对相邻句，四维度均无切换，保留6句。
+- 【情绪标记】强度：强，类型：恐惧，推荐视觉手段：道具特写画中画（蝗虫/蝎子盒子） + 强势威胁镜头
+
+---

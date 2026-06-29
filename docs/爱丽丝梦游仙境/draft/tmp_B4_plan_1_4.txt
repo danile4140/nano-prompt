@@ -1,0 +1,30 @@
+B4-1 | character_refs: ["C1", "C3"] | scene_refs: ["S6"] | 预估格数: ?
+- 'It isn't the Mouse. It's the White Rabbit,' says Alice.
+  译：「不是老鼠，是白兔！」爱丽丝说。
+- 'The Duchess! The Duchess! She'll be very angry! Oh where are they?' says the White Rabbit. He is looking for his gloves and fan.
+  译：「公爵夫人！公爵夫人！她会非常生气的！哦，它们在哪儿？」白兔说。他在寻找自己的手套和扇子。
+- 'I'll help him to find them,' thinks Alice.
+  译：「我来帮他找吧，」爱丽丝心想。
+- Alice looks around and sees that everything has changed. Now she is in the countryside.
+  译：爱丽丝环顾四周，发现一切都变了。现在她置身于乡间野外。
+
+---
+B4-2 | character_refs: ["C1", "C3"] | scene_refs: ["S6"] | 预估格数: ?
+- 'What are you doing here Mary Ann?' asks the White Rabbit angrily. The White Rabbit thinks Alice is his servant, Mary Ann.
+  译：「你在这里干什么，玛丽·安？」白兔生气地问道。白兔把爱丽丝当成了他的仆人玛丽·安。
+- 'Run home and bring me my white gloves and the fan! Quick!' says the White Rabbit.
+  译：「快跑回家，把我的白手套和扇子拿来！快！」白兔说。
+
+---
+B4-3 | character_refs: ["C1"] | scene_refs: ["S6"] | 预估格数: ?
+- Alice runs to the White Rabbit's house. On the door she sees 'W. Rabbit', so she goes in.
+  译：爱丽丝跑向白兔的家。她看见门上写着"W. 兔子"，便走了进去。
+
+---
+B4-4 | character_refs: ["C1"] | scene_refs: ["S7"] | 预估格数: ?
+- In a small room, at the top of the house, there is a table. On the table there are some gloves and a fan. Alice takes them; she notices a bottle near the door. She decides to try it.
+  译：在房子顶层的一间小屋里，有一张桌子。桌上放着一些手套和一把扇子。爱丽丝拿起它们；她注意到门边有一个瓶子。她决定试一试。
+- 'When I eat or drink anything here,' she says to herself, 'something interesting always happens. Perhaps I'll grow again. I don't want to be small any more.'
+  译：「每次我在这里吃喝什么，」她自言自语道，「总会发生有趣的事。也许我能再长高。我不想再这么小了。」
+
+---

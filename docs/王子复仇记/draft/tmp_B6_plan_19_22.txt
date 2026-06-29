@@ -1,0 +1,58 @@
+B6-19 | character_refs: ["C3"] | scene_refs: ["S10"] | 预估格数: ?
+- good night.
+  译：霍雷肖说："晚安。"
+- sweet prince.
+  译："善良的王子。"
+- and flights of angels sing thee to thy rest.
+  译："愿天使的歌声伴你安息。"
+
+---
+B6-20 | character_refs: ["C2", "C1", "C4"] | scene_refs: ["S9"] | 预估格数: ?
+- frailty.
+  译：（回声）"脆弱……"
+- thy name is woman.
+  译：（回声）"你的名字叫女人。"
+- something is rotten in the state of Denmark.
+  译：（回声）"丹麦国中有什么腐烂了。"
+- and you?
+  译：（回声）"而你？"
+- adju.
+  译：（回声）"再——"
+- adieu.
+  译：（回声）"再见。"
+
+已扫描5对相邻句，四维度均无切换，豁免保留。
+
+---
+B6-21 | character_refs: ["C2", "C1"] | scene_refs: ["S1"] | 预估格数: ?
+- remember me.
+  译：（幽灵回声）"记住我。"
+- one May smile and smile.
+  译：（回声）"一个人可以面带微笑，"
+- and be a villain.
+  译：（回声）"仍然是个恶棍。"
+- the play's the thing wherein i'll catch the conscience of the king.
+  译：（回声）"戏剧才是捕捉国王良心的工具。"
+- to be.
+  译：（回声）"生存，"
+
+已扫描4对相邻句，四维度均无切换，豁免保留。
+
+---
+B6-22 | character_refs: [] | scene_refs: ["S6"] | 预估格数: ?
+- or not to be.
+  译：（回声）"还是毁灭，"
+- that is the question.
+  译：（回声）"这是个问题。"
+- madness in great ones must not UN watch'd go.
+  译：（回声）"大人物的疯狂不能不加监视。"
+- suit the action to the word, the word to the action.
+  译：（回声）"让行动配合语言，语言配合行动。"
+- my words fly up.
+  译：（回声）"我的话语飞上去，"
+- my thoughts remain below.
+  译：（回声）"我的思想留在下面。"
+
+已扫描5对相邻句，四维度均无切换，豁免保留。
+
+---

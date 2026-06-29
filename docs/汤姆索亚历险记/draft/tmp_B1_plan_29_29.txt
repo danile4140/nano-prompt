@@ -1,0 +1,9 @@
+B1-29 | character_refs: ["C1", "C2"] | scene_refs: ["S2", "S1"] | 预估格数: ?
+- When Aunt Polly saw the beautiful white fence she was very happy.
+  译：波莉姨妈看到那道刷得雪白漂亮的栅栏，高兴极了。
+- She gave Tom a big apple and said, "Yes, go and play!
+  译：她递给汤姆一个大苹果，说：「去吧，去玩吧！
+- But don't come home late!"
+  译：但是不许回来晚了！」
+
+---

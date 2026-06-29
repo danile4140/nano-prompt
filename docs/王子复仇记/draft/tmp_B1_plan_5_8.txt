@@ -1,0 +1,37 @@
+B1-5 | character_refs: ["C3", "C13"] | scene_refs: ["S1"] | 预估格数: 1
+- I shall tell the prince.
+  译：我要去告诉王子。
+- perhaps the ghost will speak to him.
+  译：也许幽灵会愿意跟他说话。
+- this is a bad sign,something sinister is happening in Denmark.
+  译：这是一个不祥的征兆，丹麦正在发生某些阴险的事情。
+
+---
+
+B1-6 | character_refs: ["C2", "C4", "C5"] | scene_refs: ["S2"] | 预估格数: 2-3
+- prince hamlet is very sad.
+  译：王子哈姆雷特非常悲伤。
+- his father the king is dead.
+  译：他的父亲国王已经死了。
+- gertrude,his mother,has married claudius,his father's brother.
+  译：他的母亲葛特露德已经嫁给了克劳狄斯，他父亲的弟弟。
+- claudius has become the new king.
+  译：克劳狄斯成了新国王。
+- hamlet does not like his uncle.
+  译：哈姆雷特不喜欢他的叔父。
+
+---
+
+B1-7 | character_refs: ["C2", "C5"] | scene_refs: ["S2"] | 预估格数: 1
+- it is time to think about the future,I shall be a father to you and you will be king after me hamlet.
+  译：是时候想想未来了，我会像父亲一样对待你，哈姆雷特，你将在我之后成为国王。
+- stay here with US.
+  译：留在我们身边。
+- do not go back to university.
+  译：不要回去上大学了。
+
+---
+
+B1-8 | character_refs: ["C2", "C4"] | scene_refs: ["S2"] | 预估格数: 1
+- we love you hamlet,I shall obey you,madam.
+  译：我们爱你，哈姆雷特——我会服从您的，夫人。

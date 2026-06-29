@@ -1,0 +1,29 @@
+B8-1 | character_refs: ["C1"] | scene_refs: ["S15"] | 预估格数: ?
+- Tom went into the dark tunnel.
+  译：汤姆走进了黑暗的隧道。
+- He saw a light and heard a noise.
+  译：他看见一束光，听见了声音。
+- "Who is looking for us?" he thought.
+  译："谁在找我们？"他心想。
+
+B8-2 | character_refs: ["C1", "C10"] | scene_refs: ["S15"] | 预估格数: ?
+- Suddenly he saw a hand with a candle.
+  译：突然，他看见一只拿着蜡烛的手。
+- Then he saw a man.
+  译：接着他看见了一个人。
+- It was Injun Joe!
+  译：那是印第安乔！
+
+B8-3 | character_refs: ["C1", "C10"] | scene_refs: ["S15"] | 预估格数: ?
+- Tom was terribly scared.
+  译：汤姆吓坏了。
+- But it was dark and Injun Joe did not see Tom.
+  译：但天黑，印第安乔没有看见汤姆。
+- Injun Joe went away quickly.
+  译：印第安乔迅速离开了。
+
+B8-4 | character_refs: ["C1", "C7"] | scene_refs: ["S15"] | 预估格数: ?
+- Tom returned to Becky but he did not tell her about Injun Joe.
+  译：汤姆回到贝基身边，但没有告诉她关于印第安乔的事。
+- She was very weak.
+  译：她非常虚弱。

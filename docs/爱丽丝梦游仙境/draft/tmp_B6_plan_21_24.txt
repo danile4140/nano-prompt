@@ -1,0 +1,40 @@
+B6-21 | character_refs: ["C1", "C13"] | scene_refs: ["S10"] | 预估格数: ?
+- 'How can you say that I'm mad?' asked Alice.
+- 译："你怎么能说我是疯子？"爱丽丝问。
+- 'Well, you're here so you are mad,' replied the Cheshire Cat.
+- 译："嗯，你在这里，所以你就是疯子，"柴郡猫回答。
+
+---
+
+---
+B6-22 | character_refs: ["C1", "C13"] | scene_refs: ["S10"] | 预估格数: ?
+- 'What are you doing today?
+- 译："你今天在做什么？
+- Are you playing croquet with the Queen?' asked the Cheshire Cat.
+- 译：你要和王后打槌球吗？"柴郡猫问。
+- 'I would like to play,' answered Alice.
+- 译："我很想去玩，"爱丽丝回答。
+- 'You'll see me there,' said the Cheshire Cat.
+- 译："你会在那里见到我的，"柴郡猫说。
+
+---
+
+---
+B6-23 | character_refs: ["C1", "C13"] | scene_refs: ["S10"] | 预估格数: ?
+- The Cheshire Cat disappeared, then he came back and asked Alice, 'Where's the baby?'
+- 译：柴郡猫消失了，然后它又回来问爱丽丝："婴儿在哪里？"
+- 'It isn't a baby anymore.
+- 译："它已经不是婴儿了。
+- It's a pig!' said Alice.
+- 译：是头猪！"爱丽丝说。
+
+---
+
+---
+B6-24 | character_refs: ["C1"] | scene_refs: ["S10"] | 预估格数: ?
+- Alice waited for the Cat, but he didn't come back so she walked towards the March Hare's home.
+- 译：爱丽丝等着猫回来，但它没有回来，于是她向三月野兔的家走去。
+
+---
+
+---

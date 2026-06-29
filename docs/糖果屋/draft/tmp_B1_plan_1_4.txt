@@ -1,0 +1,42 @@
+B1-1 | character_refs: ["C3", "C4", "C1", "C2"] | scene_refs: ["S1"] | 预估格数: 1
+- ONCE upon a time there dwelt on the outskirts of a large forest a poor woodcutter with his wife and two children; the boy was called Hansel and the girl Grettel.
+  译：从前，在一片大森林的边缘，住着一位贫穷的樵夫，与他的妻子和两个孩子相依为命；男孩叫汉泽尔，女孩叫格蕾特尔。
+- He always had very little money even to buy food, and once, when times were really bad, they had to get by with one piece of bread and butter each.
+  译：他总是几乎没有钱买食物，有一次，日子实在难熬，全家每人只剩一片涂了黄油的面包糊口。
+
+【节拍分析】同一场景（家中卧室），同一时间背景（故事开头），同一话题（家庭贫困状况），无情绪反转。两句均为背景铺垫，无独立动作切换点。合并为一条建立场景分镜。
+【环境状态】伐木工家卧室，夜晚月光（S1月夜状态）。
+
+---
+
+---
+
+B1-2 | character_refs: ["C3"] | scene_refs: ["S1"] | 预估格数: 1
+- One night, as he was tossing about in bed, full of cares and worry, he sighed and said to his wife: "What's to become of us? How are we to feed our poor children, now that we have nothing more for ourselves?"
+  译：一天夜里，他辗转反侧，满心愁苦，叹了口气对妻子说："我们该怎么办？现在自己什么都没有了，怎么养活可怜的孩子们？"
+
+【节拍分析】场景切入夜晚卧室，父亲独自忧愁诉说，单一焦点单一情绪（焦虑），单一说话方，单格即可表达。
+【环境状态】伐木工家卧室，夜晚，月光透窗（S1月夜状态）。
+
+---
+
+---
+
+B1-3 | character_refs: ["C4"] | scene_refs: ["S1"] | 预估格数: 1
+- "I'll tell you what, husband," answered the woman; "early tomorrow morning we'll take the children out into the thickest part of the wood; there we shall light a fire for them and give them each a piece of bread; then we'll go on to our work and leave them alone. They won't be able to find their way home, and we shall be rid of them."
+  译：妇人回答说："我有个主意，丈夫。明天一大早，我们把孩子带到最深的林子里，给他们生一堆火，各给一片面包，然后我们去干活，把他们留在那儿。他们找不到回家的路，我们就能摆脱他们了。"
+
+【节拍分析】继母一方连续陈述完整计划，无说话方切换，单一说话者独白，单格承载。
+【环境状态】伐木工家卧室，夜晚（S1月夜状态）。
+
+---
+
+---
+
+B1-4 | character_refs: ["C3"] | scene_refs: ["S1"] | 预估格数: 1
+- "No, wife," said her husband, "that I won't do; how could I find it in my heart to leave my children alone in the wood? The wild beasts would soon come and tear them to pieces."
+  译：丈夫说："不，妻子，我做不到。我怎能忍心把孩子们单独留在森林里？野兽很快就会来把他们撕碎的。"
+
+【节拍分析】§4条件B：继母提出"抛弃孩子"（触发动作），父亲明确"拒绝"（转折结果），情绪方向相反（提议→拒绝），必须独立成镜。父亲是单一说话方，单格表达拒绝。
+
+---

@@ -1,0 +1,33 @@
+B5-1 | character_refs: ["C7"] | scene_refs: ["S4"] | 预估格数: 1
+- Polonius's son Laertes returns to Denmark from Paris.
+  译：波洛涅斯之子莱阿提斯从巴黎返回丹麦。
+- He is very angry.
+  译：他非常愤怒。
+
+---
+
+B5-2 | character_refs: ["C7", "C5"] | scene_refs: ["S2"] | 预估格数: 2
+- You have killed my father.
+  译：你杀了我的父亲。
+- I shall persuade the people to rebel against you, there will be a revolution.
+  译：我要说服人民反抗你，将会有一场革命。
+
+---
+
+B5-3 | character_refs: ["C5", "C7"] | scene_refs: ["S2"] | 预估格数: 2
+- No, Laertes — Hamlet is responsible for everything.
+  译：不，莱阿提斯——哈姆雷特要为一切负责。
+- But how did my father die?
+  译：但我父亲是怎么死的？
+- Why is it a secret?
+  译：为什么要保密？
+
+---
+
+B5-4 | character_refs: ["C5", "C7"] | scene_refs: ["S2"] | 预估格数: 1
+- Be patient.
+  译：耐心一点。
+- When I have explained everything you will understand.
+  译：等我解释完一切，你就会明白的。
+- I am your friend.
+  译：我是你的朋友。

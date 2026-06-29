@@ -1,0 +1,28 @@
+B2-13 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- Suddenly ... SPLASH... she falls into a lot of water.
+  译：突然……扑通……她掉进了大片的水中。
+
+---
+B2-14 | character_refs: ["C1"] | scene_refs: ["S4"] | 预估格数: ?
+- 'I'm in the sea,' she thinks.
+  译：我在大海里，她心想。
+- It is not the sea.
+  译：那不是大海。
+- It is the pool of Alice's tears.
+  译：那是爱丽丝自己的眼泪汇成的水池。
+
+---
+B2-15 | character_refs: ["C1", "C4"] | scene_refs: ["S4"] | 预估格数: ?
+- 'Why have I cried so much?' Alice is not alone in the water.
+  译：我怎么哭了那么多？爱丽丝在水中并不孤单。
+- A mouse is splashing near her.
+  译：一只老鼠正在她旁边扑腾。
+- Alice is very tired of swimming in the pool so she asks the Mouse, 'Do you know the way out of this pool?'
+  译：爱丽丝游累了，便问老鼠：你知道怎么从这个水池里出去吗？
+
+---
+B2-16 | character_refs: ["C4"] | scene_refs: ["S4"] | 预估格数: ?
+- The Mouse doesn't answer.
+  译：老鼠没有回答。
+
+---

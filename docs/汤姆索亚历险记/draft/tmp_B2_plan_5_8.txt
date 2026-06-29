@@ -1,0 +1,39 @@
+B2-5 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: ?
+- On Monday morning Tom did not want to get up.
+  译：星期一早上，汤姆不想起床。
+- "Get up immediately, Tom, and get ready for school!" Aunt Polly cried.
+  译："汤姆，马上起床，准备去上学！"波莉姨妈大声喊道。
+
+---
+
+B2-6 | character_refs: ["C1", "C6"] | scene_refs: ["S6"] | 预估格数: ?
+- On his way to school Tom met his friend Huckleberry Finn.
+  译：在去学校的路上，汤姆遇见了他的朋友赫克贝利·芬。
+
+---
+
+B2-7 | character_refs: ["C6"] | scene_refs: ["S6"] | 预估格数: ?
+- Huck's father drank whiskey all the time and did not work.
+  译：哈克的父亲整天喝威士忌，从不工作。
+- Huck had no mother and no home.
+  译：哈克没有妈妈，也没有家。
+- He lived in the streets and did not go to school.
+  译：他住在街头，不上学。
+- His clothes were old and dirty.
+  译：他的衣服又旧又脏。
+- He went fishing and swimming when he wanted.
+  译：他想钓鱼就钓鱼，想游泳就游泳。
+- Huck was happy.
+  译：哈克很快乐。
+
+---
+
+B2-8 | character_refs: ["C6"] | scene_refs: ["S6"] | 预估格数: ?
+- All the mothers of the village hated him because he was lazy and used bad language.
+  译：村里所有的妈妈们都讨厌他，因为他懒惰、说脏话。
+- All the children of the town liked him very much.
+  译：镇上所有的孩子都非常喜欢他。
+- They admired him.
+  译：他们都崇拜他。
+
+---

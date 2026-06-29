@@ -1,0 +1,47 @@
+B5-25 | character_refs: ["C2", "C3", "C11"] | scene_refs: ["S9"] | 预估格数: 2
+- Look at this skull, Horatio.
+  译：看这个头骨，霍雷肖。
+- It is Yorick.
+  译：这是约里克。
+- He was the court jester.
+  译：他曾是宫廷小丑。
+- Alas, poor Yorick.
+  译：唉，可怜的约里克。
+
+---
+
+B5-26 | character_refs: ["C2", "C11"] | scene_refs: ["S9"] | 预估格数: 2
+- I knew him, Horatio.
+  译：我认识他，霍雷肖。
+- When I was a child, he carried me on his back.
+  译：当我还是个孩子的时候，他背着我。
+- His jokes were the best.
+  译：他的笑话是最棒的。
+- He cannot make anybody laugh now.
+  译：他再也不能让任何人笑了。
+
+---
+
+B5-27 | character_refs: ["C2", "C11"] | scene_refs: ["S9"] | 预估格数: 3
+- Perhaps this skull belonged to a beautiful lady.
+  译：也许这颗头骨曾属于一位美丽的女士。
+- She cannot paint her face now.
+  译：她现在再也不能涂脂抹粉了。
+- Perhaps this skull belonged to a lawyer.
+  译：也许这颗头骨曾属于一位律师。
+- He cannot show how clever he is now.
+  译：他现在再也不能展示自己有多聪明了。
+- Perhaps this skull belonged to a court gentleman.
+  译：也许这颗头骨曾属于一位宫廷绅士。
+- He cannot wear elegant clothes now.
+  译：他现在再也不能穿上华丽的衣服了。
+
+---
+
+B5-28 | character_refs: ["C6"] | scene_refs: ["S11"] | 预估格数: 2
+- There is a willow by the river.
+  译：河边有一棵柳树。
+- Its silver leaves shine in the glassy water.
+  译：它银色的叶子在如镜的水面上闪闪发光。
+- Ophelia walked there, picking the flowers to hang on the graceful branches of the tree.
+  译：奥菲莉亚走到那里，采摘花朵挂在优雅的树枝上。

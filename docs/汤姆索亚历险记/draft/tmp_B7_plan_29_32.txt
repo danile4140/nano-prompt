@@ -1,0 +1,36 @@
+B7-29 | character_refs: [] | scene_refs: ["S3"] | 预估格数: ?
+- That morning all the people of St Petersburg knew about Tom and Becky and they were very worried.
+  译：那天早上，圣彼得堡全镇的人都知道了汤姆和贝基的事，大家都非常担心。
+- Where were they?
+  译：他们在哪里呢？
+
+B7-30 | character_refs: ["C1", "C7"] | scene_refs: ["S15"] | 预估格数: ?
+- Tom and Becky were lost in McDougal's Cave.
+  译：汤姆和贝基在麦克杜格尔山洞里迷路了。
+- They did not know what to do.
+  译：他们不知道该怎么办。
+- They were both afraid.
+  译：他们两个都很害怕。
+- Tom took Becky's hand.
+  译：汤姆握住了贝基的手。
+- They walked and walked.
+  译：他们走啊走。
+- Tom wanted to find the entrance of the cave, but he couldn't.
+  译：汤姆想要找到山洞的入口，但始终找不到。
+（已扫描5对相邻句，四维度均无切换，保留6句）
+
+B7-31 | character_refs: ["C1", "C7"] | scene_refs: ["S15"] | 预估格数: ?
+- Tom and Becky entered a big room with a lot of black bats.
+  译：汤姆和贝基走进了一个有许多黑色蝙蝠的大房间。
+- It was terrible.
+  译：太可怕了。
+- The bats flew over their heads and when Tom and Becky ran away the bats followed them.
+  译：蝙蝠在他们头顶飞翔，当汤姆和贝基逃跑时，蝙蝠跟着他们追了过来。
+- Finally the bats went away.
+  译：最终，蝙蝠飞走了。
+
+B7-32 | character_refs: ["C7", "C1"] | scene_refs: ["S15"] | 预估格数: ?
+- Becky looked at Tom and said, "Tom, where are we?"
+  译：贝基望向汤姆说："汤姆，我们在哪里？"
+- "I don't know, Becky."
+  译："我不知道，贝基。"

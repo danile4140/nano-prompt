@@ -1,0 +1,45 @@
+B2-25 | character_refs: ["C1", "C6"] | scene_refs: ["S7"] | 预估格数: ?
+- "Are the ghosts making these noises?" thought Tom.
+  译："是鬼魂在制造这些声音吗？"汤姆心想。
+- He was afraid but he said nothing.
+  译：他很害怕，但什么也没有说。
+
+---
+
+B2-26 | character_refs: ["C1", "C6"] | scene_refs: ["S7"] | 预估格数: ?
+- "Now let's find the grave of Hoss Williams," said Huck.
+  译："现在我们来找霍斯·威廉斯的坟墓，"哈克说。
+- They soon found the grave.
+  译：他们很快就找到了那座坟。
+- "Here it is.
+  译："就是这里。
+- He died last week," said Huck.
+  译：他上周刚死的，"哈克说。
+
+---
+
+B2-27 | character_refs: ["C1", "C6"] | scene_refs: ["S7"] | 预估格数: ?
+- "Do you think Hoss Williams can hear us?" asked Tom.
+  译："你觉得霍斯·威廉斯能听到我们说话吗？"汤姆问。
+- "Well, I think his ghost can hear us," said Huck.
+  译："嗯，我觉得他的鬼魂能听到，"哈克说。
+- "Then let's call him Mr Williams," said Tom.
+  译："那我们就叫他威廉斯先生吧，"汤姆说。
+- "Alright," said Huck, "But everybody called him Hoss."
+  译："好吧，"哈克说，"不过大家都叫他霍斯。"
+
+---
+
+B2-28 | character_refs: ["C1", "C6"] | scene_refs: ["S7"] | 预估格数: ?
+- "Sh!"
+  译："嘘！"
+- "What is it, Tom?" asked Huck.
+  译："怎么了，汤姆？"哈克问。
+- "Do you hear the noise?
+  译："你听到那声音了吗？
+- Look over there, Huck!
+  译：看那边，哈克！
+- Oh, no!" said Tom.
+  译：哦，不！"汤姆说。
+
+---

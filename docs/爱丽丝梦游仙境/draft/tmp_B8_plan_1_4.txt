@@ -1,0 +1,43 @@
+B8-1 | character_refs: [C1, C23, C24, C25] | scene_refs: [S12] | 预估格数: ?
+- Alice was in a beautiful garden with all types of flowers.
+译：爱丽丝置身于一座美丽的花园，里面种满了各种鲜花。
+- She wasn't alone; there were three gardeners working very hard, but they weren't men, they were cards.
+译：她并不孤单；有三个园丁在勤劳地干活，但他们不是真人，而是纸牌。
+- They were painting white roses red.
+译：他们正在把白色玫瑰涂成红色。
+- Alice was very curious so she walked towards them and asked timidly: 'Excuse me, why are you painting these roses red?'
+译：爱丽丝非常好奇，便走向他们，怯生生地问道："打扰一下，你们为什么要把这些玫瑰涂成红色呢？"
+
+---
+
+---
+
+B8-2 | character_refs: [C1, C23, C24, C25] | scene_refs: [S12] | 预估格数: ?
+- The gardeners looked sad and quite embarrassed.
+译：园丁们看起来既沮丧又十分尴尬。
+- 'Well,' answered Two in a low voice, 'this should be a red rose-tree but. . .'
+译："呃，"二号压低声音回答，"这本来应该是一棵红玫瑰树，但……"
+- 'Well, you see, we put in a white rose-tree instead,' said Five.
+译："是这样的，你看，我们种了一棵白玫瑰树，"五号说。
+- 'It was a mistake, ' added Seven, 'if the Queen discovers it, she'll cut off our heads.'
+译："这是个失误，"七号补充道，"如果女王发现了，她会砍掉我们的脑袋的。"
+
+---
+
+---
+
+B8-3 | character_refs: [C1] | scene_refs: [S12] | 预估格数: ?
+- 'Cut off your heads!' repeated Alice totally surprised.
+译："砍掉你们的脑袋！"爱丽丝完全惊呆了，重复道。
+
+---
+
+---
+
+B8-4 | character_refs: [C23, C24, C25] | scene_refs: [S12] | 预估格数: ?
+- 'Look! The Queen! The Queen!' shouted the cards, and they lay face down on the ground.
+译："快看！女王！女王！"纸牌们大喊，然后全部扑倒在地，趴着不动。
+
+---
+
+---

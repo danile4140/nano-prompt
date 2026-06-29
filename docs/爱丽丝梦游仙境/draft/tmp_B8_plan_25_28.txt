@@ -1,0 +1,45 @@
+B8-25 | character_refs: [C1, C18, C13] | scene_refs: [S12] | 预估格数: ?
+- 'It's a friend of mine, the Cheshire Cat,' said Alice.
+译："这是我的朋友，柴郡猫，"爱丽丝说。
+- 'Don't look at me like that!' said the King.
+译："别那样看着我！"国王说。
+- 'A cat can look at a king, I read it in a book,' said Alice,
+译："猫可以看国王，这是我在书上读到的，"爱丽丝说。
+
+---
+
+---
+
+B8-26 | character_refs: [C18, C17] | scene_refs: [S12] | 预估格数: ?
+- The King looked very angry.
+译：国王看起来非常愤怒。
+- 'My darling ... ' the King said.
+译："亲爱的……"国王说道。
+- 'Yes, my dear?' answered the Queen.
+译："什么事，亲爱的？"女王回答。
+
+---
+
+---
+
+B8-27 | character_refs: [C18, C17] | scene_refs: [S12] | 预估格数: ?
+- 'This cat must go!' said the King in a firm voice.
+译："这只猫必须走！"国王用坚定的语气说。
+- 'Of course, dear. Cut off its head!' ordered the Queen.
+译："当然，亲爱的。砍掉它的脑袋！"女王下令道。
+
+---
+
+---
+
+B8-28 | character_refs: [C1, C13, C18] | scene_refs: [S12] | 预估格数: ?
+- Everybody gathered round the Cheshire Cat.
+译：所有人都围到了柴郡猫旁边。
+- A soldier said, 'You can't cut off its head.
+译：一名士兵说："你们没法砍掉它的脑袋。
+- There's no body to cut it off from.'
+译：它根本就没有身体，脑袋从何砍起呢。"
+
+---
+
+---

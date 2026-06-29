@@ -1,0 +1,48 @@
+B1-5 | character_refs: ["C4", "C3"] | scene_refs: ["S1"] | 预估格数: 2
+- "Oh! You fool," said she, "then we must all four die of hunger, and you may just as well go and saw the boards for our coffins"; and they argued and argued, until he agreed that they must get rid of Hansel and Grettel.
+  译：她说："哦！你这个蠢货，那我们四个就都得饿死，你还不如去锯木板做棺材算了！"他们争来争去，直到他同意必须甩掉汉泽尔和格蕾特尔。
+- "But I can't help feeling sorry for the poor children," added the husband.
+  译：丈夫补充道："但我忍不住为可怜的孩子们感到难过。"
+
+【节拍分析】继母逼迫（施压主导）→父亲让步并表达心疼。§4条件B：继母施压施加情绪压力为触发，父亲妥协为结果，两个节拍因果依赖且情绪方向不同（愤怒施压→心疼妥协）。必须分格。左格：继母愤怒施压（主导方占大格）；右格：父亲低头同意+心疼补充（结果方）。两格对话二分2:1（继母主导）。
+
+---
+
+---
+
+B1-6 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- The children, too, had not been able to sleep for hunger, and had heard what their step-mother had said to their father.
+  译：孩子们也因为饥饿无法入睡，听到了继母对父亲说的一切。
+- Grettel wept bitterly and spoke to Hansel: "Now it's all over for us."
+  译：格蕾特尔伤心地哭泣，对汉泽尔说："我们完了。"
+
+【节拍分析】视角切换到孩子房间（§3触发切换情形3）。S8孩子偷听→S9格蕾特尔哭泣是情绪显著变化（得知消息→崩溃哭泣），§4条件A：格蕾特尔与汉泽尔是两个独立主体，格蕾特尔哭诉"完了"是独立表态，汉泽尔尚未回应，但已形成对话触发态势。S8（听到消息，画面以二人为整体）+ S9（格蕾特尔哭泣表态）合并为两格：左格S8两人偷听状，右格S9格蕾特尔哭泣近景。
+
+---
+
+---
+
+B1-7 | character_refs: ["C1", "C2"] | scene_refs: ["S1"] | 预估格数: 2
+- "No, no, Grettel," said Hansel, "don't worry; I'll find a way to escape, no fear."
+  译：汉泽尔说："不不，格蕾特尔，别担心，我一定会找到逃跑的办法，不用害怕。"
+- And when the parents had fallen asleep he got up, slipped on his little coat, opened the back door and crept out.
+  译：等父母睡着后，他起身，套上小外套，打开后门，悄悄溜了出去。
+
+【节拍分析】§4条件B：汉泽尔安慰（承诺找办法）→实际行动（起身溜出），触发-行动因果链，两个独立时刻（说话时刻 vs 行动时刻），且有时间推进（"父母睡着后"），必须分格。左格：汉泽尔安慰格蕾特尔；右格：汉泽尔悄悄出门行动。
+
+---
+
+---
+
+B1-8 | character_refs: ["C1"] | scene_refs: ["S2"] | 预估格数: 1
+- The moon was shining clearly, and the white pebbles which lay in front of the house glittered like bits of silver.
+  译：月光清亮，散落在屋前的白色鹅卵石闪闪发光，如同银片。
+- Hansel bent down and filled his pocket with as many of them as he could cram in.
+  译：汉泽尔弯腰，尽可能多地把鹅卵石塞进了口袋。
+- Then he went back and said to Grettel: "It's alright, my dear little sister, and go to sleep: God will not desert us"; and he lay down in bed again.
+  译：然后他回去对格蕾特尔说："没事的，亲爱的妹妹，睡吧，上帝不会抛弃我们的"；说完他又躺回床上。
+
+【节拍分析】场景切换至屋前月夜（S2）。三句连续行动：月光照石子→捡石子→回屋安慰。S12-S14均为汉泽尔在同一夜晚连续完成的同一个行动链（收集石子），视觉焦点未切换，无情绪反转。最后的安慰台词与行动属于同一节拍完结（回屋安慰是行动的收尾）。三句在句数上限内（≤4句），可合并为单格路径动线组织（月光石子→弯腰捡→回屋）。
+【豁免检验】逐对扫描S12-S13-S14：①S12→S13：同一时刻月夜，同一动作（拾取石子），无焦点切换；②S13→S14：回屋后说话，空间有从屋外到屋内的微小位移，但叙事目的仍为"完成收集鹅卵石行动"，属同一节拍完结动作。总句数3句≤6句，满足豁免。
+
+---

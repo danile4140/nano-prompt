@@ -1,0 +1,37 @@
+B5-5 | character_refs: ["C6", "C7"] | scene_refs: ["S2"] | 预估格数: 1
+- Ophelia comes to see Laertes.
+  译：奥菲莉亚来看莱阿提斯。
+
+---
+
+B5-6 | character_refs: ["C6"] | scene_refs: ["S2"] | 预估格数: 1
+- She loved Hamlet, but he killed her father.
+  译：她爱过哈姆雷特，但他杀了她的父亲。
+- This has made her mad.
+  译：这让她发疯了。
+- She sings sad songs and gives flowers to everyone she meets.
+  译：她唱着悲伤的歌，把花送给每一个遇到的人。
+
+---
+
+B5-7 | character_refs: ["C7", "C6"] | scene_refs: ["S2"] | 预估格数: 2
+- What is the matter with my sister?
+  译：我的妹妹怎么了？
+- She has lost her mind, poor girl.
+  译：她失去了理智，可怜的姑娘。
+
+---
+
+B5-8 | character_refs: ["C6"] | scene_refs: ["S2"] | 预估格数: 2
+- He will never come again.
+  译：他再也不会回来了。
+- His beard was as white as snow.
+  译：他的胡须白如雪。
+- He is gone, he is gone. Love.
+  译：他走了，他走了。爱人啊。
+- Remember me.
+  译：记住我。
+- Do you see this?
+  译：你看到这个了吗？
+- Oh, God.
+  译：哦，上帝啊。

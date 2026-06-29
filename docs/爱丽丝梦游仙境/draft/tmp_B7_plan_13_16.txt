@@ -1,0 +1,68 @@
+B7-13 | character_refs: [C1] | scene_refs: [S11] | 预估格数: ?
+- Alice ran away.
+译：爱丽丝跑走了。
+- She was very angry.
+译：她非常生气。
+- 'I'll never go there again!' Alice said.
+译："我再也不去那里了！"爱丽丝说道。
+
+---
+
+---
+B7-14 | character_refs: [C14, C15, C16] | scene_refs: [S11] | 预估格数: ?
+- 'Perhaps they'll call me back and give me some tea and bread and butter,' thought Alice.
+译：爱丽丝心想："也许他们会叫我回去，给我茶和黄油面包。"
+- But they didn't say anything.
+译：但他们什么也没说。
+- The Dormouse was asleep.
+译：睡鼠还在睡觉。
+- The March Hare and the Hatter were trying to put him in the teapot.
+译：三月野兔和帽匠正努力把睡鼠塞进茶壶里。
+
+---
+
+---
+B7-15 | character_refs: [C1] | scene_refs: [S10, S3] | 预估格数: ?
+- Suddenly Alice saw a door in a tree.
+译：突然，爱丽丝看见树上有一扇门。
+- She went in and there she was, in the long hall with the glass table.
+译：她走了进去，发现自己置身于那个摆着玻璃桌的长廊大厅里。
+
+---
+
+---
+B7-16 | character_refs: [C1] | scene_refs: [S3, S12] | 预估格数: ?
+- 'I'll go into the garden this time,' she thought.
+译："这次我要进花园，"她想。
+- Alice took the little golden key and opened the door.
+译：爱丽丝拿起那把小金钥匙，打开了那扇门。
+- Then she ate some bits of mushroom and grew smaller.
+译：然后她吃了一点蘑菇，变小了。
+- She walked into the beautiful garden.
+译：她走进了那座美丽的花园。
+
+---
+
+**自检：未覆盖句数 = 0**
+
+句子总数统计：
+- B7-1：5句（S1-5）
+- B7-2：1句（S6）
+- B7-3：1句（S7）
+- B7-4：3句（S8-10）
+- B7-5：3句（S11-13）
+- B7-6：2句（S14-15）
+- B7-7：3句（S16-18）
+- B7-8：2句（S19-20）
+- B7-9：3句（S21-23）
+- B7-10：2句（S24-25）
+- B7-11：2句（S26-27）
+- B7-12：2句（S28-29）
+- B7-13：3句（S30、S31、S36）
+- B7-14：4句（S32-35）
+- B7-15：2句（S37-38）
+- B7-16：4句（S39-42）
+
+合计：42句，全部覆盖，未覆盖句数 = 0。
+
+---

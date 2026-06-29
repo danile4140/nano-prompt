@@ -1,0 +1,24 @@
+B2-13 | character_refs: ["C3"] | scene_refs: ["S1"] | 预估格数: 2
+- Raoul walked out of the dressing room.
+- He stood for a few moments in the corridor outside.
+- He was in love, and he did not know what to do.
+（3句，动作+内心独白，同一人物连续状态，走廊，用主画面+心理气泡）
+
+B2-14 | character_refs: ["C3"] | scene_refs: ["S1"] | 预估格数: 2
+- He approached the door once again.
+- He was about to knock on it when he heard a man's voice in the room.
+（2句，新事件触发：靠近门+突然听到声音，是叙事高潮前奏，前后对比格）
+
+B2-15 | character_refs: ["C3"] | scene_refs: ["S1"] | 预估格数: 2
+- 'You must love me, Christine!' the voice said.
+- 'How can you say that?' Christine's voice replied.
+- 'I only sing for you, you know that!'
+（3句，幽灵表白+克里斯汀回应，2回合对话，偷听场景，含情绪对话节拍）
+
+B2-16 | character_refs: ["C3"] | scene_refs: ["S1"] | 预估格数: 2
+- 'Are you tired?' the man asked her tenderly.
+- 'I gave you my soul tonight,' Christine said.
+- 'I'm very tired now.'
+- 'It was beautiful,' the man's voice said.
+- 'The angels wept to hear you sing this evening.'
+（5句，幽灵问→克里斯汀答→幽灵感叹，逐对扫描：①"Are you tired"→"I gave you my soul"无切换；②→"I'm very tired now"无切换（同一说话者）；③→"It was beautiful"说话方切换但话题一贯；④→"The angels wept"无切换（同一说话者）。四维度均无切换：同一走廊偷听场景，同一温柔情绪基调，同一话题（疲惫/灵魂献唱），无时间推进，无空间位移，无焦点切换，无情绪反转。已扫描4对相邻句，四维度均无切换，保留。）

@@ -1,0 +1,45 @@
+B1-17 | character_refs: ["C1"] | scene_refs: ["S2"] | 预估格数: ?
+- After a few minutes he had a great idea.
+  译：过了几分钟，他突然想出了一个好主意。
+- He continued painting the fence.
+  译：他继续粉刷栅栏。
+
+---
+
+B1-18 | character_refs: ["C1", "C5"] | scene_refs: ["S2"] | 预估格数: ?
+- He saw his friend Ben Rogers in the street.
+  译：他看见朋友本·罗杰斯从街上走来。
+- Ben had an apple in his hand.
+  译：本手里拿着一个苹果。
+- He came to look at the fence.
+  译：他走过来看栅栏。
+
+---
+
+B1-19 | character_refs: ["C1", "C5"] | scene_refs: ["S2"] | 预估格数: ?
+- "You're working for your aunt," said Ben.
+  译：「你在给你姨妈干活，」本说。
+- Tom said nothing.
+  译：汤姆一声不吭。
+- He continued painting.
+  译：他继续粉刷。
+- "I'm going swimming but you can't come with me.
+  译：「我要去游泳，可你不能跟我去。
+- You're working," said Ben.
+  译：你在干活嘛，」本说。
+
+---
+
+B1-20 | character_refs: ["C1", "C5"] | scene_refs: ["S2"] | 预估格数: ?
+- "Do you call this work?" asked Tom.
+  译：「你管这叫干活？」汤姆问道。
+- "Of course it's work.
+  译：「当然是干活。
+- You're painting a fence," said Ben.
+  译：你在粉刷栅栏嘛，」本说。
+- "Maybe it's work but maybe it isn't.
+  译：「也许算干活，也许不算。
+- I like it!" said Tom, "I can swim every day, but I can't paint a fence every day."
+  译：我喜欢粉刷！」汤姆说，「我每天都可以游泳，但可不是每天都能粉刷栅栏的。」
+
+---

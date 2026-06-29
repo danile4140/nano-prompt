@@ -1,0 +1,48 @@
+B1-21 | character_refs: ["C4", "C1", "C2"] | scene_refs: ["S3"] | 预估格数: 2
+- At early dawn the woman came and made the children get up.
+  译：黎明时分，继母来叫孩子们起床。
+- She gave them that bit of bread, but it was even smaller than the time before.
+  译：她给了他们那一小片面包，但比上次还要小。
+- On the way to the wood Hansel crumbled it in his pocket, and every few minutes he stood still and dropped a crumb on the ground.
+  译：在前往森林的路上，汉泽尔把面包在口袋里捏碎，每隔几分钟就停下来，往地上撒一粒面包屑。
+
+【节拍分析】场景切换到次日清晨（S3）。三句连续：叫醒→分更小面包→路上汉泽尔悄悄撒面包屑。后两句有时间/空间切换（屋内→小路），§4条件D：S3（卧室）→S4（小路）是物理场景变化，需要分格。两格：左格（S3卧室，继母叫醒+分更小面包）；右格（S4小路，汉泽尔悄悄撒面包屑）。
+
+---
+
+---
+
+B1-22 | character_refs: ["C3", "C1"] | scene_refs: ["S4"] | 预估格数: 2
+- "Hansel, what are you stopping and looking about you for?" said the father.
+  译：父亲说："汉泽尔，你为什么不停地停下来左顾右盼？"
+- "I'm looking back at my little pigeon, which is sitting on the roof waving me a farewell," answered Hansel.
+  译：汉泽尔回答："我在看我的小鸽子，它坐在屋顶上向我道别呢。"
+- "Fool!" said the wife; "that isn't your pigeon, it's the morning sun glittering on the chimney."
+  译：妻子说："蠢货！那不是你的鸽子，那是早晨的阳光在烟囱上闪烁。"
+
+【节拍分析】三方对话：父亲问→汉泽尔撒谎答→继母愤怒揭穿。§4条件A：三方独立表态（父亲疑惑、汉泽尔撒谎、继母愤怒），各方表态均不可缺失。但三句中继母只是重复上次（B1-11）的揭穿模式，且继母与父亲同向行进可同框。核心对话是父亲问+汉泽尔答（一问一答），继母附言。两格：左格（父亲问汉泽尔）；右格（继母揭穿，附加汉泽尔的撒谎已被揭穿的表情）。对话双格。
+
+---
+
+---
+
+B1-23 | character_refs: ["C1"] | scene_refs: ["S4"] | 预估格数: 1
+- But Hansel gradually threw all his crumbs on the path.
+  译：但汉泽尔逐渐把所有的面包屑都撒在了路上。
+
+【节拍分析】叙述者揭晓汉泽尔实际行动（秘密撒面包屑）。单句，单一叙述信息，单格特写（低机位看汉泽尔的手和路上面包屑）。
+注：此句与B1-21中"撒面包屑"为叙事上的呼应与确认，可单独成镜表达行动完成。
+
+---
+
+---
+
+B1-24 | character_refs: ["C4", "C1", "C2"] | scene_refs: ["S5"] | 预估格数: 2
+- The woman led the children still deeper into the forest farther than they had ever been in their lives before.
+  译：继母带着孩子们走进了更深的森林，比他们一生中去过的任何地方都要深。
+- Then a big fire was lit again, and the mother said: "Just sit down there, children, and if you're tired you can sleep a bit; we're going into the forest to cut down wood, and in the evening when we're finished we'll come back to fetch you."
+  译：然后再次生起了一堆大火，母亲说："就坐在那儿，孩子们，如果累了可以睡一会儿；我们去森林里砍柴，傍晚完工后回来接你们。"
+
+【节拍分析】场景到达更深森林（S5）。两句连续：带入更深林→生火+下达留守命令。结构与B1-13相同（指令阶段），但此次更深（强化遗弃感）。两格：左格（继母领着孩子走入更深的林子，全景，路径动线）；右格（生起火，继母下达谎言性命令，孩子们坐下）。§4条件D：带路进入（前阶段）→发出留守命令（后阶段），阶段边界清晰。
+
+---

@@ -1,0 +1,29 @@
+B8-25 | character_refs: ["C1", "C6"] | scene_refs: ["S15"] | 预估格数: ?
+- Tom looked around slowly and then cried, "Look, here's the cross!"
+  译：汤姆慢慢四下张望，然后叫道："看，这里有个十字！"
+- There was a black cross on the wall of the cave.
+  译：山洞墙壁上有一个黑色十字标记。
+- "You're right! It's the cross!" said Huck.
+  译："你说得对！是十字！"哈克说。
+- "Let's dig under the cross."
+  译："我们在十字下面挖吧。"
+
+B8-26 | character_refs: ["C1", "C6"] | scene_refs: ["S15b"] | 预估格数: ?
+- They dug and dug.
+  译：他们挖啊挖。
+- Finally they found a small room.
+  译：终于，他们找到了一个小房间。
+
+B8-27 | character_refs: ["C1", "C6"] | scene_refs: ["S15b"] | 预估格数: ?
+- There was a small bed, some old candles and a few bottles.
+  译：里面有一张小床、几根旧蜡烛和几个瓶子。
+- And there was the treasure box!
+  译：还有那个宝箱！
+- They opened it and saw the gold and silver coins.
+  译：他们打开箱子，看见了金币和银币。
+
+B8-28 | character_refs: ["C1", "C6"] | scene_refs: ["S15b"] | 预估格数: ?
+- "We're rich, Tom, we're rich!" cried Huck, "This is wonderful!"
+  译："我们发财了，汤姆，我们发财了！"哈克叫喊道，"太棒了！"
+- "I always knew it!" said Tom, "Now let's take our treasure and leave.
+  译："我就知道！"汤姆说，"现在我们带上宝藏走吧。

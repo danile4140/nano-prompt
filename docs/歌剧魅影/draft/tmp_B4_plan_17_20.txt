@@ -1,0 +1,36 @@
+## B4-17 | character_refs: [C2, C3] | scene_refs: [S8] | 格数: 1（克里斯汀反应：怪异眼神+害怕+抓手臂，过肩单格）
+
+- Christine gave Raoul a strange look.
+- She seemed to be afraid.
+- Then she took hold of his arm excitedly.
+- 'What do you mean?' she asked.
+
+---
+
+## B4-18 | character_refs: [C3, C2] | scene_refs: [S8] | 格数: 2（对话双格：拉乌尔引述引号台词）
+
+- 'I heard you talking,' Raoul replied.
+- 'I heard you tell him, "I only sing for you, you know that!"'
+- 'Then you told him, "I gave you my soul tonight."'
+
+---
+
+## B4-19 | character_refs: [C2, C3] | scene_refs: [S8] | 格数: 2（对话双格：克里斯汀追问→拉乌尔追问是谁）
+
+- 'What else did you hear?' Christine asked urgently.
+- 'He told you, "You must love me".'
+- 'Who is he, Christine?'
+- 'Who is this man that you love so much?'
+
+---
+
+## B4-20 | character_refs: [C2, C3] | scene_refs: [S8] | 格数: 2（对话双格：克里斯汀催促→拉乌尔引述天使台词）
+
+- 'Go on, go on!' Christine cried.
+- 'What else did he say?'
+- 'Tell me everything!'
+- 'He said, "The angels wept to hear you sing this evening".'
+- 'I heard him say that.'
+- 'Tell me who he is!'
+
+---

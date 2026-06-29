@@ -1,0 +1,37 @@
+B6-9 | character_refs: ["C1", "C6"] | scene_refs: ["S8"] | 预估格数: ?
+- Tom and Huck were upstairs.
+  译：汤姆和哈克在楼上。
+- "Sh!" said Tom.
+  译："嘘！"汤姆说。
+- "What is it? Do you hear ghosts?" whispered Huck.
+  译："怎么了？你听到鬼了吗？"哈克低声问道。
+- "No! Don't move!" said Tom, "Let's sit down on the floor."
+  译："不！别动！"汤姆说，"我们坐到地板上去。"
+- There were holes in the floor and they could see the rooms downstairs.
+  译：地板上有几个洞，他们能看到楼下的房间。
+
+B6-10 | character_refs: ["C1", "C6"] | scene_refs: ["S8"] | 预估格数: ?
+- "Oh, no!" whispered Tom, "There are two men downstairs."
+  译："哦，不！"汤姆低声说，"楼下有两个人。"
+- One was an old Spanish man with long, white hair and a big hat.
+  译：一个是留着白色长发、戴着大帽子的老西班牙人。
+- The other man was small and wore dirty clothes.
+  译：另一个人身材矮小，穿着肮脏的衣服。
+- "Let's listen to them," whispered Tom.
+  译："我们听听他们说什么，"汤姆低声说。
+
+B6-11 | character_refs: ["C1", "C6", "C10b", "C20"] | scene_refs: ["S8"] | 预估格数: ?
+- The two men sat on the floor.
+  译：两个人坐在地板上。
+- "It's hot in here and I'm tired," said the old Spanish man.
+  译："这里好热，我累了，"老西班牙人说。
+- When the boys heard his voice they were terrified, "That's Injun Joe!" whispered Huck.
+  译：男孩们听到他的声音，吓坏了，"那是印第安乔！"哈克低声说。
+- The boys' faces became white.
+  译：两个男孩的脸都吓白了。
+
+B6-12 | character_refs: ["C10b", "C20"] | scene_refs: ["S8"] | 预估格数: ?
+- "What are we going to do with the $650 in silver coins? That was a good robbery!" said the small, dirty man.
+  译："那650美元银币我们打算怎么处理？那可是一次漂亮的抢劫！"那个肮脏的小个子男人说。
+- "Let's take about $30 with us now and hide the bag here. We can come back to get it soon," said Injun Joe.
+  译："我们现在先带走大约30美元，把袋子藏在这里。我们很快就会回来取的，"印第安乔说。

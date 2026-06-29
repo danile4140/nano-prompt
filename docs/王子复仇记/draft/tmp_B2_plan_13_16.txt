@@ -1,0 +1,37 @@
+B2-13 | character_refs: ["C2", "C6"] | scene_refs: ["S4"] | 预估格数: 2
+- "I must stop thinking and do something.I must discover the truth.but look.here comes Ophelia.why is she standing there?is it a trap?"
+- 译："我必须停止空想，采取行动。我必须找出真相——但看，奥菲利亚来了，她为什么站在那里？这是个陷阱吗？"
+- the prince is angry with Ophelia because he realizes that she is a spy for her father Polonius and king Claudius.
+- 译：王子对奥菲利亚感到愤怒，因为他意识到她是父亲波洛涅斯和克劳狄斯国王的眼线。
+
+---
+
+---
+
+B2-14 | character_refs: ["C2", "C6"] | scene_refs: ["S4"] | 预估格数: 2
+- "I loved you once."
+- 译："我曾经爱过你。"
+- "I believed so."
+- 译："我也这样以为。"
+
+---
+
+---
+
+B2-15 | character_refs: ["C2", "C6"] | scene_refs: ["S4"] | 预估格数: 1
+- "no.I never loved you.all women are stupid.they paint their faces and talk foolishly.nobody should get married.go away to a nunnery."
+- 译："不，我从未爱过你。所有女人都是愚蠢的，她们涂脂抹粉，说话轻浮，没有人应该结婚，去修道院待着吧。"
+
+---
+
+---
+
+B2-16 | character_refs: ["C5"] | scene_refs: ["S2"] | 预估格数: 2
+- the king does not believe that love is the reason for Hamlet madness,he is very suspicious.
+- 译：国王不相信爱是哈姆雷特发疯的原因，他非常怀疑。
+- "perhaps hamlet knows my secret."
+- 译："也许哈姆雷特知道了我的秘密。"
+- "we must watch him carefully,it is dangerous when a prince is mad."
+- 译："我们必须密切监视他，一个疯了的王子是非常危险的。"
+
+---

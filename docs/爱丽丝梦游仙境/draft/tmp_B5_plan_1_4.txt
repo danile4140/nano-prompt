@@ -1,0 +1,26 @@
+B5-1 | character_refs: [C1, C10] | scene_refs: [S8] | 预估格数: ?
+- The Caterpillar is looking at Alice.
+  译：毛毛虫正在看着爱丽丝。
+- He is very quiet.
+  译：他非常安静。
+- After a while he asks, 'Who are you?'
+  译：过了一会儿，他问道："你是谁？"
+
+---
+B5-2 | character_refs: [C1, C10] | scene_refs: [S8] | 预估格数: ?
+- Alice is quite confused but she tries to answer, 'I... I don't know ... I'm always changing from big to small to big again'
+  译：爱丽丝非常困惑，但她试着回答："我……我不知道……我总是从大变小，又从小变大。"
+
+---
+B5-3 | character_refs: [C10] | scene_refs: [S8] | 预估格数: ?
+- 'OH?' the Caterpillar asks, 'Explain yourself.'
+  译："哦？"毛毛虫问，"解释一下你自己。"
+
+---
+B5-4 | character_refs: [C1, C10] | scene_refs: [S8] | 预估格数: ?
+- 'I can't explain myself because I'm not myself, you see.'
+  译："我没办法解释我自己，因为我现在不是我自己，你明白吗。"
+- 'I don't see,' says the Caterpillar.
+  译："我不明白，"毛毛虫说。
+
+---

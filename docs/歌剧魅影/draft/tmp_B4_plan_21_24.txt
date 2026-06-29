@@ -1,0 +1,35 @@
+## B4-21 | character_refs: [C2, C3] | scene_refs: [S8] | 格数: 2（左格：克里斯汀泪水/郑重神情；右格：宣告"是音乐天使"）
+
+叙事高潮：身份揭晓（B类），触发-转折因果链（条件B）
+
+【情绪标记】强度：强，类型：感动/庄严，推荐视觉手段：速度线/聚焦光线 + 克里斯汀眼中泪水特写 + 中近景景别上调
+
+- Suddenly Christine's eyes filled with tears.
+- She held tightly onto Raoul for a moment, then she turned to him very seriously.
+- 'It's the Angel of Music,' she said solemnly.
+- 'That's the voice you heard in my dressing room.'
+
+---
+
+## B4-22 | character_refs: [C3] | scene_refs: [S8] | 格数: 1（拉乌尔无言，心理近景）
+
+- Raoul did not know what to say.
+- Then Christine continued.
+
+---
+
+## B4-23 | character_refs: [C2] | scene_refs: [S8] | 格数: 1（克里斯汀解释：三个月/唱歌课/好老师）
+
+- 'He has come to me for three months now.'
+- 'He gives me singing lessons.'
+- 'He's a wonderful teacher!'
+
+---
+
+## B4-24 | character_refs: [C3] | scene_refs: [S8] | 格数: 1（拉乌尔内心独白，心理气泡，单格）
+
+- 'It's true that Christine sings much better now,' Raoul thought.
+- 'She sings wonderfully, and she never did before.'
+- 'But I don't believe in the Angel of Music— it's too incredible!'
+
+---

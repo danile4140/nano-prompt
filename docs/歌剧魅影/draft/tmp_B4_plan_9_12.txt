@@ -1,0 +1,36 @@
+## B4-9 | character_refs: [C18, C3, C2] | scene_refs: [] | 格数: 2（左格：老人讲鬼故事；右格：气泡说明天使传说）
+
+豁免：已扫描5对相邻句（21-22, 22-23, 23-24, 24-25, 25-26），四维度均无切换（同一场景/同一说话者/同一话题/同一情绪基调），保留6句。
+
+- The old man told them stories and legends.
+- Many of the stories he told them were about ghosts.
+- One of them was about the Angel of Music.
+- No one can play or sing well, Mr Daae told them, unless they hear the Angel of Music.
+- No one had ever seen the Angel, he explained.
+- It is only possible to hear him.
+
+---
+
+## B4-10 | character_refs: [C2, C18] | scene_refs: [] | 格数: 2（左格：克里斯汀问；右格：老人悲伤摇头）
+
+触发-转折因果链（条件B）：问题提出→否定回应，禁止同格
+
+- 'Have you ever heard the Angel of Music, father?' Christine asked.
+- The old man smiled sadly and shook his head.
+
+---
+
+## B4-11 | character_refs: [C18] | scene_refs: [] | 格数: 1（老人承诺，单格情感高潮，中心聚焦）
+
+- 'But you will hear him,' he promised her.
+- 'I'll send him to you when I'm in heaven.'
+
+---
+
+## B4-12 | character_refs: [C18, C3] | scene_refs: [] | 格数: 2（左格：时间流逝/老人去世；右格：拉乌尔长大成人）
+
+- The years went by.
+- When Mr Daae died, Christine's lovely singing voice disappeared.
+- Raoul became a man.
+
+---

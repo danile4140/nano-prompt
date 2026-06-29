@@ -1,0 +1,17 @@
+B5-17 | character_refs: ["C1", "C9"] | scene_refs: ["S3"] | 预估格数: ?
+- S40: Tom became the hero of St Petersburg.
+  译：汤姆成了圣彼得堡的英雄。
+- S41: He saved Muff Potter's life.
+  译：他救了马夫·波特的性命。
+
+---
+
+B5-18 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- S42: Tom's days were happy but his nights were not.
+  译：汤姆的白天很快乐，但夜晚却不然。
+- S43: At night he had terrible dreams about Injun Joe.
+  译：夜里，他做着关于印第安乔的可怕噩梦。
+- S44: The days passed and no one could find Injun Joe.
+  译：日子一天天过去，没有人能找到印第安乔。
+
+---

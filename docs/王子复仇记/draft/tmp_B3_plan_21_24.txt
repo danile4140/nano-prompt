@@ -1,0 +1,33 @@
+B3-21 | character_refs: ["C2"] | scene_refs: ["S6"] | 预估格数: 1
+- it would be easy for me to kill him now.
+  译：现在杀死他对我来说轻而易举。
+- but if I kill him while he is praying.
+  译：但如果我在他祈祷时杀死他。
+- his soul will go to heaven.
+  译：他的灵魂将升上天堂。
+
+---
+
+B3-22 | character_refs: ["C2"] | scene_refs: ["S6"] | 预估格数: 1
+- I want him to go to hell.
+  译：我要他下地狱。
+- I shall wait for another opportunity.
+  译：我要等待另一个机会。
+
+---
+
+B3-23 | character_refs: ["C5"] | scene_refs: ["S6"] | 预估格数: 1
+- i cannot repent.
+  译：我无法悔罪。
+- god doesn't listen to my words.
+  译：上帝不听我的话。
+
+---
+
+B3-24 | character_refs: ["C2"] | scene_refs: ["S2"] | 预估格数: 1
+- it's good to see you again.
+  译：很高兴再次见到你们。
+- my friends.
+  译：我的朋友们。
+- let me give you some advice for the play tonight.
+  译：让我为今晚的演出给你们一些建议。

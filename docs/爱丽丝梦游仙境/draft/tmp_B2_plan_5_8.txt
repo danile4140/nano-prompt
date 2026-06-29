@@ -1,0 +1,32 @@
+B2-5 | character_refs: ["C1", "C3"] | scene_refs: ["S3"] | 预估格数: ?
+- A short time later she hears something.
+  译：不一会儿，她听到了声音。
+- There is someone running towards her.
+  译：有人正朝她跑来。
+- It is the White rabbit.
+  译：来的是那只白兔。
+- He looks very elegant.
+  译：他看起来非常优雅。
+- He has white gloves in one hand and a fan in his other hand.
+  译：他一手拿着白手套，另一手拿着一把扇子。
+
+---
+B2-6 | character_refs: ["C3"] | scene_refs: ["S3"] | 预估格数: ?
+- 'Oh! The Duchess, the Duchess! She'll be angry because I'm late,' the Rabbit is saying to himself.
+  译：哦！公爵夫人，公爵夫人！我迟到了她会生气的，白兔自言自语道。
+
+---
+B2-7 | character_refs: ["C1", "C3"] | scene_refs: ["S3"] | 预估格数: ?
+- Alice asks the Rabbit for help in a timid voice: 'If you please, sir…'
+  译：爱丽丝用怯生生的声音向白兔求助：打扰一下，先生……
+
+---
+B2-8 | character_refs: ["C3"] | scene_refs: ["S3"] | 预估格数: ?
+- The White Rabbit jumps.
+  译：白兔猛地跳起来。
+- When he sees Alice, he is so frightened that he drops his fan and his gloves.
+  译：当他看到爱丽丝，吓得扇子和手套都掉在了地上。
+- He runs away down the hall very, very fast.
+  译：他以飞快的速度沿着走廊逃跑了。
+
+---

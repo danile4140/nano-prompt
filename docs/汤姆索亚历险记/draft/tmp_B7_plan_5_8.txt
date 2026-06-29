@@ -1,0 +1,23 @@
+B7-5 | character_refs: ["C7", "C1"] | scene_refs: ["S10"] | 预估格数: ?
+- There were a lot of good things to eat and everyone ate, played and had fun.
+  译：有很多美食，大家吃吃喝喝、嬉戏玩耍、尽情欢乐。
+
+B7-6 | character_refs: ["C7", "C1"] | scene_refs: ["S14"] | 预估格数: ?
+- After the picnic the children went to visit McDougal's Cave.
+  译：野餐结束后，孩子们前往参观麦克杜格尔山洞。
+- Everybody had candles because it was dark inside the cave.
+  译：每个人都拿着蜡烛，因为山洞里面非常黑暗。
+
+B7-7 | character_refs: ["C7", "C1"] | scene_refs: ["S14"] | 预估格数: ?
+- Some children were afraid but they all went in.
+  译：有些孩子感到害怕，但他们还是全部走了进去。
+- Caves are exciting and mysterious.
+  译：山洞既刺激又神秘。
+
+B7-8 | character_refs: [] | scene_refs: ["S15"] | 预估格数: ?
+- McDougal's Cave was very, very big.
+  译：麦克杜格尔山洞非常非常大。
+- It had hundreds of tunnels, rooms and secret passages.
+  译：里面有数百条隧道、房间和秘密通道。
+- No one knew all of them.
+  译：没有人能够全部知晓。

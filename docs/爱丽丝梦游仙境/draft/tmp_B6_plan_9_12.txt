@@ -1,0 +1,42 @@
+B6-9 | character_refs: ["C1", "C11"] | scene_refs: ["S9"] | 预估格数: ?
+- 'They all grin, don't you know?' asked the Duchess.
+- 译："它们个个都咧嘴笑，你不知道吗？"公爵夫人问。
+- 'No, I don't,' replied Alice.
+- 译："不，我不知道，"爱丽丝回答。
+- 'You don't know much!' said the Duchess.
+- 译："你懂得真不多！"公爵夫人说。
+
+---
+
+---
+B6-10 | character_refs: ["C12", "C11", "C22"] | scene_refs: ["S9"] | 预估格数: ?
+- Suddenly the cook started to throw things at the Duchess and at the baby.
+- 译：突然，厨师开始向公爵夫人和婴儿扔东西。
+- All sorts of things: pots, jars, knives.
+- 译：各种各样的东西：锅、罐子、刀。
+
+---
+
+---
+B6-11 | character_refs: ["C1", "C22"] | scene_refs: ["S9"] | 预估格数: ?
+- Alice was sorry for the baby.
+- 译：爱丽丝为婴儿感到担心。
+- 'Please be careful!
+- 译："请小心！
+- You'll hurt the baby!'
+- 译：你会伤到婴儿的！"
+
+---
+
+---
+B6-12 | character_refs: ["C11", "C22"] | scene_refs: ["S9"] | 预估格数: ?
+- 'Don't worry about the baby.
+- 译："别担心婴儿。
+- It's my baby,' said the Duchess and she started to sing:
+- 译：这是我的孩子，"公爵夫人说，然后开始唱歌：
+- Speak roughly to your little boy. And beat him when he sneezes: He only does it to annoy, Because he knows it teases.
+- 译：粗声粗气对你的小男孩说话。他打喷嚏时就揍他：他这样做只是为了让人烦，因为他知道这样会惹人。
+
+---
+
+---

@@ -1,0 +1,31 @@
+B5-5 | character_refs: ["C1"] | scene_refs: ["S3"] | 预估格数: ?
+- S10: "And once he helped me with my kite," said Tom, "I want to help him."
+  译："他还帮过我放风筝，"汤姆说，"我想帮他。"
+
+---
+
+B5-6 | character_refs: ["C1", "C6", "C9"] | scene_refs: ["S11"] | 预估格数: ?
+- S11: "Let's go to the jail and take him something to eat," said Huck.
+  译："我们去监狱看他，给他带点吃的吧，"哈克说。
+- S12: They went to the small jail and they saw Muff.
+  译：他们去了那座小监狱，见到了马夫。
+- S13: He was happy to see them.
+  译：马夫见到他们很高兴。
+
+---
+
+B5-7 | character_refs: ["C9", "C1", "C6"] | scene_refs: ["S11"] | 预估格数: ?
+- S14: "No one remembers old Muff any more. But you're my friends and you remember me. Thank you, boys!" said Muff smiling.
+  译："没有人再记得老马夫了。但你们是我的朋友，你们记得我。谢谢你们，孩子们！"马夫微笑着说道。
+
+---
+
+B5-8 | character_refs: ["C1"] | scene_refs: ["S1"] | 预估格数: ?
+- S15: Now Tom felt terrible.
+  译：这会儿汤姆感到糟透了。
+- S16: He was worried about the trial.
+  译：他很担心审判的事。
+- S17: He could not sleep at night.
+  译：他夜里无法入睡。
+
+---

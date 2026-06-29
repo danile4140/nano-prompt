@@ -1,0 +1,51 @@
+B4-17 | character_refs: ["C5"] | scene_refs: ["S2"] | 预估格数: 2（§4条件C：计谋执行链，密信杀人计划分步骤）
+- I shall send secret letters to the king of england.
+- 译：我要秘密给英格兰国王写信。
+- I shall tell the english to execute hamlet as soon as he arrives.
+- 译：我要告诉英格兰人，哈姆雷特一到就处决他。
+- when he is dead.
+- 译：等他死了之后。
+- I shall be safe.
+- 译：我就安全了。
+
+---
+
+---
+
+B4-18 | character_refs: ["C2", "C9", "C10"] | scene_refs: ["S8"] | 预估格数: 1（路径动线，新场景：船甲板夜间）
+- it was a long journey by sea to england.
+- 译：这是一段漫长的海上旅程，目的地是英格兰。
+- one night hamlet could not sleep because he was thinking about all his problems.
+- 译：一天夜里，哈姆雷特因为满脑子烦恼而无法入睡。
+- he got out of bed and walked around the ship.
+- 译：他从床上起来，在船上踱步。
+- while rosencrantz and guild en stern were sleeping,he stole claudius's letter to the king of england.
+- 译：趁罗森克兰茨和吉尔登斯吞熟睡之际，他偷走了克劳狄斯写给英格兰国王的信。
+
+---
+
+---
+
+B4-19 | character_refs: ["C2"] | scene_refs: ["S8"] | 预估格数: 2（画中画：读信发现杀令，高潮节点：真相揭晓）
+- to his surprise,he read these orders.
+- 译：令他震惊的是，他读到了这样的命令。
+- as soon as hamlet arrives.
+- 译：哈姆雷特一抵达。
+- cut off his head.
+- 译：立即砍下他的头。
+
+---
+
+---
+
+B4-20 | character_refs: ["C2"] | scene_refs: ["S8"] | 预估格数: 2（§4条件C：计谋执行链，伪造信件三步骤）
+- hamlet quickly prepared another letter execute the people who bring you this letter,he wrote.
+- 译：哈姆雷特迅速拟写了另一封信——"处决带信来的人"，他如此写道。
+- he signed it.
+- 译：他在上面签名。
+- claudius.
+- 译：克劳狄斯。
+- then he went back to his cabin and HID the original letter.
+- 译：然后他回到舱房，藏起了那封原信。
+
+---

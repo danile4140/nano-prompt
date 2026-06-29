@@ -1,0 +1,40 @@
+B6-5 | character_refs: ["C5", "C7"] | scene_refs: ["S2"] | 预估格数: ?
+- you must challenge hamlet to a fencing match.
+  译：克劳狄斯说："你必须向哈姆雷特发出击剑挑战。"
+- he loves this sport, he will certainly agree.
+  译："他热爱这项运动，一定会答应的。"
+
+---
+B6-6 | character_refs: ["C7", "C5"] | scene_refs: ["S2"] | 预估格数: ?
+- yes, and I shall put poison on the tip of my sword.
+  译：莱阿提斯说："好，我会在剑尖上涂毒。"
+- if i cut him.
+  译：一旦划破他，
+- he will die.
+  译：他就会死。
+- and if this plan fails.
+  译：若这计划失败，
+- I shall give hamlet a poisoned drink.
+  译：克劳狄斯说："我就给哈姆雷特一杯毒酒。"
+
+已扫描4对相邻句，四维度均无切换，豁免保留。
+
+---
+B6-7 | character_refs: ["C2"] | scene_refs: ["S10"] | 预估格数: ?
+- hamlet accepts the challenge.
+  译：哈姆雷特接受了挑战。
+- he does not know about the poisoned sword.
+  译：他不知道那把剑已被涂毒。
+- to him, the fight is just sport something he enjoys.
+  译：对他而言，这不过是他热爱的体育比赛。
+
+---
+B6-8 | character_refs: ["C2", "C7"] | scene_refs: ["S10"] | 预估格数: ?
+- I am sorry for your father's death lay ties.
+  译：哈姆雷特说："我为你父亲的死深感抱歉，莱阿提斯。"
+- I accept your challenge, hamlet.
+  译：莱阿提斯说："我接受你的挑战，哈姆雷特。"
+- now let's begin the fight.
+  译：（号令）"那就开始吧！"
+
+---

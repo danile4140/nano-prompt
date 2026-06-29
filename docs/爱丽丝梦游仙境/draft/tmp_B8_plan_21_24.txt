@@ -1,0 +1,43 @@
+B8-21 | character_refs: [C1, C13] | scene_refs: [S12] | 预估格数: ?
+- Alice looked round and there he was, the Cheshire Cat!
+译：爱丽丝四处张望，柴郡猫就在那里！
+- His eyes ... head .., teeth.
+译：他的眼睛……脑袋……牙齿。
+
+---
+
+---
+
+B8-22 | character_refs: [C1, C13] | scene_refs: [S12] | 预估格数: ?
+- 'How are you, my dear?' asked the Cat.
+译："你好吗，亲爱的？"猫问道。
+- 'Well, you see, I don't like this game.
+译："唔，你看，我不喜欢这个游戏。
+- They can't play.
+译：他们根本不会玩。
+- They are always fighting and they are so loud,' replied Alice.
+译：他们总是吵架，还那么吵闹，"爱丽丝回答道。
+
+---
+
+---
+
+B8-23 | character_refs: [C1, C13] | scene_refs: [S12] | 预估格数: ?
+- 'I see,' said the Cat, 'and how do you like the Queen?'
+译："原来如此，"猫说，"那你觉得女王怎么样？"
+- 'I don't,' said Alice but then she realised the Queen was behind her so she added, 'I don't think there is a Queen like her.'
+译："我不喜欢，"爱丽丝说，但随即意识到女王就在她身后，便改口道："我觉得没有哪个女王能比得上她。"
+
+---
+
+---
+
+B8-24 | character_refs: [C1, C17, C18, C13] | scene_refs: [S12] | 预估格数: ?
+- The Queen smiled and walked on,
+译：女王微笑着继续走开了，
+- The King saw Alice talking to the Cat's head and asked her, 'Who are you talking to?'
+译：国王看见爱丽丝在和猫的脑袋说话，便问她："你在跟谁说话？"
+
+---
+
+---

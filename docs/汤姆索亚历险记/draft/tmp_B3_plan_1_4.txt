@@ -1,0 +1,45 @@
+B3-1 | character_refs: ["C1", "C6"] | scene_refs: ["S7"] | 预估格数: ?
+- "Ghosts!" said Huck, "I can see ghosts!
+  译：「鬼！」赫克说，「我看到鬼了！
+- They're coming here.
+  译：它们向这边过来了。
+- I'm really scared!"
+  译：我真的很害怕！」
+- "Can ghosts see us?" asked Tom.
+  译：「鬼能看到我们吗？」汤姆问道。
+- "Ghosts can see everything," answered Huck, "Oh, why did I come here?"
+  译：「鬼什么都能看见，」赫克回答，「哦，我为什么要来这里？」
+
+---
+
+B3-2 | character_refs: ["C1", "C6"] | scene_refs: ["S7"] | 预估格数: ?
+- "Don't be afraid.
+  译：「别害怕。
+- We must be very quiet," said Tom.
+  译：我们必须非常安静，」汤姆说。
+- The three ghosts moved quietly in the graveyard.
+  译：三个「鬼魂」悄悄地在墓地里移动。
+- They came close to Tom and Huck.
+  译：他们向汤姆和赫克靠近。
+
+---
+
+B3-3 | character_refs: ["C1", "C6"] | scene_refs: ["S7"] | 预估格数: ?
+- "Tom!" whispered Huck, "They're not ghosts.
+  译：「汤姆！」赫克低声说，「他们不是鬼。
+- They're humans.
+  译：他们是人。
+- One of them is Muff Potter."
+  译：其中一个是马夫·波特。」
+
+---
+
+B3-4 | character_refs: ["C1", "C6"] | scene_refs: ["S7"] | 预估格数: ?
+- "You're right.
+  译：「你说得对。
+- And there's Injun Joe and Dr Robinson.
+  译：还有印第安乔和罗宾逊医生。
+- But why are they here?" said Tom.
+  译：但他们来这里干什么？」汤姆说。
+
+---

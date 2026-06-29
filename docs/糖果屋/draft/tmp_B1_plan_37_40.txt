@@ -1,0 +1,65 @@
+B1-37 | character_refs: ["C5", "C2"] | scene_refs: ["S9"] | 预估格数: 3
+- "You silly goose!" said the hag, "the opening is big enough; see, I could get in myself," and she crawled toward it, and poked her head into the oven.
+  译：老巫婆说："你这个蠢鹅！开口够大了；瞧，我自己都能进去，"说着她爬向烤箱，把头探了进去。
+- Then Grettel gave her a shove that sent her right in, shut the iron door, and drew the bolt.
+  译：然后格蕾特尔猛地一推，把她整个人推了进去，关上铁门，拉上了门闩。
+- Gracious! How she yelled, it was quite horrible; but Grettel fled, and the wretched old woman was left to roast in her own oven.
+  译：老天！她凄厉地惨叫，令人毛骨悚然；但格蕾特尔逃跑了，可怜的老妇人被留在自己的烤箱里烤熟了。
+
+【节拍分析】§5高潮节点（物理冲突+计谋收网）。§4条件C结果格：（1）女巫上当自己探头入炉（触发点）；（2）格蕾特尔猛推+关门（执行高潮动作）；（3）女巫惨叫+格蕾特尔逃跑（结果）。三个步骤，三格：左格（女巫探头入炉，被格蕾特尔诱导入局）；中格（格蕾特尔猛推动作特写，高潮动作帧）；右格（铁门关闭+格蕾特尔逃跑，结果）。
+
+【情绪标记】强度：强，类型：惊吓/惊喜，推荐视觉手段：爆裂线（推入瞬间）+ 高级氛围装饰 + 中近景动作特写。
+
+---
+
+---
+
+B1-38 | character_refs: ["C2", "C1"] | scene_refs: ["S8"] | 预估格数: 2
+- Grettel flew straight to Hansel, opened the little stable- door, and cried: "Hansel, we are free; the old witch is dead."
+  译：格蕾特尔飞奔到汉泽尔那里，打开小马厩的门，喊道："汉泽尔，我们自由了；老女巫死了。"
+- Then Hansel sprang like a bird out of a cage when the door is opened.
+  译：汉泽尔像笼中鸟被放飞一样，一跃而出。
+- How happy they were, they jumped for joy, and hugged and kissed one another!
+  译：他们是多么高兴，欢呼雀跃，互相拥抱亲吻！
+
+【节拍分析】§4条件B：格蕾特尔"解救"（触发）→汉泽尔"获释欢跃"（结果），两个时刻必须分格。两格：左格（格蕾特尔跑到马厩打开门，喊"自由了"，宣告时刻）；右格（汉泽尔跃出+两人拥抱欢庆，情绪高潮）。
+
+【情绪标记】强度：强，类型：喜悦，推荐视觉手段：跳跃动态线 + 拥抱特写 + 暖色光晕装饰。
+
+---
+
+---
+
+B1-39 | character_refs: ["C1", "C2"] | scene_refs: ["S7"] | 预估格数: 2
+- And as they had no longer any cause for fear, they went in the old hag's house, and here they found, in every corner of the room, boxes with pearls and precious stones.
+  译：既然不再有任何恐惧，他们走进老巫婆的屋子，在房间的每个角落都发现了装着珍珠和宝石的盒子。
+- "These are even better than pebbles," said Hansel, and crammed his pockets full of them; and Grettel said: "I too will bring some home," and she filled her apron full.
+  译：汉泽尔说："这些比鹅卵石还要好！"说着把口袋塞得满满当当；格蕾特尔说："我也要带一些回家，"她把围裙装得满满的。
+- "But now," said Hansel, "let's go and get well away from the witch's wood."
+  译：汉泽尔说："但现在，我们快离开女巫的林子吧。"
+
+【节拍分析】三句：（1）发现宝石（新事件）；（2）两人各自装宝石（§4条件A：汉泽尔和格蕾特尔各自独立行动并发言）；（3）汉泽尔催促离开（决定）。逐对：S109→S110：视觉焦点从"全景发现"切换到"特写装宝石"，焦点切换触发拆分评估；S110→S111：同一情绪（高兴），汉泽尔催促离开是同一节拍的结束动作。切点S109→S110。两格：左格（发现宝石，两人惊喜表情，全景）；右格（两人分别装满口袋/围裙+汉泽尔说走，特写）。
+
+---
+
+---
+
+B1-40 | character_refs: ["C1", "C2", "C7"] | scene_refs: ["S10"] | 预估格数: 3
+- When they had wandered about for some hours they came to a big lake.
+  译：游荡了几个小时后，他们来到了一片大湖边。
+- "We can't get over," said Hansel; "I see no bridge of any sort or kind."
+  译：汉泽尔说："我们过不去，我看不到任何桥。"
+- "Yes, and there's no ferry-boat either," answered Grettel; "but look, there swims a white duck; if I ask her she'll help us over," and she called out:
+  译：格蕾特尔回答："是的，也没有渡船；但你看，那儿有一只白色的鸭子在游，如果我请求她，她会帮我们过去的，"说着她大声呼唤：
+- "Here are two children, who can't cross the lake to get home, because there are no bridge nor ferry boat; Take us upon your white back, And row us over, quack, quack!"
+  译：这里有两个孩子，因为没有桥也没有渡船无法过湖回家；背着我们游过去，嘎嘎嘎！
+- The duck swam toward them, and Hansel got on her back and told his little sister to sit beside him.
+  译：鸭子向他们游来，汉泽尔骑上它的背，叫妹妹也坐到他旁边。
+- "No," answered Grettel, "we should be too heavy a load for the duck: she shall carry us across separately."
+  译：格蕾特尔回答："不，我们两个一起会太重了，还是让她分两次带我们过去吧。"
+
+【节拍分析】6句，包含：（1）到达湖边；（2）汉泽尔说没桥；（3）格蕾特尔发现鸭子并呼唤；（4）格蕾特尔唱出请求；（5）鸭子来了+汉泽尔想同坐；（6）格蕾特尔说分两次。逐对四维度扫描：S112→S113：到达+汉泽尔发言，同一焦点（湖边困境）；S113→S114：格蕾特尔接话+发现鸭子，新事件出现（白鸭子）；S114→S115：格蕾特尔呼唤，同一行动；S115→S116：鸭子游来+汉泽尔上背，空间位移+行动；S116→S117：§4条件B：汉泽尔提议同坐（请求）→格蕾特尔拒绝（转折结果），必须分格。切点：S114→S115（视觉焦点：格蕾特尔望向鸭子→格蕾特尔呼唤，可合并，属连续动作）；S115→S116（呼唤→鸭子游来响应，新事件）；S116→S117（同坐请求→拒绝分别，§4条件B）。三格：左格（S112-S114：到达湖边，两人困惑+格蕾特尔发现白鸭呼唤）；中格（S115-S116：唱出请求，鸭子游来，汉泽尔先上背）；右格（S117：格蕾特尔拒绝同坐，强调分开渡湖决定）。
+
+已扫描5对相邻句，触发拆分点：S115→S116（空间+新事件）、S116→S117（§4条件B）。6句三格，满足6句上限。
+
+---

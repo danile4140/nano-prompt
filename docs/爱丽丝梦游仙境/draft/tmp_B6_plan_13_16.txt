@@ -1,0 +1,36 @@
+B6-13 | character_refs: ["C11", "C1", "C22"] | scene_refs: ["S9"] | 预估格数: ?
+- 'Here's the baby!' the Duchess threw the baby to Alice.
+- 译："来，接住婴儿！"公爵夫人把婴儿扔给了爱丽丝。
+
+---
+
+---
+B6-14 | character_refs: ["C11"] | scene_refs: ["S9"] | 预估格数: ?
+- 'I must go now.
+- 译："我现在必须走了。
+- I must play croquet with the Queen,' she said.
+- 译：我要去和王后打槌球，"她说。
+
+---
+
+---
+B6-15 | character_refs: ["C1", "C22", "C22b"] | scene_refs: ["S9"] | 预估格数: ?
+- Alice had the baby in her arms.
+- 译：爱丽丝把婴儿抱在怀里。
+- The baby was noisy like a baby pig.
+- 译：婴儿发出的声音像一头小猪。
+- It was becoming a ... pig.
+- 译：它正在变成……一头猪。
+
+---
+
+---
+B6-16 | character_refs: ["C1", "C22b"] | scene_refs: ["S9"] | 预估格数: ?
+- 'It's a pig!' Alice said.
+- 译："是头猪！"爱丽丝说。
+- She put the creature down and it ran away into the wood.
+- 译：她把那个生物放到地上，它跑进了树林。
+
+---
+
+---

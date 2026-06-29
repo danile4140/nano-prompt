@@ -1,0 +1,17 @@
+B4-13 | character_refs: ["C1"] | scene_refs: ["S7", "S10"] | 预估格数: ?
+- 'If I eat one of these cakes, I'll grow smaller,' thinks Alice, so she eats a cake. She grows smaller and runs out of the house into a wood.
+  译：「如果我吃一块这样的蛋糕，我就会变小，」爱丽丝心想，于是她吃了一块。她越变越小，然后跑出房子，进入一片树林。
+
+---
+B4-14 | character_refs: ["C1"] | scene_refs: ["S10"] | 预估格数: ?
+- 'Oh, I'm too small now. I must grow bigger again. How can I do it? I must eat or drink something, but the question is: What?' says Alice.
+  译：「哦，我现在太小了。我得再长大。但该怎么办呢？我必须吃点或喝点什么，可问题是：吃什么喝什么？」爱丽丝说。
+- Alice looks around. There are flowers and trees but nothing with 'EAT ME' or 'DRINK ME' on it.
+  译：爱丽丝环顾四周。周围只有花草和树木，没有任何标着"吃我"或"喝我"的东西。
+
+---
+B4-15 | character_refs: ["C1", "C10"] | scene_refs: ["S8"] | 预估格数: ?
+- After a while Alice notices a big mushroom near her. She looks under it; she looks beside it, at the back of it. The mushroom is very big so she can't see over the top. Suddenly she realises she is looking into the eyes of a big blue Caterpillar that is sitting on the top, smoking a pipe.
+  译：过了一会儿，爱丽丝注意到附近有一个大蘑菇。她往蘑菇下面看，往旁边看，往背后看。蘑菇太大了，她看不到顶上。突然，她意识到自己正在与一只巨大的蓝色毛毛虫四目相对——那毛毛虫正坐在蘑菇顶上，叼着烟斗。
+
+---

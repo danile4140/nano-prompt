@@ -1,0 +1,33 @@
+B2-5 | character_refs: ["C8"] | scene_refs: ["S2"] | 预估格数: 2
+- "I must tell the king and queen."Polonius trusts Claudius and Gertrude.
+- 译："我必须告诉国王和王后。"波洛涅斯信任克劳狄斯和葛特鲁德。
+- he has no idea that Claudius is a murderer or that Gertrude has been unfaithful to king hamlet.
+- 译：他完全不知道克劳狄斯是杀手，也不知道葛特鲁德对老国王不忠。
+
+---
+
+---
+
+B2-6 | character_refs: ["C8", "C5"] | scene_refs: ["S2"] | 预估格数: 1
+- "hamlet's love for my daughter has made him mad."
+- 译："哈姆雷特对我女儿的爱让他疯了。"
+
+---
+
+---
+
+B2-7 | character_refs: ["C5", "C8"] | scene_refs: ["S2"] | 预估格数: 2
+- "that is possible.but how can we know for certain?"
+- 译："这有可能，但我们怎么确认呢？"
+
+---
+
+---
+
+B2-8 | character_refs: ["C5", "C8"] | scene_refs: ["S2"] | 预估格数: 2
+- "we shall hide while hamlet and ophelia are talking.we shall listen to their conversation and discover the truth."
+- 译："我们可以在哈姆雷特与奥菲利亚交谈时躲起来，偷听他们的对话，从而发现真相。"
+- "you will see that I am right."Polonius gives instructions to Ophelia.he wants her to walk up and down the castle hall,reading her prayer book.
+- 译："你会看到我是对的。"波洛涅斯随即给奥菲利亚下达指示，要她拿着祈祷书在城堡走廊来回走动。
+
+---

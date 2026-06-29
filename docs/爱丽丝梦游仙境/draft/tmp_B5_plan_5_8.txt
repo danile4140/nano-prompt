@@ -1,0 +1,34 @@
+B5-5 | character_refs: [C1, C10] | scene_refs: [S8] | 预估格数: ?
+- 'I think it's very difficult to explain; well, one day you'll turn into a butterfly.
+  译："我觉得这很难解释；好吧，有一天你会变成蝴蝶的。
+- You'll find this quite strange, won't you?'
+  译：你会觉得这很奇怪，不是吗？"
+- 'Not at all,' says the Caterpillar.
+  译："一点也不，"毛毛虫说。
+
+---
+B5-6 | character_refs: [C1, C10] | scene_refs: [S8] | 预估格数: ?
+- 'Well, I feel very strange,' says Alice.
+  译："嗯，我感到非常奇怪，"爱丽丝说。
+- 'You ... who are you?' asks the Caterpillar.
+  译："你……你是谁？"毛毛虫问。
+- 'I would like to know who you are first,' says Alice.
+  译："我想先知道你是谁，"爱丽丝说。
+- 'Why?' asks the Caterpillar.
+  译："为什么？"毛毛虫问。
+
+---
+B5-7 | character_refs: [C1] | scene_refs: [S8] | 预估格数: ?
+- That is a difficult question for Alice.
+  译：这对爱丽丝来说是个难题。
+- She can't answer so she walks away.
+  译：她回答不上来，于是转身走开了。
+
+---
+B5-8 | character_refs: [C1, C10] | scene_refs: [S8] | 预估格数: ?
+- 'Come here, I want to talk to you!' the Caterpillar says.
+  译："过来，我有话要对你说！"毛毛虫说。
+- Alice goes back to the mushroom.
+  译：爱丽丝回到了蘑菇旁边。
+
+---

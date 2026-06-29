@@ -1,0 +1,42 @@
+B6-25 | character_refs: ["C1"] | scene_refs: ["S10"] | 预估格数: ?
+- 'I know hatters but I'm curious to see a March Hare.
+- 译："我知道制帽师，但我很好奇想见见三月野兔。
+- Perhaps he isn't very mad,' thought Alice.
+- 译：也许他并没有那么疯，"爱丽丝想。
+
+---
+
+---
+B6-26 | character_refs: ["C1", "C13"] | scene_refs: ["S10"] | 预估格数: ?
+- Then she looked at the tree and there was the Cheshire Cat again.
+- 译：然后她抬头看树，柴郡猫又出现了。
+- 'Is the baby a pig or a fig?' he asked.
+- 译："婴儿是猪还是无花果？"它问。
+- 'A pig,' Alice answered.
+- 译："是猪，"爱丽丝回答。
+
+---
+
+---
+B6-27 | character_refs: ["C13"] | scene_refs: ["S10"] | 预估格数: ?
+- The Cheshire Cat was slowly disappearing.
+- 译：柴郡猫正在慢慢消失。
+- Ears, paws, tail, and at last the grin ...
+- 译：耳朵、爪子、尾巴，最后是那个笑容……
+- 'A grin without a cat!
+- 译："一个没有猫的笑容！
+- That's strange!' thought Alice.
+- 译：太奇怪了！"爱丽丝想。
+
+---
+
+---
+B6-28 | character_refs: ["C1"] | scene_refs: ["S11"] | 预估格数: ?
+- Alice walked in the wood and there it was ... the March Hare's home.
+- 译：爱丽丝走进树林，那里就是……三月野兔的家。
+- 'It's bigger than the Duchess' house,' she thought.
+- 译："它比公爵夫人的房子还要大，"她想。
+
+---
+
+---
